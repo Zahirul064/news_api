@@ -3,24 +3,24 @@
     "imageUrl": "https://i.ibb.co/QcvcQcT/shaikh-jamal-uddin.png",
     "cat_title": "Bangla National",
     "cat_subtitle": "Subtitle 1",
-	"serverUrl": "https://zahirul064.github.io/host_api/abdur_razak.json"
+	"serverUrl": "https://zahirul064.github.io/news_api/bd_national_news.json"
     },
     {
     "imageUrl": "https://i.ibb.co/qrWs3Cr/abdullahal-amin.png",
     "cat_title": "BD English News",
     "cat_subtitle": "Subtitle 2",
-	"serverUrl": "https://zahirul064.github.io/host_api/abdur_razak.json"
+	"serverUrl": "https://zahirul064.github.io/news_api/bd_national_news.json"
     },
     {
     "imageUrl": "https://i.ibb.co/qrWs3Cr/abdullahal-amin.png",
     "cat_title": "BD Online Newspaper",
     "cat_subtitle": "Subtitle 4",
-	"serverUrl": "https://zahirul064.github.io/host_api/abdur_razak.json"
+	"serverUrl": "https://zahirul064.github.io/news_api/bd_national_news.json"
     },
     {
     "imageUrl": "https://bdebooks.com/wp-content/uploads/2023/01/Java-Programming-Bangla-Book.jpg",
     "cat_title": "BD Local Newspaper",
     "cat_subtitle": "Programming",
-	"serverUrl": "https://zahirul064.github.io/host_api/abdur_razak.json"
+	"serverUrl": "https://zahirul064.github.io/news_api/bd_national_news.json"
     }
   ]
