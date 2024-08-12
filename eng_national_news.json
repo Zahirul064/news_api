@@ -1,0 +1,18 @@
+[
+    {
+      "title": " The Daily Star",
+      "imgUrl": "https://tds-images.thedailystar.net/sites/all/themes/sloth/logo.svg",
+      "pdfUrl": "https://www.thedailystar.net"
+    },
+    {
+      "title": "English News in BD | Prothom Alo",
+      "imgUrl": "https://seeklogo.com/images/P/prothom-alo-logo-D4FA48A860-seeklogo.com.png",
+      "pdfUrl": "https://en.prothomalo.com/"
+    },
+    {
+      "title": "bdnews24.com",
+      "imgUrl": "https://bdnews24.com/frontend/assets/images/common/logo.png",
+      "pdfUrl": "https://bdnews24.com/"
+	}
+    
+  ]
