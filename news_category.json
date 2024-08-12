@@ -1,22 +1,37 @@
 [
     {
-    "imageUrl": "https://i.ibb.co/QcvcQcT/shaikh-jamal-uddin.png",
+    "imageUrl": "https://i.ibb.co/8DK2JSq/bang-ic.png",
     "cat_title": "Bangla National",
     "cat_subtitle": "Subtitle 1",
 	"serverUrl": "https://zahirul064.github.io/news_api/bd_national_news.json"
     },
     {
-    "imageUrl": "https://i.ibb.co/qrWs3Cr/abdullahal-amin.png",
+    "imageUrl": "https://i.ibb.co/GJqbv34/en-design.png",
     "cat_title": "BD English News",
     "cat_subtitle": "Subtitle 2",
 	"serverUrl": "https://zahirul064.github.io/news_api/bd_national_news.json"
     },
     {
-    "imageUrl": "https://i.ibb.co/qrWs3Cr/abdullahal-amin.png",
+    "imageUrl": "https://i.ibb.co/qgHKfjj/e-book-design.png",
     "cat_title": "BD Online Newspaper",
     "cat_subtitle": "Subtitle 4",
 	"serverUrl": "https://zahirul064.github.io/news_api/bd_national_news.json"
     },
+	{
+    "imageUrl": "https://i.ibb.co/BK7mZk2/eng-ic.png",
+    "cat_title": "International Newspaper",
+    "cat_subtitle": "Subtitle 4",
+	"serverUrl": "https://zahirul064.github.io/news_api/bd_national_news.json"
+    },
+	
+	
+	 {
+    "imageUrl": "https://i.ibb.co/x7qsww4/media-ic.png",
+    "cat_title": "BD Media News",
+    "cat_subtitle":"Subtitle 4",
+	"serverUrl": "https://zahirul064.github.io/news_api/bd_national_news.json"
+    },
+		
     {
     "imageUrl": "https://bdebooks.com/wp-content/uploads/2023/01/Java-Programming-Bangla-Book.jpg",
     "cat_title": "BD Local Newspaper",
