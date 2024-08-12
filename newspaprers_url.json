@@ -1,0 +1,70 @@
+{
+  "itemType": [
+    {
+      "itemType": "NEWSPAPER_Bangla_Nat",
+      "title": "Prothom Alo",
+      "Link": "https://www.prothomalo.com/",
+      "ImageLink": "https://seeklogo.com/images/P/prothom-alo-logo-D4FA48A860-seeklogo.com.png"
+    },
+	{
+      "itemType": "NEWSPAPER_Bangla_Nat",
+      "title": "Prothom Alo",
+      "Link": "https://www.prothomalo.com/",
+      "ImageLink": "https://seeklogo.com/images/P/prothom-alo-logo-D4FA48A860-seeklogo.com.png"
+    },
+		
+    {
+      "itemType": "NEWSPAPER_English_Nat",
+      "title": "Prothom Alo",
+      "Link": "https://www.prothomalo.com/",
+      "ImageLink": "https://seeklogo.com/images/P/prothom-alo-logo-D4FA48A860-seeklogo.com.png"
+    },
+	{
+      "itemType": "NEWSPAPER_English_Nat",
+      "title": "Prothom Alo",
+      "Link": "https://www.prothomalo.com/",
+      "ImageLink": "https://seeklogo.com/images/P/prothom-alo-logo-D4FA48A860-seeklogo.com.png"
+    },
+	
+    {
+      "itemType": "NEWSPAPER_Bangla_dis",
+     "title": "Prothom Alo",
+      "Link": "https://www.prothomalo.com/",
+      "ImageLink": "https://seeklogo.com/images/P/prothom-alo-logo-D4FA48A860-seeklogo.com.png"
+    },
+	{
+      "itemType": "NEWSPAPER_Bangla_dis",
+     "title": "Prothom Alo",
+      "Link": "https://www.prothomalo.com/",
+      "ImageLink": "https://seeklogo.com/images/P/prothom-alo-logo-D4FA48A860-seeklogo.com.png"
+    },
+	
+    {
+      "itemType": "NEWSPAPER_Bangla_med",
+      "title": "Prothom Alo",
+      "Link": "https://www.prothomalo.com/",
+      "ImageLink": "https://seeklogo.com/images/P/prothom-alo-logo-D4FA48A860-seeklogo.com.png"
+    },
+	{
+      "itemType": "NEWSPAPER_Bangla_med",
+      "title": "Prothom Alo",
+      "Link": "https://www.prothomalo.com/",
+      "ImageLink": "https://seeklogo.com/images/P/prothom-alo-logo-D4FA48A860-seeklogo.com.png"
+    },
+	
+	
+    {
+      "itemType": "NEWSPAPER_international",
+       "title": "Prothom Alo",
+      "Link": "https://www.prothomalo.com/",
+      "ImageLink": "https://seeklogo.com/images/P/prothom-alo-logo-D4FA48A860-seeklogo.com.png"
+    },
+	{
+      "itemType": "NEWSPAPER_international",
+       "title": "Prothom Alo",
+      "Link": "https://www.prothomalo.com/",
+      "ImageLink": "https://seeklogo.com/images/P/prothom-alo-logo-D4FA48A860-seeklogo.com.png"
+    }
+		
+  ]
+}
