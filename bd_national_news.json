@@ -1,18 +1,77 @@
 [
-    {
-      "title": " Prothom Alo",
-      "imgUrl": "https://seeklogo.com/images/P/prothom-alo-logo-D4FA48A860-seeklogo.com.png",
-      "pdfUrl": "https://www.prothomalo.com/"
-    },
-    {
-      "title": "SAMAKAL | সমকাল",
-      "imgUrl": "https://samakal.com/frontend/media/common/logo.png",
-      "pdfUrl": "https://samakal.com/"
-    },
-    {
-      "title": "দৈনিক ইত্তেফাক | The Daily Ittefaq",
-      "imgUrl": "https://cdn.ittefaqbd.com/contents/themes/public/style/images/logo.png",
-      "pdfUrl": "https://www.ittefaq.com.bd/"
-    }
-    
-  ]
+  {
+    "title": "Prothom Alo | প্রথম আলো",
+    "imgUrl": "https://seeklogo.com/images/P/prothom-alo-logo-D4FA48A860-seeklogo.com.png",
+    "pdfUrl": "https://www.prothomalo.com/"
+  },
+  {
+    "title": "SAMAKAL | সমকাল",
+    "imgUrl": "https://samakal.com/frontend/media/common/logo.png",
+    "pdfUrl": "https://samakal.com/"
+  },
+  {
+    "title": "Bangladesh Pratidin | বাংলাদেশ প্রতিদিন",
+    "imgUrl": "https://www.bd-pratidin.com/assets/newDesktop/img/logo.png",
+    "pdfUrl": "https://www.bd-pratidin.com/"
+  },
+  {
+    "title": "Daily Nayadiganta | নয়া দিগন্ত",
+    "imgUrl": "https://www.dailynayadiganta.com/resources/img/sitesetup/1_2.png",
+    "pdfUrl": "https://www.dailynayadiganta.com/"
+  },
+  {
+    "title": "The Daily Ittefaq | দৈনিক ইত্তেফাক",
+    "imgUrl": "https://cdn.ittefaqbd.com/contents/themes/public/style/images/logo.png",
+    "pdfUrl": "https://www.ittefaq.com.bd/"
+  },
+  {
+    "title": "Kalerkantho | কালের কণ্ঠ",
+    "imgUrl": "https://www.kalerkantho.com/img/logo.png",
+    "pdfUrl": "https://www.kalerkantho.com/"
+  },
+  {
+    "title": "Daily Janakantha | দৈনিক জনকণ্ঠ",
+    "imgUrl": "https://www.dailyjanakantha.com/media/common/janakantha-logo.png",
+    "pdfUrl": "https://www.dailyjanakantha.com/"
+  },
+  {
+    "title": "Daily Manabzamin | দৈনিক মানবজমিন",
+    "imgUrl": "https://mzamin.com/assets/images/logo.png",
+    "pdfUrl": "https://mzamin.com/"
+  },
+  {
+    "title": "Daily Sangram | দৈনিক সংগ্রাম",
+    "imgUrl": "https://dailysangram.com/logos/logo.jpg",
+    "pdfUrl": "https://dailysangram.com/"
+  },
+  {
+    "title": "Daily Jugantor | দৈনিক যুগান্তর",
+    "imgUrl": "https://www.jugantor.com/facebook-jugantor.jpg",
+    "pdfUrl": "https://jugantor.com/"
+  },
+  {
+    "title": "Dainik Amader Shomoy | দৈনিক আমাদের সময়",
+    "imgUrl": "https://dainikamadershomoy.com/_nuxt/dainik-amader-shomoy.80376f0.png",
+    "pdfUrl": "https://dainikamadershomoy.com/"
+  },
+  {
+    "title": "Jaijaidinbd | দৈনিক যায় যায় দিন",
+    "imgUrl": "https://www.jaijaidinbd.com/templates/web-view/images/logo_new.png",
+    "pdfUrl": "https://www.jaijaidinbd.com/"
+  },
+  {
+    "title": "Amar Sangbad | আমার সংবাদ",
+    "imgUrl": "https://www.amarsangbad.com/media/common/amasangbad.png",
+    "pdfUrl": "https://www.amarsangbad.com/"
+  },
+  {
+    "title": "Protidiner Sangbad | প্রতিদিনের সংবাদ",
+    "imgUrl": "https://www.protidinersangbad.com/templates/web-ps/images/site-logo.png",
+    "pdfUrl": "https://www.protidinersangbad.com/"
+  },
+  {
+    "title": "Daily Bonik Barta | দৈনিক বণিক বার্তা",
+    "imgUrl": "https://bonikbarta.net/uploads/logo_image/bonikbarta_logo.png",
+    "pdfUrl": "https://bonikbarta.net/"
+  }
+]
