@@ -1,0 +1,34 @@
+[
+  {
+    "title": "BBC News বাংলা",
+    "imgUrl": "https://news.files.bbci.co.uk/ws/img/logos/og/bengali.png",
+    "pdfUrl": "https://www.bbc.com/bengali"
+  },
+   {
+    "title": "Jagonews24",
+    "imgUrl": "https://cdn.jagonews24.com/media/common/logo.png",
+    "pdfUrl": "https://www.jagonews24.com/"
+  },
+   {
+    "title": "Jamuna Television",
+    "imgUrl": "https://jamuna.tv/wp-content/themes/jtv-news/img/logo.png",
+    "pdfUrl": "https://jamuna.tv/"
+  },
+  {
+    "title": "চ্যানেল আই অনলাইন  | Channel i Online",
+    "imgUrl": "https://150593535.v2.pressablecdn.com/wp-content/uploads/2024/04/channel-i-logo-1.png",
+    "pdfUrl": "https://www.channelionline.com/"
+  },
+  {
+    "title": "Television Channel Ltd. (NTV)",
+    "imgUrl": "https://www.ntvbd.com/sites/all/themes/sloth/logo.png",
+    "pdfUrl": "https://www.ntvbd.com/"
+  },
+ {
+    "title": "BVNEWS24 || বিভিনিউজ২৪",
+    "imgUrl": "https://www.bvnews24.com/media/common/newbvlogo.png",
+    "pdfUrl": "https://www.bvnews24.com/"
+  }
+
+  
+]
