@@ -1,0 +1,27 @@
+[
+  {
+    "title": "The Guardian",
+    "imgUrl": "https://www.allbanglanewspaper.xyz/assets/theguardian.com.jpg",
+    "pdfUrl": "https://www.theguardian.com/international"
+  },
+  {
+    "title": "ABC News",
+    "imgUrl": "https://s.abcnews.com/assets/dtci/icomoon/svg/logo.svg",
+    "pdfUrl": "https://abcnews.go.com/"
+  },
+  {
+    "title": "The New York Times",
+    "imgUrl": "https://static01.nyt.com/vi-assets/images/share/1200x675_nameplate.png",
+    "pdfUrl": "https://www.nytimes.com/"
+  },
+  {
+    "title": "Hindustan Times",
+    "imgUrl": "https://www.hindustantimes.com/res/images/htlogo-v1.png",
+    "pdfUrl": "https://www.hindustantimes.com/"
+  },
+  {
+    "title": "New Age",
+    "imgUrl": "https://outspoken.newagebd.com/files/uploads/1_2.png",
+    "pdfUrl": "https://newagebd.net/"
+  }
+]
