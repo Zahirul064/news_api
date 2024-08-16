@@ -1,18 +1,37 @@
 [
-    {
-      "title": " The Daily Star",
-      "imgUrl": "https://tds-images.thedailystar.net/sites/all/themes/sloth/logo.png",
-      "pdfUrl": "https://www.thedailystar.net"
-    },
-    {
-      "title": "English News in BD | Prothom Alo",
-      "imgUrl": "https://seeklogo.com/images/P/prothom-alo-logo-D4FA48A860-seeklogo.com.png",
-      "pdfUrl": "https://en.prothomalo.com/"
-    },
-    {
-      "title": "bdnews24.com",
-      "imgUrl": "https://bdnews24.com/frontend/assets/images/common/logo.png",
-      "pdfUrl": "https://bdnews24.com/"
-	}
-    
-  ]
+  {
+    "title": "The Daily Star",
+    "imgUrl": "https://tds-images.thedailystar.net/sites/all/themes/sloth/logo.png",
+    "pdfUrl": "https://www.thedailystar.net"
+  },
+  {
+    "title": "Daily Observer || Daily Newspaper in Bangladesh",
+    "imgUrl": "https://observerbd.com/files/logo.png",
+    "pdfUrl": "https://observerbd.com/"
+  },
+  {
+    "title": "English News in BD | Prothom Alo",
+    "imgUrl": "https://seeklogo.com/images/P/prothom-alo-logo-D4FA48A860-seeklogo.com.png",
+    "pdfUrl": "https://en.prothomalo.com/"
+  },
+  {
+    "title": "Daily Sun | Twenty-Four Hour News",
+    "imgUrl": "https://www.allbanglanewspaper.xyz/assets/daily-sun.com.jpg",
+    "pdfUrl": "https://www.daily-sun.com/"
+  },
+  {
+    "title": "The Bangladesh Today",
+    "imgUrl": "https://thebangladeshtoday.com/wp-content/uploads/2024/06/TBT-Logo.png",
+    "pdfUrl": "https://thebangladeshtoday.com/"
+  },
+  {
+    "title": "The Financial Express | First Financial Daily of Bangladesh",
+    "imgUrl": "https://thefinancialexpress.com.bd/_nuxt/img/logo-d-d.c6d2e73.png",
+    "pdfUrl": "https://thefinancialexpress.com.bd/"
+  },
+  {
+    "title": "bdnews24.com",
+    "imgUrl": "https://bdnews24.com/frontend/assets/images/common/logo.png",
+    "pdfUrl": "https://bdnews24.com/"
+  }
+]
