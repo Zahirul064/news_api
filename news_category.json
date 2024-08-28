@@ -36,6 +36,6 @@
     "imageUrl": "https://i.ibb.co/f8W025g/bn-design.png",
     "cat_title": "BD Local News",
     "cat_subtitle": "Programming",
-	"serverUrl": "https://zahirul064.github.io/news_api/bd_national_news.json"
+	"serverUrl": "https://zahirul064.github.io/news_api/bd_local_news.json"
     }
   ]
