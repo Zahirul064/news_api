@@ -1,5 +1,10 @@
 [
   {
+    "title": "Daily Amar Desh | দৈনিক আমার দেশ",
+    "imgUrl": "https://images.dailyamardesh.com/ad/amardesh-shadhinotar-kotha-bole.jpg",
+    "pdfUrl": "https://www.dailyamardesh.com/" 
+  },
+  {
     "title": "Prothom Alo | প্রথম আলো",
     "imgUrl": "https://seeklogo.com/images/P/prothom-alo-logo-D4FA48A860-seeklogo.com.png",
     "pdfUrl": "https://www.prothomalo.com/"
@@ -329,11 +334,7 @@
     "imgUrl": "https://sangbadsarabela.com/assets/images/logo.png",
     "pdfUrl": "https://sangbadsarabela.com/"
   },
-  {
-    "title": "Daily Amar Desh | দৈনিক আমার দেশ",
-    "imgUrl": "https://amardesh.com/assets/images/logo.png",
-    "pdfUrl": "https://amardesh.com/"
-  },
+  
   {
     "title": "Abnews24 | এবিনিউজ২৪",
     "imgUrl": "https://www.abnews24.com/assets/images/logo.png",
