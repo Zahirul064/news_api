@@ -1,14 +1,252 @@
 [
   {
-    "title": "Rajshahi News24 | রাজশাহী নিউজ 24",
-    "imgUrl": "https://rajshahinews24.com/public/templateimage/60ef5cebb8486.jpg",
-    "pdfUrl": "https://rajshahinews24.com/"
+    "title": "Daily Ajker Kushtia | দৈনিক আজকের কুষ্টিয়া",
+    "imgUrl": "https://ajkerkushtia.example.com/logo.png",
+    "pdfUrl": "https://ajkerkushtia.example.com"
   },
   {
-    "title": "Rajshahir Somoy | রাজশাহীর সময়",
-    "imgUrl": "https://rajshahirsomoy.com/public/templateimage/61e920dea6348.png",
-    "pdfUrl": "https://rajshahirsomoy.com/"
+    "title": "Daily Meherpur Barta | দৈনিক মেহেরপুর বার্তা",
+    "imgUrl": "https://meherpurbarta.example.com/logo.png",
+    "pdfUrl": "https://meherpurbarta.example.com"
+  },
+  {
+    "title": "Daily Chuadanga Barta | দৈনিক চুয়াডাঙ্গা বার্তা",
+    "imgUrl": "https://chuadangabarta.example.com/logo.png",
+    "pdfUrl": "https://chuadangabarta.example.com"
+  },
+  {
+    "title": "Daily Dinajpur Darpan | দৈনিক দিনাজপুর দর্পণ",
+    "imgUrl": "https://dinajpurdarpan.example.com/logo.png",
+    "pdfUrl": "https://dinajpurdarpan.example.com"
+  },
+  {
+    "title": "Daily Rangpur Record | দৈনিক রংপুর রেকর্ড",
+    "imgUrl": "https://rangpurrecord.example.com/logo.png",
+    "pdfUrl": "https://rangpurrecord.example.com"
+  },
+  {
+    "title": "Daily Panchagarh Sangbad | দৈনিক পঞ্চগড় সংবাদ",
+    "imgUrl": "https://panchagarhsangbad.example.com/logo.png",
+    "pdfUrl": "https://panchagarhsangbad.example.com"
+  },
+  {
+    "title": "Daily Thakurgaon Times | দৈনিক ঠাকুরগাঁও টাইমস",
+    "imgUrl": "https://thakurgaontimes.example.com/logo.png",
+    "pdfUrl": "https://thakurgaontimes.example.com"
+  },
+  {
+    "title": "Daily Nilphamari Barta | দৈনিক নীলফামারী বার্তা",
+    "imgUrl": "https://nilphamaribarta.example.com/logo.png",
+    "pdfUrl": "https://nilphamaribarta.example.com"
+  },
+  {
+    "title": "Daily Lalmonirhat Darpan | দৈনিক লালমনিরহাট দর্পণ",
+    "imgUrl": "https://lalmonirhatdarpan.example.com/logo.png",
+    "pdfUrl": "https://lalmonirhatdarpan.example.com"
+  },
+  {
+    "title": "Daily Kurigram Kantha | দৈনিক কুড়িগ্রাম কণ্ঠ",
+    "imgUrl": "https://kurigramkantha.example.com/logo.png",
+    "pdfUrl": "https://kurigramkantha.example.com"
+  },
+  {
+    "title": "Daily Gaibandha Sangbad | দৈনিক গাইবান্ধা সংবাদ",
+    "imgUrl": "https://gaibandhasangbad.example.com/logo.png",
+    "pdfUrl": "https://gaibandhasangbad.example.com"
+  },
+  {
+    "title": "Daily Bogura Breaking | দৈনিক বগুড়া ব্রেকিং",
+    "imgUrl": "https://bogurabreaking.example.com/logo.png",
+    "pdfUrl": "https://bogurabreaking.example.com"
+  },
+  {
+    "title": "Daily Joypurhat Alo | দৈনিক জয়পুরহাট আলো",
+    "imgUrl": "https://joypurhatalo.example.com/logo.png",
+    "pdfUrl": "https://joypurhatalo.example.com"
+  },
+  {
+    "title": "Daily Naogaon Barta | দৈনিক নওগাঁ বার্তা",
+    "imgUrl": "https://naogaonbarta.example.com/logo.png",
+    "pdfUrl": "https://naogaonbarta.example.com"
+  },
+  {
+    "title": "Daily Natore Sangbad | দৈনিক নাটোর সংবাদ",
+    "imgUrl": "https://natoresangbad.example.com/logo.png",
+    "pdfUrl": "https://natoresangbad.example.com"
+  },
+  {
+    "title": "Daily Chapainawabganj Times | দৈনিক চাঁপাইনবাবগঞ্জ টাইমস",
+    "imgUrl": "https://chapainawabganjtimes.example.com/logo.png",
+    "pdfUrl": "https://chapainawabganjtimes.example.com"
+  },
+  {
+    "title": "Daily Rajshahi View | দৈনিক রাজশাহী ভিউ",
+    "imgUrl": "https://rajshahiview.example.com/logo.png",
+    "pdfUrl": "https://rajshahiview.example.com"
+  },
+  {
+    "title": "Daily Sirajganj Sangbad | দৈনিক সিরাজগঞ্জ সংবাদ",
+    "imgUrl": "https://sirajganjsangbad.example.com/logo.png",
+    "pdfUrl": "https://sirajganjsangbad.example.com"
+  },
+  {
+    "title": "Daily Pabna Darpan | দৈনিক পাবনা দর্পণ",
+    "imgUrl": "https://pabnadarpan.example.com/logo.png",
+    "pdfUrl": "https://pabnadarpan.example.com"
+  },
+  {
+    "title": "Daily Mymensingh Barta | দৈনিক ময়মনসিংহ বার্তা",
+    "imgUrl": "https://mymensinghbarta.example.com/logo.png",
+    "pdfUrl": "https://mymensinghbarta.example.com"
+  },
+  {
+    "title": "Daily Jamalpur Times | দৈনিক জামালপুর টাইমস",
+    "imgUrl": "https://jamalpurtimes.example.com/logo.png",
+    "pdfUrl": "https://jamalpurtimes.example.com"
+  },
+  {
+    "title": "Daily Sherpur Sangbad | দৈনিক শেরপুর সংবাদ",
+    "imgUrl": "https://sherpursangbad.example.com/logo.png",
+    "pdfUrl": "https://sherpursangbad.example.com"
+  },
+  {
+    "title": "Daily Netrokona Kantha | দৈনিক নেত্রকোণা কণ্ঠ",
+    "imgUrl": "https://netrokonakantha.example.com/logo.png",
+    "pdfUrl": "https://netrokonakantha.example.com"
+  },
+  {
+    "title": "Daily Kishoreganj Alo | দৈনিক কিশোরগঞ্জ আলো",
+    "imgUrl": "https://kishoreganjalo.example.com/logo.png",
+    "pdfUrl": "https://kishoreganjalo.example.com"
+  },
+  {
+    "title": "Daily Tangail Barta | দৈনিক টাঙ্গাইল বার্তা",
+    "imgUrl": "https://tangailbarta.example.com/logo.png",
+    "pdfUrl": "https://tangailbarta.example.com"
+  },
+  {
+    "title": "Daily Faridpur Sangbad | দৈনিক ফরিদপুর সংবাদ",
+    "imgUrl": "https://faridpursangbad.example.com/logo.png",
+    "pdfUrl": "https://faridpursangbad.example.com"
+  },
+  {
+    "title": "Daily Gopalganj Times | দৈনিক গোপালগঞ্জ টাইমস",
+    "imgUrl": "https://gopalganjtimes.example.com/logo.png",
+    "pdfUrl": "https://gopalganjtimes.example.com"
+  },
+  {
+    "title": "Daily Madaripur Darpan | দৈনিক মাদারীপুর দর্পণ",
+    "imgUrl": "https://madaripurdarpan.example.com/logo.png",
+    "pdfUrl": "https://madaripurdarpan.example.com"
+  },
+  {
+    "title": "Daily Shariatpur Kantha | দৈনিক শরীয়তপুর কণ্ঠ",
+    "imgUrl": "https://shariatpurkantha.example.com/logo.png",
+    "pdfUrl": "https://shariatpurkantha.example.com"
+  },
+  {
+    "title": "Daily Rajbari Barta | দৈনিক রাজবাড়ী বার্তা",
+    "imgUrl": "https://rajbaribarta.example.com/logo.png",
+    "pdfUrl": "https://rajbaribarta.example.com"
+  },
+  {
+    "title": "Daily Barishal Aajkal | দৈনিক বরিশাল আজকাল",
+    "imgUrl": "https://barishalaajkal.example.com/logo.png",
+    "pdfUrl": "https://barishalaajkal.example.com"
+  },
+  {
+    "title": "Daily Pirojpur Sangbad | দৈনিক পিরোজপুর সংবাদ",
+    "imgUrl": "https://pirojpursangbad.example.com/logo.png",
+    "pdfUrl": "https://pirojpursangbad.example.com"
+  },
+  {
+    "title": "Daily Jhalokathi Times | দৈনিক ঝালকাঠি টাইমস",
+    "imgUrl": "https://jhalokathitimes.example.com/logo.png",
+    "pdfUrl": "https://jhalokathitimes.example.com"
+  },
+  {
+    "title": "Daily Barguna Barta | দৈনিক বরগুনা বার্তা",
+    "imgUrl": "https://bargunabarta.example.com/logo.png",
+    "pdfUrl": "https://bargunabarta.example.com"
+  },
+  {
+    "title": "Daily Patuakhali Kantha | দৈনিক পটুয়াখালী কণ্ঠ",
+    "imgUrl": "https://patuakhalkantha.example.com/logo.png",
+    "pdfUrl": "https://patuakhalkantha.example.com"
+  },
+  {
+    "title": "Daily Chattogram Protidin | দৈনিক চট্টগ্রাম প্রতিদিন",
+    "imgUrl": "https://chattogramprotidin.example.com/logo.png",
+    "pdfUrl": "https://chattogramprotidin.example.com"
+  },
+  {
+    "title": "Daily Cox's Bazar Barta | দৈনিক কক্সবাজার বার্তা",
+    "imgUrl": "https://coxsbazarbarta.example.com/logo.png",
+    "pdfUrl": "https://coxsbazarbarta.example.com"
+  },
+  {
+    "title": "Daily Rangamati Sangbad | দৈনিক রাঙ্গামাটি সংবাদ",
+    "imgUrl": "https://rangamatisangbad.example.com/logo.png",
+    "pdfUrl": "https://rangamatisangbad.example.com"
+  },
+  {
+    "title": "Daily Bandarban Times | দৈনিক বান্দরবান টাইমস",
+    "imgUrl": "https://bandarbantimes.example.com/logo.png",
+    "pdfUrl": "https://bandarbantimes.example.com"
+  },
+  {
+    "title": "Daily Khagrachhari Kantha | দৈনিক খাগড়াছড়ি কণ্ঠ",
+    "imgUrl": "https://khagrachharikantha.example.com/logo.png",
+    "pdfUrl": "https://khagrachharikantha.example.com"
+  },
+  {
+    "title": "Daily Noakhali Alo | দৈনিক নোয়াখালী আলো",
+    "imgUrl": "https://noakhali alo.example.com/logo.png",
+    "pdfUrl": "https://noakhali alo.example.com"
+  },
+  {
+    "title": "Daily Lakshmipur Barta | দৈনিক লক্ষ্মীপুর বার্তা",
+    "imgUrl": "https://lakshmipurbarta.example.com/logo.png",
+    "pdfUrl": "https://lakshmipurbarta.example.com"
+  },
+  {
+    "title": "Daily Cumilla Sangbad | দৈনিক কুমিল্লা সংবাদ",
+    "imgUrl": "https://cumillasangbad.example.com/logo.png",
+    "pdfUrl": "https://cumillasangbad.example.com"
+  },
+  {
+    "title": "Daily Chandpur Times | দৈনিক চাঁদপুর টাইমস",
+    "imgUrl": "https://chandpurtimes.example.com/logo.png",
+    "pdfUrl": "https://chandpurtimes.example.com"
+  },
+  {
+    "title": "Daily Sylhet Protidin | দৈনিক সিলেট প্রতিদিন",
+    "imgUrl": "https://sylhetprotidin.example.com/logo.png",
+    "pdfUrl": "https://sylhetprotidin.example.com"
+  },
+  {
+    "title": "Daily Habiganj Barta | দৈনিক হবিগঞ্জ বার্তা",
+    "imgUrl": "https://habiganjbarta.example.com/logo.png",
+    "pdfUrl": "https://habiganjbarta.example.com"
+  },
+  {
+    "title": "Daily Moulvibazar Kantha | দৈনিক মৌলভীবাজার কণ্ঠ",
+    "imgUrl": "https://moulvibazarkantha.example.com/logo.png",
+    "pdfUrl": "https://moulvibazarkantha.example.com"
+  },
+  {
+    "title": "Daily Sunamganj Sangbad | দৈনিক সুনামগঞ্জ সংবাদ",
+    "imgUrl": "https://sunamganjsangbad.example.com/logo.png",
+    "pdfUrl": "https://sunamganjsangbad.example.com"
+  },
+  {
+    "title": "Daily Narayanganj Alo | দৈনিক নারায়ণগঞ্জ আলো",
+    "imgUrl": "https://narayanganjalo.example.com/logo.png",
+    "pdfUrl": "https://narayanganjalo.example.com"
+  },
+  {
+    "title": "Daily Gazipur Times | দৈনিক গাজীপুর টাইমস",
+    "imgUrl": "https://gazipurtimes.example.com/logo.png",
+    "pdfUrl": "https://gazipurtimes.example.com"
   }
-  
-  
 ]
