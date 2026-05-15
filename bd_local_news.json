@@ -82,7 +82,7 @@
   {
     "title": "Dainik Amader Barishal | আমাদের বরিশাল",
     "imgUrl": "https://amaderbarishal.com/images/logo.png",
-    "pdfUrl": "https://amaderbarishal.com/"
+    "pdfUrl": "https://amaderbarishal.com.bd/"
   },
   {
     "title": "Dainik Mathabhanga | দৈনিক মাথাভাঙ্গা (চুয়াডাঙ্গা)",
@@ -127,17 +127,12 @@
   {
     "title": "Dainik Feni | দৈনিক ফেনী",
     "imgUrl": "https://dainikfeni.com/images/logo.png",
-    "pdfUrl": "https://dainikfeni.com/"
+    "pdfUrl": "https://dainikfeni.com.bd/"
   },
   {
     "title": "Dainik Kushtia | দৈনিক কুষ্টিয়া",
     "imgUrl": "https://dainikkushtia.com/images/logo.png",
     "pdfUrl": "https://dainikkushtia.com/"
-  },
-  {
-    "title": "Dainik Meherpur | দৈনিক মেহেরপুর",
-    "imgUrl": "https://dainikmeherpur.com/images/logo.png",
-    "pdfUrl": "https://dainikmeherpur.com/"
   },
   {
     "title": "Dainik Bogra | দৈনিক বগুড়া",
@@ -147,7 +142,7 @@
   {
     "title": "Dainik Uttar Banga | দৈনিক উত্তরবঙ্গ (রংপুর)",
     "imgUrl": "https://dainikuttarbanga.com/images/logo.png",
-    "pdfUrl": "https://dainikuttarbanga.com/"
+    "pdfUrl": "http://dainikuttarbanga.com/"
   },
   {
     "title": "Dainik Probortan | দৈনিক প্রবর্তন (খুলনা)",
@@ -162,591 +157,34 @@
   {
     "title": "Dainik Dakshinanchal | দৈনিক দক্ষিণাঞ্চল (বরিশাল)",
     "imgUrl": "https://dakshinanchal.com/images/logo.png",
-    "pdfUrl": "https://dakshinanchal.com/"
+    "pdfUrl": "http://dakshinanchal.com/"
   },
   {
     "title": "Dainik Khulna | দৈনিক খুলনা",
     "imgUrl": "https://dainikkhulna.com/images/logo.png",
-    "pdfUrl": "https://dainikkhulna.com/"
+    "pdfUrl": "http://dainikkhulna.com/"
   },
   {
     "title": "Dainik Sylhet Mirror | দৈনিক সিলেট মিরর",
     "imgUrl": "https://sylhetmirror.com/images/logo.png",
-    "pdfUrl": "https://sylhetmirror.com/"
+    "pdfUrl": "https://e.dailysylhetmirror.com/"
   },
-  {
-    "title": "Dainik Chattogram | দৈনিক চট্টগ্রাম",
-    "imgUrl": "https://dainikchattogram.com/images/logo.png",
-    "pdfUrl": "https://dainikchattogram.com/"
-  },
+  
   {
     "title": "Dainik Brahmanbaria | দৈনিক ব্রাহ্মণবাড়িয়া",
     "imgUrl": "https://dainikbrahmanbaria.com/images/logo.png",
-    "pdfUrl": "https://dainikbrahmanbaria.com/"
+    "pdfUrl": "http://dainikbrahmanbaria.com/"
   },
-  {
-    "title": "Dainik Tangail | দৈনিক টাঙ্গাইল",
-    "imgUrl": "https://dainiktangail.com/images/logo.png",
-    "pdfUrl": "https://dainiktangail.com/"
-  },
-  {
-    "title": "Dainik Munshiganj | দৈনিক মুন্সীগঞ্জ",
-    "imgUrl": "https://dainikmunshiganj.com/images/logo.png",
-    "pdfUrl": "https://dainikmunshiganj.com/"
-  },
-  {
-    "title": "Dainik Gazipur | দৈনিক গাজীপুর",
-    "imgUrl": "https://dainikgazipur.com/images/logo.png",
-    "pdfUrl": "https://dainikgazipur.com/"
-  },
-  {
-    "title": "Dainik Narayanganj | দৈনিক নারায়ণগঞ্জ",
-    "imgUrl": "https://dainiknarayanganj.com/images/logo.png",
-    "pdfUrl": "https://dainiknarayanganj.com/"
-  },
-  {
-    "title": "Dainik Madaripur | দৈনিক মাদারীপুর",
-    "imgUrl": "https://dainikmadaripur.com/images/logo.png",
-    "pdfUrl": "https://dainikmadaripur.com/"
-  },
-  {
-    "title": "Dainik Shariatpur | দৈনিক শরীয়তপুর",
-    "imgUrl": "https://dainikshariatpur.com/images/logo.png",
-    "pdfUrl": "https://dainikshariatpur.com/"
-  },
+   
   {
     "title": "Dainik Bhola | দৈনিক ভোলা",
     "imgUrl": "https://dainikbhola.com/images/logo.png",
     "pdfUrl": "https://dainikbhola.com/"
   },
-  {
-    "title": "Dainik Patuakhali | দৈনিক পটুয়াখালী",
-    "imgUrl": "https://dainikpatuakhali.com/images/logo.png",
-    "pdfUrl": "https://dainikpatuakhali.com/"
-  },
+  
   {
     "title": "Dainik Sunamganj | দৈনিক সুনামগঞ্জ",
     "imgUrl": "https://dainiksunamganj.com/images/logo.png",
-    "pdfUrl": "https://dainiksunamganj.com/"
-  },
-  {
-    "title": "Dainik Moulvibazar | দৈনিক মৌলভীবাজার",
-    "imgUrl": "https://dainikmoulvibazar.com/images/logo.png",
-    "pdfUrl": "https://dainikmoulvibazar.com/"
-  },
-  {
-    "title": "Dainik Noakhali | দৈনিক নোয়াখালী",
-    "imgUrl": "https://dainiknoakhali.com/images/logo.png",
-    "pdfUrl": "https://dainiknoakhali.com/"
-  },
-  {
-    "title": "Dainik Dinajpur | দৈনিক দিনাজপুর",
-    "imgUrl": "https://dainikdinajpur.com/images/logo.png",
-    "pdfUrl": "https://dainikdinajpur.com/"
-  },
-  {
-    "title": "Dainik Rangpur | দৈনিক রংপুর",
-    "imgUrl": "https://dainikrangpur.com/images/logo.png",
-    "pdfUrl": "https://dainikrangpur.com/"
-  },
-  {
-    "title": "Dainik Purabi | দৈনিক পূরবী (রাঙ্গামাটি)",
-    "imgUrl": "https://dainikpurabi.com/images/logo.png",
-    "pdfUrl": "https://dainikpurabi.com/"
-  },
-  {
-    "title": "Mymensingh Pratidin | ময়মনসিংহ প্রতিদিন",
-    "imgUrl": "https://mymensinghpratidin.com/images/logo.png",
-    "pdfUrl": "https://mymensinghpratidin.com/"
-  },
-  {
-    "title": "Satkhira News | সাতক্ষীরা নিউজ",
-    "imgUrl": "https://satkhiranews.com/images/logo.png",
-    "pdfUrl": "https://satkhiranews.com/"
-  },
-  {
-    "title": "Dainik Fenir Somoy | দৈনিক ফেনীর সময়",
-    "imgUrl": "https://fenirsomoy.com/images/logo.png",
-    "pdfUrl": "https://fenirsomoy.com/"
-  },
-  {
-    "title": "Lakshmipur 24 | লক্ষ্মীপুর ২৪",
-    "imgUrl": "https://lakshmipur24.com/images/logo.png",
-    "pdfUrl": "https://lakshmipur24.com/"
-  },
-  {
-    "title": "Tangail Times | টাঙ্গাইল টাইমস",
-    "imgUrl": "https://tangailtimes.com/images/logo.png",
-    "pdfUrl": "https://tangailtimes.com/"
-  },
-  {
-    "title": "Manikganj Barta | মানিকগঞ্জ বার্তা",
-    "imgUrl": "https://manikganjbarta.com/images/logo.png",
-    "pdfUrl": "https://manikganjbarta.com/"
-  },
-  {
-    "title": "Gazipur Darpan | গাজীপুর দর্পণ",
-    "imgUrl": "https://gazipurdarpan.com/images/logo.png",
-    "pdfUrl": "https://gazipurdarpan.com/"
-  },
-  {
-    "title": "Narail Kantho | নড়াইল কণ্ঠ",
-    "imgUrl": "https://narailkantho.com/images/logo.png",
-    "pdfUrl": "https://narailkantho.com/"
-  },
-  {
-    "title": "Jhenaidah News | ঝিনাইদহ নিউজ",
-    "imgUrl": "https://jhenaidahnews.com/images/logo.png",
-    "pdfUrl": "https://jhenaidahnews.com/"
-  },
-  {
-    "title": "Meherpur News | মেহেরপুর নিউজ",
-    "imgUrl": "https://meherpurnews.com/images/logo.png",
-    "pdfUrl": "https://meherpurnews.com/"
-  },
-  {
-    "title": "Kushtia 24 | কুষ্টিয়া ২৪",
-    "imgUrl": "https://kushtia24.com/images/logo.png",
-    "pdfUrl": "https://kushtia24.com/"
-  },
-  {
-    "title": "Bagerhat News | বাগেরহাট নিউজ",
-    "imgUrl": "https://bagerhatnews.com/images/logo.png",
-    "pdfUrl": "https://bagerhatnews.com/"
-  },
-  {
-    "title": "Magura News | মাগুরা নিউজ",
-    "imgUrl": "https://maguranews.com/images/logo.png",
-    "pdfUrl": "https://maguranews.com/"
-  },
-  {
-    "title": "Chuadanga News | চুয়াডাঙ্গা নিউজ",
-    "imgUrl": "https://chuadanganews.com/images/logo.png",
-    "pdfUrl": "https://chuadanganews.com/"
-  },
-  {
-    "title": "Pabna News | পাবনা নিউজ",
-    "imgUrl": "https://pabnanews.com/images/logo.png",
-    "pdfUrl": "https://pabnanews.com/"
-  },
-  {
-    "title": "Sirajganj Kantho | সিরাজগঞ্জ কণ্ঠ",
-    "imgUrl": "https://sirajganjkantho.com/images/logo.png",
-    "pdfUrl": "https://sirajganjkantho.com/"
-  },
-  {
-    "title": "Natore News | নাটোর নিউজ",
-    "imgUrl": "https://natorenews.com/images/logo.png",
-    "pdfUrl": "https://natorenews.com/"
-  },
-  {
-    "title": "Naogaon News | নওগাঁ নিউজ",
-    "imgUrl": "https://naogaonnews.com/images/logo.png",
-    "pdfUrl": "https://naogaonnews.com/"
-  },
-  {
-    "title": "Joypurhat News | জয়পুরহাট নিউজ",
-    "imgUrl": "https://joypurhatnews.com/images/logo.png",
-    "pdfUrl": "https://joypurhatnews.com/"
-  },
-  {
-    "title": "Chapai Nawabganj News | চাঁপাইনবাবগঞ্জ নিউজ",
-    "imgUrl": "https://chapainawabganjnews.com/images/logo.png",
-    "pdfUrl": "https://chapainawabganjnews.com/"
-  },
-  {
-    "title": "Kurigram News | কুড়িগ্রাম নিউজ",
-    "imgUrl": "https://kurigramnews.com/images/logo.png",
-    "pdfUrl": "https://kurigramnews.com/"
-  },
-  {
-    "title": "Gaibandha News | গাইবান্ধা নিউজ",
-    "imgUrl": "https://gaibandhanews.com/images/logo.png",
-    "pdfUrl": "https://gaibandhanews.com/"
-  },
-  {
-    "title": "Nilphamari News | নীলফামারী নিউজ",
-    "imgUrl": "https://nilphamarinews.com/images/logo.png",
-    "pdfUrl": "https://nilphamarinews.com/"
-  },
-  {
-    "title": "Lalmonirhat News | লালমনিরহাট নিউজ",
-    "imgUrl": "https://lalmonirhatnews.com/images/logo.png",
-    "pdfUrl": "https://lalmonirhatnews.com/"
-  },
-  {
-    "title": "Panchagarh News | পঞ্চগড় নিউজ",
-    "imgUrl": "https://panchagarhnews.com/images/logo.png",
-    "pdfUrl": "https://panchagarhnews.com/"
-  },
-  {
-    "title": "Thakurgaon News | ঠাকুরগাঁও নিউজ",
-    "imgUrl": "https://thakurgaonnews.com/images/logo.png",
-    "pdfUrl": "https://thakurgaonnews.com/"
-  },
-  {
-    "title": "Barishal News | বরিশাল নিউজ",
-    "imgUrl": "https://barishalnews.com/images/logo.png",
-    "pdfUrl": "https://barishalnews.com/"
-  },
-  {
-    "title": "Barguna News | বরগুনা নিউজ",
-    "imgUrl": "https://bargunanews.com/images/logo.png",
-    "pdfUrl": "https://bargunanews.com/"
-  },
-  {
-    "title": "Pirojpur News | পিরোজপুর নিউজ",
-    "imgUrl": "https://pirojpurnews.com/images/logo.png",
-    "pdfUrl": "https://pirojpurnews.com/"
-  },
-  {
-    "title": "Jhalokathi News | ঝালকাঠি নিউজ",
-    "imgUrl": "https://jhalokathinews.com/images/logo.png",
-    "pdfUrl": "https://jhalokathinews.com/"
-  },
-  {
-    "title": "Sylhet View | সিলেট ভিউ",
-    "imgUrl": "https://sylhetview.com/images/logo.png",
-    "pdfUrl": "https://sylhetview.com/"
-  },
-  {
-    "title": "Habiganj Express | হবিগঞ্জ এক্সপ্রেস",
-    "imgUrl": "https://habiganjexpress.com/images/logo.png",
-    "pdfUrl": "https://habiganjexpress.com/"
-  },
-  {
-    "title": "Netrokona News | নেত্রকোনা নিউজ",
-    "imgUrl": "https://netrokonanews.com/images/logo.png",
-    "pdfUrl": "https://netrokonanews.com/"
-  },
-  {
-    "title": "Sherpur News | শেরপুর নিউজ",
-    "imgUrl": "https://sherpurnews.com/images/logo.png",
-    "pdfUrl": "https://sherpurnews.com/"
-  },
-  {
-    "title": "Jamalpur News | জামালপুর নিউজ",
-    "imgUrl": "https://jamalpurnews.com/images/logo.png",
-    "pdfUrl": "https://jamalpurnews.com/"
-  },
-  {
-    "title": "Kishoreganj News | কিশোরগঞ্জ নিউজ",
-    "imgUrl": "https://kishoreganjnews.com/images/logo.png",
-    "pdfUrl": "https://kishoreganjnews.com/"
-  },
-  {
-    "title": "Gopalganj News | গোপালগঞ্জ নিউজ",
-    "imgUrl": "https://gopalganjnews.com/images/logo.png",
-    "pdfUrl": "https://gopalganjnews.com/"
-  },
-  {
-    "title": "Rajbari News | রাজবাড়ী নিউজ",
-    "imgUrl": "https://rajbarinews.com/images/logo.png",
-    "pdfUrl": "https://rajbarinews.com/"
-  },
-  {
-    "title": "Faridpur News | ফরিদপুর নিউজ",
-    "imgUrl": "https://faridpurnews.com/images/logo.png",
-    "pdfUrl": "https://faridpurnews.com/"
-  },
-  {
-    "title": "Narsingdi News | নরসিংদী নিউজ",
-    "imgUrl": "https://narsingdinews.com/images/logo.png",
-    "pdfUrl": "https://narsingdinews.com/"
-  },
-  {
-    "title": "Gazipur Today | গাজীপুর টুডে",
-    "imgUrl": "https://gazipurtoday.com/images/logo.png",
-    "pdfUrl": "https://gazipurtoday.com/"
-  },
-  {
-    "title": "Rangamati News | রাঙ্গামাটি নিউজ",
-    "imgUrl": "https://rangamatinews.com/images/logo.png",
-    "pdfUrl": "https://rangamatinews.com/"
-  },
-  {
-    "title": "Khagrachari News | খাগড়াছড়ি নিউজ",
-    "imgUrl": "https://khagracharinews.com/images/logo.png",
-    "pdfUrl": "https://khagracharinews.com/"
-  },
-  {
-    "title": "Bandarban News | বান্দরবান নিউজ",
-    "imgUrl": "https://bandarbannews.com/images/logo.png",
-    "pdfUrl": "https://bandarbannews.com/"
-  },
-  {
-    "title": "Patiya News | পটিয়া নিউজ",
-    "imgUrl": "https://patiyanews.com/images/logo.png",
-    "pdfUrl": "https://patiyanews.com/"
-  },
-  {
-    "title": "Sreemangal News | শ্রীমঙ্গল নিউজ",
-    "imgUrl": "https://sreemangalnews.com/images/logo.png",
-    "pdfUrl": "https://sreemangalnews.com/"
-  },
-  {
-    "title": "Chhatak News | ছাতক নিউজ",
-    "imgUrl": "https://chhataknews.com/images/logo.png",
-    "pdfUrl": "https://chhataknews.com/"
-  },
-  {
-    "title": "Beani Bazar News | বিয়ানীবাজার নিউজ",
-    "imgUrl": "https://beanibazarnews.com/images/logo.png",
-    "pdfUrl": "https://beanibazarnews.com/"
-  },
-  {
-    "title": "Golapganj News | গোলাপগঞ্জ নিউজ",
-    "imgUrl": "https://golapganjnews.com/images/logo.png",
-    "pdfUrl": "https://golapganjnews.com/"
-  },
-  {
-    "title": "Kulaura News | কুলাউড়া নিউজ",
-    "imgUrl": "https://kulauranews.com/images/logo.png",
-    "pdfUrl": "https://kulauranews.com/"
-  },
-  {
-    "title": "Saidpur News | সৈয়দপুর নিউজ",
-    "imgUrl": "https://saidpurnews.com/images/logo.png",
-    "pdfUrl": "https://saidpurnews.com/"
-  },
-  {
-    "title": "Hili News | হিলি নিউজ",
-    "imgUrl": "https://hilinews.com/images/logo.png",
-    "pdfUrl": "https://hilinews.com/"
-  },
-  {
-    "title": "Ishwardi News | ঈশ্বরদী নিউজ",
-    "imgUrl": "https://ishwardinews.com/images/logo.png",
-    "pdfUrl": "https://ishwardinews.com/"
-  },
-  {
-    "title": "Mongla News | মোংলা নিউজ",
-    "imgUrl": "https://monglanews.com/images/logo.png",
-    "pdfUrl": "https://monglanews.com/"
-  },
-  {
-    "title": "Kuakata News | কুয়াকাটা নিউজ",
-    "imgUrl": "https://kuakatanews.com/images/logo.png",
-    "pdfUrl": "https://kuakatanews.com/"
-  },
-  {
-    "title": "Teknaf News | টেকনাফ নিউজ",
-    "imgUrl": "https://teknafnews.com/images/logo.png",
-    "pdfUrl": "https://teknafnews.com/"
-  },
-  {
-    "title": "Saint Martin News | সেন্ট মার্টিন নিউজ",
-    "imgUrl": "https://saintmartinnews.com/images/logo.png",
-    "pdfUrl": "https://saintmartinnews.com/"
-  },
-  {
-    "title": "Dhunat News | ধুনট নিউজ",
-    "imgUrl": "https://dhunatnews.com/images/logo.png",
-    "pdfUrl": "https://dhunatnews.com/"
-  },
-  {
-    "title": "Sherpur News Bogra | শেরপুর নিউজ বগুড়া",
-    "imgUrl": "https://sherpurnewsbogra.com/images/logo.png",
-    "pdfUrl": "https://sherpurnewsbogra.com/"
-  },
-  {
-    "title": "Nandigram News | নন্দীগ্রাম নিউজ",
-    "imgUrl": "https://nandigramnews.com/images/logo.png",
-    "pdfUrl": "https://nandigramnews.com/"
-  },
-  {
-    "title": "Gabtali News | গাবতলী নিউজ",
-    "imgUrl": "https://gabtalinews.com/images/logo.png",
-    "pdfUrl": "https://gabtalinews.com/"
-  },
-  {
-    "title": "Shajahanpur News | শাজাহানপুর নিউজ",
-    "imgUrl": "https://shajahanpurnews.com/images/logo.png",
-    "pdfUrl": "https://shajahanpurnews.com/"
-  },
-  {
-    "title": "Sariakandi News | সারিয়াকান্দি নিউজ",
-    "imgUrl": "https://sariakandinews.com/images/logo.png",
-    "pdfUrl": "https://sariakandinews.com/"
-  },
-  {
-    "title": "Sonatala News | সোনাতলা নিউজ",
-    "imgUrl": "https://sonatalanews.com/images/logo.png",
-    "pdfUrl": "https://sonatalanews.com/"
-  },
-  {
-    "title": "Kahaloo News | কাহালু নিউজ",
-    "imgUrl": "https://kahaloonews.com/images/logo.png",
-    "pdfUrl": "https://kahaloonews.com/"
-  },
-  {
-    "title": "Dupchanchia News | দুপচাঁচিয়া নিউজ",
-    "imgUrl": "https://dupchanchianews.com/images/logo.png",
-    "pdfUrl": "https://dupchanchianews.com/"
-  },
-  {
-    "title": "Akhaura News | আখাউড়া নিউজ",
-    "imgUrl": "https://akhauranews.com/images/logo.png",
-    "pdfUrl": "https://akhauranews.com/"
-  },
-  {
-    "title": "Sarail News | সরাইল নিউজ",
-    "imgUrl": "https://sarailnews.com/images/logo.png",
-    "pdfUrl": "https://sarailnews.com/"
-  },
-  {
-    "title": "Nasirnagar News | নাসিরনগর নিউজ",
-    "imgUrl": "https://nasirnagarnews.com/images/logo.png",
-    "pdfUrl": "https://nasirnagarnews.com/"
-  },
-  {
-    "title": "Kasba News | কসবা নিউজ",
-    "imgUrl": "https://kasbanews.com/images/logo.png",
-    "pdfUrl": "https://kasbanews.com/"
-  },
-  {
-    "title": "Nabinagar News | নবীনগর নিউজ",
-    "imgUrl": "https://nabinagarnews.com/images/logo.png",
-    "pdfUrl": "https://nabinagarnews.com/"
-  },
-  {
-    "title": "Bancharampur News | বাঞ্ছারামপুর নিউজ",
-    "imgUrl": "https://bancharampurnews.com/images/logo.png",
-    "pdfUrl": "https://bancharampurnews.com/"
-  },
-  {
-    "title": "Bijoynagar News | বিজয়নগর নিউজ",
-    "imgUrl": "https://bijoynagarnews.com/images/logo.png",
-    "pdfUrl": "https://bijoynagarnews.com/"
-  },
-  {
-    "title": "Ashuganj News | আশুগঞ্জ নিউজ",
-    "imgUrl": "https://ashuganjnews.com/images/logo.png",
-    "pdfUrl": "https://ashuganjnews.com/"
-  },
-  {
-    "title": "Lohagara News | লোহাগাড়া নিউজ",
-    "imgUrl": "https://lohajaranews.com/images/logo.png",
-    "pdfUrl": "https://lohajaranews.com/"
-  },
-  {
-    "title": "Satkania News | সাতকানিয়া নিউজ",
-    "imgUrl": "https://satkanianews.com/images/logo.png",
-    "pdfUrl": "https://satkanianews.com/"
-  },
-  {
-    "title": "Banshkhali News | বাঁশখালী নিউজ",
-    "imgUrl": "https://banshkhalinews.com/images/logo.png",
-    "pdfUrl": "https://banshkhalinews.com/"
-  },
-  {
-    "title": "Anwara News | আনোয়ারা নিউজ",
-    "imgUrl": "https://anwaranews.com/images/logo.png",
-    "pdfUrl": "https://anwaranews.com/"
-  },
-  {
-    "title": "Boalkhali News | বোয়ালখালী নিউজ",
-    "imgUrl": "https://boalkhalinews.com/images/logo.png",
-    "pdfUrl": "https://boalkhalinews.com/"
-  },
-  {
-    "title": "Rangunia News | রাঙ্গুনিয়া নিউজ",
-    "imgUrl": "https://rangunianews.com/images/logo.png",
-    "pdfUrl": "https://rangunianews.com/"
-  },
-  {
-    "title": "Raozan News | রাউজান নিউজ",
-    "imgUrl": "https://raozannews.com/images/logo.png",
-    "pdfUrl": "https://raozannews.com/"
-  },
-  {
-    "title": "Mirsarai News | মিরসরাই নিউজ",
-    "imgUrl": "https://mirsarainews.com/images/logo.png",
-    "pdfUrl": "https://mirsarainews.com/"
-  },
-  {
-    "title": "Sitakunda News | সীতাকুণ্ড নিউজ",
-    "imgUrl": "https://sitakundanews.com/images/logo.png",
-    "pdfUrl": "https://sitakundanews.com/"
-  },
-  {
-    "title": "Sandwip News | সন্দ্বীপ নিউজ",
-    "imgUrl": "https://sandwipnews.com/images/logo.png",
-    "pdfUrl": "https://sandwipnews.com/"
-  },
-  {
-    "title": "Hathazari News | হাটহাজারী নিউজ",
-    "imgUrl": "https://hathazarinews.com/images/logo.png",
-    "pdfUrl": "https://hathazarinews.com/"
-  },
-  {
-    "title": "Fatikchhari News | ফটিকছড়ি নিউজ",
-    "imgUrl": "https://fatikchharinews.com/images/logo.png",
-    "pdfUrl": "https://fatikchharinews.com/"
-  },
-  {
-    "title": "Chandanaish News | চন্দনাইশ নিউজ",
-    "imgUrl": "https://chandanaishnews.com/images/logo.png",
-    "pdfUrl": "https://chandanaishnews.com/"
-  },
-  {
-    "title": "Karnaphuli News | কর্ণফুলী নিউজ",
-    "imgUrl": "https://karnaphulinews.com/images/logo.png",
-    "pdfUrl": "https://karnaphulinews.com/"
-  },
-  {
-    "title": "Teknaf News 24 | টেকনাফ নিউজ ২৪",
-    "imgUrl": "https://teknafnews24.com/images/logo.png",
-    "pdfUrl": "https://teknafnews24.com/"
-  },
-  {
-    "title": "Ukhiya News | উখিয়া নিউজ",
-    "imgUrl": "https://ukhiyanews.com/images/logo.png",
-    "pdfUrl": "https://ukhiyanews.com/"
-  },
-  {
-    "title": "Ramu News | রামু নিউজ",
-    "imgUrl": "https://ramunews.com/images/logo.png",
-    "pdfUrl": "https://ramunews.com/"
-  },
-  {
-    "title": "Chakaria News | চকরিয়া নিউজ",
-    "imgUrl": "https://chakarianews.com/images/logo.png",
-    "pdfUrl": "https://chakarianews.com/"
-  },
-  {
-    "title": "Pekua News | পেকুয়া নিউজ",
-    "imgUrl": "https://pekuanews.com/images/logo.png",
-    "pdfUrl": "https://pekuanews.com/"
-  },
-  {
-    "title": "Kutubdia News | কুতুবদিয়া নিউজ",
-    "imgUrl": "https://kutubdianews.com/images/logo.png",
-    "pdfUrl": "https://kutubdianews.com/"
-  },
-  {
-    "title": "Moheshkhali News | মহেশখালী নিউজ",
-    "imgUrl": "https://moheshkhalinews.com/images/logo.png",
-    "pdfUrl": "https://moheshkhalinews.com/"
-  },
-  {
-    "title": "Cox’s Bazar 24 | কক্সবাজার ২৪",
-    "imgUrl": "https://coxsbazar24.com/images/logo.png",
-    "pdfUrl": "https://coxsbazar24.com/"
-  },
-  {
-    "title": "Cox’s Bazar Times | কক্সবাজার টাইমস",
-    "imgUrl": "https://coxsbazartimes.com/images/logo.png",
-    "pdfUrl": "https://coxsbazartimes.com/"
-  },
-  {
-    "title": "Teknaf Voice | টেকনাফ ভয়েস",
-    "imgUrl": "https://teknafvoice.com/images/logo.png",
-    "pdfUrl": "https://teknafvoice.com/"
-  },
-  {
-    "title": "Ukhia Voice | উখিয়া ভয়েস",
-    "imgUrl": "https://ukhiavoice.com/images/logo.png",
-    "pdfUrl": "https://ukhiavoice.com/"
+    "pdfUrl": "https://sunamganj-barta.com/"
   }
 ]
