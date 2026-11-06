@@ -1,0 +1,534 @@
+[
+  {
+    "id": 1,
+    "district_en": "Dhaka",
+    "district_bn": "ঢাকা",
+    "division": "ঢাকা (Dhaka)",
+    "news": []
+  },
+  {
+    "id": 2,
+    "district_en": "Faridpur",
+    "district_bn": "ফরিদপুর",
+    "division": "ঢাকা (Dhaka)",
+    "news": []
+  },
+  {
+    "id": 3,
+    "district_en": "Gazipur",
+    "district_bn": "গাজীপুর",
+    "division": "ঢাকা (Dhaka)",
+    "news": []
+  },
+  {
+    "id": 4,
+    "district_en": "Gopalganj",
+    "district_bn": "গোপালগঞ্জ",
+    "division": "ঢাকা (Dhaka)",
+    "news": []
+  },
+  {
+    "id": 5,
+    "district_en": "Kishoreganj",
+    "district_bn": "কিশোরগঞ্জ",
+    "division": "ঢাকা (Dhaka)",
+    "news": []
+  },
+  {
+    "id": 6,
+    "district_en": "Madaripur",
+    "district_bn": "মাদারীপুর",
+    "division": "ঢাকা (Dhaka)",
+    "news": []
+  },
+  {
+    "id": 7,
+    "district_en": "Manikganj",
+    "district_bn": "মানিকগঞ্জ",
+    "division": "ঢাকা (Dhaka)",
+    "news": []
+  },
+  {
+    "id": 8,
+    "district_en": "Munshiganj",
+    "district_bn": "মুন্সিগঞ্জ",
+    "division": "ঢাকা (Dhaka)",
+    "news": []
+  },
+  {
+    "id": 9,
+    "district_en": "Narayanganj",
+    "district_bn": "নারায়ণগঞ্জ",
+    "division": "ঢাকা (Dhaka)",
+    "news": []
+  },
+  {
+    "id": 10,
+    "district_en": "Narsingdi",
+    "district_bn": "নরসিংদী",
+    "division": "ঢাকা (Dhaka)",
+    "news": []
+  },
+  {
+    "id": 11,
+    "district_en": "Rajbari",
+    "district_bn": "রাজবাড়ী",
+    "division": "ঢাকা (Dhaka)",
+    "news": []
+  },
+  {
+    "id": 12,
+    "district_en": "Shariatpur",
+    "district_bn": "শরীয়তপুর",
+    "division": "ঢাকা (Dhaka)",
+    "news": []
+  },
+  {
+    "id": 13,
+    "district_en": "Tangail",
+    "district_bn": "টাঙ্গাইল",
+    "division": "ঢাকা (Dhaka)",
+    "news": []
+  },
+  {
+    "id": 14,
+    "district_en": "Bandarban",
+    "district_bn": "বান্দরবান",
+    "division": "চট্টগ্রাম (Chattogram)",
+    "news": []
+  },
+  {
+    "id": 15,
+    "district_en": "Brahmanbaria",
+    "district_bn": "ব্রাহ্মণবাড়িয়া",
+    "division": "চট্টগ্রাম (Chattogram)",
+    "news": []
+  },
+  {
+    "id": 16,
+    "district_en": "Chandpur",
+    "district_bn": "চাঁদপুর",
+    "division": "চট্টগ্রাম (Chattogram)",
+    "news": []
+  },
+  {
+    "id": 17,
+    "district_en": "Chattogram",
+    "district_bn": "চট্টগ্রাম",
+    "division": "চট্টগ্রাম (Chattogram)",
+    "news": [
+      {
+        "title": "Dainik Azadi | দৈনিক আজাদী (চট্টগ্রাম)",
+        "imgUrl": "https://dainikazadi.net/wp-content/uploads/2021/01/logo.png",
+        "pdfUrl": "https://dainikazadi.net/"
+      },
+      {
+        "title": "Dainik Purbokone | দৈনিক পূর্বকোণ (চট্টগ্রাম)",
+        "imgUrl": "https://purbokone.com/wp-content/uploads/2020/03/logo.png",
+        "pdfUrl": "https://www.dainikpurbokone.net/"
+      },
+      {
+        "title": "Suprobhat Bangladesh | সুপ্রভাত বাংলাদেশ (চট্টগ্রাম)",
+        "imgUrl": "https://suprobhat.com/images/logo.png",
+        "pdfUrl": "https://suprobhat.com/"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "district_en": "Cumilla",
+    "district_bn": "কুমিল্লা",
+    "division": "চট্টগ্রাম (Chattogram)",
+    "news": []
+  },
+  {
+    "id": 19,
+    "district_en": "Cox's Bazar",
+    "district_bn": "কক্সবাজার",
+    "division": "চট্টগ্রাম (Chattogram)",
+    "news": [
+      {
+        "title": "Dainik Cox’s Bazar | দৈনিক কক্সবাজার",
+        "imgUrl": "https://dainikcoxsbazar.com/images/logo.png",
+        "pdfUrl": "https://dainikcoxsbazar.com/"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "district_en": "Feni",
+    "district_bn": "ফেনী",
+    "division": "চট্টগ্রাম (Chattogram)",
+    "news": []
+  },
+  {
+    "id": 21,
+    "district_en": "Khagrachhari",
+    "district_bn": "খাগড়াছড়ি",
+    "division": "চট্টগ্রাম (Chattogram)",
+    "news": []
+  },
+  {
+    "id": 22,
+    "district_en": "Lakshmipur",
+    "district_bn": "লক্ষ্মীপুর",
+    "division": "চট্টগ্রাম (Chattogram)",
+    "news": []
+  },
+  {
+    "id": 23,
+    "district_en": "Noakhali",
+    "district_bn": "নোয়াখালী",
+    "division": "চট্টগ্রাম (Chattogram)",
+    "news": []
+  },
+  {
+    "id": 24,
+    "district_en": "Rangamati",
+    "district_bn": "রাঙ্গামাটি",
+    "division": "চট্টগ্রাম (Chattogram)",
+    "news": []
+  },
+  {
+    "id": 25,
+    "district_en": "Bogura",
+    "district_bn": "বগুড়া",
+    "division": "রাজশাহী (Rajshahi)",
+    "news": [
+      {
+        "title": "Dainik Karatoa | দৈনিক করতোয়া (বগুড়া)",
+        "imgUrl": "https://karatoa.com.bd/images/logo.png",
+        "pdfUrl": "https://karatoa.com.bd/"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "district_en": "Joypurhat",
+    "district_bn": "জয়পুরহাট",
+    "division": "রাজশাহী (Rajshahi)",
+    "news": []
+  },
+  {
+    "id": 27,
+    "district_en": "Naogaon",
+    "district_bn": "নওগাঁ",
+    "division": "রাজশাহী (Rajshahi)",
+    "news": []
+  },
+  {
+    "id": 28,
+    "district_en": "Natore",
+    "district_bn": "নাটোর",
+    "division": "রাজশাহী (Rajshahi)",
+    "news": []
+  },
+  {
+    "id": 29,
+    "district_en": "Chapainawabganj",
+    "district_bn": "চাঁপাইনবাবগঞ্জ",
+    "division": "রাজশাহী (Rajshahi)",
+    "news": []
+  },
+  {
+    "id": 30,
+    "district_en": "Pabna",
+    "district_bn": "পাবনা",
+    "division": "রাজশাহী (Rajshahi)",
+    "news": []
+  },
+  {
+    "id": 31,
+    "district_en": "Rajshahi",
+    "district_bn": "রাজশাহী",
+    "division": "রাজশাহী (Rajshahi)",
+    "news": [
+      {
+        "title": "Rajshahi News24 | রাজশাহী নিউজ 24",
+        "imgUrl": "https://rajshahinews24.com/public/templateimage/60ef5cebb8486.jpg",
+        "pdfUrl": "https://rajshahinews24.com/"
+      },
+      {
+        "title": "Rajshahir Somoy | রাজশাহীর সময়",
+        "imgUrl": "https://rajshahirsomoy.com/public/templateimage/61e920dea6348.png",
+        "pdfUrl": "https://rajshahirsomoy.com/"
+      },
+      {
+        "title": "Dainik Sonali Sangbad | দৈনিক সোনালী সংবাদ (রাজশাহী)",
+        "imgUrl": "https://sonalisangbad.com/images/logo.png",
+        "pdfUrl": "https://sonalisangbad.com/"
+      },
+      {
+        "title": "Dainik Sunshine | দৈনিক সানশাইন (রাজশাহী)",
+        "imgUrl": "https://dailysunshine.com.bd/images/logo.png",
+        "pdfUrl": "https://dailysunshine.com.bd/"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "district_en": "Sirajganj",
+    "district_bn": "সিরাজগঞ্জ",
+    "division": "রাজশাহী (Rajshahi)",
+    "news": []
+  },
+  {
+    "id": 33,
+    "district_en": "Bagerhat",
+    "district_bn": "বাগেরহাট",
+    "division": "খুলনা (Khulna)",
+    "news": []
+  },
+  {
+    "id": 34,
+    "district_en": "Chuadanga",
+    "district_bn": "চুয়াডাঙ্গা",
+    "division": "খুলনা (Khulna)",
+    "news": [
+      {
+        "title": "Dainik Mathabhanga | দৈনিক মাথাভাঙ্গা (চুয়াডাঙ্গা)",
+        "imgUrl": "https://mathabhanga.com/images/logo.png",
+        "pdfUrl": "https://mathabhanga.com/"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "district_en": "Jashore",
+    "district_bn": "যশোর",
+    "division": "খুলনা (Khulna)",
+    "news": [
+      {
+        "title": "Gramer Kagoj | গ্রামের কাগজ (যশোর)",
+        "imgUrl": "https://gramerkagoj.com/images/logo.png",
+        "pdfUrl": "https://gramerkagoj.com/"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "district_en": "Jhenaidah",
+    "district_bn": "ঝিনাইদহ",
+    "division": "খুলনা (Khulna)",
+    "news": []
+  },
+  {
+    "id": 37,
+    "district_en": "Khulna",
+    "district_bn": "খুলনা",
+    "division": "খুলনা (Khulna)",
+    "news": [
+      {
+        "title": "Dainik Purbanchal | দৈনিক পূর্বাঞ্চল (খুলনা)",
+        "imgUrl": "https://purbanchal.com/images/logo.png",
+        "pdfUrl": "https://purbanchal.com/"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "district_en": "Kushtia",
+    "district_bn": "কুষ্টিয়া",
+    "division": "খুলনা (Khulna)",
+    "news": []
+  },
+  {
+    "id": 39,
+    "district_en": "Magura",
+    "district_bn": "মাগুরা",
+    "division": "খুলনা (Khulna)",
+    "news": []
+  },
+  {
+    "id": 40,
+    "district_en": "Meherpur",
+    "district_bn": "মেহেরপুর",
+    "division": "খুলনা (Khulna)",
+    "news": []
+  },
+  {
+    "id": 41,
+    "district_en": "Narail",
+    "district_bn": "নড়াইল",
+    "division": "খুলনা (Khulna)",
+    "news": []
+  },
+  {
+    "id": 42,
+    "district_en": "Satkhira",
+    "district_bn": "সাতক্ষীরা",
+    "division": "খুলনা (Khulna)",
+    "news": []
+  },
+  {
+    "id": 43,
+    "district_en": "Barguna",
+    "district_bn": "বরগুনা",
+    "division": "বরিশাল (Barishal)",
+    "news": []
+  },
+  {
+    "id": 44,
+    "district_en": "Barishal",
+    "district_bn": "বরিশাল",
+    "division": "বরিশাল (Barishal)",
+    "news": []
+  },
+  {
+    "id": 45,
+    "district_en": "Bhola",
+    "district_bn": "ভোলা",
+    "division": "বরিশাল (Barishal)",
+    "news": []
+  },
+  {
+    "id": 46,
+    "district_en": "Jhalokathi",
+    "district_bn": "ঝালকাঠি",
+    "division": "বরিশাল (Barishal)",
+    "news": []
+  },
+  {
+    "id": 47,
+    "district_en": "Patuakhali",
+    "district_bn": "পটুয়াখালী",
+    "division": "বরিশাল (Barishal)",
+    "news": []
+  },
+  {
+    "id": 48,
+    "district_en": "Pirojpur",
+    "district_bn": "পিরোজপুর",
+    "division": "বরিশাল (Barishal)",
+    "news": []
+  },
+  {
+    "id": 49,
+    "district_en": "Habiganj",
+    "district_bn": "হবিগঞ্জ",
+    "division": "সিলেট (Sylhet)",
+    "news": []
+  },
+  {
+    "id": 50,
+    "district_en": "Moulvibazar",
+    "district_bn": "মৌলভীবাজার",
+    "division": "সিলেট (Sylhet)",
+    "news": []
+  },
+  {
+    "id": 51,
+    "district_en": "Sunamganj",
+    "district_bn": "সুনামগঞ্জ",
+    "division": "সিলেট (Sylhet)",
+    "news": []
+  },
+  {
+    "id": 52,
+    "district_en": "Sylhet",
+    "district_bn": "সিলেট",
+    "division": "সিলেট (Sylhet)",
+    "news": [
+      {
+        "title": "Sylheter Dak | সিলেটের ডাক (সিলেট)",
+        "imgUrl": "https://sylheterdak.com.bd/assets/images/logo.png",
+        "pdfUrl": "https://sylheterdak.com.bd/"
+      },
+      {
+        "title": "Dainik Sylhet Mirror | দৈনিক সিলেট মিরর",
+        "imgUrl": "https://sylhetmirror.com/images/logo.png",
+        "pdfUrl": "https://e.dailysylhetmirror.com/"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "district_en": "Dinajpur",
+    "district_bn": "দিনাজপুর",
+    "division": "রংপুর (Rangpur)",
+    "news": []
+  },
+  {
+    "id": 54,
+    "district_en": "Gaibandha",
+    "district_bn": "গাইবান্ধা",
+    "division": "রংপুর (Rangpur)",
+    "news": []
+  },
+  {
+    "id": 55,
+    "district_en": "Kurigram",
+    "district_bn": "কুড়িগ্রাম",
+    "division": "রংপুর (Rangpur)",
+    "news": []
+  },
+  {
+    "id": 56,
+    "district_en": "Lalmonirhat",
+    "district_bn": "লালমনিরহাট",
+    "division": "রংপুর (Rangpur)",
+    "news": []
+  },
+  {
+    "id": 57,
+    "district_en": "Nilphamari",
+    "district_bn": "নীলফামারী",
+    "division": "রংপুর (Rangpur)",
+    "news": []
+  },
+  {
+    "id": 58,
+    "district_en": "Panchagarh",
+    "district_bn": "পঞ্চগড়",
+    "division": "রংপুর (Rangpur)",
+    "news": []
+  },
+  {
+    "id": 59,
+    "district_en": "Rangpur",
+    "district_bn": "রংপুর",
+    "division": "রংপুর (Rangpur)",
+    "news": []
+  },
+  {
+    "id": 60,
+    "district_en": "Thakurgaon",
+    "district_bn": "ঠাকুরগাঁও",
+    "division": "রংপুর (Rangpur)",
+    "news": []
+  },
+  {
+    "id": 61,
+    "district_en": "Jamalpur",
+    "district_bn": "জামালপুর",
+    "division": "ময়মনসিংহ (Mymensingh)",
+    "news": [
+      {
+        "title": "Dainik Ajker Jamalpur | দৈনিক আজকের জামালপুর",
+        "imgUrl": "https://ajkerjamalpur.com/images/logo.png",
+        "pdfUrl": "https://ajkerjamalpur.com/"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "district_en": "Mymensingh",
+    "district_bn": "ময়মনসিংহ",
+    "division": "ময়মনসিংহ (Mymensingh)",
+    "news": []
+  },
+  {
+    "id": 63,
+    "district_en": "Netrokona",
+    "district_bn": "নেত্রকোণা",
+    "division": "ময়মনসিংহ (Mymensingh)",
+    "news": []
+  },
+  {
+    "id": 64,
+    "district_en": "Sherpur",
+    "district_bn": "শেরপুর",
+    "division": "ময়মনসিংহ (Mymensingh)",
+    "news": []
+  }
+]
