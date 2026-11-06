@@ -1,0 +1,27 @@
+name: Update trending news
+on:
+  schedule:
+    - cron: "*/30 * * * *"     # every 30 minutes
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["tools/build_trending.py", ".github/workflows/trending.yml"]
+permissions:
+  contents: write
+concurrency: { group: trending, cancel-in-progress: true }
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install feedparser requests
+      - run: python tools/build_trending.py trending.json
+      - name: Commit if changed
+        run: |
+          git config user.name "trending-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add trending.json
+          git diff --cached --quiet || (git commit -m "Update trending.json" && git pull --rebase && git push)
