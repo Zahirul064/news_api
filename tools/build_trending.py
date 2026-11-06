@@ -44,7 +44,7 @@ FEEDS = [
     ("New Age", ["https://www.newagebd.net/rss/rss.xml", "https://www.newagebd.net/rss.xml"]),
     ("Google News বাংলাদেশ", ["https://news.google.com/rss?hl=bn&gl=BD&ceid=BD:bn"]),
 ]
-UA = {"User-Agent": "Mozilla/5.0 (compatible; CompleteNewsBot/1.0; +https://zahirul064.github.io/news_api/)"}
+UA = {"User-Agent": "Mozilla/5.0 (compatible; NewsHubs4BDBot/1.0; +https://zahirul064.github.io/news_api/)"}
 MAX_PER_SOURCE = 25
 STOP = set("ও এ না কি যে এই সেই জন্য থেকে করে হয় হবে হলো নিয়ে দিয়ে বলে আর সঙ্গে সাথে মধ্যে পর আগে নতুন the a an of to in on for and is are with by at from as".split())
 
