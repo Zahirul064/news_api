@@ -17,6 +17,6 @@ def chk(c):
     except Exception as e: r['error']=str(e)[:100]
   return r
 with cf.ThreadPoolExecutor(40) as ex: res=list(ex.map(chk,C))
-ok=[x for x in res if x.get('status',999)<400 and x.get('bangla',0)>=800 and x.get('dist',0)>=3 and not x.get('bad')]
+ok=[x for x in res if x.get('status',999)<400 and x.get('bangla',0)>=800 and x.get("dist",0)>=3 and not x.get('bad')]
 cf_=[x for x in res if x.get('status') in (403,503) and 'Just a moment' in x.get('title','')]
 json.dump({'ok':ok,'cloudflare':cf_,'n':len(res)},open('report.json','w'),ensure_ascii=False,indent=1)
