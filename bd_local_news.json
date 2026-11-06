@@ -1,13 +1,158 @@
 [
   {
-    "title": "Rajshahi News24 | রাজশাহী নিউজ 24",
-    "imgUrl": "https://rajshahinews24.com/public/templateimage/60ef5cebb8486.jpg",
-    "pdfUrl": "https://rajshahinews24.com/"
+    "title": "Dhaka News 24 | ঢাকা নিউজ ২৪ (ঢাকা)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=www.dhakanews24.com&sz=128",
+    "pdfUrl": "https://www.dhakanews24.com/"
   },
   {
-    "title": "Rajshahir Somoy | রাজশাহীর সময়",
-    "imgUrl": "https://rajshahirsomoy.com/public/templateimage/61e920dea6348.png",
-    "pdfUrl": "https://rajshahirsomoy.com/"
+    "title": "Dhaka Sangbad | ঢাকা সংবাদ (ঢাকা)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=dhakasangbad.com&sz=128",
+    "pdfUrl": "https://dhakasangbad.com/"
+  },
+  {
+    "title": "Dhaka Mail | ঢাকা মেইল (ঢাকা)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=dhakamail.com&sz=128",
+    "pdfUrl": "https://dhakamail.com/"
+  },
+  {
+    "title": "Dhaka Pratidin | ঢাকা প্রতিদিন (ঢাকা)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=dhakapratidin.com&sz=128",
+    "pdfUrl": "https://dhakapratidin.com/"
+  },
+  {
+    "title": "Gazipur Sangbad | গাজীপুর সংবাদ (গাজীপুর)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=www.gazipursangbad.com&sz=128",
+    "pdfUrl": "https://www.gazipursangbad.com/"
+  },
+  {
+    "title": "Daily Gazipur | ডেইলি গাজীপুর (গাজীপুর)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=dailygazipur.com&sz=128",
+    "pdfUrl": "https://dailygazipur.com/"
+  },
+  {
+    "title": "Kishoreganj News | কিশোরগঞ্জ নিউজ (কিশোরগঞ্জ)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=www.kishoreganjnews.com&sz=128",
+    "pdfUrl": "https://www.kishoreganjnews.com/"
+  },
+  {
+    "title": "Dainik Kishoreganj | দৈনিক কিশোরগঞ্জ (কিশোরগঞ্জ)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=dainikkishoreganj.com&sz=128",
+    "pdfUrl": "https://dainikkishoreganj.com/"
+  },
+  {
+    "title": "Manikganj News | মানিকগঞ্জ নিউজ (মানিকগঞ্জ)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=www.manikganjnews.com&sz=128",
+    "pdfUrl": "https://www.manikganjnews.com/"
+  },
+  {
+    "title": "Manikganj News 24 | মানিকগঞ্জ নিউজ ২৪ (মানিকগঞ্জ)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=www.manikganj24.com&sz=128",
+    "pdfUrl": "https://www.manikganj24.com/"
+  },
+  {
+    "title": "Daily Bikrampur | দৈনিক বিক্রমপুর (মুন্সীগঞ্জ)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=dailybikrampur.com&sz=128",
+    "pdfUrl": "https://dailybikrampur.com/"
+  },
+  {
+    "title": "Bikrampur Khobor | বিক্রমপুর খবর (মুন্সীগঞ্জ)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=www.bikrampurkhobor.com&sz=128",
+    "pdfUrl": "https://www.bikrampurkhobor.com/"
+  },
+  {
+    "title": "Munshigonj24 | মুন্সিগঞ্জ জেলার খবর (মুন্সীগঞ্জ)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=munshigonj24.com&sz=128",
+    "pdfUrl": "https://munshigonj24.com/"
+  },
+  {
+    "title": "Bikrampur Mail | বিক্রমপুর মেইল (মুন্সীগঞ্জ)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=bikrampurmail.com&sz=128",
+    "pdfUrl": "https://bikrampurmail.com/"
+  },
+  {
+    "title": "Narayanganj Times | নারায়ণগঞ্জ টাইমস (নারায়ণগঞ্জ)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=www.narayanganjtimes.com&sz=128",
+    "pdfUrl": "https://www.narayanganjtimes.com/"
+  },
+  {
+    "title": "Narayanganj Barta | নারায়ণগঞ্জ বার্তা (নারায়ণগঞ্জ)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=narayanganjbarta.com&sz=128",
+    "pdfUrl": "https://narayanganjbarta.com/"
+  },
+  {
+    "title": "Narayanganj Pratidin | নারায়ণগঞ্জ প্রতিদিন (নারায়ণগঞ্জ)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=narayanganjpratidin.com&sz=128",
+    "pdfUrl": "https://narayanganjpratidin.com/"
+  },
+  {
+    "title": "Narayanganj24 | নারায়ণগঞ্জ ২৪ (নারায়ণগঞ্জ)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=narayanganj24.com&sz=128",
+    "pdfUrl": "https://narayanganj24.com/"
+  },
+  {
+    "title": "Narayanganj Sangbad | নারায়ণগঞ্জ সংবাদ (নারায়ণগঞ্জ)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=narayanganjsangbad.com&sz=128",
+    "pdfUrl": "https://narayanganjsangbad.com/"
+  },
+  {
+    "title": "Daily Narayanganj | দৈনিক নারায়ণগঞ্জ (নারায়ণগঞ্জ)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=dailynarayanganj.com&sz=128",
+    "pdfUrl": "https://dailynarayanganj.com/"
+  },
+  {
+    "title": "Dainik Narsingdi | দৈনিক নরসিংদী (নরসিংদী)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=dainiknarsingdi.com&sz=128",
+    "pdfUrl": "https://dainiknarsingdi.com/"
+  },
+  {
+    "title": "Faridpur Protidin | ফরিদপুর প্রতিদিন (ফরিদপুর)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=faridpurprotidin.com&sz=128",
+    "pdfUrl": "https://faridpurprotidin.com/"
+  },
+  {
+    "title": "Faridpur Times | ফরিদপুর টাইমস (ফরিদপুর)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=faridpurtimes.com&sz=128",
+    "pdfUrl": "https://faridpurtimes.com/"
+  },
+  {
+    "title": "Faridpur News | ফরিদপুর নিউজ (ফরিদপুর)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=faridpurnews.com&sz=128",
+    "pdfUrl": "https://faridpurnews.com/"
+  },
+  {
+    "title": "Gopalganj Kantho | গোপালগঞ্জ কণ্ঠ (সাপ্তাহিক) (গোপালগঞ্জ)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=gopalganjkantho.com&sz=128",
+    "pdfUrl": "https://gopalganjkantho.com/"
+  },
+  {
+    "title": "Madaripur Protidin | মাদারীপুর প্রতিদিন (মাদারীপুর)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=madaripurprotidin.com&sz=128",
+    "pdfUrl": "https://madaripurprotidin.com/"
+  },
+  {
+    "title": "Rajbari Mail | রাজবাড়ী মেইল (রাজবাড়ী)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=rajbarimail.com&sz=128",
+    "pdfUrl": "https://rajbarimail.com/"
+  },
+  {
+    "title": "Rajbari Protidin | রাজবাড়ী প্রতিদিন (রাজবাড়ী)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=rajbariprotidin.com&sz=128",
+    "pdfUrl": "https://rajbariprotidin.com/"
+  },
+  {
+    "title": "Shariatpur Times | শরীয়তপুর টাইমস (শরীয়তপুর)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=shariatpurtimes.com&sz=128",
+    "pdfUrl": "https://shariatpurtimes.com/"
+  },
+  {
+    "title": "Tangail Pratidin | টাঙ্গাইল প্রতিদিন (টাঙ্গাইল)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=tangailpratidin.com&sz=128",
+    "pdfUrl": "https://tangailpratidin.com/"
+  },
+  {
+    "title": "Tangail24 | টাঙ্গাইল ২৪ (টাঙ্গাইল)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=tangail24.com&sz=128",
+    "pdfUrl": "https://tangail24.com/"
   },
   {
     "title": "Dainik Azadi | দৈনিক আজাদী (চট্টগ্রাম)",
@@ -20,29 +165,114 @@
     "pdfUrl": "https://www.dainikpurbokone.net/"
   },
   {
-    "title": "Sylheter Dak | সিলেটের ডাক (সিলেট)",
-    "imgUrl": "https://sylheterdak.com.bd/assets/images/logo.png",
-    "pdfUrl": "https://sylheterdak.com.bd/"
+    "title": "Suprobhat Bangladesh | সুপ্রভাত বাংলাদেশ (চট্টগ্রাম)",
+    "imgUrl": "https://suprobhat.com/images/logo.png",
+    "pdfUrl": "https://suprobhat.com/"
   },
   {
-    "title": "Dainik Purbanchal | দৈনিক পূর্বাঞ্চল (খুলনা)",
-    "imgUrl": "https://purbanchal.com/images/logo.png",
-    "pdfUrl": "https://purbanchal.com/"
+    "title": "Chattogram Khobor | চট্টগ্রাম খবর (চট্টগ্রাম)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=ctgkhobor.com&sz=128",
+    "pdfUrl": "https://ctgkhobor.com/"
   },
   {
-    "title": "Dainik Karatoa | দৈনিক করতোয়া (বগুড়া)",
-    "imgUrl": "https://karatoa.com.bd/images/logo.png",
-    "pdfUrl": "https://karatoa.com.bd/"
+    "title": "Chattogram Mail | চট্টগ্রামের নির্ভরযোগ্য সংবাদ (চট্টগ্রাম)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=chattogrammail.com&sz=128",
+    "pdfUrl": "https://chattogrammail.com/"
   },
   {
-    "title": "Gramer Kagoj | গ্রামের কাগজ (যশোর)",
-    "imgUrl": "https://gramerkagoj.com/images/logo.png",
-    "pdfUrl": "https://gramerkagoj.com/"
+    "title": "Chattogram News | চট্টগ্রাম বিভাগের সর্বশেষ সংবাদ (চট্টগ্রাম)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=chattogramnews.com&sz=128",
+    "pdfUrl": "https://chattogramnews.com/"
   },
   {
-    "title": "Dainik Cox’s Bazar | দৈনিক কক্সবাজার",
+    "title": "Dainik Cox’s Bazar | দৈনিক কক্সবাজার (কক্সবাজার)",
     "imgUrl": "https://dainikcoxsbazar.com/images/logo.png",
     "pdfUrl": "https://dainikcoxsbazar.com/"
+  },
+  {
+    "title": "Bandarban News | বান্দরবান নিউজ (বান্দরবান)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=www.bandarbannews.com&sz=128",
+    "pdfUrl": "https://www.bandarbannews.com/"
+  },
+  {
+    "title": "CHT Barta | সিএইচটি বার্তা (পার্বত্য চট্টগ্রাম) (রাঙ্গামাটি)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=chtbarta.com&sz=128",
+    "pdfUrl": "https://chtbarta.com/"
+  },
+  {
+    "title": "Comilla Times | কুমিল্লা টাইমস (কুমিল্লা)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=comillatimes.com&sz=128",
+    "pdfUrl": "https://comillatimes.com/"
+  },
+  {
+    "title": "Comilla News | কুমিল্লা নিউজ (কুমিল্লা)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=comillanews.com&sz=128",
+    "pdfUrl": "https://comillanews.com/"
+  },
+  {
+    "title": "Comilla Mail | কুমিল্লা মেইল (কুমিল্লা)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=comillamail.com&sz=128",
+    "pdfUrl": "https://comillamail.com/"
+  },
+  {
+    "title": "Dainik Cumilla Protidin | দৈনিক কুমিল্লা প্রতিদিন (কুমিল্লা)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=cumillaprotidin.com&sz=128",
+    "pdfUrl": "https://cumillaprotidin.com/"
+  },
+  {
+    "title": "Cumilla News 24 | কুমিল্লা নিউজ ২৪ (কুমিল্লা)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=cumillanews24.com&sz=128",
+    "pdfUrl": "https://cumillanews24.com/"
+  },
+  {
+    "title": "Chandpur Protidin | চাঁদপুর প্রতিদিন (চাঁদপুর)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=chandpurprotidin.com&sz=128",
+    "pdfUrl": "https://chandpurprotidin.com/"
+  },
+  {
+    "title": "Chandpur Times | চাঁদপুর টাইমস (চাঁদপুর)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=chandpurtimes.com&sz=128",
+    "pdfUrl": "https://chandpurtimes.com/"
+  },
+  {
+    "title": "Daily Chandpur | ডেইলি চাঁদপুর (চাঁদপুর)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=dailychandpur.com&sz=128",
+    "pdfUrl": "https://dailychandpur.com/"
+  },
+  {
+    "title": "Dainik Chandpur | দৈনিক চাঁদপুর (চাঁদপুর)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=www.dainikchandpur.com&sz=128",
+    "pdfUrl": "http://www.dainikchandpur.com/"
+  },
+  {
+    "title": "Chandpur Sangbad | চাঁদপুর সংবাদ (চাঁদপুর)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=chandpursangbad.com&sz=128",
+    "pdfUrl": "https://chandpursangbad.com/"
+  },
+  {
+    "title": "Daily Chandpur Khobor | দৈনিক চাঁদপুর খবর (চাঁদপুর)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=chandpurkhobor.com&sz=128",
+    "pdfUrl": "https://chandpurkhobor.com/"
+  },
+  {
+    "title": "Noakhali Times | নোয়াখালী টাইমস (নোয়াখালী)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=noakhalitimes.com&sz=128",
+    "pdfUrl": "https://noakhalitimes.com/"
+  },
+  {
+    "title": "Lakshmipur Khobor | লক্ষ্মীপুর খবর (লক্ষ্মীপুর)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=lakshmipurkhobor.com&sz=128",
+    "pdfUrl": "https://lakshmipurkhobor.com/"
+  },
+  {
+    "title": "Rajshahi News24 | রাজশাহী নিউজ 24 (রাজশাহী)",
+    "imgUrl": "https://rajshahinews24.com/public/templateimage/60ef5cebb8486.jpg",
+    "pdfUrl": "https://rajshahinews24.com/"
+  },
+  {
+    "title": "Rajshahir Somoy | রাজশাহীর সময় (রাজশাহী)",
+    "imgUrl": "https://rajshahirsomoy.com/public/templateimage/61e920dea6348.png",
+    "pdfUrl": "https://rajshahirsomoy.com/"
   },
   {
     "title": "Dainik Sonali Sangbad | দৈনিক সোনালী সংবাদ (রাজশাহী)",
@@ -55,23 +285,443 @@
     "pdfUrl": "https://dailysunshine.com.bd/"
   },
   {
-    "title": "Dainik Mathabhanga | দৈনিক মাথাভাঙ্গা (চুয়াডাঙ্গা)",
+    "title": "Dainik Rajshahi | দৈনিক রাজশাহী (রাজশাহী)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=dailyrajshahi.com&sz=128",
+    "pdfUrl": "https://dailyrajshahi.com/"
+  },
+  {
+    "title": "Sonar Desh | সোনার দেশ (রাজশাহী)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=dailysonardesh.com&sz=128",
+    "pdfUrl": "https://dailysonardesh.com/"
+  },
+  {
+    "title": "Dainik Karatoa | দৈনিক করতোয়া (বগুড়া) (বগুড়া)",
+    "imgUrl": "https://karatoa.com.bd/images/logo.png",
+    "pdfUrl": "https://karatoa.com.bd/"
+  },
+  {
+    "title": "Bogra Sangbad | বগুড়া সংবাদ (বগুড়া)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=bograsangbad.com&sz=128",
+    "pdfUrl": "https://bograsangbad.com/"
+  },
+  {
+    "title": "Bogura Times | বগুড়া টাইমস (বগুড়া)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=www.boguratimes.com&sz=128",
+    "pdfUrl": "https://www.boguratimes.com/"
+  },
+  {
+    "title": "Bogura Pratidin | বগুড়া প্রতিদিন (বগুড়া)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=bogurapratidin.com&sz=128",
+    "pdfUrl": "https://bogurapratidin.com/"
+  },
+  {
+    "title": "Dainik Bogura | দৈনিক বগুড়া (বগুড়া)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=dailybogura.com&sz=128",
+    "pdfUrl": "https://dailybogura.com/"
+  },
+  {
+    "title": "Bogra News 24 | বগুড়া নিউজ ২৪ (বগুড়া)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=bogranews24.com&sz=128",
+    "pdfUrl": "https://bogranews24.com/"
+  },
+  {
+    "title": "Pabna News 24 | পাবনা নিউজ ২৪ (পাবনা)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=pabnanews24.com&sz=128",
+    "pdfUrl": "http://pabnanews24.com/"
+  },
+  {
+    "title": "Daily Pabna | ডেইলি পাবনা (পাবনা)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=www.dailypabna.com&sz=128",
+    "pdfUrl": "https://www.dailypabna.com/"
+  },
+  {
+    "title": "Sirajganj Protidin | দৈনিক সিরাজগঞ্জ প্রতিদিন (সিরাজগঞ্জ)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=sirajganjprotidin.com&sz=128",
+    "pdfUrl": "https://sirajganjprotidin.com/"
+  },
+  {
+    "title": "Sirajganj Sangbad | সিরাজগঞ্জ সংবাদ (সিরাজগঞ্জ)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=www.sirajganjsangbad.com&sz=128",
+    "pdfUrl": "https://www.sirajganjsangbad.com/"
+  },
+  {
+    "title": "Amader Naogaon | আমাদের নওগাঁ (নওগাঁ)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=www.amadernaogaon.com&sz=128",
+    "pdfUrl": "https://www.amadernaogaon.com/"
+  },
+  {
+    "title": "Natore Times | নাটোর টাইমস (নাটোর)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=natoretimes.com&sz=128",
+    "pdfUrl": "https://natoretimes.com/"
+  },
+  {
+    "title": "Chapai News | চাঁপাই নিউজ (চাঁপাইনবাবগঞ্জ)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=chapainews.com&sz=128",
+    "pdfUrl": "https://chapainews.com/"
+  },
+  {
+    "title": "Chapai Barta | চাঁপাই বার্তা (চাঁপাইনবাবগঞ্জ)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=chapaibarta.com&sz=128",
+    "pdfUrl": "https://chapaibarta.com/"
+  },
+  {
+    "title": "Joypurhat News 24 | জয়পুরহাট নিউজ ২৪ (জয়পুরহাট)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=joypurhatnews24.com&sz=128",
+    "pdfUrl": "https://joypurhatnews24.com/"
+  },
+  {
+    "title": "Dainik Purbanchal | দৈনিক পূর্বাঞ্চল (খুলনা)",
+    "imgUrl": "https://purbanchal.com/images/logo.png",
+    "pdfUrl": "https://purbanchal.com/"
+  },
+  {
+    "title": "Dainik Khulnanchal | দৈনিক খুলনাঞ্চল (খুলনা)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=khulnanchal.com&sz=128",
+    "pdfUrl": "https://khulnanchal.com/"
+  },
+  {
+    "title": "Khulna24 | খুলনা ২৪ (খুলনা)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=khulna24.com&sz=128",
+    "pdfUrl": "https://khulna24.com/"
+  },
+  {
+    "title": "Gramer Kagoj | গ্রামের কাগজ (যশোর)",
+    "imgUrl": "https://gramerkagoj.com/images/logo.png",
+    "pdfUrl": "https://gramerkagoj.com/"
+  },
+  {
+    "title": "Dainik Jessore | দৈনিক যশোর (যশোর)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=dainikjessore.com&sz=128",
+    "pdfUrl": "https://dainikjessore.com/"
+  },
+  {
+    "title": "Satkhira Khobor | সাতক্ষীরা খবর (সাতক্ষীরা)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=satkhirakhobor.com&sz=128",
+    "pdfUrl": "https://satkhirakhobor.com/"
+  },
+  {
+    "title": "Satkhira24 | সাতক্ষীরা ২৪ (সাতক্ষীরা)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=www.satkhira24.com&sz=128",
+    "pdfUrl": "https://www.satkhira24.com/"
+  },
+  {
+    "title": "Satkhira News 24 | সাতক্ষীরা নিউজ ২৪ (সাতক্ষীরা)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=satkhiranews24.com&sz=128",
+    "pdfUrl": "https://satkhiranews24.com/"
+  },
+  {
+    "title": "Bagerhat News 24 | বাগেরহাট নিউজ ২৪ (বাগেরহাট)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=bagerhatnews24.com&sz=128",
+    "pdfUrl": "https://bagerhatnews24.com/"
+  },
+  {
+    "title": "Bagerhat Info | বাগেরহাট ইনফো (বাগেরহাট)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=www.bagerhatinfo.com&sz=128",
+    "pdfUrl": "http://www.bagerhatinfo.com/"
+  },
+  {
+    "title": "Bagerhat Pratidin | বাগেরহাট প্রতিদিন (বাগেরহাট)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=www.bagerhatpratidin.com&sz=128",
+    "pdfUrl": "https://www.bagerhatpratidin.com/"
+  },
+  {
+    "title": "Dainik Bagerhat | দৈনিক বাগেরহাট (বাগেরহাট)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=dainikbagerhat.com&sz=128",
+    "pdfUrl": "https://dainikbagerhat.com/"
+  },
+  {
+    "title": "Kushtia Protidin | কুষ্টিয়া প্রতিদিন (কুষ্টিয়া)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=kushtiaprotidin.com&sz=128",
+    "pdfUrl": "https://kushtiaprotidin.com/"
+  },
+  {
+    "title": "Dainik Jhenaidah | দৈনিক ঝিনাইদহ (ঝিনাইদহ)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=dainikjhenaidah.com&sz=128",
+    "pdfUrl": "https://dainikjhenaidah.com/"
+  },
+  {
+    "title": "Dainik Mathabhanga | দৈনিক মাথাভাঙ্গা (চুয়াডাঙ্গা) (চুয়াডাঙ্গা)",
     "imgUrl": "https://mathabhanga.com/images/logo.png",
     "pdfUrl": "https://mathabhanga.com/"
   },
   {
-    "title": "Suprobhat Bangladesh | সুপ্রভাত বাংলাদেশ (চট্টগ্রাম)",
-    "imgUrl": "https://suprobhat.com/images/logo.png",
-    "pdfUrl": "https://suprobhat.com/"
+    "title": "Chuadanga Times | চুয়াডাঙ্গা টাইমস (চুয়াডাঙ্গা)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=chuadangatimes.com&sz=128",
+    "pdfUrl": "https://chuadangatimes.com/"
   },
   {
-    "title": "Dainik Ajker Jamalpur | দৈনিক আজকের জামালপুর",
+    "title": "Daily Meherpur | ডেইলি মেহেরপুর (মেহেরপুর)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=www.dailymeherpur.com&sz=128",
+    "pdfUrl": "https://www.dailymeherpur.com/"
+  },
+  {
+    "title": "Meherpur News 24 | মেহেরপুর নিউজ ২৪ (মেহেরপুর)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=www.meherpurnews24.com&sz=128",
+    "pdfUrl": "http://www.meherpurnews24.com/"
+  },
+  {
+    "title": "Magura Protidin | মাগুরা প্রতিদিন (মাগুরা)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=maguraprotidin.com&sz=128",
+    "pdfUrl": "https://maguraprotidin.com/"
+  },
+  {
+    "title": "Magura News | মাগুরা নিউজ (মাগুরা)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=www.maguranews.com&sz=128",
+    "pdfUrl": "https://www.maguranews.com/"
+  },
+  {
+    "title": "Magura News 24 | মাগুরা নিউজ ২৪ (মাগুরা)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=maguranews24.com&sz=128",
+    "pdfUrl": "https://maguranews24.com/"
+  },
+  {
+    "title": "Narail Sangbad | নড়াইল সংবাদ (নড়াইল)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=narailsangbad.com&sz=128",
+    "pdfUrl": "https://narailsangbad.com/"
+  },
+  {
+    "title": "Dainik Narail | দৈনিক নড়াইল (নড়াইল)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=dainiknarail.com&sz=128",
+    "pdfUrl": "https://dainiknarail.com/"
+  },
+  {
+    "title": "Barisal Sangbad | বরিশাল সংবাদ (বরিশাল)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=barisalsangbad.com&sz=128",
+    "pdfUrl": "https://barisalsangbad.com/"
+  },
+  {
+    "title": "Daily Barishal | ডেইলি বরিশাল (বরিশাল)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=dailybarishal.com&sz=128",
+    "pdfUrl": "https://dailybarishal.com/"
+  },
+  {
+    "title": "Barishal News | বরিশাল নিউজ (বরিশাল)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=www.barishalnews.com&sz=128",
+    "pdfUrl": "https://www.barishalnews.com/"
+  },
+  {
+    "title": "Barishal24 | বরিশাল ২৪ (বরিশাল)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=barishal24.com&sz=128",
+    "pdfUrl": "https://barishal24.com/"
+  },
+  {
+    "title": "Barishal News 24 | বরিশাল নিউজ ২৪ (বরিশাল)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=barishalnews24.com&sz=128",
+    "pdfUrl": "https://barishalnews24.com/"
+  },
+  {
+    "title": "Barishal Mail | বরিশাল মেইল (বরিশাল)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=www.barishalmail.com&sz=128",
+    "pdfUrl": "https://www.barishalmail.com/"
+  },
+  {
+    "title": "Patuakhali News | পটুয়াখালী নিউজ (পটুয়াখালী)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=www.patuakhalinews.com&sz=128",
+    "pdfUrl": "https://www.patuakhalinews.com/"
+  },
+  {
+    "title": "Patuakhali Pratidin | পটুয়াখালী প্রতিদিন (পটুয়াখালী)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=www.patuakhalipratidin.com&sz=128",
+    "pdfUrl": "https://www.patuakhalipratidin.com/"
+  },
+  {
+    "title": "Bhola News | ভোলা নিউজ (ভোলা)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=bholanews.com&sz=128",
+    "pdfUrl": "https://bholanews.com/"
+  },
+  {
+    "title": "Bholabani | ভোলাবাণী (ভোলা)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=www.bholabani.com&sz=128",
+    "pdfUrl": "https://www.bholabani.com/"
+  },
+  {
+    "title": "Bhola Pratidin | ভোলা প্রতিদিন (ভোলা)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=bholapratidin.com&sz=128",
+    "pdfUrl": "https://bholapratidin.com/"
+  },
+  {
+    "title": "Pirojpur Kantho | পিরোজপুর কণ্ঠ (পিরোজপুর)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=pirojpurkantho.com&sz=128",
+    "pdfUrl": "https://pirojpurkantho.com/"
+  },
+  {
+    "title": "Dainik Jhalokathi | দৈনিক ঝালকাঠি (ঝালকাঠি)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=dailyjhalokathi.com&sz=128",
+    "pdfUrl": "https://dailyjhalokathi.com/"
+  },
+  {
+    "title": "Sylheter Dak | সিলেটের ডাক (সিলেট)",
+    "imgUrl": "https://sylheterdak.com.bd/assets/images/logo.png",
+    "pdfUrl": "https://sylheterdak.com.bd/"
+  },
+  {
+    "title": "Dainik Sylhet Mirror | দৈনিক সিলেট মিরর (সিলেট)",
+    "imgUrl": "https://sylhetmirror.com/images/logo.png",
+    "pdfUrl": "https://e.dailysylhetmirror.com/"
+  },
+  {
+    "title": "Sylhet Sangbad | সিলেট সংবাদ (সিলেট)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=sylhetsangbad.com&sz=128",
+    "pdfUrl": "https://sylhetsangbad.com/"
+  },
+  {
+    "title": "Dainik Sylhet | দৈনিক সিলেট (সিলেট)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=dainiksylhet.com&sz=128",
+    "pdfUrl": "https://dainiksylhet.com/"
+  },
+  {
+    "title": "Sunamganj Times | সুনামগঞ্জ টাইমস (সুনামগঞ্জ)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=sunamganjtimes.com&sz=128",
+    "pdfUrl": "https://sunamganjtimes.com/"
+  },
+  {
+    "title": "Sunamganj Barta | সুনামগঞ্জ বার্তা (সুনামগঞ্জ)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=sunamganjbarta.com&sz=128",
+    "pdfUrl": "https://sunamganjbarta.com/"
+  },
+  {
+    "title": "Dainik Sunamganj Sangbad | দৈনিক সুনামগঞ্জ সংবাদ (সুনামগঞ্জ)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=sunamganjsangbad.com&sz=128",
+    "pdfUrl": "https://sunamganjsangbad.com/"
+  },
+  {
+    "title": "Habiganj News 24 | হবিগঞ্জ নিউজ ২৪ (হবিগঞ্জ)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=habiganjnews24.com&sz=128",
+    "pdfUrl": "https://habiganjnews24.com/"
+  },
+  {
+    "title": "Habiganj Express | হবিগঞ্জ এক্সপ্রেস (হবিগঞ্জ)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=www.habiganjexpress.com&sz=128",
+    "pdfUrl": "https://www.habiganjexpress.com/"
+  },
+  {
+    "title": "Moulvibazar24 | মৌলভীবাজার ২৪ (মৌলভীবাজার)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=moulvibazar24.com&sz=128",
+    "pdfUrl": "https://moulvibazar24.com/"
+  },
+  {
+    "title": "Rangpur24 | রংপুর ২৪ (রংপুর)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=rangpur24.com&sz=128",
+    "pdfUrl": "https://rangpur24.com/"
+  },
+  {
+    "title": "Rangpur Sangbad | রংপুর সংবাদ (রংপুর)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=rangpursangbad.com&sz=128",
+    "pdfUrl": "https://rangpursangbad.com/"
+  },
+  {
+    "title": "Rangpur Times | রংপুর টাইমস (রংপুর)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=rangpurtimes.com&sz=128",
+    "pdfUrl": "https://rangpurtimes.com/"
+  },
+  {
+    "title": "Dinajpur Barta 24 | দিনাজপুর বার্তা ২৪ (দিনাজপুর)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=dinajpurbarta24.com&sz=128",
+    "pdfUrl": "https://dinajpurbarta24.com/"
+  },
+  {
+    "title": "Dinajpur24 | দিনাজপুর ২৪ (দিনাজপুর)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=dinajpur24.com&sz=128",
+    "pdfUrl": "https://dinajpur24.com/"
+  },
+  {
+    "title": "Dinajpur News 24 | দিনাজপুর নিউজ ২৪ (দিনাজপুর)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=dinajpurnews24.com&sz=128",
+    "pdfUrl": "https://dinajpurnews24.com/"
+  },
+  {
+    "title": "Dinajpur News | দিনাজপুর নিউজ (দিনাজপুর)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=dinajpurnews.net&sz=128",
+    "pdfUrl": "https://dinajpurnews.net/"
+  },
+  {
+    "title": "Gaibandha Protidin | গাইবান্ধা প্রতিদিন (গাইবান্ধা)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=gaibandhaprotidin.com&sz=128",
+    "pdfUrl": "https://gaibandhaprotidin.com/"
+  },
+  {
+    "title": "Gaibandha News 24 | গাইবান্ধা নিউজ ২৪ (গাইবান্ধা)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=gaibandhanews24.com&sz=128",
+    "pdfUrl": "https://gaibandhanews24.com/"
+  },
+  {
+    "title": "Kurigram24 | কুড়িগ্রাম ২৪ (কুড়িগ্রাম)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=kurigram24.com&sz=128",
+    "pdfUrl": "https://kurigram24.com/"
+  },
+  {
+    "title": "Kurigram News 24 | কুড়িগ্রাম নিউজ ২৪ (কুড়িগ্রাম)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=kurigramnews24.com&sz=128",
+    "pdfUrl": "https://kurigramnews24.com/"
+  },
+  {
+    "title": "Kurigram Pratidin | কুড়িগ্রাম প্রতিদিন (কুড়িগ্রাম)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=www.kurigrampratidin.com&sz=128",
+    "pdfUrl": "https://www.kurigrampratidin.com/"
+  },
+  {
+    "title": "Nilphamari Pratidin | নীলফামারী প্রতিদিন (নীলফামারী)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=nilphamaripratidin.com&sz=128",
+    "pdfUrl": "http://nilphamaripratidin.com/"
+  },
+  {
+    "title": "Nilphamari News 24 | নীলফামারী নিউজ ২৪ (নীলফামারী)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=nilphamarinews24.com&sz=128",
+    "pdfUrl": "https://nilphamarinews24.com/"
+  },
+  {
+    "title": "Dainik Panchagarh | দৈনিক পঞ্চগড় (পঞ্চগড়)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=www.dainikpanchagarh.com&sz=128",
+    "pdfUrl": "https://www.dainikpanchagarh.com/"
+  },
+  {
+    "title": "Lalmonirhat News | লালমনিরহাট নিউজ (লালমনিরহাট)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=lalmonirhatnews.com&sz=128",
+    "pdfUrl": "https://lalmonirhatnews.com/"
+  },
+  {
+    "title": "Lalmonirhat Pratidin | লালমনিরহাট প্রতিদিন (লালমনিরহাট)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=lalmonirhatpratidin.com&sz=128",
+    "pdfUrl": "https://lalmonirhatpratidin.com/"
+  },
+  {
+    "title": "Daily Mymensingh | ডেইলি ময়মনসিংহ (ময়মনসিংহ)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=dailymymensingh.com&sz=128",
+    "pdfUrl": "https://dailymymensingh.com/"
+  },
+  {
+    "title": "Mymensingh Barta | ময়মনসিংহ বার্তা (ময়মনসিংহ)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=mymensinghbarta.com&sz=128",
+    "pdfUrl": "https://mymensinghbarta.com/"
+  },
+  {
+    "title": "Dainik Ajker Jamalpur | দৈনিক আজকের জামালপুর (জামালপুর)",
     "imgUrl": "https://ajkerjamalpur.com/images/logo.png",
     "pdfUrl": "https://ajkerjamalpur.com/"
   },
   {
-    "title": "Dainik Sylhet Mirror | দৈনিক সিলেট মিরর",
-    "imgUrl": "https://sylhetmirror.com/images/logo.png",
-    "pdfUrl": "https://e.dailysylhetmirror.com/"
+    "title": "Jamalpur News 24 | জামালপুর নিউজ ২৪ (জামালপুর)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=jamalpurnews24.com&sz=128",
+    "pdfUrl": "https://jamalpurnews24.com/"
+  },
+  {
+    "title": "Jamalpur Times | জামালপুর টাইমস (জামালপুর)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=jamalpurtimes.com&sz=128",
+    "pdfUrl": "https://jamalpurtimes.com/"
+  },
+  {
+    "title": "Netrokona News 24 | নেত্রকোনা নিউজ ২৪ (নেত্রকোণা)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=netrokonanews24.com&sz=128",
+    "pdfUrl": "https://netrokonanews24.com/"
+  },
+  {
+    "title": "Sherpur Pratidin | শেরপুর প্রতিদিন (শেরপুর)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=sherpurpratidin.com&sz=128",
+    "pdfUrl": "https://sherpurpratidin.com/"
+  },
+  {
+    "title": "Sherpur Barta | শেরপুর বার্তা (শেরপুর)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=sherpurbarta.com&sz=128",
+    "pdfUrl": "https://sherpurbarta.com/"
   }
 ]

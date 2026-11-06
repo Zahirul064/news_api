@@ -1,534 +1,1852 @@
-[
-  {
-    "id": 1,
-    "district_en": "Dhaka",
-    "district_bn": "ঢাকা",
-    "division": "ঢাকা (Dhaka)",
-    "news": []
-  },
-  {
-    "id": 2,
-    "district_en": "Faridpur",
-    "district_bn": "ফরিদপুর",
-    "division": "ঢাকা (Dhaka)",
-    "news": []
-  },
-  {
-    "id": 3,
-    "district_en": "Gazipur",
-    "district_bn": "গাজীপুর",
-    "division": "ঢাকা (Dhaka)",
-    "news": []
-  },
-  {
-    "id": 4,
-    "district_en": "Gopalganj",
-    "district_bn": "গোপালগঞ্জ",
-    "division": "ঢাকা (Dhaka)",
-    "news": []
-  },
-  {
-    "id": 5,
-    "district_en": "Kishoreganj",
-    "district_bn": "কিশোরগঞ্জ",
-    "division": "ঢাকা (Dhaka)",
-    "news": []
-  },
-  {
-    "id": 6,
-    "district_en": "Madaripur",
-    "district_bn": "মাদারীপুর",
-    "division": "ঢাকা (Dhaka)",
-    "news": []
-  },
-  {
-    "id": 7,
-    "district_en": "Manikganj",
-    "district_bn": "মানিকগঞ্জ",
-    "division": "ঢাকা (Dhaka)",
-    "news": []
-  },
-  {
-    "id": 8,
-    "district_en": "Munshiganj",
-    "district_bn": "মুন্সিগঞ্জ",
-    "division": "ঢাকা (Dhaka)",
-    "news": []
-  },
-  {
-    "id": 9,
-    "district_en": "Narayanganj",
-    "district_bn": "নারায়ণগঞ্জ",
-    "division": "ঢাকা (Dhaka)",
-    "news": []
-  },
-  {
-    "id": 10,
-    "district_en": "Narsingdi",
-    "district_bn": "নরসিংদী",
-    "division": "ঢাকা (Dhaka)",
-    "news": []
-  },
-  {
-    "id": 11,
-    "district_en": "Rajbari",
-    "district_bn": "রাজবাড়ী",
-    "division": "ঢাকা (Dhaka)",
-    "news": []
-  },
-  {
-    "id": 12,
-    "district_en": "Shariatpur",
-    "district_bn": "শরীয়তপুর",
-    "division": "ঢাকা (Dhaka)",
-    "news": []
-  },
-  {
-    "id": 13,
-    "district_en": "Tangail",
-    "district_bn": "টাঙ্গাইল",
-    "division": "ঢাকা (Dhaka)",
-    "news": []
-  },
-  {
-    "id": 14,
-    "district_en": "Bandarban",
-    "district_bn": "বান্দরবান",
-    "division": "চট্টগ্রাম (Chattogram)",
-    "news": []
-  },
-  {
-    "id": 15,
-    "district_en": "Brahmanbaria",
-    "district_bn": "ব্রাহ্মণবাড়িয়া",
-    "division": "চট্টগ্রাম (Chattogram)",
-    "news": []
-  },
-  {
-    "id": 16,
-    "district_en": "Chandpur",
-    "district_bn": "চাঁদপুর",
-    "division": "চট্টগ্রাম (Chattogram)",
-    "news": []
-  },
-  {
-    "id": 17,
-    "district_en": "Chattogram",
-    "district_bn": "চট্টগ্রাম",
-    "division": "চট্টগ্রাম (Chattogram)",
-    "news": [
-      {
-        "title": "Dainik Azadi | দৈনিক আজাদী (চট্টগ্রাম)",
-        "imgUrl": "https://dainikazadi.net/wp-content/uploads/2021/01/logo.png",
-        "pdfUrl": "https://dainikazadi.net/"
-      },
-      {
-        "title": "Dainik Purbokone | দৈনিক পূর্বকোণ (চট্টগ্রাম)",
-        "imgUrl": "https://purbokone.com/wp-content/uploads/2020/03/logo.png",
-        "pdfUrl": "https://www.dainikpurbokone.net/"
-      },
-      {
-        "title": "Suprobhat Bangladesh | সুপ্রভাত বাংলাদেশ (চট্টগ্রাম)",
-        "imgUrl": "https://suprobhat.com/images/logo.png",
-        "pdfUrl": "https://suprobhat.com/"
-      }
-    ]
-  },
-  {
-    "id": 18,
-    "district_en": "Cumilla",
-    "district_bn": "কুমিল্লা",
-    "division": "চট্টগ্রাম (Chattogram)",
-    "news": []
-  },
-  {
-    "id": 19,
-    "district_en": "Cox's Bazar",
-    "district_bn": "কক্সবাজার",
-    "division": "চট্টগ্রাম (Chattogram)",
-    "news": [
-      {
-        "title": "Dainik Cox’s Bazar | দৈনিক কক্সবাজার",
-        "imgUrl": "https://dainikcoxsbazar.com/images/logo.png",
-        "pdfUrl": "https://dainikcoxsbazar.com/"
-      }
-    ]
-  },
-  {
-    "id": 20,
-    "district_en": "Feni",
-    "district_bn": "ফেনী",
-    "division": "চট্টগ্রাম (Chattogram)",
-    "news": []
-  },
-  {
-    "id": 21,
-    "district_en": "Khagrachhari",
-    "district_bn": "খাগড়াছড়ি",
-    "division": "চট্টগ্রাম (Chattogram)",
-    "news": []
-  },
-  {
-    "id": 22,
-    "district_en": "Lakshmipur",
-    "district_bn": "লক্ষ্মীপুর",
-    "division": "চট্টগ্রাম (Chattogram)",
-    "news": []
-  },
-  {
-    "id": 23,
-    "district_en": "Noakhali",
-    "district_bn": "নোয়াখালী",
-    "division": "চট্টগ্রাম (Chattogram)",
-    "news": []
-  },
-  {
-    "id": 24,
-    "district_en": "Rangamati",
-    "district_bn": "রাঙ্গামাটি",
-    "division": "চট্টগ্রাম (Chattogram)",
-    "news": []
-  },
-  {
-    "id": 25,
-    "district_en": "Bogura",
-    "district_bn": "বগুড়া",
-    "division": "রাজশাহী (Rajshahi)",
-    "news": [
-      {
-        "title": "Dainik Karatoa | দৈনিক করতোয়া (বগুড়া)",
-        "imgUrl": "https://karatoa.com.bd/images/logo.png",
-        "pdfUrl": "https://karatoa.com.bd/"
-      }
-    ]
-  },
-  {
-    "id": 26,
-    "district_en": "Joypurhat",
-    "district_bn": "জয়পুরহাট",
-    "division": "রাজশাহী (Rajshahi)",
-    "news": []
-  },
-  {
-    "id": 27,
-    "district_en": "Naogaon",
-    "district_bn": "নওগাঁ",
-    "division": "রাজশাহী (Rajshahi)",
-    "news": []
-  },
-  {
-    "id": 28,
-    "district_en": "Natore",
-    "district_bn": "নাটোর",
-    "division": "রাজশাহী (Rajshahi)",
-    "news": []
-  },
-  {
-    "id": 29,
-    "district_en": "Chapainawabganj",
-    "district_bn": "চাঁপাইনবাবগঞ্জ",
-    "division": "রাজশাহী (Rajshahi)",
-    "news": []
-  },
-  {
-    "id": 30,
-    "district_en": "Pabna",
-    "district_bn": "পাবনা",
-    "division": "রাজশাহী (Rajshahi)",
-    "news": []
-  },
-  {
-    "id": 31,
-    "district_en": "Rajshahi",
-    "district_bn": "রাজশাহী",
-    "division": "রাজশাহী (Rajshahi)",
-    "news": [
-      {
-        "title": "Rajshahi News24 | রাজশাহী নিউজ 24",
-        "imgUrl": "https://rajshahinews24.com/public/templateimage/60ef5cebb8486.jpg",
-        "pdfUrl": "https://rajshahinews24.com/"
-      },
-      {
-        "title": "Rajshahir Somoy | রাজশাহীর সময়",
-        "imgUrl": "https://rajshahirsomoy.com/public/templateimage/61e920dea6348.png",
-        "pdfUrl": "https://rajshahirsomoy.com/"
-      },
-      {
-        "title": "Dainik Sonali Sangbad | দৈনিক সোনালী সংবাদ (রাজশাহী)",
-        "imgUrl": "https://sonalisangbad.com/images/logo.png",
-        "pdfUrl": "https://sonalisangbad.com/"
-      },
-      {
-        "title": "Dainik Sunshine | দৈনিক সানশাইন (রাজশাহী)",
-        "imgUrl": "https://dailysunshine.com.bd/images/logo.png",
-        "pdfUrl": "https://dailysunshine.com.bd/"
-      }
-    ]
-  },
-  {
-    "id": 32,
-    "district_en": "Sirajganj",
-    "district_bn": "সিরাজগঞ্জ",
-    "division": "রাজশাহী (Rajshahi)",
-    "news": []
-  },
-  {
-    "id": 33,
-    "district_en": "Bagerhat",
-    "district_bn": "বাগেরহাট",
-    "division": "খুলনা (Khulna)",
-    "news": []
-  },
-  {
-    "id": 34,
-    "district_en": "Chuadanga",
-    "district_bn": "চুয়াডাঙ্গা",
-    "division": "খুলনা (Khulna)",
-    "news": [
-      {
-        "title": "Dainik Mathabhanga | দৈনিক মাথাভাঙ্গা (চুয়াডাঙ্গা)",
-        "imgUrl": "https://mathabhanga.com/images/logo.png",
-        "pdfUrl": "https://mathabhanga.com/"
-      }
-    ]
-  },
-  {
-    "id": 35,
-    "district_en": "Jashore",
-    "district_bn": "যশোর",
-    "division": "খুলনা (Khulna)",
-    "news": [
-      {
-        "title": "Gramer Kagoj | গ্রামের কাগজ (যশোর)",
-        "imgUrl": "https://gramerkagoj.com/images/logo.png",
-        "pdfUrl": "https://gramerkagoj.com/"
-      }
-    ]
-  },
-  {
-    "id": 36,
-    "district_en": "Jhenaidah",
-    "district_bn": "ঝিনাইদহ",
-    "division": "খুলনা (Khulna)",
-    "news": []
-  },
-  {
-    "id": 37,
-    "district_en": "Khulna",
-    "district_bn": "খুলনা",
-    "division": "খুলনা (Khulna)",
-    "news": [
-      {
-        "title": "Dainik Purbanchal | দৈনিক পূর্বাঞ্চল (খুলনা)",
-        "imgUrl": "https://purbanchal.com/images/logo.png",
-        "pdfUrl": "https://purbanchal.com/"
-      }
-    ]
-  },
-  {
-    "id": 38,
-    "district_en": "Kushtia",
-    "district_bn": "কুষ্টিয়া",
-    "division": "খুলনা (Khulna)",
-    "news": []
-  },
-  {
-    "id": 39,
-    "district_en": "Magura",
-    "district_bn": "মাগুরা",
-    "division": "খুলনা (Khulna)",
-    "news": []
-  },
-  {
-    "id": 40,
-    "district_en": "Meherpur",
-    "district_bn": "মেহেরপুর",
-    "division": "খুলনা (Khulna)",
-    "news": []
-  },
-  {
-    "id": 41,
-    "district_en": "Narail",
-    "district_bn": "নড়াইল",
-    "division": "খুলনা (Khulna)",
-    "news": []
-  },
-  {
-    "id": 42,
-    "district_en": "Satkhira",
-    "district_bn": "সাতক্ষীরা",
-    "division": "খুলনা (Khulna)",
-    "news": []
-  },
-  {
-    "id": 43,
-    "district_en": "Barguna",
-    "district_bn": "বরগুনা",
-    "division": "বরিশাল (Barishal)",
-    "news": []
-  },
-  {
-    "id": 44,
-    "district_en": "Barishal",
-    "district_bn": "বরিশাল",
-    "division": "বরিশাল (Barishal)",
-    "news": []
-  },
-  {
-    "id": 45,
-    "district_en": "Bhola",
-    "district_bn": "ভোলা",
-    "division": "বরিশাল (Barishal)",
-    "news": []
-  },
-  {
-    "id": 46,
-    "district_en": "Jhalokathi",
-    "district_bn": "ঝালকাঠি",
-    "division": "বরিশাল (Barishal)",
-    "news": []
-  },
-  {
-    "id": 47,
-    "district_en": "Patuakhali",
-    "district_bn": "পটুয়াখালী",
-    "division": "বরিশাল (Barishal)",
-    "news": []
-  },
-  {
-    "id": 48,
-    "district_en": "Pirojpur",
-    "district_bn": "পিরোজপুর",
-    "division": "বরিশাল (Barishal)",
-    "news": []
-  },
-  {
-    "id": 49,
-    "district_en": "Habiganj",
-    "district_bn": "হবিগঞ্জ",
-    "division": "সিলেট (Sylhet)",
-    "news": []
-  },
-  {
-    "id": 50,
-    "district_en": "Moulvibazar",
-    "district_bn": "মৌলভীবাজার",
-    "division": "সিলেট (Sylhet)",
-    "news": []
-  },
-  {
-    "id": 51,
-    "district_en": "Sunamganj",
-    "district_bn": "সুনামগঞ্জ",
-    "division": "সিলেট (Sylhet)",
-    "news": []
-  },
-  {
-    "id": 52,
-    "district_en": "Sylhet",
-    "district_bn": "সিলেট",
-    "division": "সিলেট (Sylhet)",
-    "news": [
-      {
-        "title": "Sylheter Dak | সিলেটের ডাক (সিলেট)",
-        "imgUrl": "https://sylheterdak.com.bd/assets/images/logo.png",
-        "pdfUrl": "https://sylheterdak.com.bd/"
-      },
-      {
-        "title": "Dainik Sylhet Mirror | দৈনিক সিলেট মিরর",
-        "imgUrl": "https://sylhetmirror.com/images/logo.png",
-        "pdfUrl": "https://e.dailysylhetmirror.com/"
-      }
-    ]
-  },
-  {
-    "id": 53,
-    "district_en": "Dinajpur",
-    "district_bn": "দিনাজপুর",
-    "division": "রংপুর (Rangpur)",
-    "news": []
-  },
-  {
-    "id": 54,
-    "district_en": "Gaibandha",
-    "district_bn": "গাইবান্ধা",
-    "division": "রংপুর (Rangpur)",
-    "news": []
-  },
-  {
-    "id": 55,
-    "district_en": "Kurigram",
-    "district_bn": "কুড়িগ্রাম",
-    "division": "রংপুর (Rangpur)",
-    "news": []
-  },
-  {
-    "id": 56,
-    "district_en": "Lalmonirhat",
-    "district_bn": "লালমনিরহাট",
-    "division": "রংপুর (Rangpur)",
-    "news": []
-  },
-  {
-    "id": 57,
-    "district_en": "Nilphamari",
-    "district_bn": "নীলফামারী",
-    "division": "রংপুর (Rangpur)",
-    "news": []
-  },
-  {
-    "id": 58,
-    "district_en": "Panchagarh",
-    "district_bn": "পঞ্চগড়",
-    "division": "রংপুর (Rangpur)",
-    "news": []
-  },
-  {
-    "id": 59,
-    "district_en": "Rangpur",
-    "district_bn": "রংপুর",
-    "division": "রংপুর (Rangpur)",
-    "news": []
-  },
-  {
-    "id": 60,
-    "district_en": "Thakurgaon",
-    "district_bn": "ঠাকুরগাঁও",
-    "division": "রংপুর (Rangpur)",
-    "news": []
-  },
-  {
-    "id": 61,
-    "district_en": "Jamalpur",
-    "district_bn": "জামালপুর",
-    "division": "ময়মনসিংহ (Mymensingh)",
-    "news": [
-      {
-        "title": "Dainik Ajker Jamalpur | দৈনিক আজকের জামালপুর",
-        "imgUrl": "https://ajkerjamalpur.com/images/logo.png",
-        "pdfUrl": "https://ajkerjamalpur.com/"
-      }
-    ]
-  },
-  {
-    "id": 62,
-    "district_en": "Mymensingh",
-    "district_bn": "ময়মনসিংহ",
-    "division": "ময়মনসিংহ (Mymensingh)",
-    "news": []
-  },
-  {
-    "id": 63,
-    "district_en": "Netrokona",
-    "district_bn": "নেত্রকোণা",
-    "division": "ময়মনসিংহ (Mymensingh)",
-    "news": []
-  },
-  {
-    "id": 64,
-    "district_en": "Sherpur",
-    "district_bn": "শেরপুর",
-    "division": "ময়মনসিংহ (Mymensingh)",
-    "news": []
-  }
-]
+{
+  "country": "Bangladesh",
+  "updated": "2026-11-06",
+  "total_divisions": 8,
+  "total_districts": 64,
+  "divisions": [
+    {
+      "name_bn": "ঢাকা",
+      "name_en": "Dhaka",
+      "districts": [
+        {
+          "id": 1,
+          "name_bn": "ঢাকা",
+          "name_en": "Dhaka",
+          "upazilas": [
+            "ধামরাই",
+            "দোহার",
+            "কেরানীগঞ্জ",
+            "নবাবগঞ্জ",
+            "সাভার"
+          ],
+          "news": [
+            {
+              "title": "Dhaka News 24 | ঢাকা নিউজ ২৪",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=www.dhakanews24.com&sz=128",
+              "pdfUrl": "https://www.dhakanews24.com/"
+            },
+            {
+              "title": "Dhaka Sangbad | ঢাকা সংবাদ",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=dhakasangbad.com&sz=128",
+              "pdfUrl": "https://dhakasangbad.com/"
+            },
+            {
+              "title": "Dhaka Mail | ঢাকা মেইল",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=dhakamail.com&sz=128",
+              "pdfUrl": "https://dhakamail.com/"
+            },
+            {
+              "title": "Dhaka Pratidin | ঢাকা প্রতিদিন",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=dhakapratidin.com&sz=128",
+              "pdfUrl": "https://dhakapratidin.com/"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name_bn": "গাজীপুর",
+          "name_en": "Gazipur",
+          "upazilas": [
+            "গাজীপুর সদর",
+            "কালিয়াকৈর",
+            "কালীগঞ্জ",
+            "কাপাসিয়া",
+            "শ্রীপুর"
+          ],
+          "news": [
+            {
+              "title": "Gazipur Sangbad | গাজীপুর সংবাদ",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=www.gazipursangbad.com&sz=128",
+              "pdfUrl": "https://www.gazipursangbad.com/"
+            },
+            {
+              "title": "Daily Gazipur | ডেইলি গাজীপুর",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=dailygazipur.com&sz=128",
+              "pdfUrl": "https://dailygazipur.com/"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name_bn": "কিশোরগঞ্জ",
+          "name_en": "Kishoreganj",
+          "upazilas": [
+            "অষ্টগ্রাম",
+            "বাজিতপুর",
+            "ভৈরব",
+            "হোসেনপুর",
+            "ইটনা",
+            "করিমগঞ্জ",
+            "কিশোরগঞ্জ সদর",
+            "কুলিয়ারচর",
+            "মিঠামইন",
+            "নিকলী",
+            "পাকুন্দিয়া",
+            "তাড়াইল",
+            "কটিয়াদী"
+          ],
+          "news": [
+            {
+              "title": "Kishoreganj News | কিশোরগঞ্জ নিউজ",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=www.kishoreganjnews.com&sz=128",
+              "pdfUrl": "https://www.kishoreganjnews.com/"
+            },
+            {
+              "title": "Dainik Kishoreganj | দৈনিক কিশোরগঞ্জ",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=dainikkishoreganj.com&sz=128",
+              "pdfUrl": "https://dainikkishoreganj.com/"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name_bn": "মানিকগঞ্জ",
+          "name_en": "Manikganj",
+          "upazilas": [
+            "মানিকগঞ্জ সদর",
+            "সিংগাইর",
+            "শিবালয়",
+            "সাটুরিয়া",
+            "হরিরামপুর",
+            "ঘিওর",
+            "দৌলতপুর"
+          ],
+          "news": [
+            {
+              "title": "Manikganj News | মানিকগঞ্জ নিউজ",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=www.manikganjnews.com&sz=128",
+              "pdfUrl": "https://www.manikganjnews.com/"
+            },
+            {
+              "title": "Manikganj News 24 | মানিকগঞ্জ নিউজ ২৪",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=www.manikganj24.com&sz=128",
+              "pdfUrl": "https://www.manikganj24.com/"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name_bn": "মুন্সীগঞ্জ",
+          "name_en": "Munshiganj",
+          "upazilas": [
+            "মুন্সীগঞ্জ সদর",
+            "টংগীবাড়ী",
+            "সিরাজদিখান",
+            "লৌহজং",
+            "শ্রীনগর",
+            "গজারিয়া"
+          ],
+          "news": [
+            {
+              "title": "Daily Bikrampur | দৈনিক বিক্রমপুর",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=dailybikrampur.com&sz=128",
+              "pdfUrl": "https://dailybikrampur.com/"
+            },
+            {
+              "title": "Bikrampur Khobor | বিক্রমপুর খবর",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=www.bikrampurkhobor.com&sz=128",
+              "pdfUrl": "https://www.bikrampurkhobor.com/"
+            },
+            {
+              "title": "Munshigonj24 | মুন্সিগঞ্জ জেলার খবর",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=munshigonj24.com&sz=128",
+              "pdfUrl": "https://munshigonj24.com/"
+            },
+            {
+              "title": "Bikrampur Mail | বিক্রমপুর মেইল",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=bikrampurmail.com&sz=128",
+              "pdfUrl": "https://bikrampurmail.com/"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "name_bn": "নারায়ণগঞ্জ",
+          "name_en": "Narayanganj",
+          "upazilas": [
+            "নারায়ণগঞ্জ সদর",
+            "বন্দর",
+            "আড়াইহাজার",
+            "রূপগঞ্জ",
+            "সোনারগাঁও"
+          ],
+          "news": [
+            {
+              "title": "Narayanganj Times | নারায়ণগঞ্জ টাইমস",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=www.narayanganjtimes.com&sz=128",
+              "pdfUrl": "https://www.narayanganjtimes.com/"
+            },
+            {
+              "title": "Narayanganj Barta | নারায়ণগঞ্জ বার্তা",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=narayanganjbarta.com&sz=128",
+              "pdfUrl": "https://narayanganjbarta.com/"
+            },
+            {
+              "title": "Narayanganj Pratidin | নারায়ণগঞ্জ প্রতিদিন",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=narayanganjpratidin.com&sz=128",
+              "pdfUrl": "https://narayanganjpratidin.com/"
+            },
+            {
+              "title": "Narayanganj24 | নারায়ণগঞ্জ ২৪",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=narayanganj24.com&sz=128",
+              "pdfUrl": "https://narayanganj24.com/"
+            },
+            {
+              "title": "Narayanganj Sangbad | নারায়ণগঞ্জ সংবাদ",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=narayanganjsangbad.com&sz=128",
+              "pdfUrl": "https://narayanganjsangbad.com/"
+            },
+            {
+              "title": "Daily Narayanganj | দৈনিক নারায়ণগঞ্জ",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=dailynarayanganj.com&sz=128",
+              "pdfUrl": "https://dailynarayanganj.com/"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "name_bn": "নরসিংদী",
+          "name_en": "Narsingdi",
+          "upazilas": [
+            "নরসিংদী সদর",
+            "পলাশ",
+            "শিবপুর",
+            "মনোহরদী",
+            "বেলাবো",
+            "রায়পুরা"
+          ],
+          "news": [
+            {
+              "title": "Dainik Narsingdi | দৈনিক নরসিংদী",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=dainiknarsingdi.com&sz=128",
+              "pdfUrl": "https://dainiknarsingdi.com/"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "name_bn": "ফরিদপুর",
+          "name_en": "Faridpur",
+          "upazilas": [
+            "ফরিদপুর সদর",
+            "আলফাডাঙ্গা",
+            "বোয়ালমারী",
+            "সদরপুর",
+            "নাগরকান্দা",
+            "ভাংগা",
+            "চরভদ্রাসন",
+            "মধুখালী",
+            "শালথা"
+          ],
+          "news": [
+            {
+              "title": "Faridpur Protidin | ফরিদপুর প্রতিদিন",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=faridpurprotidin.com&sz=128",
+              "pdfUrl": "https://faridpurprotidin.com/"
+            },
+            {
+              "title": "Faridpur Times | ফরিদপুর টাইমস",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=faridpurtimes.com&sz=128",
+              "pdfUrl": "https://faridpurtimes.com/"
+            },
+            {
+              "title": "Faridpur News | ফরিদপুর নিউজ",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=faridpurnews.com&sz=128",
+              "pdfUrl": "https://faridpurnews.com/"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "name_bn": "গোপালগঞ্জ",
+          "name_en": "Gopalganj",
+          "upazilas": [
+            "গোপালগঞ্জ সদর",
+            "কাশিয়ানী",
+            "কোটালীপাড়া",
+            "মুকসুদপুর",
+            "টুঙ্গিপাড়া"
+          ],
+          "news": [
+            {
+              "title": "Gopalganj Kantho | গোপালগঞ্জ কণ্ঠ (সাপ্তাহিক)",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=gopalganjkantho.com&sz=128",
+              "pdfUrl": "https://gopalganjkantho.com/"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "name_bn": "মাদারীপুর",
+          "name_en": "Madaripur",
+          "upazilas": [
+            "মাদারীপুর সদর",
+            "শিবচর",
+            "কালকিনি",
+            "রাজৈর",
+            "ডাসার"
+          ],
+          "news": [
+            {
+              "title": "Madaripur Protidin | মাদারীপুর প্রতিদিন",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=madaripurprotidin.com&sz=128",
+              "pdfUrl": "https://madaripurprotidin.com/"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "name_bn": "রাজবাড়ী",
+          "name_en": "Rajbari",
+          "upazilas": [
+            "রাজবাড়ী সদর",
+            "গোয়ালন্দ",
+            "পাংশা",
+            "বালিয়াকান্দি",
+            "কালুখালী"
+          ],
+          "news": [
+            {
+              "title": "Rajbari Mail | রাজবাড়ী মেইল",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=rajbarimail.com&sz=128",
+              "pdfUrl": "https://rajbarimail.com/"
+            },
+            {
+              "title": "Rajbari Protidin | রাজবাড়ী প্রতিদিন",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=rajbariprotidin.com&sz=128",
+              "pdfUrl": "https://rajbariprotidin.com/"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "name_bn": "শরীয়তপুর",
+          "name_en": "Shariatpur",
+          "upazilas": [
+            "শরীয়তপুর সদর",
+            "নড়িয়া",
+            "জাজিরা",
+            "গোসাইরহাট",
+            "ভেদেরগঞ্জ",
+            "ডামুড্যা"
+          ],
+          "news": [
+            {
+              "title": "Shariatpur Times | শরীয়তপুর টাইমস",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=shariatpurtimes.com&sz=128",
+              "pdfUrl": "https://shariatpurtimes.com/"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "name_bn": "টাঙ্গাইল",
+          "name_en": "Tangail",
+          "upazilas": [
+            "টাঙ্গাইল সদর",
+            "বাসাইল",
+            "ভুয়াপুর",
+            "দেলদুয়ার",
+            "ঘাটাইল",
+            "গোপালপুর",
+            "কালিহাতী",
+            "মধুপুর",
+            "মির্জাপুর",
+            "নাগরপুর",
+            "সখীপুর",
+            "ধনবাড়ী"
+          ],
+          "news": [
+            {
+              "title": "Tangail Pratidin | টাঙ্গাইল প্রতিদিন",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=tangailpratidin.com&sz=128",
+              "pdfUrl": "https://tangailpratidin.com/"
+            },
+            {
+              "title": "Tangail24 | টাঙ্গাইল ২৪",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=tangail24.com&sz=128",
+              "pdfUrl": "https://tangail24.com/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name_bn": "চট্টগ্রাম",
+      "name_en": "Chattogram",
+      "districts": [
+        {
+          "id": 14,
+          "name_bn": "চট্টগ্রাম",
+          "name_en": "Chattogram",
+          "upazilas": [
+            "আনোয়ারা",
+            "বাঁশখালী",
+            "বোয়ালখালী",
+            "চন্দনাইশ",
+            "ফটিকছড়ি",
+            "হাটহাজারী",
+            "লোহাগাড়া",
+            "মিরসরাই",
+            "পটিয়া",
+            "রাঙ্গুনিয়া",
+            "রাউজান",
+            "সন্দ্বীপ",
+            "সাতকানিয়া",
+            "সীতাকুণ্ড",
+            "কর্ণফুলী"
+          ],
+          "news": [
+            {
+              "title": "Dainik Azadi | দৈনিক আজাদী (চট্টগ্রাম)",
+              "imgUrl": "https://dainikazadi.net/wp-content/uploads/2021/01/logo.png",
+              "pdfUrl": "https://dainikazadi.net/"
+            },
+            {
+              "title": "Dainik Purbokone | দৈনিক পূর্বকোণ (চট্টগ্রাম)",
+              "imgUrl": "https://purbokone.com/wp-content/uploads/2020/03/logo.png",
+              "pdfUrl": "https://www.dainikpurbokone.net/"
+            },
+            {
+              "title": "Suprobhat Bangladesh | সুপ্রভাত বাংলাদেশ (চট্টগ্রাম)",
+              "imgUrl": "https://suprobhat.com/images/logo.png",
+              "pdfUrl": "https://suprobhat.com/"
+            },
+            {
+              "title": "Chattogram Khobor | চট্টগ্রাম খবর",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=ctgkhobor.com&sz=128",
+              "pdfUrl": "https://ctgkhobor.com/"
+            },
+            {
+              "title": "Chattogram Mail | চট্টগ্রামের নির্ভরযোগ্য সংবাদ",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=chattogrammail.com&sz=128",
+              "pdfUrl": "https://chattogrammail.com/"
+            },
+            {
+              "title": "Chattogram News | চট্টগ্রাম বিভাগের সর্বশেষ সংবাদ",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=chattogramnews.com&sz=128",
+              "pdfUrl": "https://chattogramnews.com/"
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "name_bn": "কক্সবাজার",
+          "name_en": "Cox's Bazar",
+          "upazilas": [
+            "কক্সবাজার সদর",
+            "চকোরিয়া",
+            "মহেশখালী",
+            "টেকনাফ",
+            "উখিয়া",
+            "পেকুয়া",
+            "কুতুবদিয়া",
+            "রামু",
+            "ঈদগাঁও"
+          ],
+          "news": [
+            {
+              "title": "Dainik Cox’s Bazar | দৈনিক কক্সবাজার",
+              "imgUrl": "https://dainikcoxsbazar.com/images/logo.png",
+              "pdfUrl": "https://dainikcoxsbazar.com/"
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "name_bn": "বান্দরবান",
+          "name_en": "Bandarban",
+          "upazilas": [
+            "বান্দরবান সদর",
+            "থানচি",
+            "লামা",
+            "রুমা",
+            "রোয়াংছড়ি",
+            "নাইক্ষ্যংছড়ি",
+            "আলিকদম"
+          ],
+          "news": [
+            {
+              "title": "Bandarban News | বান্দরবান নিউজ",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=www.bandarbannews.com&sz=128",
+              "pdfUrl": "https://www.bandarbannews.com/"
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "name_bn": "রাঙ্গামাটি",
+          "name_en": "Rangamati",
+          "upazilas": [
+            "রাঙ্গামাটি সদর",
+            "কাপ্তাই",
+            "কাউখালী",
+            "বাঘাইছড়ি",
+            "বরকল",
+            "লংগদু",
+            "রাজস্থলী",
+            "বিলাইছড়ি",
+            "জুরাছড়ি",
+            "নানিয়ারচর"
+          ],
+          "news": [
+            {
+              "title": "CHT Barta | সিএইচটি বার্তা (পার্বত্য চট্টগ্রাম)",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=chtbarta.com&sz=128",
+              "pdfUrl": "https://chtbarta.com/"
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "name_bn": "খাগড়াছড়ি",
+          "name_en": "Khagrachhari",
+          "upazilas": [
+            "খাগড়াছড়ি সদর",
+            "দিঘীনালা",
+            "পানছড়ি",
+            "মহালছড়ি",
+            "মাটিরাঙ্গা",
+            "মানিকছড়ি",
+            "রামগড়",
+            "লক্ষ্মীছড়ি",
+            "গুয়ামারা"
+          ],
+          "news": [
+            {
+              "title": "CHT Barta | সিএইচটি বার্তা (পার্বত্য চট্টগ্রাম)",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=chtbarta.com&sz=128",
+              "pdfUrl": "https://chtbarta.com/"
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "name_bn": "কুমিল্লা",
+          "name_en": "Cumilla",
+          "upazilas": [
+            "কুমিল্লা আদর্শ সদর",
+            "কুমিল্লা সদর দক্ষিণ",
+            "বরুড়া",
+            "চান্দিনা",
+            "দাউদকান্দি",
+            "দেবীদ্বার",
+            "হোমনা",
+            "লাকসাম",
+            "মুরাদনগর",
+            "নাঙ্গলকোট",
+            "মেঘনা",
+            "তিতাস",
+            "মনোহরগঞ্জ",
+            "বুড়িচং",
+            "ব্রাহ্মণপাড়া",
+            "লালমাই",
+            "চৌদ্দগ্রাম"
+          ],
+          "news": [
+            {
+              "title": "Comilla Times | কুমিল্লা টাইমস",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=comillatimes.com&sz=128",
+              "pdfUrl": "https://comillatimes.com/"
+            },
+            {
+              "title": "Comilla News | কুমিল্লা নিউজ",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=comillanews.com&sz=128",
+              "pdfUrl": "https://comillanews.com/"
+            },
+            {
+              "title": "Comilla Mail | কুমিল্লা মেইল",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=comillamail.com&sz=128",
+              "pdfUrl": "https://comillamail.com/"
+            },
+            {
+              "title": "Dainik Cumilla Protidin | দৈনিক কুমিল্লা প্রতিদিন",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=cumillaprotidin.com&sz=128",
+              "pdfUrl": "https://cumillaprotidin.com/"
+            },
+            {
+              "title": "Cumilla News 24 | কুমিল্লা নিউজ ২৪",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=cumillanews24.com&sz=128",
+              "pdfUrl": "https://cumillanews24.com/"
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "name_bn": "ব্রাহ্মণবাড়ীয়া",
+          "name_en": "Brahmanbaria",
+          "upazilas": [
+            "ব্রাহ্মণবাড়ীয়া সদর",
+            "আখাউড়া",
+            "বাঞ্ছারামপুর",
+            "কসবা",
+            "নবীনগর",
+            "নাসিরনগর",
+            "সরাইল",
+            "আশুগঞ্জ",
+            "বিজয়নগর"
+          ],
+          "news": []
+        },
+        {
+          "id": 21,
+          "name_bn": "চাঁদপুর",
+          "name_en": "Chandpur",
+          "upazilas": [
+            "চাঁদপুর সদর",
+            "ফরিদগঞ্জ",
+            "হাইমচর",
+            "হাজীগঞ্জ",
+            "কচুয়া",
+            "মতলব উত্তর",
+            "মতলব দক্ষিণ",
+            "শাহরাস্তি"
+          ],
+          "news": [
+            {
+              "title": "Chandpur Protidin | চাঁদপুর প্রতিদিন",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=chandpurprotidin.com&sz=128",
+              "pdfUrl": "https://chandpurprotidin.com/"
+            },
+            {
+              "title": "Chandpur Times | চাঁদপুর টাইমস",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=chandpurtimes.com&sz=128",
+              "pdfUrl": "https://chandpurtimes.com/"
+            },
+            {
+              "title": "Daily Chandpur | ডেইলি চাঁদপুর",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=dailychandpur.com&sz=128",
+              "pdfUrl": "https://dailychandpur.com/"
+            },
+            {
+              "title": "Dainik Chandpur | দৈনিক চাঁদপুর",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=www.dainikchandpur.com&sz=128",
+              "pdfUrl": "http://www.dainikchandpur.com/"
+            },
+            {
+              "title": "Chandpur Sangbad | চাঁদপুর সংবাদ",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=chandpursangbad.com&sz=128",
+              "pdfUrl": "https://chandpursangbad.com/"
+            },
+            {
+              "title": "Daily Chandpur Khobor | দৈনিক চাঁদপুর খবর",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=chandpurkhobor.com&sz=128",
+              "pdfUrl": "https://chandpurkhobor.com/"
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "name_bn": "নোয়াখালী",
+          "name_en": "Noakhali",
+          "upazilas": [
+            "নোয়াখালী সদর",
+            "বেগমগঞ্জ",
+            "চাটখিল",
+            "কোম্পানীগঞ্জ",
+            "হাতিয়া",
+            "সেনবাগ",
+            "সুবর্ণচর",
+            "সোনাইমুড়ী",
+            "কবীরহাট"
+          ],
+          "news": [
+            {
+              "title": "Noakhali Times | নোয়াখালী টাইমস",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=noakhalitimes.com&sz=128",
+              "pdfUrl": "https://noakhalitimes.com/"
+            }
+          ]
+        },
+        {
+          "id": 23,
+          "name_bn": "ফেনী",
+          "name_en": "Feni",
+          "upazilas": [
+            "ফেনী সদর",
+            "দাগনভূঞা",
+            "ছাগলনাইয়া",
+            "সোনাগাজী",
+            "পরশুরাম",
+            "ফুলগাজী"
+          ],
+          "news": []
+        },
+        {
+          "id": 24,
+          "name_bn": "লক্ষ্মীপুর",
+          "name_en": "Lakshmipur",
+          "upazilas": [
+            "লক্ষ্মীপুর সদর",
+            "রায়পুর",
+            "রামগঞ্জ",
+            "রামগতি",
+            "কমলনগর"
+          ],
+          "news": [
+            {
+              "title": "Lakshmipur Khobor | লক্ষ্মীপুর খবর",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=lakshmipurkhobor.com&sz=128",
+              "pdfUrl": "https://lakshmipurkhobor.com/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name_bn": "রাজশাহী",
+      "name_en": "Rajshahi",
+      "districts": [
+        {
+          "id": 25,
+          "name_bn": "রাজশাহী",
+          "name_en": "Rajshahi",
+          "upazilas": [
+            "পবা",
+            "গোদাগাড়ী",
+            "তানোর",
+            "মোহনপুর",
+            "বাগমারা",
+            "দুর্গাপুর",
+            "পুঠিয়া",
+            "চারঘাট",
+            "বাঘা"
+          ],
+          "news": [
+            {
+              "title": "Rajshahi News24 | রাজশাহী নিউজ 24",
+              "imgUrl": "https://rajshahinews24.com/public/templateimage/60ef5cebb8486.jpg",
+              "pdfUrl": "https://rajshahinews24.com/"
+            },
+            {
+              "title": "Rajshahir Somoy | রাজশাহীর সময়",
+              "imgUrl": "https://rajshahirsomoy.com/public/templateimage/61e920dea6348.png",
+              "pdfUrl": "https://rajshahirsomoy.com/"
+            },
+            {
+              "title": "Dainik Sonali Sangbad | দৈনিক সোনালী সংবাদ (রাজশাহী)",
+              "imgUrl": "https://sonalisangbad.com/images/logo.png",
+              "pdfUrl": "https://sonalisangbad.com/"
+            },
+            {
+              "title": "Dainik Sunshine | দৈনিক সানশাইন (রাজশাহী)",
+              "imgUrl": "https://dailysunshine.com.bd/images/logo.png",
+              "pdfUrl": "https://dailysunshine.com.bd/"
+            },
+            {
+              "title": "Dainik Rajshahi | দৈনিক রাজশাহী",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=dailyrajshahi.com&sz=128",
+              "pdfUrl": "https://dailyrajshahi.com/"
+            },
+            {
+              "title": "Sonar Desh | সোনার দেশ (রাজশাহী)",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=dailysonardesh.com&sz=128",
+              "pdfUrl": "https://dailysonardesh.com/"
+            }
+          ]
+        },
+        {
+          "id": 26,
+          "name_bn": "বগুড়া",
+          "name_en": "Bogura",
+          "upazilas": [
+            "বগুড়া সদর",
+            "শেরপুর",
+            "শিবগঞ্জ",
+            "ধুনট",
+            "নন্দীগ্রাম",
+            "শাজাহানপুর",
+            "কাহালু",
+            "আদমদীঘি",
+            "দুপুরচাঁচিয়া",
+            "গাবতলী",
+            "সারিয়াকান্দি",
+            "সোনাতলা"
+          ],
+          "news": [
+            {
+              "title": "Dainik Karatoa | দৈনিক করতোয়া (বগুড়া)",
+              "imgUrl": "https://karatoa.com.bd/images/logo.png",
+              "pdfUrl": "https://karatoa.com.bd/"
+            },
+            {
+              "title": "Bogra Sangbad | বগুড়া সংবাদ",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=bograsangbad.com&sz=128",
+              "pdfUrl": "https://bograsangbad.com/"
+            },
+            {
+              "title": "Bogura Times | বগুড়া টাইমস",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=www.boguratimes.com&sz=128",
+              "pdfUrl": "https://www.boguratimes.com/"
+            },
+            {
+              "title": "Bogura Pratidin | বগুড়া প্রতিদিন",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=bogurapratidin.com&sz=128",
+              "pdfUrl": "https://bogurapratidin.com/"
+            },
+            {
+              "title": "Dainik Bogura | দৈনিক বগুড়া",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=dailybogura.com&sz=128",
+              "pdfUrl": "https://dailybogura.com/"
+            },
+            {
+              "title": "Bogra News 24 | বগুড়া নিউজ ২৪",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=bogranews24.com&sz=128",
+              "pdfUrl": "https://bogranews24.com/"
+            }
+          ]
+        },
+        {
+          "id": 27,
+          "name_bn": "পাবনা",
+          "name_en": "Pabna",
+          "upazilas": [
+            "পাবনা সদর",
+            "আটঘরিয়া",
+            "ঈশ্বরদী",
+            "চাটমোহর",
+            "ফরিদপুর",
+            "ভাঙ্গুড়া",
+            "বেড়া",
+            "সাঁথিয়া",
+            "সুজানগর"
+          ],
+          "news": [
+            {
+              "title": "Pabna News 24 | পাবনা নিউজ ২৪",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=pabnanews24.com&sz=128",
+              "pdfUrl": "http://pabnanews24.com/"
+            },
+            {
+              "title": "Daily Pabna | ডেইলি পাবনা",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=www.dailypabna.com&sz=128",
+              "pdfUrl": "https://www.dailypabna.com/"
+            }
+          ]
+        },
+        {
+          "id": 28,
+          "name_bn": "সিরাজগঞ্জ",
+          "name_en": "Sirajganj",
+          "upazilas": [
+            "সিরাজগঞ্জ সদর",
+            "কাজীপুর",
+            "উল্লাপাড়া",
+            "শাহজাদপুর",
+            "রায়গঞ্জ",
+            "তাড়াশ",
+            "চৌহালী",
+            "কামারখন্দ",
+            "বেলকুচি"
+          ],
+          "news": [
+            {
+              "title": "Sirajganj Protidin | দৈনিক সিরাজগঞ্জ প্রতিদিন",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=sirajganjprotidin.com&sz=128",
+              "pdfUrl": "https://sirajganjprotidin.com/"
+            },
+            {
+              "title": "Sirajganj Sangbad | সিরাজগঞ্জ সংবাদ",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=www.sirajganjsangbad.com&sz=128",
+              "pdfUrl": "https://www.sirajganjsangbad.com/"
+            }
+          ]
+        },
+        {
+          "id": 29,
+          "name_bn": "নওগাঁ",
+          "name_en": "Naogaon",
+          "upazilas": [
+            "নওগাঁ সদর",
+            "মহাদেবপুর",
+            "মান্দা",
+            "নিয়ামতপুর",
+            "আত্রাই",
+            "রাণীনগর",
+            "পত্নীতলা",
+            "ধামইরহাট",
+            "সাপাহার",
+            "পোরশা",
+            "বদলগাছী"
+          ],
+          "news": [
+            {
+              "title": "Amader Naogaon | আমাদের নওগাঁ",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=www.amadernaogaon.com&sz=128",
+              "pdfUrl": "https://www.amadernaogaon.com/"
+            }
+          ]
+        },
+        {
+          "id": 30,
+          "name_bn": "নাটোর",
+          "name_en": "Natore",
+          "upazilas": [
+            "নাটোর সদর",
+            "বাগাতিপাড়া",
+            "বড়াইগ্রাম",
+            "গুরুদাসপুর",
+            "লালপুর",
+            "সিংড়া",
+            "নলডাঙ্গা"
+          ],
+          "news": [
+            {
+              "title": "Natore Times | নাটোর টাইমস",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=natoretimes.com&sz=128",
+              "pdfUrl": "https://natoretimes.com/"
+            }
+          ]
+        },
+        {
+          "id": 31,
+          "name_bn": "চাঁপাইনবাবগঞ্জ",
+          "name_en": "Chapainawabganj",
+          "upazilas": [
+            "চাঁপাইনবাবগঞ্জ সদর",
+            "শিবগঞ্জ",
+            "গোমস্তাপুর",
+            "নাচোল",
+            "ভোলাহাট"
+          ],
+          "news": [
+            {
+              "title": "Chapai News | চাঁপাই নিউজ",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=chapainews.com&sz=128",
+              "pdfUrl": "https://chapainews.com/"
+            },
+            {
+              "title": "Chapai Barta | চাঁপাই বার্তা",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=chapaibarta.com&sz=128",
+              "pdfUrl": "https://chapaibarta.com/"
+            }
+          ]
+        },
+        {
+          "id": 32,
+          "name_bn": "জয়পুরহাট",
+          "name_en": "Joypurhat",
+          "upazilas": [
+            "জয়পুরহাট সদর",
+            "আক্কেলপুর",
+            "কালাই",
+            "খেতলাল",
+            "পাঁচবিবি"
+          ],
+          "news": [
+            {
+              "title": "Joypurhat News 24 | জয়পুরহাট নিউজ ২৪",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=joypurhatnews24.com&sz=128",
+              "pdfUrl": "https://joypurhatnews24.com/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name_bn": "খুলনা",
+      "name_en": "Khulna",
+      "districts": [
+        {
+          "id": 33,
+          "name_bn": "খুলনা",
+          "name_en": "Khulna",
+          "upazilas": [
+            "বটিয়াঘাটা",
+            "দাকোপ",
+            "ডুমুরিয়া",
+            "দিঘলিয়া",
+            "কয়রা",
+            "পাইকগাছা",
+            "ফুলতলা",
+            "রূপসা",
+            "তেরখাদা"
+          ],
+          "news": [
+            {
+              "title": "Dainik Purbanchal | দৈনিক পূর্বাঞ্চল (খুলনা)",
+              "imgUrl": "https://purbanchal.com/images/logo.png",
+              "pdfUrl": "https://purbanchal.com/"
+            },
+            {
+              "title": "Dainik Khulnanchal | দৈনিক খুলনাঞ্চল",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=khulnanchal.com&sz=128",
+              "pdfUrl": "https://khulnanchal.com/"
+            },
+            {
+              "title": "Khulna24 | খুলনা ২৪",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=khulna24.com&sz=128",
+              "pdfUrl": "https://khulna24.com/"
+            }
+          ]
+        },
+        {
+          "id": 34,
+          "name_bn": "যশোর",
+          "name_en": "Jashore",
+          "upazilas": [
+            "যশোর সদর",
+            "অভয়নগর",
+            "বাঘারপাড়া",
+            "চৌগাছা",
+            "ঝিকরগাছা",
+            "কেশবপুর",
+            "মণিরামপুর",
+            "শার্শা"
+          ],
+          "news": [
+            {
+              "title": "Gramer Kagoj | গ্রামের কাগজ (যশোর)",
+              "imgUrl": "https://gramerkagoj.com/images/logo.png",
+              "pdfUrl": "https://gramerkagoj.com/"
+            },
+            {
+              "title": "Dainik Jessore | দৈনিক যশোর",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=dainikjessore.com&sz=128",
+              "pdfUrl": "https://dainikjessore.com/"
+            }
+          ]
+        },
+        {
+          "id": 35,
+          "name_bn": "সাতক্ষীরা",
+          "name_en": "Satkhira",
+          "upazilas": [
+            "সাতক্ষীরা সদর",
+            "আশাশুনি",
+            "দেবহাটা",
+            "ক্যালারোয়া",
+            "কালীগঞ্জ",
+            "শ্যামনগর",
+            "তালা"
+          ],
+          "news": [
+            {
+              "title": "Satkhira Khobor | সাতক্ষীরা খবর",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=satkhirakhobor.com&sz=128",
+              "pdfUrl": "https://satkhirakhobor.com/"
+            },
+            {
+              "title": "Satkhira24 | সাতক্ষীরা ২৪",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=www.satkhira24.com&sz=128",
+              "pdfUrl": "https://www.satkhira24.com/"
+            },
+            {
+              "title": "Satkhira News 24 | সাতক্ষীরা নিউজ ২৪",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=satkhiranews24.com&sz=128",
+              "pdfUrl": "https://satkhiranews24.com/"
+            }
+          ]
+        },
+        {
+          "id": 36,
+          "name_bn": "বাগেরহাট",
+          "name_en": "Bagerhat",
+          "upazilas": [
+            "বাগেরহাট সদর",
+            "চিতলমারী",
+            "ফকিরহাট",
+            "কচুয়া",
+            "মোল্লাহাট",
+            "মোংলা",
+            "মোড়েলগঞ্জ",
+            "রামপাল",
+            "শরণখোলা"
+          ],
+          "news": [
+            {
+              "title": "Bagerhat News 24 | বাগেরহাট নিউজ ২৪",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=bagerhatnews24.com&sz=128",
+              "pdfUrl": "https://bagerhatnews24.com/"
+            },
+            {
+              "title": "Bagerhat Info | বাগেরহাট ইনফো",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=www.bagerhatinfo.com&sz=128",
+              "pdfUrl": "http://www.bagerhatinfo.com/"
+            },
+            {
+              "title": "Bagerhat Pratidin | বাগেরহাট প্রতিদিন",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=www.bagerhatpratidin.com&sz=128",
+              "pdfUrl": "https://www.bagerhatpratidin.com/"
+            },
+            {
+              "title": "Dainik Bagerhat | দৈনিক বাগেরহাট",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=dainikbagerhat.com&sz=128",
+              "pdfUrl": "https://dainikbagerhat.com/"
+            }
+          ]
+        },
+        {
+          "id": 37,
+          "name_bn": "কুষ্টিয়া",
+          "name_en": "Kushtia",
+          "upazilas": [
+            "কুষ্টিয়া সদর",
+            "কুমারখালী",
+            "খোকসা",
+            "মিরপুর",
+            "দৌলতপুর",
+            "ভেড়ামারা"
+          ],
+          "news": [
+            {
+              "title": "Kushtia Protidin | কুষ্টিয়া প্রতিদিন",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=kushtiaprotidin.com&sz=128",
+              "pdfUrl": "https://kushtiaprotidin.com/"
+            }
+          ]
+        },
+        {
+          "id": 38,
+          "name_bn": "ঝিনাইদহ",
+          "name_en": "Jhenaidah",
+          "upazilas": [
+            "ঝিনাইদহ সদর",
+            "কালীগঞ্জ",
+            "কোটচাঁদপুর",
+            "মহেশপুর",
+            "শৈলকুপা",
+            "হরিণাকুণ্ডু"
+          ],
+          "news": [
+            {
+              "title": "Dainik Jhenaidah | দৈনিক ঝিনাইদহ",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=dainikjhenaidah.com&sz=128",
+              "pdfUrl": "https://dainikjhenaidah.com/"
+            }
+          ]
+        },
+        {
+          "id": 39,
+          "name_bn": "চুয়াডাঙ্গা",
+          "name_en": "Chuadanga",
+          "upazilas": [
+            "চুয়াডাঙ্গা সদর",
+            "আলমডাঙ্গা",
+            "দামুড়হুদা",
+            "জীবননগর"
+          ],
+          "news": [
+            {
+              "title": "Dainik Mathabhanga | দৈনিক মাথাভাঙ্গা (চুয়াডাঙ্গা)",
+              "imgUrl": "https://mathabhanga.com/images/logo.png",
+              "pdfUrl": "https://mathabhanga.com/"
+            },
+            {
+              "title": "Chuadanga Times | চুয়াডাঙ্গা টাইমস",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=chuadangatimes.com&sz=128",
+              "pdfUrl": "https://chuadangatimes.com/"
+            }
+          ]
+        },
+        {
+          "id": 40,
+          "name_bn": "মেহেরপুর",
+          "name_en": "Meherpur",
+          "upazilas": [
+            "মেহেরপুর সদর",
+            "গাংনী",
+            "মুজিবনগর"
+          ],
+          "news": [
+            {
+              "title": "Daily Meherpur | ডেইলি মেহেরপুর",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=www.dailymeherpur.com&sz=128",
+              "pdfUrl": "https://www.dailymeherpur.com/"
+            },
+            {
+              "title": "Meherpur News 24 | মেহেরপুর নিউজ ২৪",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=www.meherpurnews24.com&sz=128",
+              "pdfUrl": "http://www.meherpurnews24.com/"
+            }
+          ]
+        },
+        {
+          "id": 41,
+          "name_bn": "মাগুরা",
+          "name_en": "Magura",
+          "upazilas": [
+            "মাগুরা সদর",
+            "মহম্মদপুর",
+            "শালিখা",
+            "শ্রীপুর"
+          ],
+          "news": [
+            {
+              "title": "Magura Protidin | মাগুরা প্রতিদিন",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=maguraprotidin.com&sz=128",
+              "pdfUrl": "https://maguraprotidin.com/"
+            },
+            {
+              "title": "Magura News | মাগুরা নিউজ",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=www.maguranews.com&sz=128",
+              "pdfUrl": "https://www.maguranews.com/"
+            },
+            {
+              "title": "Magura News 24 | মাগুরা নিউজ ২৪",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=maguranews24.com&sz=128",
+              "pdfUrl": "https://maguranews24.com/"
+            }
+          ]
+        },
+        {
+          "id": 42,
+          "name_bn": "নড়াইল",
+          "name_en": "Narail",
+          "upazilas": [
+            "নড়াইল সদর",
+            "লোহাগড়া",
+            "কালিয়া"
+          ],
+          "news": [
+            {
+              "title": "Narail Sangbad | নড়াইল সংবাদ",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=narailsangbad.com&sz=128",
+              "pdfUrl": "https://narailsangbad.com/"
+            },
+            {
+              "title": "Dainik Narail | দৈনিক নড়াইল",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=dainiknarail.com&sz=128",
+              "pdfUrl": "https://dainiknarail.com/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name_bn": "বরিশাল",
+      "name_en": "Barishal",
+      "districts": [
+        {
+          "id": 43,
+          "name_bn": "বরিশাল",
+          "name_en": "Barishal",
+          "upazilas": [
+            "বরিশাল সদর",
+            "আগৈলঝাড়া",
+            "বাবুগঞ্জ",
+            "বাকেরগঞ্জ",
+            "বানারীপাড়া",
+            "গৌরনদী",
+            "হিজলা",
+            "মেহেন্দিগঞ্জ",
+            "মুলাদী",
+            "উজিরপুর"
+          ],
+          "news": [
+            {
+              "title": "Barisal Sangbad | বরিশাল সংবাদ",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=barisalsangbad.com&sz=128",
+              "pdfUrl": "https://barisalsangbad.com/"
+            },
+            {
+              "title": "Daily Barishal | ডেইলি বরিশাল",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=dailybarishal.com&sz=128",
+              "pdfUrl": "https://dailybarishal.com/"
+            },
+            {
+              "title": "Barishal News | বরিশাল নিউজ",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=www.barishalnews.com&sz=128",
+              "pdfUrl": "https://www.barishalnews.com/"
+            },
+            {
+              "title": "Barishal24 | বরিশাল ২৪",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=barishal24.com&sz=128",
+              "pdfUrl": "https://barishal24.com/"
+            },
+            {
+              "title": "Barishal News 24 | বরিশাল নিউজ ২৪",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=barishalnews24.com&sz=128",
+              "pdfUrl": "https://barishalnews24.com/"
+            },
+            {
+              "title": "Barishal Mail | বরিশাল মেইল",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=www.barishalmail.com&sz=128",
+              "pdfUrl": "https://www.barishalmail.com/"
+            }
+          ]
+        },
+        {
+          "id": 44,
+          "name_bn": "পটুয়াখালী",
+          "name_en": "Patuakhali",
+          "upazilas": [
+            "পটুয়াখালী সদর",
+            "বাউফল",
+            "দশমিনা",
+            "গলাচিপা",
+            "কলাপাড়া",
+            "মির্জাগঞ্জ",
+            "দুমকি",
+            "রাঙ্গাবালী"
+          ],
+          "news": [
+            {
+              "title": "Patuakhali News | পটুয়াখালী নিউজ",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=www.patuakhalinews.com&sz=128",
+              "pdfUrl": "https://www.patuakhalinews.com/"
+            },
+            {
+              "title": "Patuakhali Pratidin | পটুয়াখালী প্রতিদিন",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=www.patuakhalipratidin.com&sz=128",
+              "pdfUrl": "https://www.patuakhalipratidin.com/"
+            }
+          ]
+        },
+        {
+          "id": 45,
+          "name_bn": "ভোলা",
+          "name_en": "Bhola",
+          "upazilas": [
+            "ভোলা সদর",
+            "বোরহানউদ্দিন",
+            "চরফ্যাশন",
+            "দৌলতখান",
+            "লালমোহন",
+            "মনপুরা",
+            "তজুমদ্দিন"
+          ],
+          "news": [
+            {
+              "title": "Bhola News | ভোলা নিউজ",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=bholanews.com&sz=128",
+              "pdfUrl": "https://bholanews.com/"
+            },
+            {
+              "title": "Bholabani | ভোলাবাণী",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=www.bholabani.com&sz=128",
+              "pdfUrl": "https://www.bholabani.com/"
+            },
+            {
+              "title": "Bhola Pratidin | ভোলা প্রতিদিন",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=bholapratidin.com&sz=128",
+              "pdfUrl": "https://bholapratidin.com/"
+            }
+          ]
+        },
+        {
+          "id": 46,
+          "name_bn": "পিরোজপুর",
+          "name_en": "Pirojpur",
+          "upazilas": [
+            "পিরোজপুর সদর",
+            "ভান্ডারিয়া",
+            "কাউখালী",
+            "মঠবাড়িয়া",
+            "নাজিরপুর",
+            "নেছারাবাদ (স্বরূপকাঠি)",
+            "ইন্দুরকানী"
+          ],
+          "news": [
+            {
+              "title": "Pirojpur Kantho | পিরোজপুর কণ্ঠ",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=pirojpurkantho.com&sz=128",
+              "pdfUrl": "https://pirojpurkantho.com/"
+            }
+          ]
+        },
+        {
+          "id": 47,
+          "name_bn": "বরগুনা",
+          "name_en": "Barguna",
+          "upazilas": [
+            "বরগুনা সদর",
+            "আমতলী",
+            "বামনা",
+            "বেতাগী",
+            "পাথরঘাটা",
+            "তালতলী"
+          ],
+          "news": []
+        },
+        {
+          "id": 48,
+          "name_bn": "ঝালকাঠি",
+          "name_en": "Jhalokathi",
+          "upazilas": [
+            "ঝালকাঠি সদর",
+            "কাঠালিয়া",
+            "নলছিটি",
+            "রাজাপুর"
+          ],
+          "news": [
+            {
+              "title": "Dainik Jhalokathi | দৈনিক ঝালকাঠি",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=dailyjhalokathi.com&sz=128",
+              "pdfUrl": "https://dailyjhalokathi.com/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name_bn": "সিলেট",
+      "name_en": "Sylhet",
+      "districts": [
+        {
+          "id": 49,
+          "name_bn": "সিলেট",
+          "name_en": "Sylhet",
+          "upazilas": [
+            "সিলেট সদর",
+            "বালাগঞ্জ",
+            "বিয়ানীবাজার",
+            "বিশ্বনাথ",
+            "কোম্পানীগঞ্জ",
+            "ফেঞ্চুগঞ্জ",
+            "গোলাপগঞ্জ",
+            "গোয়াইনঘাট",
+            "জৈন্তাপুর",
+            "কানাইঘাট",
+            "জকিগঞ্জ",
+            "দক্ষিণ সুরমা",
+            "ওসমানীনগর"
+          ],
+          "news": [
+            {
+              "title": "Sylheter Dak | সিলেটের ডাক (সিলেট)",
+              "imgUrl": "https://sylheterdak.com.bd/assets/images/logo.png",
+              "pdfUrl": "https://sylheterdak.com.bd/"
+            },
+            {
+              "title": "Dainik Sylhet Mirror | দৈনিক সিলেট মিরর",
+              "imgUrl": "https://sylhetmirror.com/images/logo.png",
+              "pdfUrl": "https://e.dailysylhetmirror.com/"
+            },
+            {
+              "title": "Sylhet Sangbad | সিলেট সংবাদ",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=sylhetsangbad.com&sz=128",
+              "pdfUrl": "https://sylhetsangbad.com/"
+            },
+            {
+              "title": "Dainik Sylhet | দৈনিক সিলেট",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=dainiksylhet.com&sz=128",
+              "pdfUrl": "https://dainiksylhet.com/"
+            }
+          ]
+        },
+        {
+          "id": 50,
+          "name_bn": "সুনামগঞ্জ",
+          "name_en": "Sunamganj",
+          "upazilas": [
+            "সুনামগঞ্জ সদর",
+            "দক্ষিণ সুনামগঞ্জ (শান্তিগঞ্জ)",
+            "ছাতক",
+            "দিরাই",
+            "ধর্মপাশা",
+            "দোয়ারাবাজার",
+            "জগন্নাথপুর",
+            "জামালগঞ্জ",
+            "তাহিরপুর",
+            "শাল্লা",
+            "মধ্যনগর"
+          ],
+          "news": [
+            {
+              "title": "Sunamganj Times | সুনামগঞ্জ টাইমস",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=sunamganjtimes.com&sz=128",
+              "pdfUrl": "https://sunamganjtimes.com/"
+            },
+            {
+              "title": "Sunamganj Barta | সুনামগঞ্জ বার্তা",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=sunamganjbarta.com&sz=128",
+              "pdfUrl": "https://sunamganjbarta.com/"
+            },
+            {
+              "title": "Dainik Sunamganj Sangbad | দৈনিক সুনামগঞ্জ সংবাদ",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=sunamganjsangbad.com&sz=128",
+              "pdfUrl": "https://sunamganjsangbad.com/"
+            }
+          ]
+        },
+        {
+          "id": 51,
+          "name_bn": "হবিগঞ্জ",
+          "name_en": "Habiganj",
+          "upazilas": [
+            "হবিগঞ্জ সদর",
+            "আজমিরীগঞ্জ",
+            "বাহুবল",
+            "বানিয়াচং",
+            "চুনারুঘাট",
+            "নবীগঞ্জ",
+            "মাধবপুর",
+            "লাখাই",
+            "শায়েস্তাগঞ্জ"
+          ],
+          "news": [
+            {
+              "title": "Habiganj News 24 | হবিগঞ্জ নিউজ ২৪",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=habiganjnews24.com&sz=128",
+              "pdfUrl": "https://habiganjnews24.com/"
+            },
+            {
+              "title": "Habiganj Express | হবিগঞ্জ এক্সপ্রেস",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=www.habiganjexpress.com&sz=128",
+              "pdfUrl": "https://www.habiganjexpress.com/"
+            }
+          ]
+        },
+        {
+          "id": 52,
+          "name_bn": "মৌলভীবাজার",
+          "name_en": "Moulvibazar",
+          "upazilas": [
+            "মৌলভীবাজার সদর",
+            "বড়লেখা",
+            "জুড়ী",
+            "কমলগঞ্জ",
+            "কুলাউড়া",
+            "রাজনগর",
+            "শ্রীমঙ্গল"
+          ],
+          "news": [
+            {
+              "title": "Moulvibazar24 | মৌলভীবাজার ২৪",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=moulvibazar24.com&sz=128",
+              "pdfUrl": "https://moulvibazar24.com/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name_bn": "রংপুর",
+      "name_en": "Rangpur",
+      "districts": [
+        {
+          "id": 53,
+          "name_bn": "রংপুর",
+          "name_en": "Rangpur",
+          "upazilas": [
+            "রংপুর সদর",
+            "বদরগঞ্জ",
+            "গঙ্গাচড়া",
+            "কাউনিয়া",
+            "মিঠাপুকুর",
+            "পীরগাছা",
+            "পীরগঞ্জ",
+            "তারাগঞ্জ"
+          ],
+          "news": [
+            {
+              "title": "Rangpur24 | রংপুর ২৪",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=rangpur24.com&sz=128",
+              "pdfUrl": "https://rangpur24.com/"
+            },
+            {
+              "title": "Rangpur Sangbad | রংপুর সংবাদ",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=rangpursangbad.com&sz=128",
+              "pdfUrl": "https://rangpursangbad.com/"
+            },
+            {
+              "title": "Rangpur Times | রংপুর টাইমস",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=rangpurtimes.com&sz=128",
+              "pdfUrl": "https://rangpurtimes.com/"
+            }
+          ]
+        },
+        {
+          "id": 54,
+          "name_bn": "দিনাজপুর",
+          "name_en": "Dinajpur",
+          "upazilas": [
+            "দিনাজপুর সদর",
+            "বিরামপুর",
+            "বীরগঞ্জ",
+            "বোচাগঞ্জ",
+            "ফুলবাড়ী",
+            "ঘোড়াঘাট",
+            "হাকিমপুর",
+            "কাহারোল",
+            "খানসামা",
+            "বিরল",
+            "নবাবগঞ্জ",
+            "পার্বতীপুর",
+            "চিরিরবন্দর"
+          ],
+          "news": [
+            {
+              "title": "Dinajpur Barta 24 | দিনাজপুর বার্তা ২৪",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=dinajpurbarta24.com&sz=128",
+              "pdfUrl": "https://dinajpurbarta24.com/"
+            },
+            {
+              "title": "Dinajpur24 | দিনাজপুর ২৪",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=dinajpur24.com&sz=128",
+              "pdfUrl": "https://dinajpur24.com/"
+            },
+            {
+              "title": "Dinajpur News 24 | দিনাজপুর নিউজ ২৪",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=dinajpurnews24.com&sz=128",
+              "pdfUrl": "https://dinajpurnews24.com/"
+            },
+            {
+              "title": "Dinajpur News | দিনাজপুর নিউজ",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=dinajpurnews.net&sz=128",
+              "pdfUrl": "https://dinajpurnews.net/"
+            }
+          ]
+        },
+        {
+          "id": 55,
+          "name_bn": "গাইবান্ধা",
+          "name_en": "Gaibandha",
+          "upazilas": [
+            "গাইবান্ধা সদর",
+            "ফুলছড়ি",
+            "গোবিন্দগঞ্জ",
+            "পলাশবাড়ী",
+            "সাদুল্লাপুর",
+            "সাঘাটা",
+            "সুন্দরগঞ্জ"
+          ],
+          "news": [
+            {
+              "title": "Gaibandha Protidin | গাইবান্ধা প্রতিদিন",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=gaibandhaprotidin.com&sz=128",
+              "pdfUrl": "https://gaibandhaprotidin.com/"
+            },
+            {
+              "title": "Gaibandha News 24 | গাইবান্ধা নিউজ ২৪",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=gaibandhanews24.com&sz=128",
+              "pdfUrl": "https://gaibandhanews24.com/"
+            }
+          ]
+        },
+        {
+          "id": 56,
+          "name_bn": "কুড়িগ্রাম",
+          "name_en": "Kurigram",
+          "upazilas": [
+            "কুড়িগ্রাম সদর",
+            "নাগেশ্বরী",
+            "ভুরুঙ্গামারী",
+            "ফুলবাড়ী",
+            "রাজারহাট",
+            "উলিপুর",
+            "চিলমারী",
+            "রৌমারী",
+            "চর রাজিবপুর"
+          ],
+          "news": [
+            {
+              "title": "Kurigram24 | কুড়িগ্রাম ২৪",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=kurigram24.com&sz=128",
+              "pdfUrl": "https://kurigram24.com/"
+            },
+            {
+              "title": "Kurigram News 24 | কুড়িগ্রাম নিউজ ২৪",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=kurigramnews24.com&sz=128",
+              "pdfUrl": "https://kurigramnews24.com/"
+            },
+            {
+              "title": "Kurigram Pratidin | কুড়িগ্রাম প্রতিদিন",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=www.kurigrampratidin.com&sz=128",
+              "pdfUrl": "https://www.kurigrampratidin.com/"
+            }
+          ]
+        },
+        {
+          "id": 57,
+          "name_bn": "নীলফামারী",
+          "name_en": "Nilphamari",
+          "upazilas": [
+            "নীলফামারী সদর",
+            "সৈয়দপুর",
+            "জলঢাকা",
+            "কিশোরগঞ্জ",
+            "ডোমার",
+            "ডিমলা"
+          ],
+          "news": [
+            {
+              "title": "Nilphamari Pratidin | নীলফামারী প্রতিদিন",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=nilphamaripratidin.com&sz=128",
+              "pdfUrl": "http://nilphamaripratidin.com/"
+            },
+            {
+              "title": "Nilphamari News 24 | নীলফামারী নিউজ ২৪",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=nilphamarinews24.com&sz=128",
+              "pdfUrl": "https://nilphamarinews24.com/"
+            }
+          ]
+        },
+        {
+          "id": 58,
+          "name_bn": "পঞ্চগড়",
+          "name_en": "Panchagarh",
+          "upazilas": [
+            "পঞ্চগড় সদর",
+            "দেবীগঞ্জ",
+            "বোদা",
+            "আটোয়ারী",
+            "তেঁতুলিয়া"
+          ],
+          "news": [
+            {
+              "title": "Dainik Panchagarh | দৈনিক পঞ্চগড়",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=www.dainikpanchagarh.com&sz=128",
+              "pdfUrl": "https://www.dainikpanchagarh.com/"
+            }
+          ]
+        },
+        {
+          "id": 59,
+          "name_bn": "ঠাকুরগাঁও",
+          "name_en": "Thakurgaon",
+          "upazilas": [
+            "ঠাকুরগাঁও সদর",
+            "পীরগঞ্জ",
+            "রানীশংকৈল",
+            "হরিপুর",
+            "বালিয়াডাঙ্গী"
+          ],
+          "news": []
+        },
+        {
+          "id": 60,
+          "name_bn": "লালমনিরহাট",
+          "name_en": "Lalmonirhat",
+          "upazilas": [
+            "লালমনিরহাট সদর",
+            "কালীগঞ্জ",
+            "হাতীবান্ধা",
+            "পাটগ্রাম",
+            "আদিতমারী"
+          ],
+          "news": [
+            {
+              "title": "Lalmonirhat News | লালমনিরহাট নিউজ",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=lalmonirhatnews.com&sz=128",
+              "pdfUrl": "https://lalmonirhatnews.com/"
+            },
+            {
+              "title": "Lalmonirhat Pratidin | লালমনিরহাট প্রতিদিন",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=lalmonirhatpratidin.com&sz=128",
+              "pdfUrl": "https://lalmonirhatpratidin.com/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name_bn": "ময়মনসিংহ",
+      "name_en": "Mymensingh",
+      "districts": [
+        {
+          "id": 61,
+          "name_bn": "ময়মনসিংহ",
+          "name_en": "Mymensingh",
+          "upazilas": [
+            "ময়মনসিংহ সদর",
+            "মুক্তাগাছা",
+            "ভালুকা",
+            "ত্রিশাল",
+            "গৌরীপুর",
+            "ঈশ্বরগঞ্জ",
+            "নান্দাইল",
+            "ফুলবাড়ীয়া",
+            "ফুলপুর",
+            "হালুয়াঘাট",
+            "ধোবাউড়া",
+            "তারাকান্দা",
+            "গফরগাঁও"
+          ],
+          "news": [
+            {
+              "title": "Daily Mymensingh | ডেইলি ময়মনসিংহ",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=dailymymensingh.com&sz=128",
+              "pdfUrl": "https://dailymymensingh.com/"
+            },
+            {
+              "title": "Mymensingh Barta | ময়মনসিংহ বার্তা",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=mymensinghbarta.com&sz=128",
+              "pdfUrl": "https://mymensinghbarta.com/"
+            }
+          ]
+        },
+        {
+          "id": 62,
+          "name_bn": "জামালপুর",
+          "name_en": "Jamalpur",
+          "upazilas": [
+            "জামালপুর সদর",
+            "বক্শীগঞ্জ",
+            "দেওয়ানগঞ্জ",
+            "ইসলামপুর",
+            "মাদারগঞ্জ",
+            "মেলান্দহ",
+            "সরিষাবাড়ী"
+          ],
+          "news": [
+            {
+              "title": "Dainik Ajker Jamalpur | দৈনিক আজকের জামালপুর",
+              "imgUrl": "https://ajkerjamalpur.com/images/logo.png",
+              "pdfUrl": "https://ajkerjamalpur.com/"
+            },
+            {
+              "title": "Jamalpur News 24 | জামালপুর নিউজ ২৪",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=jamalpurnews24.com&sz=128",
+              "pdfUrl": "https://jamalpurnews24.com/"
+            },
+            {
+              "title": "Jamalpur Times | জামালপুর টাইমস",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=jamalpurtimes.com&sz=128",
+              "pdfUrl": "https://jamalpurtimes.com/"
+            }
+          ]
+        },
+        {
+          "id": 63,
+          "name_bn": "নেত্রকোণা",
+          "name_en": "Netrokona",
+          "upazilas": [
+            "নেত্রকোণা সদর",
+            "আটপাড়া",
+            "বারহাট্টা",
+            "দূর্গাপুর",
+            "খালিয়াজুরী",
+            "কলমাকান্দা",
+            "কেন্দুয়া",
+            "মদন",
+            "মোহনগঞ্জ",
+            "পূর্বধলা"
+          ],
+          "news": [
+            {
+              "title": "Netrokona News 24 | নেত্রকোনা নিউজ ২৪",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=netrokonanews24.com&sz=128",
+              "pdfUrl": "https://netrokonanews24.com/"
+            }
+          ]
+        },
+        {
+          "id": 64,
+          "name_bn": "শেরপুর",
+          "name_en": "Sherpur",
+          "upazilas": [
+            "শেরপুর সদর",
+            "নালীতাবাড়ী",
+            "শ্রীবরদী",
+            "ঝিনাইগাতী",
+            "নাকলা"
+          ],
+          "news": [
+            {
+              "title": "Sherpur Pratidin | শেরপুর প্রতিদিন",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=sherpurpratidin.com&sz=128",
+              "pdfUrl": "https://sherpurpratidin.com/"
+            },
+            {
+              "title": "Sherpur Barta | শেরপুর বার্তা",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=sherpurbarta.com&sz=128",
+              "pdfUrl": "https://sherpurbarta.com/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
