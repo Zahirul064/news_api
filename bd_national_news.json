@@ -2,7 +2,7 @@
   {
     "title": "Daily Amar Desh | দৈনিক আমার দেশ",
     "imgUrl": "https://images.dailyamardesh.com/ad/amardesh-shadhinotar-kotha-bole.jpg",
-    "pdfUrl": "https://www.dailyamardesh.com/" 
+    "pdfUrl": "https://www.dailyamardesh.com/"
   },
   {
     "title": "Prothom Alo | প্রথম আলো",
@@ -58,11 +58,6 @@
     "title": "Dainik Amader Shomoy | দৈনিক আমাদের সময়",
     "imgUrl": "https://dainikamadershomoy.com/_nuxt/dainik-amader-shomoy.80376f0.png",
     "pdfUrl": "https://dainikamadershomoy.com/"
-  },
-  {
-    "title": "Jaijaidinbd | দৈনিক যায় যায় দিন",
-    "imgUrl": "https://www.jaijaidinbd.com/templates/web-view/images/logo_new.png",
-    "pdfUrl": "https://www.jaijaidinbd.com/"
   },
   {
     "title": "Amar Sangbad | আমার সংবাদ",
@@ -125,14 +120,9 @@
     "pdfUrl": "https://www.alokitobangladesh.com/"
   },
   {
-    "title": "Vorer Dak | ভোরের ডাক",
-    "imgUrl": "https://www.dailyvorerdak.com/images/logo.png",
-    "pdfUrl": "https://www.dailyvorerdak.com/"
-  },
-  {
     "title": "Daily Dinkal | দৈনিক দিনকাল",
     "imgUrl": "https://daily-dinkal.com/img/logo.png",
-    "pdfUrl": "https://daily-dinkal.com/"
+    "pdfUrl": "http://daily-dinkal.com/"
   },
   {
     "title": "Daily Gonokantho | দৈনিক গণকণ্ঠ",
@@ -190,11 +180,6 @@
     "pdfUrl": "https://www.kalbela.com/"
   },
   {
-    "title": "Protidin Bangladesh | প্রতিদিন বাংলাদেশ",
-    "imgUrl": "https://www.protidinbangladesh.com/assets/images/logo.png",
-    "pdfUrl": "https://www.protidinbangladesh.com/"
-  },
-  {
     "title": "Amader Orthoneeti | আমাদের অর্থনীতি",
     "imgUrl": "https://www.amaderorthoneeti.com/assets/images/logo.png",
     "pdfUrl": "https://www.amaderorthoneeti.com/"
@@ -208,11 +193,6 @@
     "title": "Somoy News | সময় নিউজ",
     "imgUrl": "https://www.somoynews.tv/assets/images/logo.png",
     "pdfUrl": "https://www.somoynews.tv/"
-  },
-  {
-    "title": "Daily Jagaran | দৈনিক জাগরণ",
-    "imgUrl": "https://www.dailyjagaran.com/assets/images/logo.png",
-    "pdfUrl": "https://www.dailyjagaran.com/"
   },
   {
     "title": "Daily Sokaler Somoy | দৈনিক সকালের সময়",
@@ -235,19 +215,9 @@
     "pdfUrl": "https://www.daily-bangladesh.com/"
   },
   {
-    "title": "Daily Alokito Sokal | দৈনিক আলোকিত সকাল",
-    "imgUrl": "http://www.alokitosokal.com/images/logo.png",
-    "pdfUrl": "http://www.alokitosokal.com/"
-  },
-  {
     "title": "Daily Janabani | দৈনিক জনবাণী",
     "imgUrl": "https://janabani.com/assets/images/logo.png",
     "pdfUrl": "https://janabani.com/"
-  },
-  {
-    "title": "Daily Provat | দৈনিক প্রভাত",
-    "imgUrl": "http://dailyprovat.com/images/logo.png",
-    "pdfUrl": "http://dailyprovat.com/"
   },
   {
     "title": "Daily Millat | দৈনিক মিল্লাত",
@@ -265,49 +235,14 @@
     "pdfUrl": "http://www.songbadprotidin.com/"
   },
   {
-    "title": "Daily Shomoyer Dhonni | দৈনিক সময়ের ধ্বনি",
-    "imgUrl": "https://shomoyerdhonni.com/assets/images/logo.png",
-    "pdfUrl": "https://shomoyerdhonni.com/"
-  },
-  {
     "title": "Daily Mukto Khobor | দৈনিক মুক্ত খবর",
     "imgUrl": "https://muktokhobor24.com/assets/images/logo.png",
-    "pdfUrl": "https://muktokhobor24.com/"
-  },
-  {
-    "title": "Daily Ajker Vor | দৈনিক আজকের ভোর",
-    "imgUrl": "https://ajkervor.com/assets/images/logo.png",
-    "pdfUrl": "https://ajkervor.com/"
-  },
-  {
-    "title": "Daily Desh | দৈনিক দেশ",
-    "imgUrl": "https://dailydesh.net/assets/images/logo.png",
-    "pdfUrl": "https://dailydesh.net/"
-  },
-  {
-    "title": "Daily Ganadabi | দৈনিক গণদাবী",
-    "imgUrl": "http://www.ganadabi.com/images/logo.png",
-    "pdfUrl": "http://www.ganadabi.com/"
-  },
-  {
-    "title": "Daily Khabar | দৈনিক খবর",
-    "imgUrl": "http://www.dailykhabar.com/images/logo.png",
-    "pdfUrl": "http://www.dailykhabar.com/"
+    "pdfUrl": "http://muktokhobor24.com/"
   },
   {
     "title": "Daily Ajker Darpan | দৈনিক আজকের দর্পণ",
     "imgUrl": "https://ajkerdarpan.com/assets/images/logo.png",
     "pdfUrl": "https://ajkerdarpan.com/"
-  },
-  {
-    "title": "Daily Shadesh Pratidin | দৈনিক স্বদেশ প্রতিদিন",
-    "imgUrl": "https://shadeshpratidin.com/assets/images/logo.png",
-    "pdfUrl": "https://shadeshpratidin.com/"
-  },
-  {
-    "title": "Daily Shornolipi | দৈনিক স্বর্ণলিপি",
-    "imgUrl": "https://shornolipi.com/assets/images/logo.png",
-    "pdfUrl": "https://shornolipi.com/"
   },
   {
     "title": "Daily Rupali | দৈনিক রূপালী",
@@ -320,21 +255,10 @@
     "pdfUrl": "https://www.dailyjanata.com/"
   },
   {
-    "title": "Daily Nobochetona | দৈনিক নবচেতনা",
-    "imgUrl": "https://nobochetona.com/assets/images/logo.png",
-    "pdfUrl": "https://nobochetona.com/"
-  },
-  {
-    "title": "Daily Shadhin Bangla | দৈনিক স্বাধীন বাংলা",
-    "imgUrl": "https://shadhinbangla24.com/assets/images/logo.png",
-    "pdfUrl": "https://shadhinbangla24.com/"
-  },
-  {
     "title": "Daily Sangbad Sharabela | দৈনিক সংবাদ সারাবেলা",
     "imgUrl": "https://sangbadsarabela.com/assets/images/logo.png",
     "pdfUrl": "https://sangbadsarabela.com/"
   },
-  
   {
     "title": "Abnews24 | এবিনিউজ২৪",
     "imgUrl": "https://www.abnews24.com/assets/images/logo.png",
@@ -346,19 +270,9 @@
     "pdfUrl": "https://www.campuslive24.com/"
   },
   {
-    "title": "Breaking News | ব্রেকিং নিউজ",
-    "imgUrl": "https://www.breakingnews.com.bd/assets/images/logo.png",
-    "pdfUrl": "https://www.breakingnews.com.bd/"
-  },
-  {
     "title": "Odhikar | অধিকার",
     "imgUrl": "https://www.odhikar.news/assets/images/logo.png",
     "pdfUrl": "https://www.odhikar.news/"
-  },
-  {
-    "title": "Purboposhchimbd | পূর্বপশ্চিমবিডি",
-    "imgUrl": "https://www.purboposhchimbd.news/assets/images/logo.png",
-    "pdfUrl": "https://www.purboposhchimbd.news/"
   },
   {
     "title": "Amader Shomoy.com | আমাদের সময়.কম",
@@ -371,24 +285,9 @@
     "pdfUrl": "https://newsnextbd.com/"
   },
   {
-    "title": "Bangla News | বাংলা নিউজ",
-    "imgUrl": "https://www.banglanews.com.bd/assets/images/logo.png",
-    "pdfUrl": "https://www.banglanews.com.bd/"
-  },
-  {
     "title": "Zoom Bangla | জুম বাংলা",
     "imgUrl": "https://zoombangla.com/wp-content/uploads/2021/04/logo.png",
     "pdfUrl": "https://zoombangla.com/"
-  },
-  {
-    "title": "Mahanagar | মহানগর",
-    "imgUrl": "https://mahanagar24.com/assets/images/logo.png",
-    "pdfUrl": "https://mahanagar24.com/"
-  },
-  {
-    "title": "Bijoy News | বিজয় নিউজ",
-    "imgUrl": "https://www.bijoynews24.com/assets/images/logo.png",
-    "pdfUrl": "https://www.bijoynews24.com/"
   },
   {
     "title": "Ekushay TV | একুশে টিভি",
@@ -416,24 +315,9 @@
     "pdfUrl": "https://newsnow24.com/"
   },
   {
-    "title": "Bartaman News | বর্তমান নিউজ",
-    "imgUrl": "https://www.bartamannews24.com/assets/images/logo.png",
-    "pdfUrl": "https://www.bartamannews24.com/"
-  },
-  {
-    "title": "Probhaser Alo | প্রবাসের আলো",
-    "imgUrl": "https://probhaseralo.com/assets/images/logo.png",
-    "pdfUrl": "https://probhaseralo.com/"
-  },
-  {
     "title": "Barta24 | বার্তা২৪",
     "imgUrl": "https://barta24.com/assets/images/logo.png",
     "pdfUrl": "https://barta24.com/"
-  },
-  {
-    "title": "Gononews24 | গণনিউজ২৪",
-    "imgUrl": "https://www.gononews24.com/assets/images/logo.png",
-    "pdfUrl": "https://www.gononews24.com/"
   },
   {
     "title": "Pratidin News | প্রতিদিন নিউজ",
@@ -441,63 +325,13 @@
     "pdfUrl": "https://www.pratidinnews.com/"
   },
   {
-    "title": "Shadhin News | স্বাধীন নিউজ",
-    "imgUrl": "https://www.shadhinnews24.com/assets/images/logo.png",
-    "pdfUrl": "https://www.shadhinnews24.com/"
-  },
-  {
-    "title": "Amader Somoy News | আমাদের সময় নিউজ",
-    "imgUrl": "https://amadersomoy.com/assets/images/logo.png",
-    "pdfUrl": "https://amadersomoy.com/"
-  },
-  {
-    "title": "Songbad 24 | সংবাদ ২৪",
-    "imgUrl": "https://songbad24.com/assets/images/logo.png",
-    "pdfUrl": "https://songbad24.com/"
-  },
-  {
-    "title": "Live News 24 | লাইভ নিউজ ২৪",
-    "imgUrl": "https://livenews24.com/assets/images/logo.png",
-    "pdfUrl": "https://livenews24.com/"
-  },
-  {
-    "title": "Bangla Voice | বাংলা ভয়েস",
-    "imgUrl": "https://banglavoice.com/assets/images/logo.png",
-    "pdfUrl": "https://banglavoice.com/"
-  },
-  {
-    "title": "Dainik Sangbad | দৈনিক সংবাদ",
-    "imgUrl": "https://dainiksangbad.com/assets/images/logo.png",
-    "pdfUrl": "https://dainiksangbad.com/"
-  },
-  {
     "title": "Amar Kagoj | আমার কাগজ",
     "imgUrl": "https://www.amarkagoj.com/assets/images/logo.png",
     "pdfUrl": "https://www.amarkagoj.com/"
   },
   {
-    "title": "Daily Nabajug | দৈনিক নবযুগ",
-    "imgUrl": "https://www.dailynabajug.com/assets/images/logo.png",
-    "pdfUrl": "https://www.dailynabajug.com/"
-  },
-  {
-    "title": "Protidin Protidin | প্রতিদিন প্রতিদিন",
-    "imgUrl": "https://www.protidinprotidin.com/assets/images/logo.png",
-    "pdfUrl": "https://www.protidinprotidin.com/"
-  },
-  {
     "title": "Shomoyer Kagoj | সময়ের কাগজ",
     "imgUrl": "https://www.shomoyerkagoj.com/assets/images/logo.png",
     "pdfUrl": "https://www.shomoyerkagoj.com/"
-  },
-  {
-    "title": "Desh News 24 | দেশ নিউজ ২৪",
-    "imgUrl": "https://deshnews24.com/assets/images/logo.png",
-    "pdfUrl": "https://deshnews24.com/"
-  },
-  {
-    "title": "Sangbad Bikash | সংবাদ বিকাশ",
-    "imgUrl": "https://sangbadbikash.com/assets/images/logo.png",
-    "pdfUrl": "https://sangbadbikash.com/"
   }
 ]

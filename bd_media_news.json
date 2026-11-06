@@ -4,12 +4,12 @@
     "imgUrl": "https://news.files.bbci.co.uk/ws/img/logos/og/bengali.png",
     "pdfUrl": "https://www.bbc.com/bengali"
   },
-   {
+  {
     "title": "Jagonews24",
     "imgUrl": "https://cdn.jagonews24.com/media/common/logo.png",
     "pdfUrl": "https://www.jagonews24.com/"
   },
-   {
+  {
     "title": "Jamuna Television",
     "imgUrl": "https://jamuna.tv/wp-content/themes/jtv-news/img/logo.png",
     "pdfUrl": "https://jamuna.tv/"
@@ -24,11 +24,9 @@
     "imgUrl": "https://www.ntvbd.com/sites/all/themes/sloth/logo.png",
     "pdfUrl": "https://www.ntvbd.com/"
   },
- {
+  {
     "title": "BVNEWS24 || বিভিনিউজ২৪",
     "imgUrl": "https://www.bvnews24.com/media/common/newbvlogo.png",
     "pdfUrl": "https://www.bvnews24.com/"
   }
-
-  
 ]
