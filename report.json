@@ -1,0 +1,237 @@
+{
+ "ok": [
+  {
+   "district": "Munshiganj",
+   "bn": "মুন্সীগঞ্জ",
+   "url": "https://munshigonj24.com/",
+   "status": 200,
+   "final": "https://munshigonj24.com/",
+   "title": "মুন্সিগঞ্জ জেলার খবর | বিক্রমপুরের ইতিহাস শুধু একটি পরগনার ইতিহাস নহে, ইহা বঙ্গেরই ইতিহাস&#8230;",
+   "bangla": 7569,
+   "dist": 27,
+   "bad": []
+  },
+  {
+   "district": "Munshiganj",
+   "bn": "মুন্সীগঞ্জ",
+   "url": "https://amarmunshigonj.com/",
+   "status": 200,
+   "final": "https://amarmunshigonj.com/",
+   "title": "আমার মুন্সিগঞ্জ &#8211; সুস্থ সুন্দর সমাজ গড়তে এগিয়ে আসুন",
+   "bangla": 5006,
+   "dist": 8,
+   "bad": []
+  },
+  {
+   "district": "Munshiganj",
+   "bn": "মুন্সীগঞ্জ",
+   "url": "https://munshigonj.com/",
+   "status": 200,
+   "final": "http://munshigonj24.com/",
+   "title": "মুন্সিগঞ্জ জেলার খবর | বিক্রমপুরের ইতিহাস শুধু একটি পরগনার ইতিহাস নহে, ইহা বঙ্গেরই ইতিহাস&#8230;",
+   "bangla": 7568,
+   "dist": 28,
+   "bad": []
+  },
+  {
+   "district": "Munshiganj",
+   "bn": "মুন্সীগঞ্জ",
+   "url": "https://bikrampursangbad.com/",
+   "status": 200,
+   "final": "https://bikrampursangbad.com/",
+   "title": "বিক্রমপুর সংবাদ - সৃজন প্রয়াসী মানুষের সাপ্তাহিক কাগজ",
+   "bangla": 5940,
+   "dist": 19,
+   "bad": []
+  },
+  {
+   "district": "Munshiganj",
+   "bn": "মুন্সীগঞ্জ",
+   "url": "https://dailybikrampur.com/",
+   "status": 200,
+   "final": "https://dailybikrampur.com/",
+   "title": "Daily Bikrampur &#8211; মুন্সীগঞ্জের সকল খবর",
+   "bangla": 15203,
+   "dist": 59,
+   "bad": []
+  },
+  {
+   "district": "Munshiganj",
+   "bn": "মুন্সীগঞ্জ",
+   "url": "https://bikrampurkhobor.com/",
+   "status": 200,
+   "final": "https://www.bikrampurkhobor.com/",
+   "title": "নীড় পাতা | বিক্রমপুর খবর",
+   "bangla": 33262,
+   "dist": 36,
+   "bad": []
+  },
+  {
+   "district": "Munshiganj",
+   "bn": "মুন্সীগঞ্জ",
+   "url": "https://bikrampurmail.com/",
+   "status": 200,
+   "final": "https://bikrampurmail.com/",
+   "title": "বিক্রমপুর মেইল",
+   "bangla": 15631,
+   "dist": 21,
+   "bad": []
+  },
+  {
+   "district": "Munshiganj",
+   "bn": "মুন্সীগঞ্জ",
+   "url": "https://amaderbikrampur.com/",
+   "status": 200,
+   "final": "https://amaderbikrampur.com/",
+   "title": "আমাদের বিক্রমপুর",
+   "bangla": 7416,
+   "dist": 26,
+   "bad": []
+  },
+  {
+   "district": "Munshiganj",
+   "bn": "মুন্সীগঞ্জ",
+   "url": "https://bikrampurchitra.com/",
+   "status": 200,
+   "final": "https://bikrampurchitra.com/",
+   "title": "বিক্রমপুর চিত্র - ইতিহাস ঐতিহ্যের ধারক ও বাহক",
+   "bangla": 6290,
+   "dist": 27,
+   "bad": []
+  },
+  {
+   "district": "Shariatpur",
+   "bn": "শরীয়তপুর",
+   "url": "https://shariatpurtimes.com/",
+   "status": 200,
+   "final": "https://shariatpurtimes.com/",
+   "title": "শরীয়তপুর টাইমস্ - সময়ের সাথে সারাক্ষণ",
+   "bangla": 13280,
+   "dist": 9,
+   "bad": []
+  },
+  {
+   "district": "Rangamati",
+   "bn": "রাঙ্গামাটি",
+   "url": "https://rangamatisangbad.com/",
+   "status": 200,
+   "final": "https://rangamatisangbad.com/",
+   "title": "RANGAMATI SANGBAD",
+   "bangla": 1514,
+   "dist": 3,
+   "bad": []
+  },
+  {
+   "district": "Naogaon",
+   "bn": "নওগাঁ",
+   "url": "https://amadernaogaon.com/",
+   "status": 200,
+   "final": "https://www.amadernaogaon.com/",
+   "title": "Amader Naogaon - My WordPress Blog",
+   "bangla": 10532,
+   "dist": 71,
+   "bad": []
+  },
+  {
+   "district": "Patuakhali",
+   "bn": "পটুয়াখালী",
+   "url": "https://www.patuakhalinews.com/",
+   "status": 200,
+   "final": "https://www.patuakhalinews.com/",
+   "title": "patuakhalinews -",
+   "bangla": 7551,
+   "dist": 5,
+   "bad": []
+  },
+  {
+   "district": "Patuakhali",
+   "bn": "পটুয়াখালী",
+   "url": "https://patuakhalipratidin.com/",
+   "status": 200,
+   "final": "https://www.patuakhalipratidin.com/",
+   "title": "Patuakhali Pratidin - Patuakhali Pratidin",
+   "bangla": 3533,
+   "dist": 7,
+   "bad": []
+  },
+  {
+   "district": "Rangamati",
+   "bn": "রাঙ্গামাটি",
+   "url": "https://chtbarta.com/",
+   "status": 200,
+   "final": "https://chtbarta.com/",
+   "title": "সিএইচটি বার্তা",
+   "bangla": 21314,
+   "dist": 14,
+   "bad": []
+  }
+ ],
+ "cloudflare": [
+  {
+   "district": "Munshiganj",
+   "bn": "মুন্সীগঞ্জ",
+   "url": "https://bikrampur.com/",
+   "status": 403,
+   "final": "https://www.hugedomains.com/domain_profile.cfm?d=bikrampur.com",
+   "title": "Just a moment...",
+   "bangla": 0,
+   "dist": 0,
+   "bad": [
+    "hugedomains"
+   ]
+  },
+  {
+   "district": "Brahmanbaria",
+   "bn": "ব্রাহ্মণবাড়ীয়া",
+   "url": "https://bbaria.com/",
+   "status": 403,
+   "final": "https://www.hugedomains.com/domain_profile.cfm?d=bbaria.com",
+   "title": "Just a moment...",
+   "bangla": 0,
+   "dist": 0,
+   "bad": [
+    "hugedomains"
+   ]
+  },
+  {
+   "district": "Feni",
+   "bn": "ফেনী",
+   "url": "https://fenionline.com/",
+   "status": 403,
+   "final": "https://www.hugedomains.com/domain_profile.cfm?d=fenionline.com",
+   "title": "Just a moment...",
+   "bangla": 0,
+   "dist": 0,
+   "bad": [
+    "hugedomains"
+   ]
+  },
+  {
+   "district": "Naogaon",
+   "bn": "নওগাঁ",
+   "url": "https://www.naogaonnews.com/",
+   "status": 403,
+   "final": "https://www.hugedomains.com/domain_profile.cfm?d=naogaonnews.com",
+   "title": "Just a moment...",
+   "bangla": 0,
+   "dist": 0,
+   "bad": [
+    "hugedomains"
+   ]
+  },
+  {
+   "district": "Thakurgaon",
+   "bn": "ঠাকুরগাঁও",
+   "url": "https://thakurgaon.com/",
+   "status": 403,
+   "final": "https://www.hugedomains.com/domain_profile.cfm?d=thakurgaon.com",
+   "title": "Just a moment...",
+   "bangla": 0,
+   "dist": 0,
+   "bad": [
+    "hugedomains"
+   ]
+  }
+ ],
+ "n": 743
+}
