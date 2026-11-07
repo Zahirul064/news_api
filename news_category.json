@@ -4,35 +4,40 @@
         "cat_title": "Bangla National",
         "cat_subtitle": "Subtitle 1",
         "serverUrl": "https://zahirul064.github.io/news_api/bd_national_news.json",
-        "cat_title_bn": "জাতীয় বাংলা পত্রিকা"
+        "cat_title_bn": "জাতীয় বাংলা পত্রিকা",
+        "count": 59
     },
     {
         "imageUrl": "https://i.ibb.co/BK7mZk2/eng-ic.png",
         "cat_title": "BD English News",
         "cat_subtitle": "Subtitle 2",
         "serverUrl": "https://zahirul064.github.io/news_api/eng_national_news.json",
-        "cat_title_bn": "ইংরেজি পত্রিকা"
+        "cat_title_bn": "ইংরেজি পত্রিকা",
+        "count": 7
     },
     {
         "imageUrl": "https://i.ibb.co/qgHKfjj/e-book-design.png",
         "cat_title": "BD Online News",
         "cat_subtitle": "Subtitle 4",
         "serverUrl": "https://zahirul064.github.io/news_api/online_news.json",
-        "cat_title_bn": "অনলাইন নিউজ"
+        "cat_title_bn": "অনলাইন নিউজ",
+        "count": 5
     },
     {
         "imageUrl": "https://i.ibb.co/GJqbv34/en-design.png",
         "cat_title": "International News",
         "cat_subtitle": "Subtitle 4",
         "serverUrl": "https://zahirul064.github.io/news_api/international_news.json",
-        "cat_title_bn": "আন্তর্জাতিক খবর"
+        "cat_title_bn": "আন্তর্জাতিক খবর",
+        "count": 5
     },
     {
         "imageUrl": "https://i.ibb.co/x7qsww4/media-ic.png",
         "cat_title": "BD Media News",
         "cat_subtitle": "Subtitle 4",
         "serverUrl": "https://zahirul064.github.io/news_api/bd_media_news.json",
-        "cat_title_bn": "টিভি ও মিডিয়া"
+        "cat_title_bn": "টিভি ও মিডিয়া",
+        "count": 6
     },
     {
         "imageUrl": "https://i.ibb.co/f8W025g/bn-design.png",
@@ -41,6 +46,7 @@
         "serverUrl": "https://zahirul064.github.io/news_api/bd_local_news.json",
         "type": "district",
         "districtUrl": "https://zahirul064.github.io/news_api/district_news.json",
-        "cat_title_bn": "জেলার খবর (৬৪ জেলা)"
+        "cat_title_bn": "জেলার খবর (৬৪ জেলা)",
+        "count": 145
     }
 ]
