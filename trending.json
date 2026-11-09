@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-08T20:40:01+00:00",
+ "updated": "2026-11-09T00:17:08+00:00",
  "sources": [
   {
    "name": "প্রথম আলো",
-   "count": 25
+   "count": 6
   },
   {
    "name": "বিডিনিউজ২৪",
@@ -100,28 +100,6 @@
  ],
  "top": [
   {
-   "id": "a02e6e675a14",
-   "title": "মিরপুরে প্রাইভেট কারের ওপর ককটেল বিস্ফোরণ",
-   "link": "https://www.banglatribune.com/law-and-crime/979696/%E0%A6%AE%E0%A6%BF%E0%A6%B0%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%87%E0%A6%AD%E0%A7%87%E0%A6%9F-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%93%E0%A6%AA%E0%A6%B0-%E0%A6%95%E0%A6%95%E0%A6%9F%E0%A7%87%E0%A6%B2-%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%AB%E0%A7%8B%E0%A6%B0%E0%A6%A3",
-   "source": "বাংলা ট্রিবিউন",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
-   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/08/32008cea0ed723dd28d53423e91ecc33-6af0a77dacde3.jpg?jadewits_media_id=1053944",
-   "summary": "রাজধানীর মিরপুর-১ এর সনি হলের সামনে একটি প্রাইভেট কারের ওপর ককটেল বিস্ফোরণের ঘটনা ঘটেছে। রবিবার (৮ নভেম্বর) রাত সাড়ে ৮টায় এ ঘটনা ঘটে। তবে এতে কেউ হতাহত হননি। মিরপুর মডেল থানার ওসি মো. হাফিজুর রহমান বলেন, সনি হলের সামনে এ",
-   "published": 1794156526,
-   "score": 52.07
-  },
-  {
-   "id": "eb9fb235f3b0",
-   "title": "ভুটান-শ্রীলঙ্কার নাটকীয় ড্র, সেমিফাইনালে বাংলাদেশ",
-   "link": "https://www.dhakapost.com/sports/496379",
-   "source": "ঢাকা পোস্ট",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakapost.com&sz=64",
-   "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/untitled-1-20261108220512.jpg?cid=496379",
-   "summary": "",
-   "published": 1794153912,
-   "score": 51.71
-  },
-  {
    "id": "05e593c8cd65",
    "title": "রাজধানীতে একের পর এক ককটেল বিস্ফোরণ ও বাসে আগুন",
    "link": "https://www.dhakapost.com/national/496397",
@@ -130,51 +108,7 @@
    "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/coktail-3-20261109023305.jpg?cid=496397",
    "summary": "",
    "published": 1794169985,
-   "score": 43.94
-  },
-  {
-   "id": "845dac7f3f72",
-   "title": "মেয়ের জন্য খাবার কিনতে বেরিয়ে গুলিবিদ্ধ শিক্ষা অফিসের হিসাবরক্ষক",
-   "link": "https://www.prothomalo.com/bangladesh/district/3cxe9jnx0q",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-02-22/xc70gnn0/prothomalo-bangla2024.avif",
-   "summary": "খুলনায় গত ১০ মাসে অন্তত ৩৫টি হত্যাচেষ্টার ঘটনা ঘটেছে। এসব ঘটনায় আগ্নেয়াস্ত্র ও ধারালো অস্ত্র ব্যবহার করা হয়েছে। শেষ ১৫ দিনে গুলিবিদ্ধ হয়ে আহত হয়েছেন অন্তত পাঁচজন।",
-   "published": 1794156612,
-   "score": 42.08
-  },
-  {
-   "id": "934730b87053",
-   "title": "দেবিদ্বারে বিএনপির দুই পক্ষের সংঘর্ষ, সংরক্ষিত এমপির গাড়িবহরে হামলা",
-   "link": "https://www.ajkerpatrika.com/bangladesh/cumilla/ajpc6njf0smbn",
-   "source": "আজকের পত্রিকা",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ajkerpatrika.com&sz=64",
-   "image": "https://images.ajkerpatrika.com/original_images/কুমিল্লা-১-262381.jpg",
-   "summary": "জাতীয় বিপ্লব ও সংহতি দিবস উপলক্ষে কুমিল্লার দেবিদ্বারে উপজেলা বিএনপির দুই পক্ষের পৃথক কর্মসূচি ঘিরে উত্তেজনা ও সংঘর্ষের ঘটনা ঘটেছে। সমাবেশ শেষে ফেরার পথে জাতীয় সংসদের সংরক্ষিত আসনের সদস্য (এমপি) রাশেদা বেগম হীরার গাড়িবহর",
-   "published": 1794159533,
-   "score": 32.49
-  },
-  {
-   "id": "8867c5eb7d90",
-   "title": "ভাটারা, উত্তরা পূর্ব ও তেজগাঁও শিল্পাঞ্চলে ককটেল বিস্ফোরণ",
-   "link": "https://www.dhakapost.com/national/496396",
-   "source": "ঢাকা পোস্ট",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakapost.com&sz=64",
-   "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/coktail-1-20261109015519.jpg?cid=496396",
-   "summary": "",
-   "published": 1794167719,
-   "score": 23.63
-  },
-  {
-   "id": "4bbebebdeb4e",
-   "title": "কক্সবাজারে বিএনপি নেতাকে কুপিয়ে জখম, আটক ৬",
-   "link": "https://www.dhakapost.com/country/496395",
-   "source": "ঢাকা পোস্ট",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakapost.com&sz=64",
-   "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/coxbazar-20261109013827.jpg?cid=496395",
-   "summary": "",
-   "published": 1794166707,
-   "score": 23.49
+   "score": 32.13
   },
   {
    "id": "be5096c85152",
@@ -185,95 +119,95 @@
    "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/katar-20261109011359.jpg?cid=496394",
    "summary": "",
    "published": 1794165239,
-   "score": 23.28
+   "score": 31.47
   },
   {
-   "id": "8821dfff5177",
-   "title": "ক্যান্টনমেন্ট রেলওয়ে স্টেশনে ককটেল বিস্ফোরণ",
-   "link": "https://www.dhakapost.com/national/496393",
-   "source": "ঢাকা পোস্ট",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakapost.com&sz=64",
-   "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/coktail-20261109003354.jpg?cid=496393",
-   "summary": "",
-   "published": 1794162834,
-   "score": 22.95
-  },
-  {
-   "id": "be70882bb2fb",
-   "title": "এবার খিলক্ষেত থানা ও রেডিসন হোটেলের সামনে ককটেল বিস্ফোরণ",
-   "link": "https://www.banglatribune.com/others/capital-city/979704/%E0%A6%8F%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%A5%E0%A6%BE%E0%A6%A8%E0%A6%BE-%E0%A6%93-%E0%A6%B0%E0%A7%87%E0%A6%A1%E0%A6%BF%E0%A6%B8%E0%A6%A8-%E0%A6%B9%E0%A7%8B%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%A8%E0%A7%87-%E0%A6%95%E0%A6%95%E0%A6%9F%E0%A7%87%E0%A6%B2-%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%AB%E0%A7%8B%E0%A6%B0%E0%A6%A3",
+   "id": "6fa777819ec8",
+   "title": "টিভিতে আজকের খেলা (৯ নভেম্বর, ২০২৬)",
+   "link": "https://www.banglatribune.com/sport/other-sports/979657/%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%9C%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%96%E0%A7%87%E0%A6%B2%E0%A6%BE-%E0%A7%AF-%E0%A6%A8%E0%A6%AD%E0%A7%87%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0-%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AC",
    "source": "বাংলা ট্রিবিউন",
    "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
-   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/08/13/ea9995986ff6aadc9fcdbede7bb80d8d-6a7ddf3c3edf8.jpg?jadewits_media_id=1038321",
-   "summary": "রাজধানীর খিলক্ষেত থানার সামনে দুটি ককটেল বিস্ফোরণের ঘটনা ঘটেছে। রবিবার (৮ নভেম্বর) রাত ১১টার দিকে থানার ফটকের সামনে বিকট শব্দে ককটেল দুটির বিস্ফোরণ ঘটে। থানার ডিউটি অফিসার এসআই সোহেল আহমেদ ঘটনার সত্যতা নিশ্চিত করে বলেন, ",
-   "published": 1794162037,
-   "score": 22.84
+   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/08/a02a05fbc13045be0eea3c860280bb35-6af07b81c3f6f.jpg?jadewits_media_id=1053915",
+   "summary": "প্রতিদিনের মতো আজও টেলিভিশনের পর্দায় থাকছে বিভিন্ন খেলা। দেশের ও আন্তর্জাতিক অঙ্গনের এসব ম্যাচের মধ্যে কোনগুলো কখন, কোন চ্যানেলে সরাসরি দেখা যাবে—চলুন জেনে নেওয়া যাক আজকের টিভিতে খেলার সূচি। ক্রিকেটবাংলাদেশ-ওয়েস্ট ইন্ডিজ",
+   "published": 1794182400,
+   "score": 23.86
   },
   {
-   "id": "c112d1062e8b",
-   "title": "আড়াইহাজারে বিএনপির দুই পক্ষের সংঘর্ষে আহত ১০",
-   "link": "https://www.prothomalo.com/bangladesh/district/ihc0h3av1v",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-08/27q29jj7/narayangonj.jpg",
-   "summary": "",
-   "published": 1794159174,
-   "score": 22.44
-  },
-  {
-   "id": "14b28af179c5",
-   "title": "বিশ্ববিদ্যালয়ে ভর্তি পরীক্ষা নিয়ে উপাচার্যদের সঙ্গে বসছে ইউজিসি",
-   "link": "https://www.dhakapost.com/education/496390",
+   "id": "4bbebebdeb4e",
+   "title": "কক্সবাজারে বিএনপি নেতাকে কুপিয়ে জখম, আটক ৬",
+   "link": "https://www.dhakapost.com/country/496395",
    "source": "ঢাকা পোস্ট",
    "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakapost.com&sz=64",
-   "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/untitled-1-20261108232351.jpg?cid=496390",
+   "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/coxbazar-20261109013827.jpg?cid=496395",
    "summary": "",
-   "published": 1794158631,
-   "score": 22.37
+   "published": 1794166707,
+   "score": 21.68
   },
   {
-   "id": "793d33fef29d",
-   "title": "পুলিশের অপরাধ তদন্ত বিভাগের (সিআইডি) ভেতরে ও পল্লবী থানা ফটকে ককটেল বিস্ফোরণ",
-   "link": "https://www.prothomalo.com/video/bangladesh/novlq8flu8",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-08/ep33msoa/YT-GFX.00041404.Still053.jpg",
-   "summary": "পুলিশের অপরাধ তদন্ত বিভাগের (সিআইডি) ভেতরে ও পল্লবী থানা ফটকে ককটেল বিস্ফোরণ",
-   "published": 1794158499,
-   "score": 22.35
+   "id": "b234c01e726f",
+   "title": "জমি নিয়ে বিরোধে প্রতিপক্ষের হামলায় নারী নিহত",
+   "link": "https://www.jagonews24.com/country/news/1177246",
+   "source": "জাগো নিউজ",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
+   "image": "",
+   "summary": "মানিকগঞ্জের হরিরামপুরে জমি নিয়ে বিরোধের জেরে প্রতিপক্ষের হামলায় ময়না বেগম (৫৫) নামে এক নারী নিহত হয়েছেন। রোববার (৮ নভেম্বর) বিকেল...",
+   "published": 1794178726,
+   "score": 21.35
   },
   {
-   "id": "c999b4f723ba",
-   "title": "অ্যাটকোর নতুন সভাপতি অঞ্জন চৌধুরী, সাধারণ সম্পাদক আব্দুস সালাম",
-   "link": "https://www.prothomalo.com/bangladesh/rd9ws9hmc3",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-08/4z57nunc/atco.jpg",
-   "summary": "",
-   "published": 1794157279,
-   "score": 22.18
+   "id": "070da139bfd3",
+   "title": "ইসলামী বিশ্ববিদ্যালয়ে শ্যামা পূজা উদযাপিত",
+   "link": "https://www.jagonews24.com/campus/news/1177243",
+   "source": "জাগো নিউজ",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
+   "image": "",
+   "summary": "ইসলামী বিশ্ববিদ্যালয়ে (ইবি) উদযাপিত হয়েছে হিন্দু সম্প্রদায়ের অন্যতম প্রধান ধর্মীয় উৎসব শ্রী শ্রী শ্যামা (কালী) পূজা। রোববার (৮ নভেম্বর) সন্ধ্যায় বিশ্ববিদ্যালয়ের...",
+   "published": 1794176378,
+   "score": 21.02
   },
   {
-   "id": "0094aae9b8ba",
-   "title": "ঢাবি ক্যাম্পাসে ককটেল বিস্ফোরণের ঘটনায় ছাত্রশক্তির বিক্ষোভ",
-   "link": "https://www.dhakapost.com/campus/496385",
-   "source": "ঢাকা পোস্ট",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakapost.com&sz=64",
-   "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/new-project-7-20261108223857.jpg?cid=496385",
-   "summary": "",
-   "published": 1794155937,
-   "score": 21.99
+   "id": "618845024ef6",
+   "title": "এবার মেয়ের জন্য খাবার কিনতে বেরিয়ে গুলিবিদ্ধ শিক্ষা অফিসের কর্মকর্তা",
+   "link": "https://www.banglatribune.com/country/khulna/979693/%E0%A6%8F%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%AE%E0%A7%87%E0%A7%9F%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%96%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%95%E0%A6%BF%E0%A6%A8%E0%A6%A4%E0%A7%87-%E0%A6%AC%E0%A7%87%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%A7",
+   "source": "বাংলা ট্রিবিউন",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
+   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/08/628a85ad3253b0dce0c3cb5c39457c02-6af0a331dbfd3.jpg?jadewits_media_id=1053941",
+   "summary": "এবার খুলনায় বাসা থেকে মেয়ের জন্য খাবার কিনতে বের হয়ে দুর্বৃত্তদের গুলিতে আহত হয়েছেন রূপসা উপজেলা শিক্ষা অফিসের হিসাবরক্ষক মো. মশিউর রহমান (৫৯)। রবিবার (৮ নভেম্বর) সন্ধ্যা সাড়ে ৭টার দিকে সদর থানার মিয়াপাড়া এলাকায় এ ঘটনা ",
+   "published": 1794155323,
+   "score": 20.1
   },
   {
-   "id": "7b13886df64a",
-   "title": "বাবা নেই, ঋণ করে কেনা ভ্যানটিও চুরি, দিশেহারা প্রতিবন্ধী মা-ছেলে",
-   "link": "https://www.dhakapost.com/country/496384",
-   "source": "ঢাকা পোস্ট",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakapost.com&sz=64",
-   "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/jjhup-20261108222916.jpg?cid=496384",
-   "summary": "",
-   "published": 1794155356,
-   "score": 21.91
+   "id": "0077807aa2e0",
+   "title": "ভুটান-শ্রীলঙ্কার ড্রয়ে সেমিফাইনালে বাংলাদেশ",
+   "link": "https://www.banglatribune.com/sport/football/979692/%E0%A6%AD%E0%A7%81%E0%A6%9F%E0%A6%BE%E0%A6%A8-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A7%80%E0%A6%B2%E0%A6%99%E0%A7%8D%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%A1%E0%A7%8D%E0%A6%B0%E0%A7%9F%E0%A7%87-%E0%A6%B8%E0%A7%87%E0%A6%AE%E0%A6%BF%E0%A6%AB%E0%A6%BE%E0%A6%87%E0%A6%A8%E0%A6%BE%E0%A6%B2%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6",
+   "source": "বাংলা ট্রিবিউন",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
+   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/08/476f2513fb27c7a8a8e204aa57e28812-6af0a14f3ecf2.jpg?jadewits_media_id=1053940",
+   "summary": "সাফ চ্যাম্পিয়নশিপের সেমিফাইনালে ওঠার জন্য বাংলাদেশের অপেক্ষা ছিল ভুটান-শ্রীলঙ্কা ম্যাচের ফলের দিকে। আজ রবিবার দুই দলের লড়াইয়ে শেষ পর্যন্ত কেউ জিততে পারেনি। ২-২ গোলে ম্যাচটি ড্র হওয়ায় এক ম্যাচ হাতে রেখেই সেরা চারে জায়গা ন",
+   "published": 1794154946,
+   "score": 20.04
+  },
+  {
+   "id": "656675eff65b",
+   "title": "রাম-রাবণের রাজত্বেও তিন দিনেই ১০০ কোটির পথে সুরিয়ার সিনেমা",
+   "link": "https://www.jagonews24.com/entertainment/news/1177232",
+   "source": "জাগো নিউজ",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
+   "image": "",
+   "summary": "রাম-রাবণের রাজত্বেও তিন দিনেই ১০০ কোটির পথে সুরিয়ার সিনেমা",
+   "published": 1794165647,
+   "score": 19.53
+  },
+  {
+   "id": "069e24023177",
+   "title": "জাতীয় বিপ্লব ও সংহতি দিবস উদযাপন করলো নোবিপ্রবি ছাত্রদল",
+   "link": "https://www.jagonews24.com/campus/news/1177228",
+   "source": "জাগো নিউজ",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
+   "image": "",
+   "summary": "জাতীয় বিপ্লব ও সংহতি দিবস উদযাপন করলো নোবিপ্রবি ছাত্রদল",
+   "published": 1794161618,
+   "score": 18.97
   },
   {
    "id": "c39fcb48311f",
@@ -283,8 +217,206 @@
    "sourceIcon": "https://www.google.com/s2/favicons?domain=www.bbc.co.uk&sz=64",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf9/live/cd887f00-db74-11f1-a701-fddedf244c16.jpg",
    "summary": "বাংলাদেশের একটি সংস্থা বলছে, সড়ক দুর্ঘটনায় গত ছয় বছর ১০ মাসে প্রায় ৩০০ পরিবার পুরোপুরি নিশ্চিহ্ন হয়ে গেছে। অন্যদিকে ঢাকায় বিভিন্ন স্থানে রোববার রাতে একাধিক ককটেল বিস্ফোরণের খবর পাওয়া গেছে। বিস্তারিত বিবিসি বাংলার লাইভ ",
-   "published": 1794170399,
+   "published": 1794183426,
    "score": 14.0
+  },
+  {
+   "id": "ae64d682552b",
+   "title": "রূপনগর থানার সামনে ককটেল বিস্ফোরণ, পালানোর সময় যুবক আটক",
+   "link": "https://www.dhakapost.com/national/496399",
+   "source": "ঢাকা পোস্ট",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakapost.com&sz=64",
+   "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/josim-20261109060359.jpg?cid=496399",
+   "summary": "",
+   "published": 1794182639,
+   "score": 13.89
+  },
+  {
+   "id": "29d6254d71ce",
+   "title": "ড্রোন হামলায় ইরাকের গ্যাসক্ষেত্রে আগুন, গ্যাস উৎপাদন বন্ধ, বিদ্যুৎ উৎপাদন ব্যাহত",
+   "link": "https://www.prothomalo.com/world/middle-east/8f7uybbtb6",
+   "source": "প্রথম আলো",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-08/1qp3a9we/Iraqs-Khor-Mor-gas-field.jpg",
+   "summary": "",
+   "published": 1794182234,
+   "score": 13.83
+  },
+  {
+   "id": "f515d8326be8",
+   "title": "একসঙ্গে ছাত্রদলের ১১ নেতাকে শোকজ, সময় ৪৮ ঘণ্টা",
+   "link": "https://www.banglatribune.com/country/dhaka/979720/%E0%A6%8F%E0%A6%95%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%9B%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%A6%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A7%A7%E0%A7%A7-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%B6%E0%A7%8B%E0%A6%95%E0%A6%9C-%E0%A6%B8%E0%A6%AE%E0%A7%9F-%E0%A7%AA%E0%A7%AE-%E0%A6%98%E0%A6%A3%E0%A7%8D%E0%A6%9F%E0%A6%BE",
+   "source": "বাংলা ট্রিবিউন",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
+   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/10/01/16df4d0789c71d97d97fd0a7bb36a59f-6abdd60b6de9f.jpg?jadewits_media_id=1046677",
+   "summary": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় শাখা ছাত্রদলের বিভিন্ন হল ইউনিটের ১১ নেতাকে কারণ দর্শানোর নোটিশ (শোকজ) দেওয়া হয়েছে। সংগঠনের গুরুত্বপূর্ণ পদে থেকেও দায়িত্ব পালনে অবহেলার অভিযোগে তাদের কাছে ব্যাখ্যা চাওয়া হয়েছে। রবিবার (৮ নভেম্",
+   "published": 1794181216,
+   "score": 13.69
+  },
+  {
+   "id": "76f76e98c0c0",
+   "title": "মহেশখালীতে হচ্ছে আরও ৩ এলএনজি টার্মিনাল: মুখ্য সচিব",
+   "link": "https://www.banglatribune.com/country/chitagong/979716/%E0%A6%AE%E0%A6%B9%E0%A7%87%E0%A6%B6%E0%A6%96%E0%A6%BE%E0%A6%B2%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%B9%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87-%E0%A6%86%E0%A6%B0%E0%A6%93-%E0%A7%A9-%E0%A6%8F%E0%A6%B2%E0%A6%8F%E0%A6%A8%E0%A6%9C%E0%A6%BF-%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%B2-%E0%A6%AE%E0%A7%81%E0%A6%96%E0%A7%8D%E0%A6%AF",
+   "source": "বাংলা ট্রিবিউন",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
+   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/09/af6da2fbcaf70f807c8e3c4bcd46d283-6af0eef697fa5.jpg?jadewits_media_id=1053961",
+   "summary": "প্রধানমন্ত্রীর মুখ্য সচিব এ বি এম আব্দুস সাত্তার বলেছেন, কক্সবাজারের মহেশখালীতে আরও তিনটি এলএনজি টার্মিনাল হচ্ছে। রবিবার (৮ নভেম্বর) মহেশখালী সমন্বিত উন্নয়ন কর্তৃপক্ষের অধীন মাতারবাড়ীতে নির্মাণাধীন গভীর সমুদ্র বন্দর কয়লা",
+   "published": 1794178920,
+   "score": 13.37
+  },
+  {
+   "id": "f4451711c8e1",
+   "title": "Over 50 blasts, 8 buses torched: Who is behind Dhaka's terror?",
+   "link": "https://www.dhakatribune.com/bangladesh/dhaka/424076/blasts-across-the-capital-few-answers-who-is",
+   "source": "Dhaka Tribune",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakatribune.com&sz=64",
+   "image": "https://ecdn.dhakatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/09/538c8a3c15e0975644215e21ad40d3b6-6af0bac5c432f.png?jadewits_media_id=76998",
+   "summary": "Police stations, government buildings and campuses targeted, yet who makes, funds and directs the crude bombs remains unanswered Details",
+   "published": 1794177888,
+   "score": 13.23
+  },
+  {
+   "id": "db3dd10f89a0",
+   "title": "পিছিয়ে পড়েও অ্যাতলেতিকো মাদ্রিদকে হারিয়েছে বার্সেলোনা",
+   "link": "https://www.banglatribune.com/sport/football/979718/%E0%A6%AA%E0%A6%BF%E0%A6%9B%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%AA%E0%A7%9C%E0%A7%87%E0%A6%93-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A6%B2%E0%A7%87%E0%A6%A4%E0%A6%BF%E0%A6%95%E0%A7%8B-%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%A6%E0%A6%95%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A7%87",
+   "source": "বাংলা ট্রিবিউন",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
+   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/09/6f91bc636e33f84d8c0e346e7b82409b-6af0f6535406b.jpg?jadewits_media_id=1053962",
+   "summary": "সমীকরণ ছিল যে দল জিততো তারাই হয়ে যেতো স্প্যানিশ লা-লিগার টেবিলের এক নম্বর দল। অ্যাতলেতিকো মাদ্রিদ নিজেদের মাঠ মেট্রোপলিতানোতে শুরুটাও করেছিল দুর্দান্ত। এগিয়ে যায় শুরুতেই। তবে সেখান থেকে অসাধারণ কামব্যাক দিয়ে জয় তুলে নিয়ে",
+   "published": 1794177300,
+   "score": 13.15
+  },
+  {
+   "id": "d49f88aa31a0",
+   "title": "অনলাইন কেনাকাটা: ক্রেতার সংখ্যা কমে সংকটে বিপণিবিতান",
+   "link": "https://www.ajkerpatrika.com/business/ajpw2x1zns6e4",
+   "source": "আজকের পত্রিকা",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ajkerpatrika.com&sz=64",
+   "image": "https://images.ajkerpatrika.com/original_images/online-market-c7fb8a.jpg",
+   "summary": "রাজধানীর জনপ্রিয় কয়েকটি বিপণিবিতান বা শপিং মলে একসময় দোকান খোলার আগেই কিছুসংখ্যক ক্রেতাকে এসে অপেক্ষা করতে দেখা যেত। সেদিন আর নেই। মূল্যস্ফীতির চাপ, ক্রেতাদের অভ্যাসের পরিবর্তনসহ বিভিন্ন কারণে পণিবিতানগুলোর ব্যবসায় ভাটা ",
+   "published": 1794177031,
+   "score": 13.11
+  },
+  {
+   "id": "b50dcc071b09",
+   "title": "কোরআন যাদের বন্ধু বানাতে নিষেধ করেছে",
+   "link": "https://www.prothomalo.com/religion/islam/96gvzb5yus",
+   "source": "প্রথম আলো",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-08/ncl678fy/pexels-noval-36495072.jpg",
+   "summary": "বন্ধুত্বের মাধ্যমেই মানুষের চিন্তা, বিশ্বাস ও নৈতিকতা সবচেয়ে বেশি প্রভাবিত হয়। তাই কোরআনে আল্লাহ মুমিনদের নিষেধ করেছেন কিছু মানুষকে বন্ধু হিসেবে গ্রহণ করতে।",
+   "published": 1794177000,
+   "score": 13.11
+  },
+  {
+   "id": "6da79e1fe8fd",
+   "title": "এইচএসসির ১১ লাখ উত্তরপত্র পুনর্মূল্যায়নের আবেদন, কোন সাবজেক্ট বেশি?",
+   "link": "https://www.banglatribune.com/educations/979715/%E0%A6%8F%E0%A6%87%E0%A6%9A%E0%A6%8F%E0%A6%B8%E0%A6%B8%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A7%A7%E0%A7%A7-%E0%A6%B2%E0%A6%BE%E0%A6%96-%E0%A6%89%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%AA%E0%A7%81%E0%A6%A8%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A7%82%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A7%9F%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%AC%E0%A7%87%E0%A6%A6%E0%A6%A8",
+   "source": "বাংলা ট্রিবিউন",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
+   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/09/a6e1f42d481f5c849647f0aa115a6e9d-6af0e64c07c7b.jpg?jadewits_media_id=1053960",
+   "summary": "চলতি বছরের এইচএসসি ও সমমানের পরীক্ষার ফলাফল প্রকাশের পর মোট ১০ লাখ ৮৭ হাজার ৪১৩টি উত্তরপত্র (বিষয়) পুনর্নিরীক্ষা ও পুনর্মূল্যায়নের আবেদন করা হয়েছে। উত্তরপত্র পুনর্নিরীক্ষণ ও পুনর্মূল্যায়নের জন্য দেশের ১১টি শিক্ষা বোর্ডে ",
+   "published": 1794175820,
+   "score": 12.94
+  },
+  {
+   "id": "4f1779353eea",
+   "title": "বৃষ্টিতে ডুবেছে গাজার তাঁবু, বাড়ছে ত্রাণসংকট",
+   "link": "https://www.ajkerpatrika.com/international/middle-east-1/ajprnqcmb0qvu",
+   "source": "আজকের পত্রিকা",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ajkerpatrika.com&sz=64",
+   "image": "https://images.ajkerpatrika.com/original_images/gaza-rain-8ff573.jpg",
+   "summary": "গাজা উপত্যকায় বাস্তুচ্যুত ফিলিস্তিনিদের তাঁবুশিবির। কেউ বৃষ্টিতে ক্ষতিগ্রস্ত তাঁবু মেরামতের চেষ্টা করছেন, কেউ বালু দিয়ে তাঁবুর চারপাশ শক্ত করছেন, যাতে পানি ভেতরে ঢুকতে না পারে। আবার কেউ পানিতে ডুবে যাওয়া তাঁবু থেকে সন্তা",
+   "published": 1794175225,
+   "score": 12.86
+  },
+  {
+   "id": "63b305ad8e5e",
+   "title": "মন্দিরে মন্দিরে প্রদীপ জ্বালিয়ে শ্যামা পূজা উদযাপন",
+   "link": "https://www.banglatribune.com/others/capital-city/979713/%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%BF%E0%A6%B0%E0%A7%87-%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%BF%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A6%E0%A7%80%E0%A6%AA-%E0%A6%9C%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AE%E0%A6%BE-%E0%A6%AA%E0%A7%82%E0%A6%9C%E0%A6%BE-%E0%A6%89%E0%A6%A6%E0%A6%AF%E0%A6%BE%E0%A6%AA%E0%A6%A8",
+   "source": "বাংলা ট্রিবিউন",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
+   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/09/a767ea9f87dd2ff43d6cd7405bbb69af-6af0e1068093f.jpg?jadewits_media_id=1053958",
+   "summary": "মন্দিরে মন্দিরে প্রদীপ জ্বালিয়ে ও আলোকসজ্জার মধ্য দিয়ে উদযাপিত হয়েছে হিন্দু সম্প্রদায়ের অন্যতম প্রধান ধর্মীয় উৎসব শ্রী শ্রী শ্যামা (কালী) পূজা ও দীপাবলি। এ উপলক্ষে রবিবার (৮ নভেম্বর) সন্ধ্যা থেকেই রাজধানীর পূজামণ্ডপ ও মন",
+   "published": 1794173700,
+   "score": 12.65
+  },
+  {
+   "id": "5323936b6981",
+   "title": "মধ্যবর্তী নির্বাচনে ভরাডুবি: লড়াইয়ের প্রস্তুতি ট্রাম্পের",
+   "link": "https://www.ajkerpatrika.com/international/usa-canada/ajpk7ij4a3pea",
+   "source": "আজকের পত্রিকা",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ajkerpatrika.com&sz=64",
+   "image": "https://images.ajkerpatrika.com/original_images/Donald-Trump_.jpg",
+   "summary": "যুক্তরাষ্ট্রের মধ্যবর্তী নির্বাচনে ডেমোক্র্যাটদের বড় জয়ের পর নতুন রাজনৈতিক বাস্তবতার মুখোমুখি হতে যাচ্ছেন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প। তবে বিরোধীদের চাপে পিছু হটার বদলে লড়াইয়ের প্রস্তুতি নিচ্ছেন তিনি। ডেমোক্র্যাট আইনপ্",
+   "published": 1794173421,
+   "score": 12.61
+  },
+  {
+   "id": "0bfb69203ae8",
+   "title": "মুখোমুখি বিএনপির দুই পক্ষ, এমপির গাড়ি ভাঙচুর",
+   "link": "https://www.banglatribune.com/country/chitagong/979712/%E0%A6%AE%E0%A7%81%E0%A6%96%E0%A7%8B%E0%A6%AE%E0%A7%81%E0%A6%96%E0%A6%BF-%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%AA%E0%A6%95%E0%A7%8D%E0%A6%B7-%E0%A6%8F%E0%A6%AE%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A6%97%E0%A6%BE%E0%A7%9C%E0%A6%BF-%E0%A6%AD%E0%A6%BE%E0%A6%99%E0%A6%9A%E0%A7%81%E0%A6%B0",
+   "source": "বাংলা ট্রিবিউন",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
+   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/09/818f2b07b3bfe49e3c480853d9dd0bf2-6af0df4c7821f.jpg?jadewits_media_id=1053957",
+   "summary": "বিপ্লব ও সংহতি দিবস উপলক্ষে কুমিল্লার দেবীদ্বারে বিএনপির দুই পক্ষ পাল্টাপাল্টি মিছিল ও সমাবেশ করেছে। এ সময় সংরক্ষিত নারী আসনের সংসদ সদস্য রাশেদা বেগমের (হীরা) গাড়িবহরে হামলা ও ভাঙচুর করা হয়েছে। রবিবার (৮ নভেম্বর) বিকালে ",
+   "published": 1794171840,
+   "score": 12.39
+  },
+  {
+   "id": "fe538f38afe8",
+   "title": "ইরানের অস্ত্র সরবরাহ বন্ধে যুক্তরাষ্ট্রের নতুন টাস্কফোর্স, এবার স্থলসীমান্ত ও কাস্পিয়ান সাগরে নজর",
+   "link": "https://www.prothomalo.com/world/middle-east/38lpyp7qwt",
+   "source": "প্রথম আলো",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-08/tilomx7w/Trucks-wait-to-cross-into-Iran.avif",
+   "summary": "",
+   "published": 1794171703,
+   "score": 12.37
+  },
+  {
+   "id": "7921dd7e0af7",
+   "title": "আমদানির চাপে অস্থির ডলার",
+   "link": "https://www.ajkerpatrika.com/business/ajpmmfzqp8h1i",
+   "source": "আজকের পত্রিকা",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ajkerpatrika.com&sz=64",
+   "image": "https://images.ajkerpatrika.com/original_images/dollar-dlr.jpg",
+   "summary": "দীর্ঘদিন ধরে ১২০ থেকে ১২২ টাকার মধ্যে স্থিতিশীল থাকার পর আবারও বাড়তে শুরু করেছে ডলারের দাম। এক সপ্তাহের ব্যবধানে আমদানি দায় মেটাতে প্রতি ডলারের দাম বেড়েছে প্রায় ১ টাকা। বর্তমানে ব্যাংকগুলোর মধ্যে লেনদেনে প্রতি ডলারের দর ",
+   "published": 1794171611,
+   "score": 12.36
+  },
+  {
+   "id": "074637d695a2",
+   "title": "‘কিং’ মুক্তির আগেই গেরুয়া রং নিয়ে আবারও বিতর্কের মুখে শাহরুখ",
+   "link": "https://www.prothomalo.com/video/entertainment/98c1pyl4ap",
+   "source": "প্রথম আলো",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-08/2kothxoe/WEB.jpg",
+   "summary": "‘কিং’ মুক্তির আগেই গেরুয়া রং নিয়ে আবারও বিতর্কের মুখে শাহরুখ",
+   "published": 1794170473,
+   "score": 12.2
+  },
+  {
+   "id": "b913d1c9958b",
+   "title": "কোন পথে চীনের করিডর?",
+   "link": "https://www.prothomalo.com/video/bangladesh/jaxy2f2htg",
+   "source": "প্রথম আলো",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-08/ch4z4j66/WEB.jpg",
+   "summary": "চীন বঙ্গোপসাগরে পৌঁছাতে চায়। বাংলাদেশকে সেই যোগাযোগব্যবস্থার অংশ করতে চায়",
+   "published": 1794170451,
+   "score": 12.2
+  },
+  {
+   "id": "960f177a00f9",
+   "title": "রমজানে নিত্যপণ্যের এলসি খোলা সহজ করল বাংলাদেশ ব্যাংক",
+   "link": "https://www.dhakapost.com/national/496398",
+   "source": "ঢাকা পোস্ট",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakapost.com&sz=64",
+   "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/bank-20261109024156.jpg?cid=496398",
+   "summary": "",
+   "published": 1794170437,
+   "score": 12.2
   },
   {
    "id": "4715301d1e95",
@@ -295,7 +427,7 @@
    "image": "https://images.ajkerpatrika.com/original_images/11-party-alliance-61c403.jpg",
    "summary": "জুলাই জাতীয় সনদ বাস্তবায়ন ও গণভোটের রায় কার্যকরসহ বিভিন্ন দাবিতে সভা-সেমিনার, বিক্ষোভ ও লংমার্চের মতো কর্মসূচি পালন করে যাচ্ছে সংসদের বিরোধী দল জামায়াতে ইসলামীর নেতৃত্বাধীন জোট ১১ দলীয় ঐক্য। গত কয়েক মাসের এসব কর্মসূচির প",
    "published": 1794169805,
-   "score": 13.92
+   "score": 12.11
   },
   {
    "id": "2e110f762e8b",
@@ -306,7 +438,7 @@
    "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2017/05/04/ee44ef133b68e91ae8efec62e7294a87-590a865687210.jpg?jadewits_media_id=202601",
    "summary": "আসন্ন পবিত্র রমজান মাসে নিত্যপ্রয়োজনীয় পণ্যের সরবরাহ স্বাভাবিক রাখা এবং মূল্যবৃদ্ধি নিয়ন্ত্রণে রাখতে ১০টি পণ্য আমদানির ঋণপত্র (এলসি) খোলার ক্ষেত্রে নগদ মার্জিন সর্বনিম্ন পর্যায়ে রাখার নির্দেশ দিয়েছে বাংলাদেশ ব্যাংক। একই ",
    "published": 1794169315,
-   "score": 13.85
+   "score": 12.04
   },
   {
    "id": "daf59848e782",
@@ -317,7 +449,18 @@
    "image": "https://images.ajkerpatrika.com/original_images/Myanmar-839a99.jpg",
    "summary": "মিয়ানমারের জান্তা সরকারের নতুন পরিচয়পত্র নিতে আপত্তি জানিয়েছেন থাইল্যান্ডে থাকা ২০ লাখের বেশি অভিবাসী শ্রমিক। তাঁরা বরং জাতীয় ঐক্য সরকারের (এনইউজি) কাছে বিকল্প পরিচয়পত্র দেওয়ার আহ্বান জানিয়েছেন। এক সপ্তাহের অনলাইন জরিপে ",
    "published": 1794169259,
-   "score": 13.84
+   "score": 12.03
+  },
+  {
+   "id": "620d0a5292c0",
+   "title": "ফাঁকা বাড়িতে ধর্ষণের অভিযোগ শ্বশুরের বিরুদ্ধে, অপমানে বিষপান গৃহবধূর",
+   "link": "https://www.jagonews24.com/country/news/1177249",
+   "source": "জাগো নিউজ",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
+   "image": "",
+   "summary": "নাটোরের সিংড়া পৌরসভার চকসিংড়া মহল্লায় শ্বশুরের বিরুদ্ধে ধর্ষণের অভিযোগ ওঠার পর বিষপানে আত্মহত্যার চেষ্টা করা এক গৃহবধূ চিকিৎসাধীন...",
+   "published": 1794182500,
+   "score": 11.87
   },
   {
    "id": "3dfdbec91b97",
@@ -328,7 +471,18 @@
    "image": "https://images.ajkerpatrika.com/original_images/rail-e7b7ce.jpg",
    "summary": "স্বল্প খরচে কৃষিসহ নানান পণ্য পরিবহনের লক্ষ্যে ৩৫৮ কোটি ৩৯ লাখ টাকা ব্যয়ে বাংলাদেশ রেলওয়েতে যুক্ত করা হয়েছিল ১২৫টি লাগেজ ভ্যান। তবে কৃষক ও ব্যবসায়ীদের কাছ থেকে মেলেনি আশানুরূপ সাড়া। ফলে সেগুলো রেলের গলার কাঁটায় পরিণত হয়ে",
    "published": 1794168054,
-   "score": 13.67
+   "score": 11.86
+  },
+  {
+   "id": "8867c5eb7d90",
+   "title": "ভাটারা, উত্তরা পূর্ব ও তেজগাঁও শিল্পাঞ্চলে ককটেল বিস্ফোরণ",
+   "link": "https://www.dhakapost.com/national/496396",
+   "source": "ঢাকা পোস্ট",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakapost.com&sz=64",
+   "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/coktail-1-20261109015519.jpg?cid=496396",
+   "summary": "",
+   "published": 1794167719,
+   "score": 11.82
   },
   {
    "id": "312e21d71c6b",
@@ -339,7 +493,7 @@
    "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/09/16077d350251b92ae42234d9f2f53fc6-6af0d290f38be.jpg?jadewits_media_id=1053956",
    "summary": "রাষ্ট্রায়ত্ত অগ্রণী ব্যাংকের মুন্সীগঞ্জের শ্রীনগর শাখায় ৩১৫ গ্রাহকের প্রায় ৩০ কোটি টাকা আত্মসাতের অভিযোগ উঠেছে। ব্যাংকে নিয়ম মেনে টাকা জমা রাখার পরও এখন গ্রাহকদের অনেকেই নিজেদের হিসাবের অস্তিত্ব খুঁজে পাচ্ছেন না। কারও কা",
    "published": 1794167461,
-   "score": 13.59
+   "score": 11.78
   },
   {
    "id": "d4fee796588b",
@@ -350,7 +504,7 @@
    "image": "https://images.ajkerpatrika.com/original_images/dZfMT33OsW8-HD-67ce80.jpg",
    "summary": "সন্তান না হওয়ায় তালাক, স্বামীর পা ধরে কেঁদেও সংসার বাঁচাতে পারলেন না স্ত্রী; কাঁদছে নেটদুনিয়া বিস্তারিত",
    "published": 1794167289,
-   "score": 13.57
+   "score": 11.76
   },
   {
    "id": "91251f64a8b5",
@@ -361,183 +515,29 @@
    "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/06/18/27f2d8396ea57ac87d66241e58f09d52-6a33b1e507282.jpg?jadewits_media_id=1029459",
    "summary": "সন্ধ্যার ব্যস্ততা তখনও কমেনি ঢাকা বিশ্ববিদ্যালয় ক্যাম্পাসে। হঠাৎ টিএসসি এলাকায় পরপর দুটি বিকট শব্দ। মুহূর্তের মধ্যে ছড়িয়ে পড়ে আতঙ্ক। কিছুক্ষণ পর একই শব্দ শোনা যায় বিশ্ববিদ্যালয়ের প্রশাসনিক ভবনের পাশে, ভিসি চত্বর ও মুক্তি",
    "published": 1794167129,
-   "score": 13.55
+   "score": 11.74
   },
   {
-   "id": "096106198c6d",
-   "title": "নিউগিনি প্রপার্টিজে আবার হামলা: ভুক্তভোগীর বিরুদ্ধেই উল্টো মামলা",
-   "link": "https://www.prothomalo.com/bangladesh/crime/q4v5mm059u",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-07/syiqf6ol/Pic-1.png",
-   "summary": "",
-   "published": 1794165855,
-   "score": 13.37
+   "id": "d1e6de898df4",
+   "title": "৪৫ বছর পর দেশে এসে বাবা-মাকে খুঁজছেন সেলিনা, নিলেন ‘ভাইয়ের’ ডিএনএ",
+   "link": "https://www.jagonews24.com/country/news/1177248",
+   "source": "জাগো নিউজ",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
+   "image": "",
+   "summary": "কক্সবাজারের চকরিয়ার ডুলাহাজারা মালুমঘাট হাসপাতালে জন্ম দরিদ্র পরিবারের মেয়ে সেলিনার। নুন আনতে পান্তা ফুরানোর অবস্থা পরিবারে। তাই জন্মের পর মেয়েকে...",
+   "published": 1794181083,
+   "score": 11.67
   },
   {
-   "id": "58c85379234d",
-   "title": "তারল্যসংকটে থাকা ব্যাংকে চট্টগ্রাম বন্দরের আমানত, দায়ীদের বিরুদ্ধে ব্যবস্থা নেওয়ার সুপারিশ",
-   "link": "https://www.prothomalo.com/bangladesh/i478bcjajj",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-02-14/h3iuaes9/Songsob.jpg",
-   "summary": "তারল্যসংকটে থাকা ছয়টি ব্যাংকে চট্টগ্রাম বন্দর কর্তৃপক্ষের ১ হাজার ২০০ কোটি টাকার বেশি আমানত রাখা নিয়ে অসন্তোষ জানিয়েছে সংসদীয় কমিটি। দায়ীদের বিরুদ্ধে ব্যবস্থা নেওয়ার সুপারিশও করেছে।",
-   "published": 1794165425,
-   "score": 13.31
-  },
-  {
-   "id": "ad7ce407b182",
-   "title": "সরকার গঠনের ডাক পাওয়া আইজেনকট কি নেতানিয়াহুকে সরাতে পারবেন",
-   "link": "https://www.prothomalo.com/world/middle-east/0uhkjjglxt",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-08/ghpugdpd/Eisenkot.avif",
-   "summary": "",
-   "published": 1794165218,
-   "score": 13.28
-  },
-  {
-   "id": "679c3177ec89",
-   "title": "ভূমি নিবন্ধন কার্যক্রম ভূমি মন্ত্রণালয়ের অধীনে আনার সুপারিশ",
-   "link": "https://www.prothomalo.com/bangladesh/f7a5g3l29o",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-08/prpfmi59/Land-Ministry.jpg",
-   "summary": "",
-   "published": 1794164462,
-   "score": 13.18
-  },
-  {
-   "id": "a2f603eb0583",
-   "title": "মুসলিম অভিবাসীদের মধ্যে ইহুদিবিদ্বেষ থাকলে জার্মানি ছাড়ার আহ্বান চ্যান্সেলর মের্ৎসের",
-   "link": "https://www.prothomalo.com/world/europe/ii5kk2cb6j",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-08/yn3rwdl0/German-Chancellor-Friedrich-.jpg",
-   "summary": "",
-   "published": 1794164109,
-   "score": 13.13
-  },
-  {
-   "id": "4180fe6433b3",
-   "title": "গোপালগঞ্জে প্রাইভেটকার-মোটরসাইকেল সংঘর্ষে মহিলা দল নেত্রীর ছেলে নিহত",
-   "link": "https://www.ajkerpatrika.com/bangladesh/gopalganj/ajpqsqd5hzl31",
-   "source": "আজকের পত্রিকা",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ajkerpatrika.com&sz=64",
-   "image": "https://images.ajkerpatrika.com/original_images/gopalgonj-medical-hospital-bb3533.jpg",
-   "summary": "গোপালগঞ্জে প্রাইভেটকার ও মোটরসাইকেলের মুখোমুখি সংঘর্ষে সারজিল সিকদার (২২) নামে এক শিক্ষার্থী নিহত হয়েছে। তিনি শহরের ব্যাংকপাড়া এলাকার বাসিন্দা ও পৌর মহিলা দলের সভানেত্রী নিরালা বেগম ও শাহ আলম সিকদারের ছেলে... বিস্তারিত",
-   "published": 1794163655,
-   "score": 13.06
-  },
-  {
-   "id": "035f5a9887a0",
-   "title": "৮ গোলের ম্যাচে শেষ মুহূর্তের নাটকে ড্র করেও ১৮ নম্বরে ইউনাইটেড",
-   "link": "https://www.prothomalo.com/sports/football/nh9xfnu9zj",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-08/g77oecij/2026-11-08T183827Z668868392UP1EMB81FS292RTRMADP3SOCCER-ENGLAND-MUN-AVL.JPG",
-   "summary": "",
-   "published": 1794163611,
-   "score": 13.06
-  },
-  {
-   "id": "8b29867d66d0",
-   "title": "জাতীয় নারীশক্তির ঢাকা উত্তর ও দক্ষিণে আংশিক কমিটি অনুমোদন",
-   "link": "https://www.ajkerpatrika.com/politics/ajpqmd9akyk89",
-   "source": "আজকের পত্রিকা",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ajkerpatrika.com&sz=64",
-   "image": "https://images.ajkerpatrika.com/original_images/ncp-logo-072219.jpg",
-   "summary": "ঢাকা মহানগর দক্ষিণ শাখার আহ্বায়ক করা হয়েছে সিফাত সুলতানা মিমকে। সদস্যসচিব হয়েছেন ইথার ফারিয়েল হামিদ এবং মুখ্য সংগঠক হয়েছেন ফাতেমা রহমান মেঘা। আংশিক কমিটিগুলো আগামী ১৫ দিনের মধ্যে পূর্ণাঙ্গ করে কেন্দ্রীয় দপ্তরে জমা দেওয়ার",
-   "published": 1794163524,
-   "score": 13.04
-  },
-  {
-   "id": "fc0434c25da8",
-   "title": "সুন্দরবনে ১০ জেলেকে অপহরণ, জনপ্রতি ১ লাখ টাকা মুক্তিপণ দাবি",
-   "link": "https://www.ajkerpatrika.com/bangladesh/satkhira/ajpaaipf2sl9w",
-   "source": "আজকের পত্রিকা",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ajkerpatrika.com&sz=64",
-   "image": "https://images.ajkerpatrika.com/original_images/sundorban.jpg",
-   "summary": "সুন্দরবনের সাতক্ষীরা রেঞ্জের নটাবেঁকীসহ কয়েকটি এলাকা থেকে ১০ জেলেকে অপহরণের অভিযোগ উঠেছে। ফিরে আসা জেলেদের দাবি, আমির ও আলম গ্রুপের সদস্যরা জনপ্রতি ১ লাখ টাকা মুক্তিপণ দাবি করেছে। বন বিভাগ অভিযান চালাচ্ছে এবং পুলিশ জড়িতদ",
-   "published": 1794163449,
-   "score": 13.03
-  },
-  {
-   "id": "b9a6a0391334",
-   "title": "পশ্চিমবঙ্গের ভোটার তালিকা: পদত্যাগ করলেন আরও এক বিচারপতি",
-   "link": "https://www.prothomalo.com/world/india/z9j1gm45kq",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-04-01/xhm3jgfi/KOLKATA-HIGH-COURT-1-3.jpg",
-   "summary": "",
-   "published": 1794163420,
-   "score": 13.03
-  },
-  {
-   "id": "f4451711c8e1",
-   "title": "Over 50 blasts, 8 buses torched: Who is behind Dhaka's terror?",
-   "link": "https://www.dhakatribune.com/bangladesh/dhaka/424076/blasts-across-the-capital-few-answers-who-is",
-   "source": "Dhaka Tribune",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakatribune.com&sz=64",
-   "image": "https://ecdn.dhakatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/09/538c8a3c15e0975644215e21ad40d3b6-6af0bac5c432f.png?jadewits_media_id=76998",
-   "summary": "Police stations, government buildings and campuses targeted, yet who makes, funds and directs the crude bombs remains unanswered Details",
-   "published": 1794162466,
-   "score": 12.9
-  },
-  {
-   "id": "20f5690dc4bc",
-   "title": "নবীন বিসিএস কর্মকর্তাদের সততা, দক্ষতা ও মানবিকতার সঙ্গে সেবা করার আহ্বান প্রধানমন্ত্রীর",
-   "link": "https://www.ajkerpatrika.com/national/ajpmig7kxcvgy",
-   "source": "আজকের পত্রিকা",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ajkerpatrika.com&sz=64",
-   "image": "https://images.ajkerpatrika.com/original_images/tarek-a7b0d2.jpg",
-   "summary": "প্রধানমন্ত্রী তারেক রহমান নবীন বিসিএস কর্মকর্তাদের সততা, দক্ষতা ও মানবিক মূল্যবোধের সঙ্গে জনগণের সেবা করার আহ্বান জানিয়েছেন। তিনি বলেছেন, একজন সরকারি কর্মকর্তা হিসেবে আপনাদের কাছে জনগণ শুধু আদেশ-নির্দেশ নয়, মানবিকতাও আশা",
-   "published": 1794161141,
-   "score": 12.71
-  },
-  {
-   "id": "d84db2b9bc89",
-   "title": "সালমান এফ রহমান ‘পর্যবেক্ষক’ হিসেবে বিদেশি আইনজীবী আনতে পারবেন: প্রসিকিউটর",
-   "link": "https://www.prothomalo.com/bangladesh/ambctl84ki",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-01-26/twusnm6g/ICT-verdict.jpg",
-   "summary": "",
-   "published": 1794160898,
-   "score": 12.68
-  },
-  {
-   "id": "7c9f7fe01baa",
-   "title": "পিরোজপুরে স্বেচ্ছাসেবক দল নেতাকে কুপিয়ে জখম",
-   "link": "https://www.dhakapost.com/country/496392",
-   "source": "ঢাকা পোস্ট",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakapost.com&sz=64",
-   "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/pirojpur-20261109000119.jpg?cid=496392",
-   "summary": "",
-   "published": 1794160879,
-   "score": 12.68
-  },
-  {
-   "id": "4cd024461ec7",
-   "title": "এআইয়ের যুগে গণমাধ্যমের বিশ্বাসযোগ্যতা রক্ষার আহ্বান",
-   "link": "https://www.ajkerpatrika.com/international/china/ajp06aiimmiuz",
-   "source": "আজকের পত্রিকা",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ajkerpatrika.com&sz=64",
-   "image": "https://images.ajkerpatrika.com/original_images/xinhua-AI-china,-Ajker-Patrika-bc6a52.jpg",
-   "summary": "কৃত্রিম বুদ্ধিমত্তার (এআই) যুগে গণমাধ্যমের বিশ্বাসযোগ্যতা রক্ষার আহ্বান জানিয়েছেন বিশ্বের শীর্ষস্থানীয় সংবাদমাধ্যমের প্রতিনিধিরা। বেইজিংয়ে আয়োজিত সপ্তম বিশ্ব গণমাধ্যম সম্মেলনে বক্তারা এসব কথা বলেন... বিস্তারিত",
-   "published": 1794160849,
-   "score": 12.67
-  },
-  {
-   "id": "97544ff17dd2",
-   "title": "ভারতের তিন রাজ্যে বড় অস্ত্র পাচার চক্রের সন্ধান, উদ্ধার ৪৪ হাজার কার্তুজ",
-   "link": "https://www.prothomalo.com/world/india/nkxbghtrjd",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2025-04-21/ip86dsgz/rumorscanne_2.jpg",
-   "summary": "",
-   "published": 1794160463,
-   "score": 12.62
+   "id": "9c1bdd942702",
+   "title": "ভাতিজাদের হাতে চাচা খুন, হামলাকারীদের বাড়িতে আগুন দিলো জনতা",
+   "link": "https://www.jagonews24.com/country/news/1177247",
+   "source": "জাগো নিউজ",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
+   "image": "",
+   "summary": "শেরপুরে জমি নিয়ে বিরোধের জেরে ভাতিজাদের হামলায় চাচা নিহত হওয়ার অভিযোগ উঠেছে। এ ঘটনার পর ভাতিজাদের বাড়িতে...",
+   "published": 1794179589,
+   "score": 11.47
   }
  ],
  "latest": [
@@ -549,8 +549,382 @@
    "sourceIcon": "https://www.google.com/s2/favicons?domain=www.bbc.co.uk&sz=64",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf9/live/cd887f00-db74-11f1-a701-fddedf244c16.jpg",
    "summary": "বাংলাদেশের একটি সংস্থা বলছে, সড়ক দুর্ঘটনায় গত ছয় বছর ১০ মাসে প্রায় ৩০০ পরিবার পুরোপুরি নিশ্চিহ্ন হয়ে গেছে। অন্যদিকে ঢাকায় বিভিন্ন স্থানে রোববার রাতে একাধিক ককটেল বিস্ফোরণের খবর পাওয়া গেছে। বিস্তারিত বিবিসি বাংলার লাইভ ",
-   "published": 1794170399,
+   "published": 1794183426,
    "score": 14.0
+  },
+  {
+   "id": "ae64d682552b",
+   "title": "রূপনগর থানার সামনে ককটেল বিস্ফোরণ, পালানোর সময় যুবক আটক",
+   "link": "https://www.dhakapost.com/national/496399",
+   "source": "ঢাকা পোস্ট",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakapost.com&sz=64",
+   "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/josim-20261109060359.jpg?cid=496399",
+   "summary": "",
+   "published": 1794182639,
+   "score": 13.89
+  },
+  {
+   "id": "620d0a5292c0",
+   "title": "ফাঁকা বাড়িতে ধর্ষণের অভিযোগ শ্বশুরের বিরুদ্ধে, অপমানে বিষপান গৃহবধূর",
+   "link": "https://www.jagonews24.com/country/news/1177249",
+   "source": "জাগো নিউজ",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
+   "image": "",
+   "summary": "নাটোরের সিংড়া পৌরসভার চকসিংড়া মহল্লায় শ্বশুরের বিরুদ্ধে ধর্ষণের অভিযোগ ওঠার পর বিষপানে আত্মহত্যার চেষ্টা করা এক গৃহবধূ চিকিৎসাধীন...",
+   "published": 1794182500,
+   "score": 11.87
+  },
+  {
+   "id": "6fa777819ec8",
+   "title": "টিভিতে আজকের খেলা (৯ নভেম্বর, ২০২৬)",
+   "link": "https://www.banglatribune.com/sport/other-sports/979657/%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%9C%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%96%E0%A7%87%E0%A6%B2%E0%A6%BE-%E0%A7%AF-%E0%A6%A8%E0%A6%AD%E0%A7%87%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0-%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AC",
+   "source": "বাংলা ট্রিবিউন",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
+   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/08/a02a05fbc13045be0eea3c860280bb35-6af07b81c3f6f.jpg?jadewits_media_id=1053915",
+   "summary": "প্রতিদিনের মতো আজও টেলিভিশনের পর্দায় থাকছে বিভিন্ন খেলা। দেশের ও আন্তর্জাতিক অঙ্গনের এসব ম্যাচের মধ্যে কোনগুলো কখন, কোন চ্যানেলে সরাসরি দেখা যাবে—চলুন জেনে নেওয়া যাক আজকের টিভিতে খেলার সূচি। ক্রিকেটবাংলাদেশ-ওয়েস্ট ইন্ডিজ",
+   "published": 1794182400,
+   "score": 23.86
+  },
+  {
+   "id": "29d6254d71ce",
+   "title": "ড্রোন হামলায় ইরাকের গ্যাসক্ষেত্রে আগুন, গ্যাস উৎপাদন বন্ধ, বিদ্যুৎ উৎপাদন ব্যাহত",
+   "link": "https://www.prothomalo.com/world/middle-east/8f7uybbtb6",
+   "source": "প্রথম আলো",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-08/1qp3a9we/Iraqs-Khor-Mor-gas-field.jpg",
+   "summary": "",
+   "published": 1794182234,
+   "score": 13.83
+  },
+  {
+   "id": "f515d8326be8",
+   "title": "একসঙ্গে ছাত্রদলের ১১ নেতাকে শোকজ, সময় ৪৮ ঘণ্টা",
+   "link": "https://www.banglatribune.com/country/dhaka/979720/%E0%A6%8F%E0%A6%95%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%9B%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%A6%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A7%A7%E0%A7%A7-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%B6%E0%A7%8B%E0%A6%95%E0%A6%9C-%E0%A6%B8%E0%A6%AE%E0%A7%9F-%E0%A7%AA%E0%A7%AE-%E0%A6%98%E0%A6%A3%E0%A7%8D%E0%A6%9F%E0%A6%BE",
+   "source": "বাংলা ট্রিবিউন",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
+   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/10/01/16df4d0789c71d97d97fd0a7bb36a59f-6abdd60b6de9f.jpg?jadewits_media_id=1046677",
+   "summary": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় শাখা ছাত্রদলের বিভিন্ন হল ইউনিটের ১১ নেতাকে কারণ দর্শানোর নোটিশ (শোকজ) দেওয়া হয়েছে। সংগঠনের গুরুত্বপূর্ণ পদে থেকেও দায়িত্ব পালনে অবহেলার অভিযোগে তাদের কাছে ব্যাখ্যা চাওয়া হয়েছে। রবিবার (৮ নভেম্",
+   "published": 1794181216,
+   "score": 13.69
+  },
+  {
+   "id": "d1e6de898df4",
+   "title": "৪৫ বছর পর দেশে এসে বাবা-মাকে খুঁজছেন সেলিনা, নিলেন ‘ভাইয়ের’ ডিএনএ",
+   "link": "https://www.jagonews24.com/country/news/1177248",
+   "source": "জাগো নিউজ",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
+   "image": "",
+   "summary": "কক্সবাজারের চকরিয়ার ডুলাহাজারা মালুমঘাট হাসপাতালে জন্ম দরিদ্র পরিবারের মেয়ে সেলিনার। নুন আনতে পান্তা ফুরানোর অবস্থা পরিবারে। তাই জন্মের পর মেয়েকে...",
+   "published": 1794181083,
+   "score": 11.67
+  },
+  {
+   "id": "9c1bdd942702",
+   "title": "ভাতিজাদের হাতে চাচা খুন, হামলাকারীদের বাড়িতে আগুন দিলো জনতা",
+   "link": "https://www.jagonews24.com/country/news/1177247",
+   "source": "জাগো নিউজ",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
+   "image": "",
+   "summary": "শেরপুরে জমি নিয়ে বিরোধের জেরে ভাতিজাদের হামলায় চাচা নিহত হওয়ার অভিযোগ উঠেছে। এ ঘটনার পর ভাতিজাদের বাড়িতে...",
+   "published": 1794179589,
+   "score": 11.47
+  },
+  {
+   "id": "76f76e98c0c0",
+   "title": "মহেশখালীতে হচ্ছে আরও ৩ এলএনজি টার্মিনাল: মুখ্য সচিব",
+   "link": "https://www.banglatribune.com/country/chitagong/979716/%E0%A6%AE%E0%A6%B9%E0%A7%87%E0%A6%B6%E0%A6%96%E0%A6%BE%E0%A6%B2%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%B9%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87-%E0%A6%86%E0%A6%B0%E0%A6%93-%E0%A7%A9-%E0%A6%8F%E0%A6%B2%E0%A6%8F%E0%A6%A8%E0%A6%9C%E0%A6%BF-%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%B2-%E0%A6%AE%E0%A7%81%E0%A6%96%E0%A7%8D%E0%A6%AF",
+   "source": "বাংলা ট্রিবিউন",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
+   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/09/af6da2fbcaf70f807c8e3c4bcd46d283-6af0eef697fa5.jpg?jadewits_media_id=1053961",
+   "summary": "প্রধানমন্ত্রীর মুখ্য সচিব এ বি এম আব্দুস সাত্তার বলেছেন, কক্সবাজারের মহেশখালীতে আরও তিনটি এলএনজি টার্মিনাল হচ্ছে। রবিবার (৮ নভেম্বর) মহেশখালী সমন্বিত উন্নয়ন কর্তৃপক্ষের অধীন মাতারবাড়ীতে নির্মাণাধীন গভীর সমুদ্র বন্দর কয়লা",
+   "published": 1794178920,
+   "score": 13.37
+  },
+  {
+   "id": "b234c01e726f",
+   "title": "জমি নিয়ে বিরোধে প্রতিপক্ষের হামলায় নারী নিহত",
+   "link": "https://www.jagonews24.com/country/news/1177246",
+   "source": "জাগো নিউজ",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
+   "image": "",
+   "summary": "মানিকগঞ্জের হরিরামপুরে জমি নিয়ে বিরোধের জেরে প্রতিপক্ষের হামলায় ময়না বেগম (৫৫) নামে এক নারী নিহত হয়েছেন। রোববার (৮ নভেম্বর) বিকেল...",
+   "published": 1794178726,
+   "score": 21.35
+  },
+  {
+   "id": "71b919739ca3",
+   "title": "এক কেজি লবণ-দেড়শো গ্রাম সোডা খেলেন বৃদ্ধ! এরপর কী ঘটল?",
+   "link": "https://www.jagonews24.com/country/news/1177245",
+   "source": "জাগো নিউজ",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
+   "image": "",
+   "summary": "নেত্রকোনার খালিয়াজুরীতে প্রতিবেশীর সঙ্গে ৫০০ টাকার বাজিতে এক কেজি লবণ ও প্রায় দেড়শ গ্রাম সোডা খেয়ে ৭৫ বছর...",
+   "published": 1794178214,
+   "score": 11.28
+  },
+  {
+   "id": "f4451711c8e1",
+   "title": "Over 50 blasts, 8 buses torched: Who is behind Dhaka's terror?",
+   "link": "https://www.dhakatribune.com/bangladesh/dhaka/424076/blasts-across-the-capital-few-answers-who-is",
+   "source": "Dhaka Tribune",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakatribune.com&sz=64",
+   "image": "https://ecdn.dhakatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/09/538c8a3c15e0975644215e21ad40d3b6-6af0bac5c432f.png?jadewits_media_id=76998",
+   "summary": "Police stations, government buildings and campuses targeted, yet who makes, funds and directs the crude bombs remains unanswered Details",
+   "published": 1794177888,
+   "score": 13.23
+  },
+  {
+   "id": "db3dd10f89a0",
+   "title": "পিছিয়ে পড়েও অ্যাতলেতিকো মাদ্রিদকে হারিয়েছে বার্সেলোনা",
+   "link": "https://www.banglatribune.com/sport/football/979718/%E0%A6%AA%E0%A6%BF%E0%A6%9B%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%AA%E0%A7%9C%E0%A7%87%E0%A6%93-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A6%B2%E0%A7%87%E0%A6%A4%E0%A6%BF%E0%A6%95%E0%A7%8B-%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%A6%E0%A6%95%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A7%87",
+   "source": "বাংলা ট্রিবিউন",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
+   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/09/6f91bc636e33f84d8c0e346e7b82409b-6af0f6535406b.jpg?jadewits_media_id=1053962",
+   "summary": "সমীকরণ ছিল যে দল জিততো তারাই হয়ে যেতো স্প্যানিশ লা-লিগার টেবিলের এক নম্বর দল। অ্যাতলেতিকো মাদ্রিদ নিজেদের মাঠ মেট্রোপলিতানোতে শুরুটাও করেছিল দুর্দান্ত। এগিয়ে যায় শুরুতেই। তবে সেখান থেকে অসাধারণ কামব্যাক দিয়ে জয় তুলে নিয়ে",
+   "published": 1794177300,
+   "score": 13.15
+  },
+  {
+   "id": "dd5ca2d64f19",
+   "title": "সুপারি বাগানে বসে মাদকসেবন, বাধা দেওয়ায় দুই ভাইকে কোপালো",
+   "link": "https://www.jagonews24.com/country/news/1177244",
+   "source": "জাগো নিউজ",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
+   "image": "",
+   "summary": "লক্ষ্মীপুরের রায়পুরে সুপারি বাগানে বসে মাদকসেবন করার সময় বাধা দেওয়ায় দুই ভাইকে কুপিয়েছে মাদকাসক্তরা। এ ঘটনায় স্থানীয়দের হাতে আটক...",
+   "published": 1794177229,
+   "score": 11.14
+  },
+  {
+   "id": "d49f88aa31a0",
+   "title": "অনলাইন কেনাকাটা: ক্রেতার সংখ্যা কমে সংকটে বিপণিবিতান",
+   "link": "https://www.ajkerpatrika.com/business/ajpw2x1zns6e4",
+   "source": "আজকের পত্রিকা",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ajkerpatrika.com&sz=64",
+   "image": "https://images.ajkerpatrika.com/original_images/online-market-c7fb8a.jpg",
+   "summary": "রাজধানীর জনপ্রিয় কয়েকটি বিপণিবিতান বা শপিং মলে একসময় দোকান খোলার আগেই কিছুসংখ্যক ক্রেতাকে এসে অপেক্ষা করতে দেখা যেত। সেদিন আর নেই। মূল্যস্ফীতির চাপ, ক্রেতাদের অভ্যাসের পরিবর্তনসহ বিভিন্ন কারণে পণিবিতানগুলোর ব্যবসায় ভাটা ",
+   "published": 1794177031,
+   "score": 13.11
+  },
+  {
+   "id": "b50dcc071b09",
+   "title": "কোরআন যাদের বন্ধু বানাতে নিষেধ করেছে",
+   "link": "https://www.prothomalo.com/religion/islam/96gvzb5yus",
+   "source": "প্রথম আলো",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-08/ncl678fy/pexels-noval-36495072.jpg",
+   "summary": "বন্ধুত্বের মাধ্যমেই মানুষের চিন্তা, বিশ্বাস ও নৈতিকতা সবচেয়ে বেশি প্রভাবিত হয়। তাই কোরআনে আল্লাহ মুমিনদের নিষেধ করেছেন কিছু মানুষকে বন্ধু হিসেবে গ্রহণ করতে।",
+   "published": 1794177000,
+   "score": 13.11
+  },
+  {
+   "id": "070da139bfd3",
+   "title": "ইসলামী বিশ্ববিদ্যালয়ে শ্যামা পূজা উদযাপিত",
+   "link": "https://www.jagonews24.com/campus/news/1177243",
+   "source": "জাগো নিউজ",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
+   "image": "",
+   "summary": "ইসলামী বিশ্ববিদ্যালয়ে (ইবি) উদযাপিত হয়েছে হিন্দু সম্প্রদায়ের অন্যতম প্রধান ধর্মীয় উৎসব শ্রী শ্রী শ্যামা (কালী) পূজা। রোববার (৮ নভেম্বর) সন্ধ্যায় বিশ্ববিদ্যালয়ের...",
+   "published": 1794176378,
+   "score": 21.02
+  },
+  {
+   "id": "043b1dbfbcf3",
+   "title": "ইসলামী বিশ্ববিদ্যালয়ে শ্যামা পূজা উদযাপিত",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tc1JvN1dPaUppYTBRd2lsZ0U1elJNdTR6M3BnMW1EQjVsV2ppa3ZlX3F3N0wtWjZYQ0doVXk4RFExNDJNY0k1TG5DWEVRVTVsM0xRSklCbkFtZw?oc=5",
+   "source": "Jagonews24",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
+   "image": "",
+   "summary": "ইসলামী বিশ্ববিদ্যালয়ে শ্যামা পূজা উদযাপিত Jagonews24 শ্যামাপূজা ও দীপাবলি উদ্‌যাপন bd-pratidin.com মৃত চণ্ডাল সধবার আঙুলের কড় দিয়ে হয় পুজো, কোথাও নাড়ু ছোড়া হয় মায়ের জিভ লক্ষ্য করে, বাংলার কালীপুজোর ভয়ঙ্কর প্রথা Ananda",
+   "published": 1794176378,
+   "score": 21.02
+  },
+  {
+   "id": "6da79e1fe8fd",
+   "title": "এইচএসসির ১১ লাখ উত্তরপত্র পুনর্মূল্যায়নের আবেদন, কোন সাবজেক্ট বেশি?",
+   "link": "https://www.banglatribune.com/educations/979715/%E0%A6%8F%E0%A6%87%E0%A6%9A%E0%A6%8F%E0%A6%B8%E0%A6%B8%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A7%A7%E0%A7%A7-%E0%A6%B2%E0%A6%BE%E0%A6%96-%E0%A6%89%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%AA%E0%A7%81%E0%A6%A8%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A7%82%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A7%9F%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%AC%E0%A7%87%E0%A6%A6%E0%A6%A8",
+   "source": "বাংলা ট্রিবিউন",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
+   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/09/a6e1f42d481f5c849647f0aa115a6e9d-6af0e64c07c7b.jpg?jadewits_media_id=1053960",
+   "summary": "চলতি বছরের এইচএসসি ও সমমানের পরীক্ষার ফলাফল প্রকাশের পর মোট ১০ লাখ ৮৭ হাজার ৪১৩টি উত্তরপত্র (বিষয়) পুনর্নিরীক্ষা ও পুনর্মূল্যায়নের আবেদন করা হয়েছে। উত্তরপত্র পুনর্নিরীক্ষণ ও পুনর্মূল্যায়নের জন্য দেশের ১১টি শিক্ষা বোর্ডে ",
+   "published": 1794175820,
+   "score": 12.94
+  },
+  {
+   "id": "1cdacab49d13",
+   "title": "রোহিঙ্গা সংকটকে আন্তর্জাতিক মনোযোগের কেন্দ্রে রাখা চ্যালেঞ্জিং",
+   "link": "https://www.jagonews24.com/national/news/1177242",
+   "source": "জাগো নিউজ",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
+   "image": "",
+   "summary": "রোহিঙ্গা সংকটকে আন্তর্জাতিক মনোযোগের কেন্দ্রবিন্দুতে রাখা অত্যন্ত জরুরি। তবে ধারাবাহিক বৈশ্বিক মনোযোগ বজায় রাখাকে বাংলাদেশের জন্য...",
+   "published": 1794175602,
+   "score": 10.91
+  },
+  {
+   "id": "4f1779353eea",
+   "title": "বৃষ্টিতে ডুবেছে গাজার তাঁবু, বাড়ছে ত্রাণসংকট",
+   "link": "https://www.ajkerpatrika.com/international/middle-east-1/ajprnqcmb0qvu",
+   "source": "আজকের পত্রিকা",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ajkerpatrika.com&sz=64",
+   "image": "https://images.ajkerpatrika.com/original_images/gaza-rain-8ff573.jpg",
+   "summary": "গাজা উপত্যকায় বাস্তুচ্যুত ফিলিস্তিনিদের তাঁবুশিবির। কেউ বৃষ্টিতে ক্ষতিগ্রস্ত তাঁবু মেরামতের চেষ্টা করছেন, কেউ বালু দিয়ে তাঁবুর চারপাশ শক্ত করছেন, যাতে পানি ভেতরে ঢুকতে না পারে। আবার কেউ পানিতে ডুবে যাওয়া তাঁবু থেকে সন্তা",
+   "published": 1794175225,
+   "score": 12.86
+  },
+  {
+   "id": "59fccb94e855",
+   "title": "বেনাপোল বন্দরের আমদানি-রপ্তানি আজ বন্ধ থাকবে",
+   "link": "https://www.jagonews24.com/country/news/1177241",
+   "source": "জাগো নিউজ",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
+   "image": "",
+   "summary": "দীপাবলি (কালীপূজা) উপলক্ষে আজ সোমবার (৯ নভেম্বর) বেনাপোল-পেট্রাপোল স্থলবন্দর দিয়ে বাংলাদেশ ও ভারতের মধ্যে পণ্য আমদানি-রপ্তানি কার্যক্রম...",
+   "published": 1794174751,
+   "score": 10.79
+  },
+  {
+   "id": "3770ddf6fbde",
+   "title": "কবিরাজ পরিচয়ে নারীকে চিকিৎসার আশ্বাস, হাতিয়ে নেয় সোনা-টাকা",
+   "link": "https://www.jagonews24.com/country/news/1177240",
+   "source": "জাগো নিউজ",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
+   "image": "",
+   "summary": "যশোরে কবিরাজ পরিচয়ে চিকিৎসার আশ্বাস দিয়ে এক নারীর কাছ থেকে স্বর্ণালংকার ও নগদ টাকা হাতিয়ে নেওয়ার অভিযোগে...",
+   "published": 1794173882,
+   "score": 10.67
+  },
+  {
+   "id": "63b305ad8e5e",
+   "title": "মন্দিরে মন্দিরে প্রদীপ জ্বালিয়ে শ্যামা পূজা উদযাপন",
+   "link": "https://www.banglatribune.com/others/capital-city/979713/%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%BF%E0%A6%B0%E0%A7%87-%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A6%BF%E0%A6%B0%E0%A7%87-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A6%E0%A7%80%E0%A6%AA-%E0%A6%9C%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%B6%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AE%E0%A6%BE-%E0%A6%AA%E0%A7%82%E0%A6%9C%E0%A6%BE-%E0%A6%89%E0%A6%A6%E0%A6%AF%E0%A6%BE%E0%A6%AA%E0%A6%A8",
+   "source": "বাংলা ট্রিবিউন",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
+   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/09/a767ea9f87dd2ff43d6cd7405bbb69af-6af0e1068093f.jpg?jadewits_media_id=1053958",
+   "summary": "মন্দিরে মন্দিরে প্রদীপ জ্বালিয়ে ও আলোকসজ্জার মধ্য দিয়ে উদযাপিত হয়েছে হিন্দু সম্প্রদায়ের অন্যতম প্রধান ধর্মীয় উৎসব শ্রী শ্রী শ্যামা (কালী) পূজা ও দীপাবলি। এ উপলক্ষে রবিবার (৮ নভেম্বর) সন্ধ্যা থেকেই রাজধানীর পূজামণ্ডপ ও মন",
+   "published": 1794173700,
+   "score": 12.65
+  },
+  {
+   "id": "5323936b6981",
+   "title": "মধ্যবর্তী নির্বাচনে ভরাডুবি: লড়াইয়ের প্রস্তুতি ট্রাম্পের",
+   "link": "https://www.ajkerpatrika.com/international/usa-canada/ajpk7ij4a3pea",
+   "source": "আজকের পত্রিকা",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ajkerpatrika.com&sz=64",
+   "image": "https://images.ajkerpatrika.com/original_images/Donald-Trump_.jpg",
+   "summary": "যুক্তরাষ্ট্রের মধ্যবর্তী নির্বাচনে ডেমোক্র্যাটদের বড় জয়ের পর নতুন রাজনৈতিক বাস্তবতার মুখোমুখি হতে যাচ্ছেন প্রেসিডেন্ট ডোনাল্ড ট্রাম্প। তবে বিরোধীদের চাপে পিছু হটার বদলে লড়াইয়ের প্রস্তুতি নিচ্ছেন তিনি। ডেমোক্র্যাট আইনপ্",
+   "published": 1794173421,
+   "score": 12.61
+  },
+  {
+   "id": "61762d2b469b",
+   "title": "সুপ্রিম কোর্ট সচিবালয় প্রতিষ্ঠায় আপিলের শুনানি ১২ জানুয়ারি",
+   "link": "https://www.jagonews24.com/law-courts/news/1177239",
+   "source": "জাগো নিউজ",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
+   "image": "",
+   "summary": "বিচার বিভাগের জন্য পৃথক ও স্বাধীন সুপ্রিম কোর্ট সচিবালয় প্রতিষ্ঠার নির্দেশ দিয়ে হাইকোর্টের দেওয়া রায়ের বিরুদ্ধে রাষ্ট্রপক্ষের করা আপিলের...",
+   "published": 1794172568,
+   "score": 10.49
+  },
+  {
+   "id": "f6a9e4c24da5",
+   "title": "আজকের নামাজের সময়সূচি: ০৯ নভেম্বর ২০২৬",
+   "link": "https://www.ajkerpatrika.com/islam/ajpr2582xi4tc",
+   "source": "আজকের পত্রিকা",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ajkerpatrika.com&sz=64",
+   "image": "https://images.ajkerpatrika.com/original_images/Namaz-Namaj-Prayer-time_S3cVlDl.png",
+   "summary": "নামাজ আমাদের জীবনের এক অবিচ্ছেদ্য অংশ। একজন মুমিনের জন্য নামাজ হলো আধ্যাত্মিক প্রশান্তি ও জীবনের বরকত লাভের সর্বোত্তম মাধ্যম। প্রতিদিন সময়মতো নামাজ আদায় করা প্রতিটি মুসলমানের ওপর ফরজ। নিচে ঢাকা ও তার পার্শ্ববর্তী এলাকার ",
+   "published": 1794171856,
+   "score": 22.39
+  },
+  {
+   "id": "0bfb69203ae8",
+   "title": "মুখোমুখি বিএনপির দুই পক্ষ, এমপির গাড়ি ভাঙচুর",
+   "link": "https://www.banglatribune.com/country/chitagong/979712/%E0%A6%AE%E0%A7%81%E0%A6%96%E0%A7%8B%E0%A6%AE%E0%A7%81%E0%A6%96%E0%A6%BF-%E0%A6%AC%E0%A6%BF%E0%A6%8F%E0%A6%A8%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%AA%E0%A6%95%E0%A7%8D%E0%A6%B7-%E0%A6%8F%E0%A6%AE%E0%A6%AA%E0%A6%BF%E0%A6%B0-%E0%A6%97%E0%A6%BE%E0%A7%9C%E0%A6%BF-%E0%A6%AD%E0%A6%BE%E0%A6%99%E0%A6%9A%E0%A7%81%E0%A6%B0",
+   "source": "বাংলা ট্রিবিউন",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
+   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/09/818f2b07b3bfe49e3c480853d9dd0bf2-6af0df4c7821f.jpg?jadewits_media_id=1053957",
+   "summary": "বিপ্লব ও সংহতি দিবস উপলক্ষে কুমিল্লার দেবীদ্বারে বিএনপির দুই পক্ষ পাল্টাপাল্টি মিছিল ও সমাবেশ করেছে। এ সময় সংরক্ষিত নারী আসনের সংসদ সদস্য রাশেদা বেগমের (হীরা) গাড়িবহরে হামলা ও ভাঙচুর করা হয়েছে। রবিবার (৮ নভেম্বর) বিকালে ",
+   "published": 1794171840,
+   "score": 12.39
+  },
+  {
+   "id": "fe538f38afe8",
+   "title": "ইরানের অস্ত্র সরবরাহ বন্ধে যুক্তরাষ্ট্রের নতুন টাস্কফোর্স, এবার স্থলসীমান্ত ও কাস্পিয়ান সাগরে নজর",
+   "link": "https://www.prothomalo.com/world/middle-east/38lpyp7qwt",
+   "source": "প্রথম আলো",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-08/tilomx7w/Trucks-wait-to-cross-into-Iran.avif",
+   "summary": "",
+   "published": 1794171703,
+   "score": 12.37
+  },
+  {
+   "id": "7921dd7e0af7",
+   "title": "আমদানির চাপে অস্থির ডলার",
+   "link": "https://www.ajkerpatrika.com/business/ajpmmfzqp8h1i",
+   "source": "আজকের পত্রিকা",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ajkerpatrika.com&sz=64",
+   "image": "https://images.ajkerpatrika.com/original_images/dollar-dlr.jpg",
+   "summary": "দীর্ঘদিন ধরে ১২০ থেকে ১২২ টাকার মধ্যে স্থিতিশীল থাকার পর আবারও বাড়তে শুরু করেছে ডলারের দাম। এক সপ্তাহের ব্যবধানে আমদানি দায় মেটাতে প্রতি ডলারের দাম বেড়েছে প্রায় ১ টাকা। বর্তমানে ব্যাংকগুলোর মধ্যে লেনদেনে প্রতি ডলারের দর ",
+   "published": 1794171611,
+   "score": 12.36
+  },
+  {
+   "id": "ae06e50edfe7",
+   "title": "শাবিপ্রবিতে বিপ্লব ও সংহতি দিবস উদযাপন ছাত্রদলের",
+   "link": "https://www.jagonews24.com/campus/news/1177238",
+   "source": "জাগো নিউজ",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
+   "image": "",
+   "summary": "ঐতিহাসিক ৭ নভেম্বর জাতীয় বিপ্লব ও সংহতি দিবস উপলক্ষে শাহজালাল বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয় (শাবিপ্রবি) শাখা ছাত্রদলের উদ্যোগে আলোচনা সভা অনুষ্ঠিত হয়েছে...",
+   "published": 1794171197,
+   "score": 30.3
+  },
+  {
+   "id": "fe7918203456",
+   "title": "চোর সন্দেহে পেটানোর ১০ দিন পর মারা গেলেন যুবক",
+   "link": "https://www.jagonews24.com/country/news/1177237",
+   "source": "জাগো নিউজ",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
+   "image": "",
+   "summary": "নারায়ণগঞ্জের সোনারগাঁয়ে চোর সন্দেহে মো. ফারুক (৪০) নামের এক যুবককে পিটিয়ে আহত করার ১০ দিন পর চিকিৎসাধীন...",
+   "published": 1794170634,
+   "score": 10.22
+  },
+  {
+   "id": "074637d695a2",
+   "title": "‘কিং’ মুক্তির আগেই গেরুয়া রং নিয়ে আবারও বিতর্কের মুখে শাহরুখ",
+   "link": "https://www.prothomalo.com/video/entertainment/98c1pyl4ap",
+   "source": "প্রথম আলো",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-08/2kothxoe/WEB.jpg",
+   "summary": "‘কিং’ মুক্তির আগেই গেরুয়া রং নিয়ে আবারও বিতর্কের মুখে শাহরুখ",
+   "published": 1794170473,
+   "score": 12.2
+  },
+  {
+   "id": "b913d1c9958b",
+   "title": "কোন পথে চীনের করিডর?",
+   "link": "https://www.prothomalo.com/video/bangladesh/jaxy2f2htg",
+   "source": "প্রথম আলো",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-08/ch4z4j66/WEB.jpg",
+   "summary": "চীন বঙ্গোপসাগরে পৌঁছাতে চায়। বাংলাদেশকে সেই যোগাযোগব্যবস্থার অংশ করতে চায়",
+   "published": 1794170451,
+   "score": 12.2
+  },
+  {
+   "id": "960f177a00f9",
+   "title": "রমজানে নিত্যপণ্যের এলসি খোলা সহজ করল বাংলাদেশ ব্যাংক",
+   "link": "https://www.dhakapost.com/national/496398",
+   "source": "ঢাকা পোস্ট",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakapost.com&sz=64",
+   "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/bank-20261109024156.jpg?cid=496398",
+   "summary": "",
+   "published": 1794170437,
+   "score": 12.2
   },
   {
    "id": "05e593c8cd65",
@@ -561,7 +935,7 @@
    "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/coktail-3-20261109023305.jpg?cid=496397",
    "summary": "",
    "published": 1794169985,
-   "score": 43.94
+   "score": 32.13
   },
   {
    "id": "4715301d1e95",
@@ -572,7 +946,7 @@
    "image": "https://images.ajkerpatrika.com/original_images/11-party-alliance-61c403.jpg",
    "summary": "জুলাই জাতীয় সনদ বাস্তবায়ন ও গণভোটের রায় কার্যকরসহ বিভিন্ন দাবিতে সভা-সেমিনার, বিক্ষোভ ও লংমার্চের মতো কর্মসূচি পালন করে যাচ্ছে সংসদের বিরোধী দল জামায়াতে ইসলামীর নেতৃত্বাধীন জোট ১১ দলীয় ঐক্য। গত কয়েক মাসের এসব কর্মসূচির প",
    "published": 1794169805,
-   "score": 13.92
+   "score": 12.11
   },
   {
    "id": "154f8a579efc",
@@ -583,7 +957,7 @@
    "image": "",
    "summary": "বাংলাদেশ ও পোল্যান্ডের মধ্যে বিদ্যমান বন্ধুত্বপূর্ণ সম্পর্ক আরও সুদৃঢ় করা, পারস্পরিক সাংস্কৃতিক বিনিময় সম্প্রসারণ এবং পোল্যান্ডের সমৃদ্ধ...",
    "published": 1794169538,
-   "score": 11.88
+   "score": 10.07
   },
   {
    "id": "2e110f762e8b",
@@ -594,7 +968,7 @@
    "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2017/05/04/ee44ef133b68e91ae8efec62e7294a87-590a865687210.jpg?jadewits_media_id=202601",
    "summary": "আসন্ন পবিত্র রমজান মাসে নিত্যপ্রয়োজনীয় পণ্যের সরবরাহ স্বাভাবিক রাখা এবং মূল্যবৃদ্ধি নিয়ন্ত্রণে রাখতে ১০টি পণ্য আমদানির ঋণপত্র (এলসি) খোলার ক্ষেত্রে নগদ মার্জিন সর্বনিম্ন পর্যায়ে রাখার নির্দেশ দিয়েছে বাংলাদেশ ব্যাংক। একই ",
    "published": 1794169315,
-   "score": 13.85
+   "score": 12.04
   },
   {
    "id": "daf59848e782",
@@ -605,7 +979,7 @@
    "image": "https://images.ajkerpatrika.com/original_images/Myanmar-839a99.jpg",
    "summary": "মিয়ানমারের জান্তা সরকারের নতুন পরিচয়পত্র নিতে আপত্তি জানিয়েছেন থাইল্যান্ডে থাকা ২০ লাখের বেশি অভিবাসী শ্রমিক। তাঁরা বরং জাতীয় ঐক্য সরকারের (এনইউজি) কাছে বিকল্প পরিচয়পত্র দেওয়ার আহ্বান জানিয়েছেন। এক সপ্তাহের অনলাইন জরিপে ",
    "published": 1794169259,
-   "score": 13.84
+   "score": 12.03
   },
   {
    "id": "3ae253386736",
@@ -616,7 +990,7 @@
    "image": "",
    "summary": "বিএনপির প্রয়াত চেয়ারপারসন ও সাবেক প্রধানমন্ত্রী খালেদা জিয়ার প্রথম মৃত্যুবার্ষিকী স্মরণীয় করে রাখতে বড় পরিসরে আয়োজনের পরিকল্পনা...",
    "published": 1794168540,
-   "score": 11.74
+   "score": 9.93
   },
   {
    "id": "3dfdbec91b97",
@@ -627,7 +1001,7 @@
    "image": "https://images.ajkerpatrika.com/original_images/rail-e7b7ce.jpg",
    "summary": "স্বল্প খরচে কৃষিসহ নানান পণ্য পরিবহনের লক্ষ্যে ৩৫৮ কোটি ৩৯ লাখ টাকা ব্যয়ে বাংলাদেশ রেলওয়েতে যুক্ত করা হয়েছিল ১২৫টি লাগেজ ভ্যান। তবে কৃষক ও ব্যবসায়ীদের কাছ থেকে মেলেনি আশানুরূপ সাড়া। ফলে সেগুলো রেলের গলার কাঁটায় পরিণত হয়ে",
    "published": 1794168054,
-   "score": 13.67
+   "score": 11.86
   },
   {
    "id": "8867c5eb7d90",
@@ -638,7 +1012,7 @@
    "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/coktail-1-20261109015519.jpg?cid=496396",
    "summary": "",
    "published": 1794167719,
-   "score": 23.63
+   "score": 11.82
   },
   {
    "id": "8c8af5175fd5",
@@ -647,9 +1021,9 @@
    "source": "জাগো নিউজ",
    "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
    "image": "",
-   "summary": "ঢাকা বিশ্ববিদ্যালয়ের (ঢাবি) জগন্নাথ হলে বিশ্বের সবচেয়ে বড় সরস্বতী প্রতিমা নির্মাণের উদ্যোগ নেওয়া হয়েছে। এ লক্ষ্যে হলের রবীন্দ্রভবন...",
+   "summary": "ঢাবিতে বিশ্বের সবচেয়ে বড় সরস্বতী প্রতিমার ভিত্তিপ্রস্তর স্থাপন",
    "published": 1794167644,
-   "score": 11.62
+   "score": 9.81
   },
   {
    "id": "312e21d71c6b",
@@ -660,7 +1034,7 @@
    "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/09/16077d350251b92ae42234d9f2f53fc6-6af0d290f38be.jpg?jadewits_media_id=1053956",
    "summary": "রাষ্ট্রায়ত্ত অগ্রণী ব্যাংকের মুন্সীগঞ্জের শ্রীনগর শাখায় ৩১৫ গ্রাহকের প্রায় ৩০ কোটি টাকা আত্মসাতের অভিযোগ উঠেছে। ব্যাংকে নিয়ম মেনে টাকা জমা রাখার পরও এখন গ্রাহকদের অনেকেই নিজেদের হিসাবের অস্তিত্ব খুঁজে পাচ্ছেন না। কারও কা",
    "published": 1794167461,
-   "score": 13.59
+   "score": 11.78
   },
   {
    "id": "d4fee796588b",
@@ -671,7 +1045,7 @@
    "image": "https://images.ajkerpatrika.com/original_images/dZfMT33OsW8-HD-67ce80.jpg",
    "summary": "সন্তান না হওয়ায় তালাক, স্বামীর পা ধরে কেঁদেও সংসার বাঁচাতে পারলেন না স্ত্রী; কাঁদছে নেটদুনিয়া বিস্তারিত",
    "published": 1794167289,
-   "score": 13.57
+   "score": 11.76
   },
   {
    "id": "91251f64a8b5",
@@ -682,7 +1056,7 @@
    "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/06/18/27f2d8396ea57ac87d66241e58f09d52-6a33b1e507282.jpg?jadewits_media_id=1029459",
    "summary": "সন্ধ্যার ব্যস্ততা তখনও কমেনি ঢাকা বিশ্ববিদ্যালয় ক্যাম্পাসে। হঠাৎ টিএসসি এলাকায় পরপর দুটি বিকট শব্দ। মুহূর্তের মধ্যে ছড়িয়ে পড়ে আতঙ্ক। কিছুক্ষণ পর একই শব্দ শোনা যায় বিশ্ববিদ্যালয়ের প্রশাসনিক ভবনের পাশে, ভিসি চত্বর ও মুক্তি",
    "published": 1794167129,
-   "score": 13.55
+   "score": 11.74
   },
   {
    "id": "97027b1edf24",
@@ -691,9 +1065,9 @@
    "source": "জাগো নিউজ",
    "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
    "image": "",
-   "summary": "ঢাকায় একের পর এক ককটেল বিস্ফোরণ ও অগ্নিসংযোগের ঘটনা ঘটেছে। রোববার (৮ নভেম্বর) সন্ধ্যা থেকে রাত পর্যন্ত পল্লবী থানা, মালিবাগে পুলিশের...",
+   "summary": "সন্ধ্যা থেকে ঢাকায় একের পর এক ককটেল বিস্ফোরণ, বাসে আগুন",
    "published": 1794166968,
-   "score": 41.52
+   "score": 29.71
   },
   {
    "id": "4bbebebdeb4e",
@@ -704,18 +1078,7 @@
    "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/coxbazar-20261109013827.jpg?cid=496395",
    "summary": "",
    "published": 1794166707,
-   "score": 23.49
-  },
-  {
-   "id": "096106198c6d",
-   "title": "নিউগিনি প্রপার্টিজে আবার হামলা: ভুক্তভোগীর বিরুদ্ধেই উল্টো মামলা",
-   "link": "https://www.prothomalo.com/bangladesh/crime/q4v5mm059u",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-07/syiqf6ol/Pic-1.png",
-   "summary": "",
-   "published": 1794165855,
-   "score": 13.37
+   "score": 21.68
   },
   {
    "id": "656675eff65b",
@@ -724,20 +1087,20 @@
    "source": "জাগো নিউজ",
    "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
    "image": "",
-   "summary": "ভারতজুড়ে এখন চলছে রাম-রাবণের রাজত্ব। বিশ্বব্যাপী সিনেমাটি দারুণ সাড়া ফেলেছে। সেই তাণ্ডবের মধ্যেই বাজিমাত করে দেখালেন দক্ষিণী....",
+   "summary": "রাম-রাবণের রাজত্বেও তিন দিনেই ১০০ কোটির পথে সুরিয়ার সিনেমা",
    "published": 1794165647,
-   "score": 11.34
+   "score": 19.53
   },
   {
-   "id": "58c85379234d",
-   "title": "তারল্যসংকটে থাকা ব্যাংকে চট্টগ্রাম বন্দরের আমানত, দায়ীদের বিরুদ্ধে ব্যবস্থা নেওয়ার সুপারিশ",
-   "link": "https://www.prothomalo.com/bangladesh/i478bcjajj",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-02-14/h3iuaes9/Songsob.jpg",
-   "summary": "তারল্যসংকটে থাকা ছয়টি ব্যাংকে চট্টগ্রাম বন্দর কর্তৃপক্ষের ১ হাজার ২০০ কোটি টাকার বেশি আমানত রাখা নিয়ে অসন্তোষ জানিয়েছে সংসদীয় কমিটি। দায়ীদের বিরুদ্ধে ব্যবস্থা নেওয়ার সুপারিশও করেছে।",
-   "published": 1794165425,
-   "score": 13.31
+   "id": "a73c250f59e5",
+   "title": "রাম-রাবণের রাজত্বেও তিন দিনেই ১০০ কোটির পথে সুরিয়ার সিনেমা",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1XTmJvUzNEUHpwSDhMSVhBbFRaV184dDdCUzNNcmlqdmJhcUtmc2J1Qk5nQUR5alVsSzZkQVZ0dWt6alI2TnpMRHd5TEFFWGYxZlFRZ0NJQTVvaWFvUllTZl9xUQ?oc=5",
+   "source": "Jagonews24",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
+   "image": "",
+   "summary": "রাম-রাবণের রাজত্বেও তিন দিনেই ১০০ কোটির পথে সুরিয়ার সিনেমা Jagonews24 ছোটপর্দার রাম, সীতা, রাবণ, শূর্পণখা থেকে হনুমান, পুরনো ‘রামায়ণ’-এর তারকারা আজ কোথায়, কে কী করছেন? Anandabazar Patrika ভারতজুড়ে ২৫ হাজার শো, প্রথম দি",
+   "published": 1794165600,
+   "score": 19.52
   },
   {
    "id": "be5096c85152",
@@ -748,18 +1111,7 @@
    "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/katar-20261109011359.jpg?cid=496394",
    "summary": "",
    "published": 1794165239,
-   "score": 23.28
-  },
-  {
-   "id": "ad7ce407b182",
-   "title": "সরকার গঠনের ডাক পাওয়া আইজেনকট কি নেতানিয়াহুকে সরাতে পারবেন",
-   "link": "https://www.prothomalo.com/world/middle-east/0uhkjjglxt",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-08/ghpugdpd/Eisenkot.avif",
-   "summary": "",
-   "published": 1794165218,
-   "score": 13.28
+   "score": 31.47
   },
   {
    "id": "125972608687",
@@ -768,9 +1120,9 @@
    "source": "জাগো নিউজ",
    "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
    "image": "",
-   "summary": "বগুড়ার শাজাহানপুরে জমিজমা নিয়ে দীর্ঘদিনের বিরোধের জেরে প্রকাশ্যে ধারালো অস্ত্রের আঘাতে গুরুতর আহত খোরশেদ আলম (৩৮) নামের এক...",
+   "summary": "জমি নিয়ে বিরোধের জেরে হামলার তিনদিন পর যুবক নিহত",
    "published": 1794165189,
-   "score": 11.28
+   "score": 9.47
   },
   {
    "id": "0dc664f0f3f9",
@@ -781,29 +1133,7 @@
    "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/09/ab78fe8c6614be3709db7bb85a6a800c-6af0c940aa4e7.jpg?jadewits_media_id=1053955",
    "summary": "রাজধানীর সিআইডি সদরদফতর, পল্লবী থানা, খিলক্ষেত থানা, হোটেল রেডিসনের সামনে ও ঢাকা বিশ্ববিদ্যালয়সহ একাধিক গুরুত্বপূর্ণ স্থাপনায় ককটেল বিস্ফোরণের ঘটনা ঘটেছে। এ ছাড়া ১০০ ফিট এলাকায় ভাটারা থানার সামনে একটি বাসে আগুন দিয়েছে দু",
    "published": 1794165071,
-   "score": 43.26
-  },
-  {
-   "id": "0fc3af144fcf",
-   "title": "দীপাবলিতে মহাশ্মশানে সমবেত সনাতন ধর্মাবলম্বীরা",
-   "link": "https://www.prothomalo.com/photo/bangladesh/mqnj5dk8li",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "",
-   "summary": "",
-   "published": 1794164796,
-   "score": 11.22
-  },
-  {
-   "id": "679c3177ec89",
-   "title": "ভূমি নিবন্ধন কার্যক্রম ভূমি মন্ত্রণালয়ের অধীনে আনার সুপারিশ",
-   "link": "https://www.prothomalo.com/bangladesh/f7a5g3l29o",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-08/prpfmi59/Land-Ministry.jpg",
-   "summary": "",
-   "published": 1794164462,
-   "score": 13.18
+   "score": 31.45
   },
   {
    "id": "419cf365536e",
@@ -812,20 +1142,20 @@
    "source": "জাগো নিউজ",
    "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
    "image": "",
-   "summary": "ইতালিতে যথাযথ মর্যাদায় জাতীয় বিপ্লব ও সংহতি দিবস উদযাপন করা হয়েছে। শনিবার (৭ নভেম্বর) স্থানীয় সময় বেলা ১১টায় বাংলাদেশ দূতাবাস...",
+   "summary": "ইতালিতে জাতীয় বিপ্লব ও সংহতি দিবস উদযাপন",
    "published": 1794164394,
-   "score": 21.17
+   "score": 29.36
   },
   {
-   "id": "a2f603eb0583",
-   "title": "মুসলিম অভিবাসীদের মধ্যে ইহুদিবিদ্বেষ থাকলে জার্মানি ছাড়ার আহ্বান চ্যান্সেলর মের্ৎসের",
-   "link": "https://www.prothomalo.com/world/europe/ii5kk2cb6j",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-08/yn3rwdl0/German-Chancellor-Friedrich-.jpg",
-   "summary": "",
-   "published": 1794164109,
-   "score": 13.13
+   "id": "7f6ed0445227",
+   "title": "ইতালিতে জাতীয় বিপ্লব ও সংহতি দিবস উদযাপন",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzNDJ1R3l6SVdUVUM1aF9QMFJtYUFrTDJyOGlZWnAwRnlZZHQ0VXpEdnRhckNZUFo1Q1hZUjV3cVlBYnBjNG92S2xLRWloZUJTRDZQZm56cVRaMHM?oc=5",
+   "source": "Jagonews24",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
+   "image": "",
+   "summary": "ইতালিতে জাতীয় বিপ্লব ও সংহতি দিবস উদযাপন Jagonews24 ‘দিল্লি নয়, পিন্ডিও নয়’, ভারত ও পাকিস্তান থেকে সমদূরত্বের নীতি নিয়ে আবার বললেন তারেক! দাবি, ‘বাংলাদেশ তাঁবেদার হবে না’ Anandabazar Patrika দেশে আবারো ষড়যন্ত্র হচ্ছে, ",
+   "published": 1794164394,
+   "score": 29.36
   },
   {
    "id": "4180fe6433b3",
@@ -836,18 +1166,7 @@
    "image": "https://images.ajkerpatrika.com/original_images/gopalgonj-medical-hospital-bb3533.jpg",
    "summary": "গোপালগঞ্জে প্রাইভেটকার ও মোটরসাইকেলের মুখোমুখি সংঘর্ষে সারজিল সিকদার (২২) নামে এক শিক্ষার্থী নিহত হয়েছে। তিনি শহরের ব্যাংকপাড়া এলাকার বাসিন্দা ও পৌর মহিলা দলের সভানেত্রী নিরালা বেগম ও শাহ আলম সিকদারের ছেলে... বিস্তারিত",
    "published": 1794163655,
-   "score": 13.06
-  },
-  {
-   "id": "035f5a9887a0",
-   "title": "৮ গোলের ম্যাচে শেষ মুহূর্তের নাটকে ড্র করেও ১৮ নম্বরে ইউনাইটেড",
-   "link": "https://www.prothomalo.com/sports/football/nh9xfnu9zj",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-08/g77oecij/2026-11-08T183827Z668868392UP1EMB81FS292RTRMADP3SOCCER-ENGLAND-MUN-AVL.JPG",
-   "summary": "",
-   "published": 1794163611,
-   "score": 13.06
+   "score": 11.25
   },
   {
    "id": "8b29867d66d0",
@@ -858,7 +1177,7 @@
    "image": "https://images.ajkerpatrika.com/original_images/ncp-logo-072219.jpg",
    "summary": "ঢাকা মহানগর দক্ষিণ শাখার আহ্বায়ক করা হয়েছে সিফাত সুলতানা মিমকে। সদস্যসচিব হয়েছেন ইথার ফারিয়েল হামিদ এবং মুখ্য সংগঠক হয়েছেন ফাতেমা রহমান মেঘা। আংশিক কমিটিগুলো আগামী ১৫ দিনের মধ্যে পূর্ণাঙ্গ করে কেন্দ্রীয় দপ্তরে জমা দেওয়ার",
    "published": 1794163524,
-   "score": 13.04
+   "score": 11.24
   },
   {
    "id": "fc0434c25da8",
@@ -869,18 +1188,7 @@
    "image": "https://images.ajkerpatrika.com/original_images/sundorban.jpg",
    "summary": "সুন্দরবনের সাতক্ষীরা রেঞ্জের নটাবেঁকীসহ কয়েকটি এলাকা থেকে ১০ জেলেকে অপহরণের অভিযোগ উঠেছে। ফিরে আসা জেলেদের দাবি, আমির ও আলম গ্রুপের সদস্যরা জনপ্রতি ১ লাখ টাকা মুক্তিপণ দাবি করেছে। বন বিভাগ অভিযান চালাচ্ছে এবং পুলিশ জড়িতদ",
    "published": 1794163449,
-   "score": 13.03
-  },
-  {
-   "id": "b9a6a0391334",
-   "title": "পশ্চিমবঙ্গের ভোটার তালিকা: পদত্যাগ করলেন আরও এক বিচারপতি",
-   "link": "https://www.prothomalo.com/world/india/z9j1gm45kq",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-04-01/xhm3jgfi/KOLKATA-HIGH-COURT-1-3.jpg",
-   "summary": "",
-   "published": 1794163420,
-   "score": 13.03
+   "score": 11.23
   },
   {
    "id": "8821dfff5177",
@@ -891,7 +1199,7 @@
    "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/coktail-20261109003354.jpg?cid=496393",
    "summary": "",
    "published": 1794162834,
-   "score": 22.95
+   "score": 11.14
   },
   {
    "id": "3eaf61faf545",
@@ -900,20 +1208,9 @@
    "source": "জাগো নিউজ",
    "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
    "image": "",
-   "summary": "ঢাকার একটি আদালতে বিচারাধীন মামলার মূল নথি, তদন্ত প্রতিবেদন ও আদেশের কপিতে কাটাকাটি করে আসামির নাম পরিবর্তনের অভিযোগ...",
+   "summary": "আদালতের মূল নথিতে আসামির নাম বদলের অভিযোগ, বাদী নিজেই আটক",
    "published": 1794162474,
-   "score": 10.9
-  },
-  {
-   "id": "f4451711c8e1",
-   "title": "Over 50 blasts, 8 buses torched: Who is behind Dhaka's terror?",
-   "link": "https://www.dhakatribune.com/bangladesh/dhaka/424076/blasts-across-the-capital-few-answers-who-is",
-   "source": "Dhaka Tribune",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakatribune.com&sz=64",
-   "image": "https://ecdn.dhakatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/09/538c8a3c15e0975644215e21ad40d3b6-6af0bac5c432f.png?jadewits_media_id=76998",
-   "summary": "Police stations, government buildings and campuses targeted, yet who makes, funds and directs the crude bombs remains unanswered Details",
-   "published": 1794162466,
-   "score": 12.9
+   "score": 9.09
   },
   {
    "id": "be70882bb2fb",
@@ -924,7 +1221,7 @@
    "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/08/13/ea9995986ff6aadc9fcdbede7bb80d8d-6a7ddf3c3edf8.jpg?jadewits_media_id=1038321",
    "summary": "রাজধানীর খিলক্ষেত থানার সামনে দুটি ককটেল বিস্ফোরণের ঘটনা ঘটেছে। রবিবার (৮ নভেম্বর) রাত ১১টার দিকে থানার ফটকের সামনে বিকট শব্দে ককটেল দুটির বিস্ফোরণ ঘটে। থানার ডিউটি অফিসার এসআই সোহেল আহমেদ ঘটনার সত্যতা নিশ্চিত করে বলেন, ",
    "published": 1794162037,
-   "score": 22.84
+   "score": 11.03
   },
   {
    "id": "069e24023177",
@@ -933,9 +1230,9 @@
    "source": "জাগো নিউজ",
    "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
    "image": "",
-   "summary": "নোয়াখালী বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয় (নোবিপ্রবি) শাখা ছাত্রদলের একাংশের উদ্যোগে বিশ্ববিদ্যালয়ে ঐতিহাসিক ৭ নভেম্বর জাতীয়...",
+   "summary": "জাতীয় বিপ্লব ও সংহতি দিবস উদযাপন করলো নোবিপ্রবি ছাত্রদল",
    "published": 1794161618,
-   "score": 10.78
+   "score": 18.97
   },
   {
    "id": "31b46ec3a41f",
@@ -944,9 +1241,9 @@
    "source": "জাগো নিউজ",
    "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
    "image": "",
-   "summary": "রাজধানীর বাড্ডা থানাধীন পশ্চিম মেরুল বাড্ডায় পারিবারিক কলহের জেরে সিলিং ফ্যানের গলায় ফাঁস দিয়ে বিল্লাল হোসেন (৩৭) নামের এক যুবকের...",
+   "summary": "বাড্ডার পশ্চিম মেরুল বাড্ডায় নিরাপত্তা কর্মীর ঝুলন্ত মরদেহ উদ্ধার",
    "published": 1794161257,
-   "score": 10.73
+   "score": 8.92
   },
   {
    "id": "20f5690dc4bc",
@@ -957,7 +1254,7 @@
    "image": "https://images.ajkerpatrika.com/original_images/tarek-a7b0d2.jpg",
    "summary": "প্রধানমন্ত্রী তারেক রহমান নবীন বিসিএস কর্মকর্তাদের সততা, দক্ষতা ও মানবিক মূল্যবোধের সঙ্গে জনগণের সেবা করার আহ্বান জানিয়েছেন। তিনি বলেছেন, একজন সরকারি কর্মকর্তা হিসেবে আপনাদের কাছে জনগণ শুধু আদেশ-নির্দেশ নয়, মানবিকতাও আশা",
    "published": 1794161141,
-   "score": 12.71
+   "score": 10.9
   },
   {
    "id": "1eaf51a6931c",
@@ -968,18 +1265,7 @@
    "image": "https://images.ajkerpatrika.com/original_images/Coxx-6e62bc.jpg",
    "summary": "কক্সবাজারের উখিয়া উপজেলার পালংখালী ইউনিয়ন বিএনপির সদস্যসচিব ও সাবেক ইউপি সদস্য নুরুল আমিনকে এলোপাতাড়ি কুপিয়ে আহত করেছে দুর্বৃত্তরা। আজ রোববার বিকেল পাঁচটার দিকে উপজেলার থাইংখালী স্টেশন এলাকায় এ ঘটনা ঘটে। বিস্তারিত",
    "published": 1794161000,
-   "score": 22.69
-  },
-  {
-   "id": "d84db2b9bc89",
-   "title": "সালমান এফ রহমান ‘পর্যবেক্ষক’ হিসেবে বিদেশি আইনজীবী আনতে পারবেন: প্রসিকিউটর",
-   "link": "https://www.prothomalo.com/bangladesh/ambctl84ki",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-01-26/twusnm6g/ICT-verdict.jpg",
-   "summary": "",
-   "published": 1794160898,
-   "score": 12.68
+   "score": 20.88
   },
   {
    "id": "7c9f7fe01baa",
@@ -990,7 +1276,7 @@
    "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/pirojpur-20261109000119.jpg?cid=496392",
    "summary": "",
    "published": 1794160879,
-   "score": 12.68
+   "score": 10.87
   },
   {
    "id": "4cd024461ec7",
@@ -1001,7 +1287,18 @@
    "image": "https://images.ajkerpatrika.com/original_images/xinhua-AI-china,-Ajker-Patrika-bc6a52.jpg",
    "summary": "কৃত্রিম বুদ্ধিমত্তার (এআই) যুগে গণমাধ্যমের বিশ্বাসযোগ্যতা রক্ষার আহ্বান জানিয়েছেন বিশ্বের শীর্ষস্থানীয় সংবাদমাধ্যমের প্রতিনিধিরা। বেইজিংয়ে আয়োজিত সপ্তম বিশ্ব গণমাধ্যম সম্মেলনে বক্তারা এসব কথা বলেন... বিস্তারিত",
    "published": 1794160849,
-   "score": 12.67
+   "score": 10.86
+  },
+  {
+   "id": "77fd43c8815d",
+   "title": "রাকুল প্রীতের আত্মতৃপ্তি",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5lNXJHRmQ4R0o1ZnVPZ1BkVTRNQXdsZ0NueWgyazFZTzZwOE80TmpmX3daR2p6clZOcDJDc0ZtamRkS2NpLXRtNWRZaUhUUzRlTHFCNURpYjh3TVJtQVJlOU5zRUYxSGJoWjRwOVBBTVBkVEk?oc=5",
+   "source": "bd-pratidin.com",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.bd-pratidin.com&sz=64",
+   "image": "",
+   "summary": "রাকুল প্রীতের আত্মতৃপ্তি bd-pratidin.com রাকুল প্রীতের মেক আপ করতে ৪ ঘণ্টা লাগতো দৈনিক আগামীর সময় ভারতীয় ইতিহাসের সবচেয়ে দামী অভিনেত্রী Vietnam.vn ‘রামায়ণ’-এ সূর্পণখার চরিত্রে গর্বিত রাকুল Barta 24",
+   "published": 1794160800,
+   "score": 8.86
   },
   {
    "id": "d9dbb9274907",
@@ -1010,20 +1307,9 @@
    "source": "জাগো নিউজ",
    "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
    "image": "",
-   "summary": "চিত্রাঙ্কনে সেরা ১০০ জনের তালিকায় জায়গা করে নিলে শতভাগ বৃত্তি পাবেন দেশের স্কুল-কলেজের শিক্ষার্থীরা। তাদের আঁকা ছবি পর্যায়ক্রমে...",
+   "summary": "চিত্রাঙ্কনে সেরা ১০০ শিক্ষার্থী পাবেন শতভাগ বৃত্তি, ছবি যাবে পাঁচ দেশে",
    "published": 1794160587,
-   "score": 10.64
-  },
-  {
-   "id": "97544ff17dd2",
-   "title": "ভারতের তিন রাজ্যে বড় অস্ত্র পাচার চক্রের সন্ধান, উদ্ধার ৪৪ হাজার কার্তুজ",
-   "link": "https://www.prothomalo.com/world/india/nkxbghtrjd",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2025-04-21/ip86dsgz/rumorscanne_2.jpg",
-   "summary": "",
-   "published": 1794160463,
-   "score": 12.62
+   "score": 8.83
   },
   {
    "id": "fbc2e34da2c5",
@@ -1034,40 +1320,7 @@
    "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/08/529f552abdf7f134061f9905c3c8da29-6af0b599c8c51.jpg?jadewits_media_id=1053951",
    "summary": "জাতীয় বিপ্লব ও সংহতি দিবস উপলক্ষে বিএনপির র‍্যালিকে ঘিরে ফেনীর দাগনভূঞা পৌর শহরে মুহুর্মুহু ককটেল বিস্ফোরণ ও বিশেষ পোশাক পরা ব্যক্তিদের অস্ত্র হাতে মহড়ায় আতঙ্ক ছড়িয়ে পড়েছে। বিস্ফোরণের শব্দে বন্ধ হয়ে যায় অধিকাংশ দোকানপাট।",
    "published": 1794160035,
-   "score": 12.56
-  },
-  {
-   "id": "29dcb0ce9f2c",
-   "title": "সরকার গঠনের দায়িত্ব পেয়ে আইজেনকট বললেন, সবার জন্য দরজা খোলা",
-   "link": "https://www.prothomalo.com/world/q7fr86l9gb",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-08/kt0jweoh/ISraelGovt.jpg",
-   "summary": "",
-   "published": 1794159873,
-   "score": 12.54
-  },
-  {
-   "id": "94a89c8145af",
-   "title": "আলো-ছায়ার দ্বৈত ভাষা ‘প্রতিবিম্ব কবিতা’",
-   "link": "https://www.bondhushava.com/writings/d4ltuc7t67",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.bondhushava.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-08/seapc785/Warm-Literary-Still-Life-with-Bengali-Novel.png",
-   "summary": "কবি শাহ সানাউল হকের ‘প্রতিবিম্ব কবিতা’ অবশ্য আয়নার হুবহু প্রতিচ্ছবির ধারণা নয়; বরং একই দৃশ্য, মুহূর্ত বা অভিজ্ঞতা কবিচেতনায় দুইভাবে প্রতিফলিত হয়। জন্ম দেয় দুটি স্বতন্ত্র কবিতার। একটি অন্যটির অনুলিপি, পুনর্লিখন বা ছায়া নয়",
-   "published": 1794159842,
-   "score": 12.53
-  },
-  {
-   "id": "63aae1e7ec4e",
-   "title": "‘ভারত-বাংলাদেশকে নিয়ে টুর্নামেন্ট করুন, আমাদের সময় নষ্ট করবেন না’, শ্রীলঙ্কার কোচের বিস্ফোরক মন্তব্য",
-   "link": "https://www.prothomalo.com/sports/football/93mg1beujo",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-08/sbowdryw/WhatsApp-Image-2026-11-08-at-9.31.48-PM-1.jpeg",
-   "summary": "শ্রীলঙ্কার কোচের অভিযোগ, সাফে আয়োজক দেশ ও ভারতের পক্ষে সুবিধা দেওয়ার প্রবণতা রয়েছে। ভুটানের বিপক্ষে ম্যাচে রেফারির কয়েকটি সিদ্ধান্তের সমালোচনা করেছেন তিনি।",
-   "published": 1794159604,
-   "score": 12.5
+   "score": 10.75
   },
   {
    "id": "934730b87053",
@@ -1078,7 +1331,7 @@
    "image": "https://images.ajkerpatrika.com/original_images/কুমিল্লা-১-262381.jpg",
    "summary": "জাতীয় বিপ্লব ও সংহতি দিবস উপলক্ষে কুমিল্লার দেবিদ্বারে উপজেলা বিএনপির দুই পক্ষের পৃথক কর্মসূচি ঘিরে উত্তেজনা ও সংঘর্ষের ঘটনা ঘটেছে। সমাবেশ শেষে ফেরার পথে জাতীয় সংসদের সংরক্ষিত আসনের সদস্য (এমপি) রাশেদা বেগম হীরার গাড়িবহর",
    "published": 1794159533,
-   "score": 32.49
+   "score": 10.68
   },
   {
    "id": "cd0d67a8b055",
@@ -1089,29 +1342,7 @@
    "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/gold-20261108233623.jpg?cid=496391",
    "summary": "",
    "published": 1794159383,
-   "score": 12.47
-  },
-  {
-   "id": "c112d1062e8b",
-   "title": "আড়াইহাজারে বিএনপির দুই পক্ষের সংঘর্ষে আহত ১০",
-   "link": "https://www.prothomalo.com/bangladesh/district/ihc0h3av1v",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-08/27q29jj7/narayangonj.jpg",
-   "summary": "",
-   "published": 1794159174,
-   "score": 22.44
-  },
-  {
-   "id": "d684c5cfccfd",
-   "title": "তিন বছরে পোশাকশ্রমিকের ক্রয়ক্ষমতা কমেছে তিন ভাগের এক ভাগ",
-   "link": "https://www.prothomalo.com/business/industry/za03vuj8ae",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-09-16/wy3kxo8v/f53de3352f7d2b4a7427fb0c4e77776c_5e12e8119fc54.jpg",
-   "summary": "",
-   "published": 1794159000,
-   "score": 12.42
+   "score": 10.66
   },
   {
    "id": "0c990483c923",
@@ -1122,18 +1353,7 @@
    "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/08/f53094965d6470ad12fd42ab573c6b43-6af0b15b7886a.jpg?jadewits_media_id=1053950",
    "summary": "গাজীপুরের টঙ্গীতে মাদক কারবারের অনুসন্ধান করতে গিয়ে ইংরেজি দৈনিক ঢাকা ট্রিবিউনের তিন সাংবাদিককে তিন ঘণ্টা জিম্মি করে অস্ত্রের মুখে নির্যাতন ও হত্যার হুমকি দেওয়া হয়েছে। সেই সঙ্গে ঘুমের ওষুধ খাইয়ে ও বানোয়াট ভিডিও ধারণ করে ",
    "published": 1794158957,
-   "score": 12.41
-  },
-  {
-   "id": "68594670522e",
-   "title": "শব্দের মানচিত্র",
-   "link": "https://nagorik.prothomalo.com/durporobash/63wri8tg15",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=nagorik.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo/import/media/2018/03/19/49f8c40ab22fc23ac938501d4da635c6-5aaf80c270362.jpg",
-   "summary": "",
-   "published": 1794158940,
-   "score": 12.41
+   "score": 10.6
   },
   {
    "id": "14b28af179c5",
@@ -1144,7 +1364,7 @@
    "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/untitled-1-20261108232351.jpg?cid=496390",
    "summary": "",
    "published": 1794158631,
-   "score": 22.37
+   "score": 10.56
   },
   {
    "id": "6f34ac497349",
@@ -1155,18 +1375,7 @@
    "image": "https://ecdn.dhakatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/08/12ec5052d4c039897c273b25f28ff7d3-6af09d300624f.png?jadewits_media_id=76994",
    "summary": "A Dhaka Tribune investigation finds open drug trading, alleged political patronage and armed control persisting despite repeated police raids and eviction drives Details",
    "published": 1794158614,
-   "score": 12.36
-  },
-  {
-   "id": "d77c146cdc09",
-   "title": "বিল নিয়ে তর্ক করায় সংযোগ বিচ্ছিন্ন, তিন দিন পর বিদ্যুৎ পেলেন সেই গ্রাহক",
-   "link": "https://www.prothomalo.com/bangladesh/district/ju09ie28ue",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-07/xvfnv50w/netrokona.jpg",
-   "summary": "",
-   "published": 1794158605,
-   "score": 12.36
+   "score": 10.55
   },
   {
    "id": "d6d559712f31",
@@ -1177,18 +1386,7 @@
    "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/08/ef6cca78f80e3a1e5401155a313d319b-6af0af3b0ef94.jpg?jadewits_media_id=1053949",
    "summary": "সাফ চ্যাম্পিয়নশিপে ভুটানের বিপক্ষে শেষ মুহূর্তে ২-২ গোলে ড্র হওয়া ম্যাচের পর রেফারিং নিয়ে তীব্র অসন্তোষ প্রকাশ করেছেন শ্রীলঙ্কার কোচ আব্দুল্লাহ আল মুতাইরি। শুধু রেফারির সিদ্ধান্তই নয়, টুর্নামেন্টের আয়োজকদের বিরুদ্ধেও পক্",
    "published": 1794158552,
-   "score": 12.35
-  },
-  {
-   "id": "793d33fef29d",
-   "title": "পুলিশের অপরাধ তদন্ত বিভাগের (সিআইডি) ভেতরে ও পল্লবী থানা ফটকে ককটেল বিস্ফোরণ",
-   "link": "https://www.prothomalo.com/video/bangladesh/novlq8flu8",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-08/ep33msoa/YT-GFX.00041404.Still053.jpg",
-   "summary": "পুলিশের অপরাধ তদন্ত বিভাগের (সিআইডি) ভেতরে ও পল্লবী থানা ফটকে ককটেল বিস্ফোরণ",
-   "published": 1794158499,
-   "score": 22.35
+   "score": 10.54
   },
   {
    "id": "b1cb1626b523",
@@ -1197,9 +1395,9 @@
    "source": "জাগো নিউজ",
    "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
    "image": "",
-   "summary": "মাদরাসার এমপিও সংক্রান্ত অনলাইন আবেদন জমা ও অগ্রায়ণের সময় বাড়িয়েছে মাদরাসা শিক্ষা অধিদপ্তর। নতুন সময়সূচি অনুযায়ী, প্রতিষ্ঠানপ্রধানরা...",
+   "summary": "মাদরাসার এমপিও আবেদনের সময় বাড়লো",
    "published": 1794158162,
-   "score": 10.3
+   "score": 8.49
   },
   {
    "id": "80cb94b33050",
@@ -1210,7 +1408,7 @@
    "image": "https://ecdn.dhakatribune.net/contents/cache/images/300x300x1/uploads/media/2026/10/24/ea575b71aa48d0588b1c0298e60a0633-6adba1c24920a.jpg?jadewits_media_id=75932",
    "summary": "No casualties were reported Details",
    "published": 1794157956,
-   "score": 12.27
+   "score": 10.46
   },
   {
    "id": "d1d735b9dcb4",
@@ -1221,7 +1419,7 @@
    "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/08/c860b1a3b99b890181023d366f72d31f-6af0ad2311dd1.jpg?jadewits_media_id=1053947",
    "summary": "আঞ্চলিক সহযোগিতা জোরদার এবং জনগণের আস্থা অর্জনে গণমাধ্যমকে প্রচলিত জাতীয়তাবাদী বয়ানের বাইরে এসে সহযোগিতামূলক ও তথ্যনির্ভর সাংবাদিকতার চর্চা করতে হবে বলে মন্তব্য করেছেন ঢাকা ট্রিবিউনের সম্পাদক রিয়াজ আহমেদ। রবিবার (৮ নভেম্",
    "published": 1794157930,
-   "score": 12.27
+   "score": 10.46
   },
   {
    "id": "0e0649c2d8e4",
@@ -1232,7 +1430,7 @@
    "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/08/bdd62990c79963965a297b2392646f80-6af0ad5a735c8.jpg?jadewits_media_id=1053948",
    "summary": "বরিশালের বাবুগঞ্জ উপজেলার মাধবপাশা ইউনিয়নে সড়ক নির্মাণ কাজে বাধা দিয়ে ঠিকাদারের কাছে ৩ লাখ টাকা চাঁদা দাবি করেছেন স্থানীয় এক বিএনপি নেতাসহ চার জন। শেষ পর্যন্ত চাঁদা না দেওয়ায় ঠিকাদারের ছেলেকে মারধর করে তার ব্যবহৃত মোটর",
    "published": 1794157921,
-   "score": 12.27
+   "score": 10.46
   },
   {
    "id": "8651a207aaaa",
@@ -1243,51 +1441,7 @@
    "image": "",
    "summary": "নতুন ফোনের বদলে আগে সক্রিয় Galaxy S26 Ultra, Dazzle-এর বিরুদ্ধে অভিযোগ Techzoom.TV",
    "published": 1794157729,
-   "score": 10.24
-  },
-  {
-   "id": "b280da780a10",
-   "title": "সমাজকল্যাণে অবদানের জন্য সম্মাননা পেল স্বপ্ন নিয়ে ফাউন্ডেশন",
-   "link": "https://nagorik.prothomalo.com/nzn6mbwxjk",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=nagorik.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-08/kiks9cdl/2.jpeg",
-   "summary": "",
-   "published": 1794157627,
-   "score": 12.23
-  },
-  {
-   "id": "327b7908aba9",
-   "title": "ভাটারায় স্কুলবাসে আগুন",
-   "link": "https://www.prothomalo.com/video/bangladesh/whc1n5synh",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-08/gmik25ts/web.jpg",
-   "summary": "রাজধানীর ভাটারা এলাকায় সড়কের পাশে দাঁড়িয়ে থাকা একটি স্কুলবাসে আগুন দেওয়া হয়েছে। ৮ নভেম্বর সন্ধ্যা ছয়টার দিকে এ ঘটনা ঘটে",
-   "published": 1794157365,
-   "score": 12.19
-  },
-  {
-   "id": "20fa1dc0b1ec",
-   "title": "দেবীদ্বারে বিএনপির দুই পক্ষের পাল্টাপাল্টি কর্মসূচি, এমপির গাড়িবহরে হামলা–ভাঙচুর",
-   "link": "https://www.prothomalo.com/bangladesh/district/w66f0au7d0",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-08/flzgofym/cumilladh175220261108img20261108204907.jpg",
-   "summary": "বিপ্লব ও সংহতি দিবস উপলক্ষে কুমিল্লার দেবীদ্বারে বিএনপির দুই পক্ষ পাল্টাপাল্টি মিছিল ও সমাবেশ করেছে। এ সময় সংরক্ষিত নারী আসনের সংসদ সদস্য রাশেদা বেগমের (হীরা) গাড়িবহরে হামলা ও ভাঙচুর করা হয়েছে।",
-   "published": 1794157328,
-   "score": 32.18
-  },
-  {
-   "id": "c999b4f723ba",
-   "title": "অ্যাটকোর নতুন সভাপতি অঞ্জন চৌধুরী, সাধারণ সম্পাদক আব্দুস সালাম",
-   "link": "https://www.prothomalo.com/bangladesh/rd9ws9hmc3",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-08/4z57nunc/atco.jpg",
-   "summary": "",
-   "published": 1794157279,
-   "score": 22.18
+   "score": 8.43
   },
   {
    "id": "0f9050581e08",
@@ -1298,7 +1452,7 @@
    "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/untitled-1-copy-20261108230114.jpg?cid=496389",
    "summary": "",
    "published": 1794157274,
-   "score": 12.18
+   "score": 10.37
   },
   {
    "id": "bdcafdc8465c",
@@ -1309,7 +1463,7 @@
    "image": "https://images.ajkerpatrika.com/original_images/Gulf-rail-network-655562.gif",
    "summary": "কুয়েত, সৌদি আরব, বাহরাইন, কাতার, সংযুক্ত আরব আমিরাত ও ওমান—উপসাগরীয় সহযোগিতা পরিষদের (জিসিসি) এই ছয় সদস্যদেশকে একটি সমন্বিত রেল নেটওয়ার্কের আওতায় আনতে ২ হাজার ১০০ কিলোমিটার দীর্ঘ রেলপথ নির্মাণের চুক্তি সই হয়েছে। রোববার (",
    "published": 1794157167,
-   "score": 12.16
+   "score": 10.35
   },
   {
    "id": "6df6be8ce903",
@@ -1320,7 +1474,7 @@
    "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/08/279abcb31a2a1ff89bd03849bdc4db3b-6af0aa0759fe5.jpg?jadewits_media_id=1053946",
    "summary": "সাফ চ্যাম্পিয়নশিপে মালদ্বীপকে ৩-০ গোলে হারিয়ে সেমিফাইনাল নিশ্চিত করেছে পাকিস্তান। ভারতের কাছে প্রথম ম্যাচে হারের পর দারুণভাবে ঘুরে দাঁড়িয়েছে দলটি। শেষ চারে সম্ভাব্য প্রতিপক্ষ হিসেবে বাংলাদেশকেও পাচ্ছেন পাকিস্তানের কোচ নে",
    "published": 1794157134,
-   "score": 12.16
+   "score": 10.35
   },
   {
    "id": "9b3567769b87",
@@ -1331,18 +1485,7 @@
    "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/untitled-1-20261108225612.jpg?cid=496388",
    "summary": "",
    "published": 1794156972,
-   "score": 12.13
-  },
-  {
-   "id": "d92b01719ee7",
-   "title": "বিশ্ববিদ্যালয়ে ভর্তি পরীক্ষা কীভাবে, উপাচার্যদের সঙ্গে বসছে ইউজিসি",
-   "link": "https://www.jagonews24.com/education/news/1177224",
-   "source": "জাগো নিউজ",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
-   "image": "",
-   "summary": "২০২৬-২৭ শিক্ষাবর্ষে দেশের পাবলিক বিশ্ববিদ্যালয়গুলোতে ভর্তি পরীক্ষা কীভাবে নেওয়া হবে, তা নিয়ে উপাচার্যদের সঙ্গে জরুরি সভায় বসছে...",
-   "published": 1794156962,
-   "score": 20.13
+   "score": 10.33
   },
   {
    "id": "629c012c0cec",
@@ -1353,7 +1496,7 @@
    "image": "https://images.ajkerpatrika.com/original_images/mrmr-fight-maramari-3.jpg",
    "summary": "পটুয়াখালীর বাউফলে উপজেলা বিএনপির সদস্যসচিব আপেল মাহমুদ ফিরোজের ওপর হামলার অভিযোগ পাওয়া গেছে। জাতীয় বিপ্লব ও সংহতি দিবসের মিছিলকে কেন্দ্র করে বিএনপির দুই পক্ষের মধ্যে বিরোধের জেরে এই হামলার ঘটনা ঘটে। হামলায় ফিরোজসহ অন্তত ",
    "published": 1794156893,
-   "score": 22.12
+   "score": 10.31
   },
   {
    "id": "33181e9cc76e",
@@ -1364,7 +1507,7 @@
    "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/08/6151b6ee245c98faec33e58ffe439649-6af0a90a2456d.jpg?jadewits_media_id=1053945",
    "summary": "ক্ষমতাচ্যুত প্রধানমন্ত্রী শেখ হাসিনার দেশে ফেরার বিষয়ে সড়ক পরিবহন ও সেতুমন্ত্রী শেখ রবিউল আলম বলেছেন, ‘তাকে দেশে আসতে না করেছে কে? তার তো দেশেই থাকা উচিত ছিল, দেশে থেকে আইন ফেস করার কথা ছিল। পলাতক আসামিদের দেশে ফেরার হুং",
    "published": 1794156854,
-   "score": 12.12
+   "score": 10.31
   },
   {
    "id": "75f53978020b",
@@ -1375,40 +1518,7 @@
    "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/bnp-e-20261108225211.jpg?cid=496387",
    "summary": "",
    "published": 1794156731,
-   "score": 12.1
-  },
-  {
-   "id": "fcfc0aa71649",
-   "title": "রিয়াদে আরামকোর ভবনে হামলা, ইয়েমেনে বিমান হামলায় নিহত ৭২",
-   "link": "https://www.prothomalo.com/world/middle-east/u44rpmdqwo",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-08/zdikcoqt/ARAMCO.jpg",
-   "summary": "",
-   "published": 1794156687,
-   "score": 12.1
-  },
-  {
-   "id": "9337fd054250",
-   "title": "খুলনায় মেয়ের জন্য খাবার কিনতে গিয়ে শিক্ষা অফিসের কর্মকর্তা গুলিবিদ্ধ",
-   "link": "https://www.jagonews24.com/country/news/1177223",
-   "source": "জাগো নিউজ",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
-   "image": "",
-   "summary": "খুলনায় বাসা থেকে বের হয়ে মেয়ের জন্য খাবার কিনতে গিয়ে গুলিবিদ্ধ হয়েছেন শিক্ষা অফিসের একজন কর্মকর্তা। তার নাম মসিউর রহমান...",
-   "published": 1794156659,
-   "score": 40.09
-  },
-  {
-   "id": "845dac7f3f72",
-   "title": "মেয়ের জন্য খাবার কিনতে বেরিয়ে গুলিবিদ্ধ শিক্ষা অফিসের হিসাবরক্ষক",
-   "link": "https://www.prothomalo.com/bangladesh/district/3cxe9jnx0q",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-02-22/xc70gnn0/prothomalo-bangla2024.avif",
-   "summary": "খুলনায় গত ১০ মাসে অন্তত ৩৫টি হত্যাচেষ্টার ঘটনা ঘটেছে। এসব ঘটনায় আগ্নেয়াস্ত্র ও ধারালো অস্ত্র ব্যবহার করা হয়েছে। শেষ ১৫ দিনে গুলিবিদ্ধ হয়ে আহত হয়েছেন অন্তত পাঁচজন।",
-   "published": 1794156612,
-   "score": 42.08
+   "score": 20.29
   },
   {
    "id": "c30f2b661748",
@@ -1419,7 +1529,7 @@
    "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/nmkrcww-20261108225004.jpg?cid=496386",
    "summary": "",
    "published": 1794156604,
-   "score": 12.08
+   "score": 10.27
   },
   {
    "id": "8665314c6ea9",
@@ -1430,7 +1540,7 @@
    "image": "https://images.ajkerpatrika.com/original_images/hamla-6b627f.jpg",
    "summary": "দুই শতাংশ জমির মালিকানা নিয়ে প্রতিবেশী আইয়ুব আলীর ছেলে চঞ্চল ও তাঁর পরিবারের সদস্যদের সঙ্গে ময়না বেগমের বিরোধ চলছিল। আজ বিকেলে এ নিয়ে দুই পক্ষের মধ্যে কথাকাটাকাটি হয়। একপর্যায়ে তা মারামারিতে রূপ নেয়। এতে ময়না বেগম গুরুতর",
    "published": 1794156532,
-   "score": 12.07
+   "score": 10.26
   },
   {
    "id": "a02e6e675a14",
@@ -1441,7 +1551,7 @@
    "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/08/32008cea0ed723dd28d53423e91ecc33-6af0a77dacde3.jpg?jadewits_media_id=1053944",
    "summary": "রাজধানীর মিরপুর-১ এর সনি হলের সামনে একটি প্রাইভেট কারের ওপর ককটেল বিস্ফোরণের ঘটনা ঘটেছে। রবিবার (৮ নভেম্বর) রাত সাড়ে ৮টায় এ ঘটনা ঘটে। তবে এতে কেউ হতাহত হননি। মিরপুর মডেল থানার ওসি মো. হাফিজুর রহমান বলেন, সনি হলের সামনে এ",
    "published": 1794156526,
-   "score": 52.07
+   "score": 10.26
   },
   {
    "id": "c522240eb651",
@@ -1452,18 +1562,7 @@
    "image": "https://images.ajkerpatrika.com/original_images/ভূমি-7ec86a.gif",
    "summary": "২৭৬ কোটি ৭৫ লাখ টাকার ঋণখেলাপি মামলায় সাবেক ভূমিমন্ত্রী সাইফুজ্জামান চৌধুরী জাবেদ, তাঁর স্ত্রী রুকমিনা জামানসহ ছয় জনকে পাঁচ মাস করে সাজা দিয়েছেন চট্টগ্রাম অর্থঋণ আদালত। পলাতক থাকায় তাঁদের বিরুদ্ধে গ্রেপ্তারি পরোয়ানা জারি",
    "published": 1794156424,
-   "score": 12.06
-  },
-  {
-   "id": "21a7433e2a40",
-   "title": "মিরপুরে চলন্ত প্রাইভেট কারে ককটেল হামলা",
-   "link": "https://www.ajkerpatrika.com/bangladesh/dhaka/ajpa6scigl0mq",
-   "source": "আজকের পত্রিকা",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ajkerpatrika.com&sz=64",
-   "image": "https://images.ajkerpatrika.com/original_images/mirpur-car-cocktail-c27b1f.gif",
-   "summary": "অজ্ঞাতনামা এক মোটরসাইকেল আরোহী চলন্ত প্রাইভেট কারটির বনেটের ওপর একটি ককটেল নিক্ষেপ করে বিস্ফোরণ ঘটান। এরপর দ্রুত মোটরসাইকেল নিয়ে ঘটনাস্থল থেকে পালিয়ে যান তিনি। বিস্তারিত",
-   "published": 1794156345,
-   "score": 22.05
+   "score": 10.25
   },
   {
    "id": "92644d6004cc",
@@ -1474,29 +1573,7 @@
    "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/08/c1e081e04e45f0fc40535e82e1f930a9-6af0a680465db.jpg?jadewits_media_id=1053943",
    "summary": "নওগাঁর বদলগাছীতে একটি সরকারি প্রাথমিক বিদ্যালয়ের চতুর্থ ও পঞ্চম শ্রেণির অন্তত ১৫ শিক্ষার্থীর মাথার চুল কাঁচি দিয়ে খোপ খোপ করে কেটে দিয়েছেন প্রধান শিক্ষক শহিদুল ইসলাম। গতকাল শনিবার দুপুরে উপজেলার কোলা ইউনিয়নের কোলার পালশা",
    "published": 1794156166,
-   "score": 12.02
-  },
-  {
-   "id": "0d4e97e742a6",
-   "title": "সংঘাত নয়, শান্তি ও সম্প্রীতি চাই: প্রতিমন্ত্রী নুরুল হক নূর",
-   "link": "https://www.ajkerpatrika.com/bangladesh/patuakhali/ajpyhps1nxeoi",
-   "source": "আজকের পত্রিকা",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ajkerpatrika.com&sz=64",
-   "image": "https://images.ajkerpatrika.com/original_images/দশমিনা-c047c2.jpg",
-   "summary": "পটুয়াখালী-৩ (গলাচিপা-দশমিনা) আসনের সংসদ সদস্য ও প্রবাসী কল্যাণ এবং বৈদেশিক কর্মসংস্থান মন্ত্রণালয়ের প্রতিমন্ত্রী নুরুল হক নুর বলেছেন, আমাদের লক্ষ্য সংঘাত নয়, শান্তি; প্রতিহিংসা নয়, সম্প্রীতি; বিভেদ নয়, ঐক্য; ব্যক্তিস্বার",
-   "published": 1794156106,
-   "score": 12.01
-  },
-  {
-   "id": "334e123c7f24",
-   "title": "৬৪ জেলায় প্রতিবন্ধী স্কুল প্রতিষ্ঠা করবে সরকার",
-   "link": "https://www.jagonews24.com/national/news/1177222",
-   "source": "জাগো নিউজ",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
-   "image": "",
-   "summary": "দেশের ৬৪ জেলায় পর্যায়ক্রমে ৬৪টি প্রতিবন্ধী স্কুল প্রতিষ্ঠা করবে সরকার। প্রতিবন্ধী ব্যক্তিদের অধিকার সুরক্ষা ও তাদের সমাজের মূলধারায়...",
-   "published": 1794155941,
-   "score": 9.99
+   "score": 10.21
   },
   {
    "id": "0094aae9b8ba",
@@ -1507,18 +1584,7 @@
    "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/new-project-7-20261108223857.jpg?cid=496385",
    "summary": "",
    "published": 1794155937,
-   "score": 21.99
-  },
-  {
-   "id": "c5b4f644e867",
-   "title": "চাঁদপুরে উন্মুক্ত স্থানে নির্মাণসামগ্রী রাখায় ব্যবসায়ীকে লাখ টাকা জরিমানা",
-   "link": "https://www.ajkerpatrika.com/bangladesh/chandpur/ajpfw8ddlwsqn",
-   "source": "আজকের পত্রিকা",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ajkerpatrika.com&sz=64",
-   "image": "https://images.ajkerpatrika.com/original_images/জরিমানা-8b47be.gif",
-   "summary": "চাঁদপুরে উন্মুক্ত স্থানে বালু-পাথরসহ নির্মাণসামগ্রী রেখে ব্যবসায়িক কার্যক্রম পরিচালনার দায়ে মেসার্স মায়ের দোয়া এন্টারপ্রাইজের মালিককে এক লাখ টাকা জরিমানা করেছেন ভ্রাম্যমাণ আদালত। রোববার গাছতলা ব্রিজসংলগ্ন এলাকায় জেলা প্র",
-   "published": 1794155863,
-   "score": 11.98
+   "score": 10.18
   },
   {
    "id": "67016d25dd82",
@@ -1529,29 +1595,7 @@
    "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/08/85029aa44eba736516341c67e0e233c4-6af0a4e338a1c.jpg?jadewits_media_id=1053942",
    "summary": "প্রধানমন্ত্রীর অর্থ ও পরিকল্পনা মন্ত্রণালয়বিষয়ক উপদেষ্টা ড. রাশেদ আল মাহমুদ তিতুমীর বলেছেন, নীতিনির্ধারণ, গবেষণা ও সরকারি সেবা কার্যক্রমে নির্ভরযোগ্য তথ্য নিশ্চিত করতে দেশের পরিসংখ্যান ব্যবস্থায় বড় ধরনের সংস্কারের উদ্যোগ",
    "published": 1794155860,
-   "score": 11.98
-  },
-  {
-   "id": "73954587dd0d",
-   "title": "শ্রীলঙ্কার সঙ্গে ড্র করে টিকে রইল ভুটান",
-   "link": "https://www.ajkerpatrika.com/sports/football/ajpv6ha5fw2h0",
-   "source": "আজকের পত্রিকা",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ajkerpatrika.com&sz=64",
-   "image": "https://images.ajkerpatrika.com/original_images/sri-lanka-vs-bhutan-7447bf.gif",
-   "summary": "শ্রীলঙ্কা ও ভুটানের ম্যাচের দিকে তাকিয়ে ছিল বাংলাদেশ। শেষ পর্যন্ত ২–২ গোলে ড্র হয়েছে দুই দলের লড়াই। তাতেই সপ্তমবারের মতো সাফ চ্যাম্পিয়নশিপের সেমিফাইনাল নিশ্চিত হয়েছে বাংলাদেশের। তবে ড্রয়ের ফলে সেমিফাইনালের আশা টিকে",
-   "published": 1794155785,
-   "score": 31.97
-  },
-  {
-   "id": "9879bcea3c08",
-   "title": "মৌলভীবাজারে অস্বাস্থ্যকর পরিবেশে খাবার তৈরি, ২ প্রতিষ্ঠানকে জরিমানা",
-   "link": "https://www.ajkerpatrika.com/bangladesh/moulvibazar/ajp5w5n7lx1xe",
-   "source": "আজকের পত্রিকা",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ajkerpatrika.com&sz=64",
-   "image": "https://images.ajkerpatrika.com/original_images/মৌলভীবাজার-জরিমানা-4c0f05.gif",
-   "summary": "মৌলভীবাজার শহরে অস্বাস্থ্যকর ও অপরিচ্ছন্ন পরিবেশে খাদ্যদ্রব্য তৈরি ও সংরক্ষণের দায়ে দুটি প্রতিষ্ঠানকে ৬০ হাজার টাকা জরিমানা করেছেন ভ্রাম্যমাণ আদালত। আজ রোববার বিকেলে শহরের শমসেরনগর রোড এলাকায় জেলা প্রশাসনের পক্ষ থেকে এ অ",
-   "published": 1794155743,
-   "score": 11.96
+   "score": 10.17
   },
   {
    "id": "528d098c92de",
@@ -1562,7 +1606,7 @@
    "image": "https://ecdn.dhakatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/08/995ed9143a8652f14affa9304ff20aca-6af0a31733745.jpg?jadewits_media_id=76996",
    "summary": "He asks them to ensure citizens are not harassed while seeking govt services Details",
    "published": 1794155402,
-   "score": 11.92
+   "score": 10.11
   },
   {
    "id": "7b13886df64a",
@@ -1573,18 +1617,7 @@
    "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/jjhup-20261108222916.jpg?cid=496384",
    "summary": "",
    "published": 1794155356,
-   "score": 21.91
-  },
-  {
-   "id": "1adeda652b9a",
-   "title": "মিরপুরে মোটরসাইকেল থেকে প্রাইভেটকার লক্ষ্য করে ককটেল বিস্ফোরণ",
-   "link": "https://www.jagonews24.com/national/news/1177221",
-   "source": "জাগো নিউজ",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
-   "image": "",
-   "summary": "মিরপুরে মোটরসাইকেল থেকে প্রাইভেটকার লক্ষ্য করে ককটেল বিস্ফোরণ",
-   "published": 1794155330,
-   "score": 39.91
+   "score": 10.1
   },
   {
    "id": "618845024ef6",
@@ -1595,7 +1628,7 @@
    "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/08/628a85ad3253b0dce0c3cb5c39457c02-6af0a331dbfd3.jpg?jadewits_media_id=1053941",
    "summary": "এবার খুলনায় বাসা থেকে মেয়ের জন্য খাবার কিনতে বের হয়ে দুর্বৃত্তদের গুলিতে আহত হয়েছেন রূপসা উপজেলা শিক্ষা অফিসের হিসাবরক্ষক মো. মশিউর রহমান (৫৯)। রবিবার (৮ নভেম্বর) সন্ধ্যা সাড়ে ৭টার দিকে সদর থানার মিয়াপাড়া এলাকায় এ ঘটনা ",
    "published": 1794155323,
-   "score": 41.91
+   "score": 20.1
   },
   {
    "id": "c54d1d907051",
@@ -1606,7 +1639,7 @@
    "image": "https://ecdn.dhakatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/08/2f3937994e7ed8ca898e6eabac58601d-6af0a2c214c6e.JPG?jadewits_media_id=76995",
    "summary": "Bangladesh have secured a place in the semi-finals of the SAFF Championship 2026 after Bhutan and Sri Lanka played out a 2-2 draw in their Group A encounter at the National Stadium in Dhaka on Sunday Details",
    "published": 1794155218,
-   "score": 11.89
+   "score": 10.08
   },
   {
    "id": "0077807aa2e0",
@@ -1617,29 +1650,7 @@
    "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/08/476f2513fb27c7a8a8e204aa57e28812-6af0a14f3ecf2.jpg?jadewits_media_id=1053940",
    "summary": "সাফ চ্যাম্পিয়নশিপের সেমিফাইনালে ওঠার জন্য বাংলাদেশের অপেক্ষা ছিল ভুটান-শ্রীলঙ্কা ম্যাচের ফলের দিকে। আজ রবিবার দুই দলের লড়াইয়ে শেষ পর্যন্ত কেউ জিততে পারেনি। ২-২ গোলে ম্যাচটি ড্র হওয়ায় এক ম্যাচ হাতে রেখেই সেরা চারে জায়গা ন",
    "published": 1794154946,
-   "score": 41.85
-  },
-  {
-   "id": "e83eb0dded94",
-   "title": "চট্টগ্রাম বিশ্ববিদ্যালয়ে শ্যামা পূজা ও দীপাবলি উৎসব",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1KWW1SZ2F1R2lVbmFqTU9CTXloX0dEWDJBclZZOUJNNklWQ2xCbzNrcS1HSnA2Wkpma1RXN2JiSHZvVkRiV1YxazBGM3FEQUZ0UjBraXMxNWY?oc=5",
-   "source": "bdnews24.com",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=bangla.bdnews24.com&sz=64",
-   "image": "",
-   "summary": "চট্টগ্রাম বিশ্ববিদ্যালয়ে শ্যামা পূজা ও দীপাবলি উৎসব bdnews24.com মৃত চণ্ডাল সধবার আঙুলের কড় দিয়ে হয় পুজো, কোথাও নাড়ু ছোড়া হয় মায়ের জিভ লক্ষ্য করে, বাংলার কালীপুজোর ভয়ঙ্কর প্রথা Anandabazar Patrika গভীর রাতে শুরু হবে ম",
-   "published": 1794154920,
-   "score": 9.85
-  },
-  {
-   "id": "7a5641abfe91",
-   "title": "ভুটানের সঙ্গে ড্র শ্রীলঙ্কার, সেমিফাইনালে বাংলাদেশ",
-   "link": "https://www.jagonews24.com/sports/football/1177220",
-   "source": "জাগো নিউজ",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
-   "image": "",
-   "summary": "ভুটানের সঙ্গে ড্র শ্রীলঙ্কার, সেমিফাইনালে বাংলাদেশ",
-   "published": 1794154883,
-   "score": 39.84
+   "score": 20.04
   },
   {
    "id": "35b75a2eba23",
@@ -1650,7 +1661,7 @@
    "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/ammar-20261108222043.jpg?cid=496383",
    "summary": "",
    "published": 1794154843,
-   "score": 11.84
+   "score": 10.03
   },
   {
    "id": "03f4caccbc70",
@@ -1661,7 +1672,7 @@
    "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/08/5d2564f8aaed312a9d8bed7560312f03-6af09fce54264.jpg?jadewits_media_id=1053939",
    "summary": "কয়েক মাস ধরে চলা নৌ অবরোধের ধারাবাহিকতায় ইরানের স্থল সীমান্ত ও কাস্পিয়ান সাগর দিয়ে উন্নত অস্ত্র ও অন্যান্য নিষেধাজ্ঞাভুক্ত সামগ্রী চলাচল ঠেকাতে একটি টাস্ক ফোর্স গঠন করছে মার্কিন সামরিক বাহিনী। শনিবার তারা এ কথা জানায",
    "published": 1794154644,
-   "score": 11.81
+   "score": 10.0
   },
   {
    "id": "bb0dfbf0340e",
@@ -1672,7 +1683,7 @@
    "image": "",
    "summary": "সেমিফাইনালে বাংলাদেশ, শ্রীলঙ্কার সঙ্গে ড্র করে টিকে রইল ভুটানও প্রথম আলো দুই ম্যাচে তিন গোল, সাফে পাকিস্তানের নতুন গোলমেশিন ১৯ বছরের নাজিব প্রথম আলো ভুটানের ঘুরে দাঁড়ানোয় সেমিফাইনালে বাংলাদেশ দ্য ডেইলি স্টার বাংলা আজই ",
    "published": 1794154548,
-   "score": 49.8
+   "score": 17.99
   },
   {
    "id": "e8746dc33da0",
@@ -1683,7 +1694,7 @@
    "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/electricity-20261108221357.jpg?cid=496382",
    "summary": "",
    "published": 1794154437,
-   "score": 11.78
+   "score": 9.97
   },
   {
    "id": "4195b8325349",
@@ -1694,7 +1705,7 @@
    "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/bullet-l-20261108220706.jpg?cid=496381",
    "summary": "",
    "published": 1794154026,
-   "score": 41.73
+   "score": 19.92
   },
   {
    "id": "82f36fe4e4e5",
@@ -1705,117 +1716,29 @@
    "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/janhvi-kapoor-20261108220556.jpg?cid=496380",
    "summary": "",
    "published": 1794153956,
-   "score": 11.72
+   "score": 9.91
   },
   {
-   "id": "9087178d147b",
-   "title": "আন্তর্জাতিক ফুটবল থেকে রোনালদোর বিদায়, বোল্টের অভিনন্দন",
-   "link": "https://www.jagonews24.com/sports/football/1177219",
-   "source": "জাগো নিউজ",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
+   "id": "340d7c81ec59",
+   "title": "কারিনার রাতের অদ্ভুত অভ্যাস ফাঁস করলেন সাইফ!",
+   "link": "https://news.google.com/rss/articles/CBMimwRBVV95cUxOMlhsLXlyUVkwbTdILUVWSTUzWk5uUFNTcXFzcDVKZHZ4ZUhDamV0TmN3NEZuOWNiVjBDY2xnYjh5RXBWRDExbnlUZkhNbnA4bXZuZDh4dk8zTlJmdzBSbWdQcTdiejJxT3puQXlaczRkTFZOXzVHYkRmeG5qNXVhSXJVVTZONG0yUS1mcWFSZE94QWV3OEJRSHAtTjRTZms1Q0ZhNFIyMFJpSWk2bVg4c0NRMVRRV3ZpbXViWHlSTXk2bFZUa0JCLVZEYTJENW9yaTlTaUhOLWFhaXh5b0ZjS19nNm52dC1PLTE3N29HSGpOUmJ0YW1VRl9oZkhEbnFLNnRGX1dQYzlmR01ySnV3eUIwWHU5aXQ1RUp4N3AwVktSWlB3MHNRbGJtX0NSSVItZzBCWmZiVTlKbjl4MnFCcW5KbnhaVXVGR0ZVVDk0VHVicU11SUdlbXdKY290V1VMUWZyQmI0dnZFUGVoME16LWpJaC1JS3Q2QnE0WEVtOW42Q3RqZThPN21tVmtZaGJpZHFXdW9sRTBNbWtNWGFYRFhwMUNycHlLR200SGdfWUNNRXVWQ0xoUWxvekZsRXhFdWJWTXZtUm0tNlllazYxX0o4SHRZUE1xQ1dGY2xTbDVKclo2RVl2NEpwYWx4am5sTUJhTWVBUWtxQXI0WVdXZm9KSGZEUlZDcTdMR3I4SGpmUHBaVFhzM0JiZw?oc=5",
+   "source": "বাংলাদেশ টাইমস",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=bangladeshtimes.com&sz=64",
    "image": "",
-   "summary": "আন্তর্জাতিক ফুটবল থেকে রোনালদোর বিদায়, বোল্টের অভিনন্দন",
-   "published": 1794153912,
-   "score": 9.71
+   "summary": "কারিনার রাতের অদ্ভুত অভ্যাস ফাঁস করলেন সাইফ! বাংলাদেশ টাইমস তানজিন তিশা ও অথৈর সদস্য পদ অনির্দিষ্টকালের জন্য স্থগিত কালের কণ্ঠ কারিনার রাতের গোপন অভ্যাস ফাঁস করলেন সাইফ The Daily Ittefaq কারিনার অদ্ভুত অভ্যাসের কথা প্রকা",
+   "published": 1794152940,
+   "score": 7.77
   },
   {
-   "id": "eb9fb235f3b0",
-   "title": "ভুটান-শ্রীলঙ্কার নাটকীয় ড্র, সেমিফাইনালে বাংলাদেশ",
-   "link": "https://www.dhakapost.com/sports/496379",
-   "source": "ঢাকা পোস্ট",
+   "id": "597c5eeae9ed",
+   "title": "ঢাবিতে ককটেল বিস্ফোরণে আটক তিনজনের পরিচয় জানা গেল",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lZjdjT1JJNzRtNDZ1Qmdaamt2WXl5WFctQjVnVXJrSDVBZTBhc1VpV0xVNV9XWUtabDB0eUJlaXZ5MFpFajB4QUpkNEk1VXhPUjUw?oc=5",
+   "source": "dhakapost.com",
    "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakapost.com&sz=64",
-   "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/untitled-1-20261108220512.jpg?cid=496379",
-   "summary": "",
-   "published": 1794153912,
-   "score": 51.71
-  },
-  {
-   "id": "d57897b6f33a",
-   "title": "শিক্ষার্থী সংকটে পড়তে যাচ্ছে উচ্চশিক্ষা প্রতিষ্ঠানগুলো",
-   "link": "https://www.banglatribune.com/educations/979684/%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A7%80-%E0%A6%B8%E0%A6%82%E0%A6%95%E0%A6%9F%E0%A7%87-%E0%A6%AA%E0%A7%9C%E0%A6%A4%E0%A7%87-%E0%A6%AF%E0%A6%BE%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87-%E0%A6%89%E0%A6%9A%E0%A7%8D%E0%A6%9A%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE",
-   "source": "বাংলা ট্রিবিউন",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
-   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2021/10/01/5944fdf414a6b4bae7c8b06d1c698995-6156aa30b1e82.jpg?jadewits_media_id=751136",
-   "summary": "২০২৬ সালের এইচএসসি ও সমমান পরীক্ষায় উত্তীর্ণ শিক্ষার্থীর তুলনায় দেশের উচ্চশিক্ষা প্রতিষ্ঠানগুলোতে আসন রয়েছে দ্বিগুণেরও বেশি। ফলে সামগ্রিকভাবে উচ্চশিক্ষায় আসন সংকট না থাকলেও বেসরকারি বিশ্ববিদ্যালয়গুলোর একটি অংশ শিক্ষার্থী",
-   "published": 1794153600,
-   "score": 11.67
-  },
-  {
-   "id": "f50a67bf2331",
-   "title": "মিরপুরে প্রাইভেটকার লক্ষ্য করে ককটেল বিস্ফোরণ",
-   "link": "https://www.dhakapost.com/national/496378",
-   "source": "ঢাকা পোস্ট",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakapost.com&sz=64",
-   "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/mirpur-20261108215922.jpg?cid=496378",
-   "summary": "",
-   "published": 1794153562,
-   "score": 41.66
-  },
-  {
-   "id": "08e5267a0d9e",
-   "title": "দিনের গুরুত্বপূর্ণ আন্তর্জাতিক খবর",
-   "link": "https://www.banglatribune.com/foreign/979688/%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%97%E0%A7%81%E0%A6%B0%E0%A7%81%E0%A6%A4%E0%A7%8D%E0%A6%AC%E0%A6%AA%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%A3-%E0%A6%86%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A7%8D%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%96%E0%A6%AC%E0%A6%B0",
-   "source": "বাংলা ট্রিবিউন",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
-   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/10/25/c93cec1b4a238b5189d8508ae755a8c8-6ade1e0cc99f3.jpg?jadewits_media_id=1051363",
-   "summary": "বিশ্বের রাজনৈতিক আকাশে প্রতিদিনই নতুন মেঘ জমছে, নতুন ঝড় উঠছে। বৈশ্বিক নীতি-নির্ধারণের নীরব সিদ্ধান্ত থেকে শুরু করে ভূ-রাজনীতির জটিল খেলা, কূটনীতির অদৃশ্য সুতো, সংঘাতের আগুন এবং প্রতিরক্ষা খাতের নীরব প্রস্তুতি-সবকিছু মিলি",
-   "published": 1794153499,
-   "score": 11.65
-  },
-  {
-   "id": "13ee0975136f",
-   "title": "সংক্ষিপ্ত বিশ্ব সংবাদ: ৮ নভেম্বর ২০২৬",
-   "link": "https://www.jagonews24.com/international/news/1177218",
-   "source": "জাগো নিউজ",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
    "image": "",
-   "summary": "সংক্ষিপ্ত বিশ্ব সংবাদ: ৮ নভেম্বর ২০২৬",
-   "published": 1794153481,
-   "score": 9.65
-  },
-  {
-   "id": "8aa4afc3ef3f",
-   "title": "বাবা নেই, ভ্যান চালিয়ে মা-বোনকে খাওয়াত প্রতিবন্ধী কিশোর, সেটিও চুরি",
-   "link": "https://www.jagonews24.com/country/news/1177217",
-   "source": "জাগো নিউজ",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
-   "image": "",
-   "summary": "বাবা নেই, ভ্যান চালিয়ে মা-বোনকে খাওয়াত প্রতিবন্ধী কিশোর, সেটিও চুরি",
-   "published": 1794153366,
-   "score": 19.63
-  },
-  {
-   "id": "1d6c2f7c304e",
-   "title": "‘পরাজিত’ বলায় সাংবাদিকের প্রশ্নের উত্তর না দিয়েই চলে গেলেন ট্রাম্প",
-   "link": "https://www.jagonews24.com/international/news/1177216",
-   "source": "জাগো নিউজ",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
-   "image": "",
-   "summary": "‘পরাজিত’ বলায় সাংবাদিকের প্রশ্নের উত্তর না দিয়েই চলে গেলেন ট্রাম্প",
-   "published": 1794153363,
-   "score": 9.63
-  },
-  {
-   "id": "a78819cbf7b6",
-   "title": "এনবিএ’র সভাপতি জাবেদ কারদার, সাধারণ সম্পাদক রাইসুল হক চৌধুরী",
-   "link": "https://www.banglatribune.com/press-release/979687/%E0%A6%8F%E0%A6%A8%E0%A6%AC%E0%A6%BF%E0%A6%8F%E2%80%99%E0%A6%B0-%E0%A6%B8%E0%A6%AD%E0%A6%BE%E0%A6%AA%E0%A6%A4%E0%A6%BF-%E0%A6%9C%E0%A6%BE%E0%A6%AC%E0%A7%87%E0%A6%A6-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%A6%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A6%A3-%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BE%E0%A6%A6%E0%A6%95-%E0%A6%B0%E0%A6%BE%E0%A6%87%E0%A6%B8%E0%A7%81%E0%A6%B2",
-   "source": "বাংলা ট্রিবিউন",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
-   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/08/c4ec90a6710bfc89738661fa98ecfdaa-6af099d68b3f1.jpg?jadewits_media_id=1053937",
-   "summary": "বেসরকারি টেলিভিশন ও রেডিওর সংবাদ উপস্থাপকদের সংগঠন নিউজ ব্রডকাস্টার্স অ্যালায়েন্স অব বাংলাদেশের (এনবিএ) ২০২৬-২০২৮ মেয়াদের কার্যনির্বাহী কমিটির নির্বাচনে সভাপতি নির্বাচিত হয়েছেন মোহনা টেলিভিশনের সিনিয়র প্রেজেন্টার জাবেদ ক",
-   "published": 1794153009,
-   "score": 21.58
-  },
-  {
-   "id": "bef94e8bee0a",
-   "title": "বন্দুক হামলায় নিহতদের স্মরণে পোল্যান্ডে দুই দিনের রাষ্ট্রীয় শোক",
-   "link": "https://www.jagonews24.com/international/news/1177215",
-   "source": "জাগো নিউজ",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
-   "image": "",
-   "summary": "বন্দুক হামলায় নিহতদের স্মরণে পোল্যান্ডে দুই দিনের রাষ্ট্রীয় শোক",
-   "published": 1794152922,
-   "score": 9.57
+   "summary": "ঢাবিতে ককটেল বিস্ফোরণে আটক তিনজনের পরিচয় জানা গেল dhakapost.com ঢাবি ক্যাম্পাসে ককটেল বিস্ফোরণ, ৩ সন্দেহভাজন আটক প্রথম আলো ঢাবির সিনেট-টিএসসিতে সাত থেকে আট ক/ক/টেল বি/স্ফো/রণ, আটক ১ Dainik Shiksha ঢাকা বিশ্ববিদ্যালয়ে ব",
+   "published": 1794152551,
+   "score": 7.71
   },
   {
    "id": "02565f73e827",
@@ -1826,7 +1749,7 @@
    "image": "https://ecdn.dhakatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/08/4b531e7905205fafcc4bc5ff71ebc92a-6af0981ae2769.jpeg?jadewits_media_id=76993",
    "summary": "The World Bank’s support to improve the quality of primary education and address learning gaps among children in Bangladesh is certainly positive news. Aimed at improving learning outcomes, upgrading classrooms, providin",
    "published": 1794152497,
-   "score": 11.51
+   "score": 9.7
   },
   {
    "id": "398e884b1cde",
@@ -1837,29 +1760,106 @@
    "image": "https://ecdn.dhakatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/08/c2c976f08f86b1ad6551ed4cb917f7a5-6af097c29fe07.jpeg?jadewits_media_id=76992",
    "summary": "As world leaders assemble in Antalya, Türkiye, for the 31st United Nations Climate Change Conference (COP31), it is safe to say that the threat of climate change has long ceased to be an abstract projection and has becom",
    "published": 1794152404,
-   "score": 11.5
+   "score": 9.69
   },
   {
-   "id": "31b46379739b",
-   "title": "প্রতিবন্ধী ব্যক্তিদের সরকারি চাকরিতে প্রবেশের বয়স বৃদ্ধির কাজ চলছে",
-   "link": "https://www.jagonews24.com/national/news/1177214",
-   "source": "জাগো নিউজ",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
+   "id": "64faf31110f8",
+   "title": "The muddying of the waters",
+   "link": "https://www.dhakatribune.com/opinion/op-ed/424068/the-muddying-of-the-waters",
+   "source": "Dhaka Tribune",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakatribune.com&sz=64",
+   "image": "https://ecdn.dhakatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/08/bc0dcfed14291040ba69af6feb428161-6af097536b440.JPG?jadewits_media_id=76991",
+   "summary": "State Minister for Foreign Affairs Humayun Kabir, when answering journalists’ questions on various serious subjects, often tries to create a little humor with some sarcasm and mockery. Recently, Kabir was asked whether f",
+   "published": 1794152294,
+   "score": 9.68
+  },
+  {
+   "id": "6d1355fc9cd2",
+   "title": "Father loses one son, younger child on life support",
+   "link": "https://www.dhakatribune.com/bangladesh/health/424067/father-loses-one-son-younger-child-on-life",
+   "source": "Dhaka Tribune",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakatribune.com&sz=64",
+   "image": "https://ecdn.dhakatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/08/004c48f5335716e75bb70437eda595f5-6af0971337c42.jpg?jadewits_media_id=76990",
+   "summary": "The father is now grappling with the grief of losing one son while desperately hoping to save the other Details",
+   "published": 1794152290,
+   "score": 9.68
+  },
+  {
+   "id": "8cf0d2272000",
+   "title": "Tuku: All must work together for Bangladesh’s development",
+   "link": "https://www.dhakatribune.com/bangladesh/424066/tuku-all-must-work-together-for-bangladesh%E2%80%99s",
+   "source": "Dhaka Tribune",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakatribune.com&sz=64",
+   "image": "https://ecdn.dhakatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/08/94eacdca2bb59d7c38be42f6c84ae2f7-6af0969717589.jpg?jadewits_media_id=76988",
+   "summary": "State minister urges grassroots cooperatives to promote self-reliance, create jobs and improve rural livelihoods Details",
+   "published": 1794152287,
+   "score": 9.67
+  },
+  {
+   "id": "9e830c87f3c3",
+   "title": "The future of biodiversity relies on shared consensus",
+   "link": "https://www.dhakatribune.com/opinion/op-ed/424065/the-future-of-biodiversity-relies-on-shared",
+   "source": "Dhaka Tribune",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakatribune.com&sz=64",
+   "image": "https://ecdn.dhakatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/08/b5c95d560e31de0084bcbdf23c466914-6af096e904784.jpg?jadewits_media_id=76989",
+   "summary": "Governments, civil society, scientists, youth, academia, artists, and media professionals gathered under the theme of 'Taking Action for Nature' at COP17 Armenia to bring about collective action on biodiversity protectio",
+   "published": 1794152183,
+   "score": 9.66
+  },
+  {
+   "id": "549b4c212502",
+   "title": "Minister: Sheikh Hasina will never return to Bangladesh",
+   "link": "https://www.dhakatribune.com/bangladesh/424064/minister-sheikh-hasina-will-never-return-to",
+   "source": "Dhaka Tribune",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakatribune.com&sz=64",
+   "image": "https://ecdn.dhakatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/08/be3a7e54f601a69979f86df51adc2a01-6af094655f041.jpg?jadewits_media_id=76987",
+   "summary": "Ahmed Azam Khan warns against sabotage attempts and calls for political restraint at Tangail discussion Details",
+   "published": 1794151889,
+   "score": 9.62
+  },
+  {
+   "id": "003a5af5b4a2",
+   "title": "Crude bomb explodes in front of CID headquarters",
+   "link": "https://www.dhakatribune.com/bangladesh/dhaka/424063/crude-bomb-explodes-in-front-of-cid-headquarters",
+   "source": "Dhaka Tribune",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakatribune.com&sz=64",
+   "image": "https://ecdn.dhakatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/08/4fdbf1483ca82287397a0bf3c35fda3c-6af093d8ab32e.png?jadewits_media_id=76986",
+   "summary": "Police say no casualties were reported in the explosion Details",
+   "published": 1794151401,
+   "score": 9.55
+  },
+  {
+   "id": "160cd3ac6c10",
+   "title": "Crude bomb thrown into Pallabi police station from flyover",
+   "link": "https://www.dhakatribune.com/bangladesh/424062/cocktail-bomb-thrown-into-pallabi-police-station",
+   "source": "Dhaka Tribune",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakatribune.com&sz=64",
+   "image": "https://ecdn.dhakatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/08/c8214782c93fecf1f01bf6f51895f493-6af091fb7506a.jpg?jadewits_media_id=76985",
+   "summary": "Unidentified attackers target station compound around 8:15pm; four separate explosions reported at Dhaka University earlier in the evening Details",
+   "published": 1794151121,
+   "score": 9.51
+  },
+  {
+   "id": "73cfd4f338ad",
+   "title": "নেতানিয়াহুকে হঠাতে আরব দলগুলোর সঙ্গে জোটের দাবিতে ইসরায়েলিদের বিক্ষোভ",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE05VTJnUE9IQVczNDhQQ2htTklJSmNGd0t4WXVtMEJfaEgtNnVSaTBkR0tBQ0FVdk55c25nYVpKTUNScmVBYzlCMnVLeW05VVRfTTVMdi1Obw?oc=5",
+   "source": "bdnews24.com",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=bangla.bdnews24.com&sz=64",
    "image": "",
-   "summary": "প্রতিবন্ধী ব্যক্তিদের সরকারি চাকরিতে প্রবেশের বয়স বৃদ্ধির কাজ চলছে",
-   "published": 1794152366,
-   "score": 9.5
+   "summary": "নেতানিয়াহুকে হঠাতে আরব দলগুলোর সঙ্গে জোটের দাবিতে ইসরায়েলিদের বিক্ষোভ bdnews24.com নেতানিয়াহু নয়, ইসরায়েলে সরকার গঠনের দায়িত্ব পেলেন বিরোধী নেতা আইজেনকোট BBC আইসেনকট প্রধানমন্ত্রী হলে কী ফিলিস্তিনিদের ভাগ্য ফিরবে? ",
+   "published": 1794151020,
+   "score": 7.5
   },
   {
-   "id": "67cdc70e8948",
-   "title": "ভূমি রেজিস্ট্রেশন কার্যক্রম সংশ্লিষ্ট মন্ত্রণালয়ে নেওয়ার সুপারিশ",
-   "link": "https://www.banglatribune.com/national/979686/%E0%A6%AD%E0%A7%82%E0%A6%AE%E0%A6%BF-%E0%A6%B0%E0%A7%87%E0%A6%9C%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B6%E0%A6%A8-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%AE-%E0%A6%B8%E0%A6%82%E0%A6%B6%E0%A7%8D%E0%A6%B2%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%9F-%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%A3%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A7%87",
-   "source": "বাংলা ট্রিবিউন",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
-   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2021/01/11/b1387ab31770c85f2b9b99d001057dd1-5ffc39bc7d5a3.jpg?jadewits_media_id=708009",
-   "summary": "সাবরেজিস্ট্রারদের দৌরাত্ম্য রোধে ভূমি রেজিস্ট্রেশন-সংক্রান্ত কার্যক্রম ভূমি মন্ত্রণালয়ের অধীনে ন্যস্ত করার সুপারিশ করেছে ভূমি মন্ত্রণালয় সম্পর্কিত সংসদীয় স্থায়ী কমিটি। একইসঙ্গে হয়রানিমুক্ত ভূমিসেবা নিশ্চিত করতে নামজারি প",
-   "published": 1794152316,
-   "score": 11.49
+   "id": "a4ec74a2e23b",
+   "title": "দিল্লির বাতাসের গুণমান ‘খুব খারাপ’ পর্যায়ে",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UVWx6RkpqMXZWMXV3T0ZQMmVDb2hxcWdrY3VQOTkxWDY0NWNxdnNSeTh0TkVrY0lnTkFVb2IwRFdKU2FhYUNIRC1KeER1ODBuRmFyV0pSeGltUEQ2alBB0gFSQVVfeXFMTkJaTFRDUlQ3dE03bTlONEp4aElRRmJ1OF9sZnhiWDcyd3ExRHVJUE1NLWY3ZGgtTnRkN1pKOERlbTBxendCYmFPd3ZNZThpc0FXQQ?oc=5",
+   "source": "Risingbd.com",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.risingbd.com&sz=64",
+   "image": "",
+   "summary": "দিল্লির বাতাসের গুণমান ‘খুব খারাপ’ পর্যায়ে Risingbd.com দিল্লির বাতাসে মিশছে ‘বিষ’! দীপাবলিতে গুণমানের সূচক ‘অতি খারাপ’ পর্যায়ে, আরও অবনতির শঙ্কা উদ্‌যাপন শেষে Anandabazar Patrika Supreme Court: ‘দিল্লিতে শিশুদের ফুসফুসও",
+   "published": 1794150540,
+   "score": 7.43
   }
  ],
  "breaking": [
@@ -1871,217 +1871,217 @@
    "sourceIcon": "https://www.google.com/s2/favicons?domain=www.bbc.co.uk&sz=64",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf9/live/cd887f00-db74-11f1-a701-fddedf244c16.jpg",
    "summary": "বাংলাদেশের একটি সংস্থা বলছে, সড়ক দুর্ঘটনায় গত ছয় বছর ১০ মাসে প্রায় ৩০০ পরিবার পুরোপুরি নিশ্চিহ্ন হয়ে গেছে। অন্যদিকে ঢাকায় বিভিন্ন স্থানে রোববার রাতে একাধিক ককটেল বিস্ফোরণের খবর পাওয়া গেছে। বিস্তারিত বিবিসি বাংলার লাইভ ",
-   "published": 1794170399,
+   "published": 1794183426,
    "score": 14.0
   },
   {
-   "id": "05e593c8cd65",
-   "title": "রাজধানীতে একের পর এক ককটেল বিস্ফোরণ ও বাসে আগুন",
-   "link": "https://www.dhakapost.com/national/496397",
+   "id": "ae64d682552b",
+   "title": "রূপনগর থানার সামনে ককটেল বিস্ফোরণ, পালানোর সময় যুবক আটক",
+   "link": "https://www.dhakapost.com/national/496399",
    "source": "ঢাকা পোস্ট",
    "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakapost.com&sz=64",
-   "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/coktail-3-20261109023305.jpg?cid=496397",
+   "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/josim-20261109060359.jpg?cid=496399",
    "summary": "",
-   "published": 1794169985,
-   "score": 43.94
+   "published": 1794182639,
+   "score": 13.89
   },
   {
-   "id": "4715301d1e95",
-   "title": "সংস্কার বাস্তবায়ন: দাবি আদায়ে বৃহত্তর ঐক্য গড়ার চেষ্টায় ১১ দল",
-   "link": "https://www.ajkerpatrika.com/politics/ajpccimjnmdc1",
-   "source": "আজকের পত্রিকা",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ajkerpatrika.com&sz=64",
-   "image": "https://images.ajkerpatrika.com/original_images/11-party-alliance-61c403.jpg",
-   "summary": "জুলাই জাতীয় সনদ বাস্তবায়ন ও গণভোটের রায় কার্যকরসহ বিভিন্ন দাবিতে সভা-সেমিনার, বিক্ষোভ ও লংমার্চের মতো কর্মসূচি পালন করে যাচ্ছে সংসদের বিরোধী দল জামায়াতে ইসলামীর নেতৃত্বাধীন জোট ১১ দলীয় ঐক্য। গত কয়েক মাসের এসব কর্মসূচির প",
-   "published": 1794169805,
-   "score": 13.92
-  },
-  {
-   "id": "154f8a579efc",
-   "title": "পোল্যান্ডের নোবেলজয়ী সাহিত্যিকদের জীবন-কর্ম নিয়ে ঢাকায় বিশেষ আলোচনা",
-   "link": "https://www.jagonews24.com/national/news/1177236",
+   "id": "620d0a5292c0",
+   "title": "ফাঁকা বাড়িতে ধর্ষণের অভিযোগ শ্বশুরের বিরুদ্ধে, অপমানে বিষপান গৃহবধূর",
+   "link": "https://www.jagonews24.com/country/news/1177249",
    "source": "জাগো নিউজ",
    "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
    "image": "",
-   "summary": "বাংলাদেশ ও পোল্যান্ডের মধ্যে বিদ্যমান বন্ধুত্বপূর্ণ সম্পর্ক আরও সুদৃঢ় করা, পারস্পরিক সাংস্কৃতিক বিনিময় সম্প্রসারণ এবং পোল্যান্ডের সমৃদ্ধ...",
-   "published": 1794169538,
-   "score": 11.88
+   "summary": "নাটোরের সিংড়া পৌরসভার চকসিংড়া মহল্লায় শ্বশুরের বিরুদ্ধে ধর্ষণের অভিযোগ ওঠার পর বিষপানে আত্মহত্যার চেষ্টা করা এক গৃহবধূ চিকিৎসাধীন...",
+   "published": 1794182500,
+   "score": 11.87
   },
   {
-   "id": "2e110f762e8b",
-   "title": "রমজানে ১০ পণ্যের আমদানি ও এলসি শর্ত সহজ করতে কেন্দ্রীয় ব্যাংকের নির্দেশ",
-   "link": "https://www.banglatribune.com/business/news/979711/%E0%A6%B0%E0%A6%AE%E0%A6%9C%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A7%A7%E0%A7%A6-%E0%A6%AA%E0%A6%A3%E0%A7%8D%E0%A6%AF-%E0%A6%86%E0%A6%AE%E0%A6%A6%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%93-%E0%A6%8F%E0%A6%B2%E0%A6%B8%E0%A6%BF-%E0%A6%B6%E0%A6%B0%E0%A7%8D%E0%A6%A4-%E0%A6%B8%E0%A6%B9%E0%A6%9C-%E0%A6%95%E0%A6%B0%E0%A6%A4%E0%A7%87",
+   "id": "6fa777819ec8",
+   "title": "টিভিতে আজকের খেলা (৯ নভেম্বর, ২০২৬)",
+   "link": "https://www.banglatribune.com/sport/other-sports/979657/%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%9C%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%96%E0%A7%87%E0%A6%B2%E0%A6%BE-%E0%A7%AF-%E0%A6%A8%E0%A6%AD%E0%A7%87%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0-%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AC",
    "source": "বাংলা ট্রিবিউন",
    "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
-   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2017/05/04/ee44ef133b68e91ae8efec62e7294a87-590a865687210.jpg?jadewits_media_id=202601",
-   "summary": "আসন্ন পবিত্র রমজান মাসে নিত্যপ্রয়োজনীয় পণ্যের সরবরাহ স্বাভাবিক রাখা এবং মূল্যবৃদ্ধি নিয়ন্ত্রণে রাখতে ১০টি পণ্য আমদানির ঋণপত্র (এলসি) খোলার ক্ষেত্রে নগদ মার্জিন সর্বনিম্ন পর্যায়ে রাখার নির্দেশ দিয়েছে বাংলাদেশ ব্যাংক। একই ",
-   "published": 1794169315,
-   "score": 13.85
+   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/08/a02a05fbc13045be0eea3c860280bb35-6af07b81c3f6f.jpg?jadewits_media_id=1053915",
+   "summary": "প্রতিদিনের মতো আজও টেলিভিশনের পর্দায় থাকছে বিভিন্ন খেলা। দেশের ও আন্তর্জাতিক অঙ্গনের এসব ম্যাচের মধ্যে কোনগুলো কখন, কোন চ্যানেলে সরাসরি দেখা যাবে—চলুন জেনে নেওয়া যাক আজকের টিভিতে খেলার সূচি। ক্রিকেটবাংলাদেশ-ওয়েস্ট ইন্ডিজ",
+   "published": 1794182400,
+   "score": 23.86
   },
   {
-   "id": "daf59848e782",
-   "title": "জান্তার দেওয়া পরিচয়পত্রে আপত্তি ২০ লাখ শ্রমিকের",
-   "link": "https://www.ajkerpatrika.com/international/asia/ajp6vg9hbe1co",
-   "source": "আজকের পত্রিকা",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ajkerpatrika.com&sz=64",
-   "image": "https://images.ajkerpatrika.com/original_images/Myanmar-839a99.jpg",
-   "summary": "মিয়ানমারের জান্তা সরকারের নতুন পরিচয়পত্র নিতে আপত্তি জানিয়েছেন থাইল্যান্ডে থাকা ২০ লাখের বেশি অভিবাসী শ্রমিক। তাঁরা বরং জাতীয় ঐক্য সরকারের (এনইউজি) কাছে বিকল্প পরিচয়পত্র দেওয়ার আহ্বান জানিয়েছেন। এক সপ্তাহের অনলাইন জরিপে ",
-   "published": 1794169259,
-   "score": 13.84
-  },
-  {
-   "id": "3ae253386736",
-   "title": "খালেদার মৃত্যুবার্ষিকীতে বড় আয়োজন, দায়িত্বে রিজভী-সালাহউদ্দিন-জাহিদ",
-   "link": "https://www.jagonews24.com/politics/news/1177235",
-   "source": "জাগো নিউজ",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
-   "image": "",
-   "summary": "বিএনপির প্রয়াত চেয়ারপারসন ও সাবেক প্রধানমন্ত্রী খালেদা জিয়ার প্রথম মৃত্যুবার্ষিকী স্মরণীয় করে রাখতে বড় পরিসরে আয়োজনের পরিকল্পনা...",
-   "published": 1794168540,
-   "score": 11.74
-  },
-  {
-   "id": "3dfdbec91b97",
-   "title": "৩৫৮ কোটির পণ্যবাহী লাগেজ ভ্যানে চড়বে যাত্রী",
-   "link": "https://www.ajkerpatrika.com/bangladesh/nilphamari/ajpy8hiowmz0l",
-   "source": "আজকের পত্রিকা",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ajkerpatrika.com&sz=64",
-   "image": "https://images.ajkerpatrika.com/original_images/rail-e7b7ce.jpg",
-   "summary": "স্বল্প খরচে কৃষিসহ নানান পণ্য পরিবহনের লক্ষ্যে ৩৫৮ কোটি ৩৯ লাখ টাকা ব্যয়ে বাংলাদেশ রেলওয়েতে যুক্ত করা হয়েছিল ১২৫টি লাগেজ ভ্যান। তবে কৃষক ও ব্যবসায়ীদের কাছ থেকে মেলেনি আশানুরূপ সাড়া। ফলে সেগুলো রেলের গলার কাঁটায় পরিণত হয়ে",
-   "published": 1794168054,
-   "score": 13.67
-  },
-  {
-   "id": "8867c5eb7d90",
-   "title": "ভাটারা, উত্তরা পূর্ব ও তেজগাঁও শিল্পাঞ্চলে ককটেল বিস্ফোরণ",
-   "link": "https://www.dhakapost.com/national/496396",
-   "source": "ঢাকা পোস্ট",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakapost.com&sz=64",
-   "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/coktail-1-20261109015519.jpg?cid=496396",
-   "summary": "",
-   "published": 1794167719,
-   "score": 23.63
-  },
-  {
-   "id": "8c8af5175fd5",
-   "title": "ঢাবিতে বিশ্বের সবচেয়ে বড় সরস্বতী প্রতিমার ভিত্তিপ্রস্তর স্থাপন",
-   "link": "https://www.jagonews24.com/education/news/1177234",
-   "source": "জাগো নিউজ",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
-   "image": "",
-   "summary": "ঢাকা বিশ্ববিদ্যালয়ের (ঢাবি) জগন্নাথ হলে বিশ্বের সবচেয়ে বড় সরস্বতী প্রতিমা নির্মাণের উদ্যোগ নেওয়া হয়েছে। এ লক্ষ্যে হলের রবীন্দ্রভবন...",
-   "published": 1794167644,
-   "score": 11.62
-  },
-  {
-   "id": "312e21d71c6b",
-   "title": "অগ্রণী ব্যাংকে জমা রাখা ৩০ কোটি টাকা উধাও, কেন্দ্রীয় ব্যাংকের সামনে গ্রাহকরা",
-   "link": "https://www.banglatribune.com/business/money-and-investment/979710/%E0%A6%85%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%A3%E0%A7%80-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%82%E0%A6%95%E0%A7%87-%E0%A6%9C%E0%A6%AE%E0%A6%BE-%E0%A6%B0%E0%A6%BE%E0%A6%96%E0%A6%BE-%E0%A7%A9%E0%A7%A6-%E0%A6%95%E0%A7%8B%E0%A6%9F%E0%A6%BF-%E0%A6%9F%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%89%E0%A6%A7%E0%A6%BE%E0%A6%93",
-   "source": "বাংলা ট্রিবিউন",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
-   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/09/16077d350251b92ae42234d9f2f53fc6-6af0d290f38be.jpg?jadewits_media_id=1053956",
-   "summary": "রাষ্ট্রায়ত্ত অগ্রণী ব্যাংকের মুন্সীগঞ্জের শ্রীনগর শাখায় ৩১৫ গ্রাহকের প্রায় ৩০ কোটি টাকা আত্মসাতের অভিযোগ উঠেছে। ব্যাংকে নিয়ম মেনে টাকা জমা রাখার পরও এখন গ্রাহকদের অনেকেই নিজেদের হিসাবের অস্তিত্ব খুঁজে পাচ্ছেন না। কারও কা",
-   "published": 1794167461,
-   "score": 13.59
-  },
-  {
-   "id": "d4fee796588b",
-   "title": "সন্তান না হওয়ায় তালাক, স্বামীর পা ধরে কেঁদেও সংসার বাঁচাতে পারলেন না স্ত্রী; কাঁদছে নেটদুনিয়া",
-   "link": "https://www.ajkerpatrika.com/video/ajp3nqgbwtd09",
-   "source": "আজকের পত্রিকা",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ajkerpatrika.com&sz=64",
-   "image": "https://images.ajkerpatrika.com/original_images/dZfMT33OsW8-HD-67ce80.jpg",
-   "summary": "সন্তান না হওয়ায় তালাক, স্বামীর পা ধরে কেঁদেও সংসার বাঁচাতে পারলেন না স্ত্রী; কাঁদছে নেটদুনিয়া বিস্তারিত",
-   "published": 1794167289,
-   "score": 13.57
-  },
-  {
-   "id": "91251f64a8b5",
-   "title": "হঠাৎ যত্রতত্র ককটেল, পুলিশ ধরছে নিক্ষেপকারী নাকি সন্দেহভাজনদের?",
-   "link": "https://www.banglatribune.com/law-and-crime/979690/%E0%A6%95%E0%A6%95%E0%A6%9F%E0%A7%87%E0%A6%B2-%E0%A6%9B%E0%A7%81%E0%A7%9C%E0%A6%9B%E0%A7%87-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BE-%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6-%E0%A6%A7%E0%A6%B0%E0%A6%9B%E0%A7%87-%E0%A6%A8%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%AA%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%95%E0%A6%BF",
-   "source": "বাংলা ট্রিবিউন",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
-   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/06/18/27f2d8396ea57ac87d66241e58f09d52-6a33b1e507282.jpg?jadewits_media_id=1029459",
-   "summary": "সন্ধ্যার ব্যস্ততা তখনও কমেনি ঢাকা বিশ্ববিদ্যালয় ক্যাম্পাসে। হঠাৎ টিএসসি এলাকায় পরপর দুটি বিকট শব্দ। মুহূর্তের মধ্যে ছড়িয়ে পড়ে আতঙ্ক। কিছুক্ষণ পর একই শব্দ শোনা যায় বিশ্ববিদ্যালয়ের প্রশাসনিক ভবনের পাশে, ভিসি চত্বর ও মুক্তি",
-   "published": 1794167129,
-   "score": 13.55
-  },
-  {
-   "id": "97027b1edf24",
-   "title": "সন্ধ্যা থেকে ঢাকায় একের পর এক ককটেল বিস্ফোরণ, বাসে আগুন",
-   "link": "https://www.jagonews24.com/national/news/1177233",
-   "source": "জাগো নিউজ",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
-   "image": "",
-   "summary": "ঢাকায় একের পর এক ককটেল বিস্ফোরণ ও অগ্নিসংযোগের ঘটনা ঘটেছে। রোববার (৮ নভেম্বর) সন্ধ্যা থেকে রাত পর্যন্ত পল্লবী থানা, মালিবাগে পুলিশের...",
-   "published": 1794166968,
-   "score": 41.52
-  },
-  {
-   "id": "4bbebebdeb4e",
-   "title": "কক্সবাজারে বিএনপি নেতাকে কুপিয়ে জখম, আটক ৬",
-   "link": "https://www.dhakapost.com/country/496395",
-   "source": "ঢাকা পোস্ট",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakapost.com&sz=64",
-   "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/coxbazar-20261109013827.jpg?cid=496395",
-   "summary": "",
-   "published": 1794166707,
-   "score": 23.49
-  },
-  {
-   "id": "096106198c6d",
-   "title": "নিউগিনি প্রপার্টিজে আবার হামলা: ভুক্তভোগীর বিরুদ্ধেই উল্টো মামলা",
-   "link": "https://www.prothomalo.com/bangladesh/crime/q4v5mm059u",
+   "id": "29d6254d71ce",
+   "title": "ড্রোন হামলায় ইরাকের গ্যাসক্ষেত্রে আগুন, গ্যাস উৎপাদন বন্ধ, বিদ্যুৎ উৎপাদন ব্যাহত",
+   "link": "https://www.prothomalo.com/world/middle-east/8f7uybbtb6",
    "source": "প্রথম আলো",
    "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-07/syiqf6ol/Pic-1.png",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-08/1qp3a9we/Iraqs-Khor-Mor-gas-field.jpg",
    "summary": "",
-   "published": 1794165855,
+   "published": 1794182234,
+   "score": 13.83
+  },
+  {
+   "id": "f515d8326be8",
+   "title": "একসঙ্গে ছাত্রদলের ১১ নেতাকে শোকজ, সময় ৪৮ ঘণ্টা",
+   "link": "https://www.banglatribune.com/country/dhaka/979720/%E0%A6%8F%E0%A6%95%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%9B%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%A6%E0%A6%B2%E0%A7%87%E0%A6%B0-%E0%A7%A7%E0%A7%A7-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%B6%E0%A7%8B%E0%A6%95%E0%A6%9C-%E0%A6%B8%E0%A6%AE%E0%A7%9F-%E0%A7%AA%E0%A7%AE-%E0%A6%98%E0%A6%A3%E0%A7%8D%E0%A6%9F%E0%A6%BE",
+   "source": "বাংলা ট্রিবিউন",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
+   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/10/01/16df4d0789c71d97d97fd0a7bb36a59f-6abdd60b6de9f.jpg?jadewits_media_id=1046677",
+   "summary": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয় শাখা ছাত্রদলের বিভিন্ন হল ইউনিটের ১১ নেতাকে কারণ দর্শানোর নোটিশ (শোকজ) দেওয়া হয়েছে। সংগঠনের গুরুত্বপূর্ণ পদে থেকেও দায়িত্ব পালনে অবহেলার অভিযোগে তাদের কাছে ব্যাখ্যা চাওয়া হয়েছে। রবিবার (৮ নভেম্",
+   "published": 1794181216,
+   "score": 13.69
+  },
+  {
+   "id": "d1e6de898df4",
+   "title": "৪৫ বছর পর দেশে এসে বাবা-মাকে খুঁজছেন সেলিনা, নিলেন ‘ভাইয়ের’ ডিএনএ",
+   "link": "https://www.jagonews24.com/country/news/1177248",
+   "source": "জাগো নিউজ",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
+   "image": "",
+   "summary": "কক্সবাজারের চকরিয়ার ডুলাহাজারা মালুমঘাট হাসপাতালে জন্ম দরিদ্র পরিবারের মেয়ে সেলিনার। নুন আনতে পান্তা ফুরানোর অবস্থা পরিবারে। তাই জন্মের পর মেয়েকে...",
+   "published": 1794181083,
+   "score": 11.67
+  },
+  {
+   "id": "9c1bdd942702",
+   "title": "ভাতিজাদের হাতে চাচা খুন, হামলাকারীদের বাড়িতে আগুন দিলো জনতা",
+   "link": "https://www.jagonews24.com/country/news/1177247",
+   "source": "জাগো নিউজ",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
+   "image": "",
+   "summary": "শেরপুরে জমি নিয়ে বিরোধের জেরে ভাতিজাদের হামলায় চাচা নিহত হওয়ার অভিযোগ উঠেছে। এ ঘটনার পর ভাতিজাদের বাড়িতে...",
+   "published": 1794179589,
+   "score": 11.47
+  },
+  {
+   "id": "76f76e98c0c0",
+   "title": "মহেশখালীতে হচ্ছে আরও ৩ এলএনজি টার্মিনাল: মুখ্য সচিব",
+   "link": "https://www.banglatribune.com/country/chitagong/979716/%E0%A6%AE%E0%A6%B9%E0%A7%87%E0%A6%B6%E0%A6%96%E0%A6%BE%E0%A6%B2%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%B9%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87-%E0%A6%86%E0%A6%B0%E0%A6%93-%E0%A7%A9-%E0%A6%8F%E0%A6%B2%E0%A6%8F%E0%A6%A8%E0%A6%9C%E0%A6%BF-%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%B2-%E0%A6%AE%E0%A7%81%E0%A6%96%E0%A7%8D%E0%A6%AF",
+   "source": "বাংলা ট্রিবিউন",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
+   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/09/af6da2fbcaf70f807c8e3c4bcd46d283-6af0eef697fa5.jpg?jadewits_media_id=1053961",
+   "summary": "প্রধানমন্ত্রীর মুখ্য সচিব এ বি এম আব্দুস সাত্তার বলেছেন, কক্সবাজারের মহেশখালীতে আরও তিনটি এলএনজি টার্মিনাল হচ্ছে। রবিবার (৮ নভেম্বর) মহেশখালী সমন্বিত উন্নয়ন কর্তৃপক্ষের অধীন মাতারবাড়ীতে নির্মাণাধীন গভীর সমুদ্র বন্দর কয়লা",
+   "published": 1794178920,
    "score": 13.37
   },
   {
-   "id": "656675eff65b",
-   "title": "রাম-রাবণের রাজত্বেও তিন দিনেই ১০০ কোটির পথে সুরিয়ার সিনেমা",
-   "link": "https://www.jagonews24.com/entertainment/news/1177232",
+   "id": "b234c01e726f",
+   "title": "জমি নিয়ে বিরোধে প্রতিপক্ষের হামলায় নারী নিহত",
+   "link": "https://www.jagonews24.com/country/news/1177246",
    "source": "জাগো নিউজ",
    "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
    "image": "",
-   "summary": "ভারতজুড়ে এখন চলছে রাম-রাবণের রাজত্ব। বিশ্বব্যাপী সিনেমাটি দারুণ সাড়া ফেলেছে। সেই তাণ্ডবের মধ্যেই বাজিমাত করে দেখালেন দক্ষিণী....",
-   "published": 1794165647,
-   "score": 11.34
+   "summary": "মানিকগঞ্জের হরিরামপুরে জমি নিয়ে বিরোধের জেরে প্রতিপক্ষের হামলায় ময়না বেগম (৫৫) নামে এক নারী নিহত হয়েছেন। রোববার (৮ নভেম্বর) বিকেল...",
+   "published": 1794178726,
+   "score": 21.35
   },
   {
-   "id": "58c85379234d",
-   "title": "তারল্যসংকটে থাকা ব্যাংকে চট্টগ্রাম বন্দরের আমানত, দায়ীদের বিরুদ্ধে ব্যবস্থা নেওয়ার সুপারিশ",
-   "link": "https://www.prothomalo.com/bangladesh/i478bcjajj",
+   "id": "71b919739ca3",
+   "title": "এক কেজি লবণ-দেড়শো গ্রাম সোডা খেলেন বৃদ্ধ! এরপর কী ঘটল?",
+   "link": "https://www.jagonews24.com/country/news/1177245",
+   "source": "জাগো নিউজ",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
+   "image": "",
+   "summary": "নেত্রকোনার খালিয়াজুরীতে প্রতিবেশীর সঙ্গে ৫০০ টাকার বাজিতে এক কেজি লবণ ও প্রায় দেড়শ গ্রাম সোডা খেয়ে ৭৫ বছর...",
+   "published": 1794178214,
+   "score": 11.28
+  },
+  {
+   "id": "f4451711c8e1",
+   "title": "Over 50 blasts, 8 buses torched: Who is behind Dhaka's terror?",
+   "link": "https://www.dhakatribune.com/bangladesh/dhaka/424076/blasts-across-the-capital-few-answers-who-is",
+   "source": "Dhaka Tribune",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakatribune.com&sz=64",
+   "image": "https://ecdn.dhakatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/09/538c8a3c15e0975644215e21ad40d3b6-6af0bac5c432f.png?jadewits_media_id=76998",
+   "summary": "Police stations, government buildings and campuses targeted, yet who makes, funds and directs the crude bombs remains unanswered Details",
+   "published": 1794177888,
+   "score": 13.23
+  },
+  {
+   "id": "db3dd10f89a0",
+   "title": "পিছিয়ে পড়েও অ্যাতলেতিকো মাদ্রিদকে হারিয়েছে বার্সেলোনা",
+   "link": "https://www.banglatribune.com/sport/football/979718/%E0%A6%AA%E0%A6%BF%E0%A6%9B%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%AA%E0%A7%9C%E0%A7%87%E0%A6%93-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A6%B2%E0%A7%87%E0%A6%A4%E0%A6%BF%E0%A6%95%E0%A7%8B-%E0%A6%AE%E0%A6%BE%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%A6%E0%A6%95%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A7%87",
+   "source": "বাংলা ট্রিবিউন",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
+   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/09/6f91bc636e33f84d8c0e346e7b82409b-6af0f6535406b.jpg?jadewits_media_id=1053962",
+   "summary": "সমীকরণ ছিল যে দল জিততো তারাই হয়ে যেতো স্প্যানিশ লা-লিগার টেবিলের এক নম্বর দল। অ্যাতলেতিকো মাদ্রিদ নিজেদের মাঠ মেট্রোপলিতানোতে শুরুটাও করেছিল দুর্দান্ত। এগিয়ে যায় শুরুতেই। তবে সেখান থেকে অসাধারণ কামব্যাক দিয়ে জয় তুলে নিয়ে",
+   "published": 1794177300,
+   "score": 13.15
+  },
+  {
+   "id": "dd5ca2d64f19",
+   "title": "সুপারি বাগানে বসে মাদকসেবন, বাধা দেওয়ায় দুই ভাইকে কোপালো",
+   "link": "https://www.jagonews24.com/country/news/1177244",
+   "source": "জাগো নিউজ",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
+   "image": "",
+   "summary": "লক্ষ্মীপুরের রায়পুরে সুপারি বাগানে বসে মাদকসেবন করার সময় বাধা দেওয়ায় দুই ভাইকে কুপিয়েছে মাদকাসক্তরা। এ ঘটনায় স্থানীয়দের হাতে আটক...",
+   "published": 1794177229,
+   "score": 11.14
+  },
+  {
+   "id": "d49f88aa31a0",
+   "title": "অনলাইন কেনাকাটা: ক্রেতার সংখ্যা কমে সংকটে বিপণিবিতান",
+   "link": "https://www.ajkerpatrika.com/business/ajpw2x1zns6e4",
+   "source": "আজকের পত্রিকা",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ajkerpatrika.com&sz=64",
+   "image": "https://images.ajkerpatrika.com/original_images/online-market-c7fb8a.jpg",
+   "summary": "রাজধানীর জনপ্রিয় কয়েকটি বিপণিবিতান বা শপিং মলে একসময় দোকান খোলার আগেই কিছুসংখ্যক ক্রেতাকে এসে অপেক্ষা করতে দেখা যেত। সেদিন আর নেই। মূল্যস্ফীতির চাপ, ক্রেতাদের অভ্যাসের পরিবর্তনসহ বিভিন্ন কারণে পণিবিতানগুলোর ব্যবসায় ভাটা ",
+   "published": 1794177031,
+   "score": 13.11
+  },
+  {
+   "id": "b50dcc071b09",
+   "title": "কোরআন যাদের বন্ধু বানাতে নিষেধ করেছে",
+   "link": "https://www.prothomalo.com/religion/islam/96gvzb5yus",
    "source": "প্রথম আলো",
    "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-02-14/h3iuaes9/Songsob.jpg",
-   "summary": "তারল্যসংকটে থাকা ছয়টি ব্যাংকে চট্টগ্রাম বন্দর কর্তৃপক্ষের ১ হাজার ২০০ কোটি টাকার বেশি আমানত রাখা নিয়ে অসন্তোষ জানিয়েছে সংসদীয় কমিটি। দায়ীদের বিরুদ্ধে ব্যবস্থা নেওয়ার সুপারিশও করেছে।",
-   "published": 1794165425,
-   "score": 13.31
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-08/ncl678fy/pexels-noval-36495072.jpg",
+   "summary": "বন্ধুত্বের মাধ্যমেই মানুষের চিন্তা, বিশ্বাস ও নৈতিকতা সবচেয়ে বেশি প্রভাবিত হয়। তাই কোরআনে আল্লাহ মুমিনদের নিষেধ করেছেন কিছু মানুষকে বন্ধু হিসেবে গ্রহণ করতে।",
+   "published": 1794177000,
+   "score": 13.11
   },
   {
-   "id": "be5096c85152",
-   "title": "কাতারে বাংলাদেশ দূতাবাসে জাতীয় বিপ্লব ও সংহতি দিবস পালিত",
-   "link": "https://www.dhakapost.com/probash/496394",
-   "source": "ঢাকা পোস্ট",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakapost.com&sz=64",
-   "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/katar-20261109011359.jpg?cid=496394",
-   "summary": "",
-   "published": 1794165239,
-   "score": 23.28
+   "id": "070da139bfd3",
+   "title": "ইসলামী বিশ্ববিদ্যালয়ে শ্যামা পূজা উদযাপিত",
+   "link": "https://www.jagonews24.com/campus/news/1177243",
+   "source": "জাগো নিউজ",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
+   "image": "",
+   "summary": "ইসলামী বিশ্ববিদ্যালয়ে (ইবি) উদযাপিত হয়েছে হিন্দু সম্প্রদায়ের অন্যতম প্রধান ধর্মীয় উৎসব শ্রী শ্রী শ্যামা (কালী) পূজা। রোববার (৮ নভেম্বর) সন্ধ্যায় বিশ্ববিদ্যালয়ের...",
+   "published": 1794176378,
+   "score": 21.02
   },
   {
-   "id": "ad7ce407b182",
-   "title": "সরকার গঠনের ডাক পাওয়া আইজেনকট কি নেতানিয়াহুকে সরাতে পারবেন",
-   "link": "https://www.prothomalo.com/world/middle-east/0uhkjjglxt",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-08/ghpugdpd/Eisenkot.avif",
-   "summary": "",
-   "published": 1794165218,
-   "score": 13.28
+   "id": "043b1dbfbcf3",
+   "title": "ইসলামী বিশ্ববিদ্যালয়ে শ্যামা পূজা উদযাপিত",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tc1JvN1dPaUppYTBRd2lsZ0U1elJNdTR6M3BnMW1EQjVsV2ppa3ZlX3F3N0wtWjZYQ0doVXk4RFExNDJNY0k1TG5DWEVRVTVsM0xRSklCbkFtZw?oc=5",
+   "source": "Jagonews24",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
+   "image": "",
+   "summary": "ইসলামী বিশ্ববিদ্যালয়ে শ্যামা পূজা উদযাপিত Jagonews24 শ্যামাপূজা ও দীপাবলি উদ্‌যাপন bd-pratidin.com মৃত চণ্ডাল সধবার আঙুলের কড় দিয়ে হয় পুজো, কোথাও নাড়ু ছোড়া হয় মায়ের জিভ লক্ষ্য করে, বাংলার কালীপুজোর ভয়ঙ্কর প্রথা Ananda",
+   "published": 1794176378,
+   "score": 21.02
+  },
+  {
+   "id": "6da79e1fe8fd",
+   "title": "এইচএসসির ১১ লাখ উত্তরপত্র পুনর্মূল্যায়নের আবেদন, কোন সাবজেক্ট বেশি?",
+   "link": "https://www.banglatribune.com/educations/979715/%E0%A6%8F%E0%A6%87%E0%A6%9A%E0%A6%8F%E0%A6%B8%E0%A6%B8%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A7%A7%E0%A7%A7-%E0%A6%B2%E0%A6%BE%E0%A6%96-%E0%A6%89%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%AA%E0%A7%81%E0%A6%A8%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A7%82%E0%A6%B2%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A7%9F%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%AC%E0%A7%87%E0%A6%A6%E0%A6%A8",
+   "source": "বাংলা ট্রিবিউন",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
+   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/09/a6e1f42d481f5c849647f0aa115a6e9d-6af0e64c07c7b.jpg?jadewits_media_id=1053960",
+   "summary": "চলতি বছরের এইচএসসি ও সমমানের পরীক্ষার ফলাফল প্রকাশের পর মোট ১০ লাখ ৮৭ হাজার ৪১৩টি উত্তরপত্র (বিষয়) পুনর্নিরীক্ষা ও পুনর্মূল্যায়নের আবেদন করা হয়েছে। উত্তরপত্র পুনর্নিরীক্ষণ ও পুনর্মূল্যায়নের জন্য দেশের ১১টি শিক্ষা বোর্ডে ",
+   "published": 1794175820,
+   "score": 12.94
+  },
+  {
+   "id": "1cdacab49d13",
+   "title": "রোহিঙ্গা সংকটকে আন্তর্জাতিক মনোযোগের কেন্দ্রে রাখা চ্যালেঞ্জিং",
+   "link": "https://www.jagonews24.com/national/news/1177242",
+   "source": "জাগো নিউজ",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
+   "image": "",
+   "summary": "রোহিঙ্গা সংকটকে আন্তর্জাতিক মনোযোগের কেন্দ্রবিন্দুতে রাখা অত্যন্ত জরুরি। তবে ধারাবাহিক বৈশ্বিক মনোযোগ বজায় রাখাকে বাংলাদেশের জন্য...",
+   "published": 1794175602,
+   "score": 10.91
   }
  ]
 }
