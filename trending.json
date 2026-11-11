@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-10T21:33:53+00:00",
+ "updated": "2026-11-11T01:35:50+00:00",
  "sources": [
   {
    "name": "প্রথম আলো",
-   "count": 25
+   "count": 8
   },
   {
    "name": "বিডিনিউজ২৪",
@@ -100,37 +100,59 @@
  ],
  "top": [
   {
-   "id": "f5a0ea5abb23",
-   "title": "আন্তালিয়ায় প্রধানমন্ত্রী তারেক রহমানের সঙ্গে এরদোয়ানের বৈঠক অনুষ্ঠিত",
-   "link": "https://www.prothomalo.com/bangladesh/fzr8cy5o66",
+   "id": "11f6c523ae11",
+   "title": "আজ টিভিতে যা দেখবেন (১১ নভেম্বর ২০২৬)",
+   "link": "https://www.prothomalo.com/sports/kctyn0i4zc",
    "source": "প্রথম আলো",
    "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-10/eix2hokt/uimage-8.jpg",
-   "summary": "",
-   "published": 1794339305,
-   "score": 53.01
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-10/c7qwrlr6/WhatsApp-Image-2025-09-07-at-18.49.36c164e40f.jpg",
+   "summary": "রাওয়ালপিন্ডি টেস্টের তৃতীয় দিন আজ। সাফ ফুটবলে আজ গ্রুপ পর্বের শেষ ম্যাচে শ্রীলঙ্কার মুখোমুখি বাংলাদেশ। দিনের প্রথম ম্যাচে ভারত খেলবে মালদ্বীপের বিপক্ষে।",
+   "published": 1794358800,
+   "score": 43.7
   },
   {
-   "id": "67583f72ea4a",
-   "title": "শ্যামলীতে চলন্ত বাসে আগুন",
-   "link": "https://www.dhakapost.com/national/496927",
-   "source": "ঢাকা পোস্ট",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakapost.com&sz=64",
-   "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/dhaka-post-2026-11-10t225114745-20261110225351.jpg?cid=496927",
-   "summary": "",
-   "published": 1794329631,
-   "score": 41.67
+   "id": "d0e272e418f2",
+   "title": "শ্যামলীতে যাত্রীবাহী বাসে আগুন",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9aaU14MHRiaUZvYjk4bGdmTUVJRGpzUDFTVTFoeFUwZ3ZNQmREVVExOUlaTTJ3c29SNXdvNUZ3Y3B4cENGcEhDNmt3YkFLUUc0R0c4T2dOYlFlVEh6dWc?oc=5",
+   "source": "bdnews24.com",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=bangla.bdnews24.com&sz=64",
+   "image": "",
+   "summary": "শ্যামলীতে যাত্রীবাহী বাসে আগুন bdnews24.com ঢাকায় কয়েকটি স্থানে বাসে আগুন ও ককটেল বিস্ফোরণ প্রথম আলো শ্যামলীতে বাসে আগুন দ্য ডেইলি স্টার বাংলা এবার মিরপুরে দাঁড়িয়ে থাকা বাসে আগুন bdnews24.com ফার্মগেট মেট্রো স্টেশনের ন",
+   "published": 1794328500,
+   "score": 37.49
   },
   {
-   "id": "4a62457ef7f9",
-   "title": "যুবলীগ নেতাকে ছাড়াতে তদবির, ছাত্রদল নেতা বহিষ্কার",
-   "link": "https://www.banglatribune.com/country/chitagong/980153/%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AB%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%AF%E0%A7%81%E0%A6%AC%E0%A6%B2%E0%A7%80%E0%A6%97-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%A4%E0%A6%A6%E0%A6%AC%E0%A6%BF%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%97%E0%A6%BF%E0%A7%9F%E0%A7%87",
-   "source": "বাংলা ট্রিবিউন",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
-   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/11/42f4a38f44a2435322339a52ebe741fe-6af38aa3f321c.jpg?jadewits_media_id=1054331",
-   "summary": "কুমিল্লার ব্রাহ্মণপাড়া উপজেলা ছাত্রদলের সদস্যসচিব ফয়সাল কবির আখন্দকে স্থায়ীভাবে বহিষ্কার করা হয়েছে। মঙ্গলবার (১১ নভেম্বর) কেন্দ্রীয় ছাত্রদল তাকে বহিষ্কার করে। গ্রেফতার এক যুবলীগ নেতাকে ছাড়িয়ে নিতে থানার ভারপ্রাপ্ত কর্মকর",
-   "published": 1794345956,
-   "score": 23.93
+   "id": "ad7e6821531f",
+   "title": "আন্তালিয়ায় প্রধানমন্ত্রী তারেক রহমানের সঙ্গে এরদোয়ানের বৈঠক অনুষ্ঠিত",
+   "link": "https://www.ajkerpatrika.com/national/ajpw0pbnzrxya",
+   "source": "আজকের পত্রিকা",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ajkerpatrika.com&sz=64",
+   "image": "https://images.ajkerpatrika.com/original_images/Untitled-3-d12c7a.jpg",
+   "summary": "তুরস্কের আন্তালিয়ায় প্রধানমন্ত্রী তারেক রহমানের সঙ্গে তুরস্কের প্রেসিডেন্ট রিসেপ তাইয়েপ এরদোয়ানের দ্বিপক্ষীয় বৈঠক অনুষ্ঠিত হয়েছে। বিস্তারিত",
+   "published": 1794332700,
+   "score": 30.08
+  },
+  {
+   "id": "d1553ee86e92",
+   "title": "মার্কিন প্রতিরক্ষামন্ত্রী পিট হেগসেথকে অভিশংসন করার প্রস্তাব কংগ্রেসে",
+   "link": "https://www.bbc.co.uk/bengali/live/cm0e0e2prn23t?at_medium=RSS&at_campaign=rss",
+   "source": "বিবিসি বাংলা",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.bbc.co.uk&sz=64",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1daa/live/06872e50-dd0a-11f1-b441-2b33b063138f.jpg",
+   "summary": "মার্কিন প্রতিরক্ষামন্ত্রী পিট হেগসেথকে ইমপিচ বা অভিশংসন করার জন্য একটি প্রস্তাব উত্থাপন করেছেন রিপাবলিকান একজন কংগ্রেসম্যান। অন্যদিকে বাংলাদেশের ক্ষমতাচ্যুত প্রধানমন্ত্রী শেখ হাসিনাকে প্রত্যপর্ণের বিষয়টি আইনিভাবে সুরাহা ",
+   "published": 1794360948,
+   "score": 24.0
+  },
+  {
+   "id": "d92d5b67e257",
+   "title": "সেই সাব-রেজিস্ট্রার রায়হান হাবিবকে সাময়িক বরখাস্ত",
+   "link": "https://www.jagonews24.com/law-courts/news/1178059",
+   "source": "জাগো নিউজ",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
+   "image": "",
+   "summary": "বদলির আগে হত্যা মামলার এক আসামির নামে বিপুল পরিমাণ জমির দলিল রেজিস্ট্রি করে দেওয়া চট্টগ্রামের সীতাকুণ্ডের সাবেক সাব-রেজিস্ট্রার মো. রায়হান হাবিবকে সাময়িক বরখাস্ত করেছে সরকার। তিনি টাঙ্গাইলের ভূঞাপুরে সাব-রেজিস্ট্রার হিসে",
+   "published": 1794355822,
+   "score": 21.29
   },
   {
    "id": "7387715f1ea1",
@@ -141,7 +163,7 @@
    "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/11/25d445e04fab414884aeaa319a18f262-6af36b102681b.jpg?jadewits_media_id=1054325",
    "summary": "সারা দেশে আওয়ামী লীগের নাশকতা, অগ্নিসংযোগ ও ককটেল বিস্ফোরণের প্রতিবাদ এবং ঢাকা বিশ্ববিদ্যালয় (ঢাবি) শাখা জাতীয় ছাত্রশক্তির সভাপতি হাসিবুল ইসলামের ওপর হামলার ঘটনায় বিক্ষোভ মিছিল ও সমাবেশ করেছেন সংগঠনটির নেতাকর্মীরা। সমাবে",
    "published": 1794337734,
-   "score": 22.79
+   "score": 20.78
   },
   {
    "id": "d36f5442fc87",
@@ -152,29 +174,7 @@
    "image": "",
    "summary": "তুরস্কের প্রেসিডেন্ট রিসেপ তাইয়েপ এরদোয়ানের সঙ্গে দ্বিপক্ষীয় বৈঠক করেছেন বাংলাদেশের প্রধানমন্ত্রী তারেক রহমান। বৈঠকে প্রতিরক্ষা, বাণিজ্য, বিনিয়োগ, জ্বালানি, জলবায়ু পরিবর্তন মোকাবিলা ও রোহিঙ্গা প্রত্যাবাসনসহ পারস্পরিক স্ব",
    "published": 1794340972,
-   "score": 21.24
-  },
-  {
-   "id": "7826234ee752",
-   "title": "গোপালগঞ্জে পুলিশের গাড়িতে আগুন, ৬ প্লাটুন বিজিবি মোতায়েন",
-   "link": "https://www.dw.com/bn/গোপালগঞ্জে-পুলিশের-গাড়িতে-আগুন-৬-প্লাটুন-বিজিবি-মোতায়েন/a-79910076?maca=ben-rss-ben-all-3197-rdf",
-   "source": "ডয়চে ভেলে",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dw.com&sz=64",
-   "image": "",
-   "summary": "বাংলাদেশের গোপালগঞ্জে পুলিশের সঙ্গে ‘নিষিদ্ধ' সংগঠন ছাত্রলীগ, কার্যক্রম নিষিদ্ধ আওয়ামী লীগ এবং তাদের অঙ্গসংগঠনের নেতা-কর্মীদের ধাওয়া-পাল্টা ধাওয়ার ঘটনা ঘটেছে৷",
-   "published": 1794319320,
-   "score": 18.23
-  },
-  {
-   "id": "d1553ee86e92",
-   "title": "মার্কিন প্রতিরক্ষামন্ত্রী পিট হেগসেথকে অভিশংসন করার প্রস্তাব কংগ্রেসে",
-   "link": "https://www.bbc.co.uk/bengali/live/cm0e0e2prn23t?at_medium=RSS&at_campaign=rss",
-   "source": "বিবিসি বাংলা",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.bbc.co.uk&sz=64",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1daa/live/06872e50-dd0a-11f1-b441-2b33b063138f.jpg",
-   "summary": "মার্কিন প্রতিরক্ষামন্ত্রী পিট হেগসেথকে ইমপিচ বা অভিশংসন করার জন্য একটি প্রস্তাব উত্থাপন করেছেন রিপাবলিকান একজন কংগ্রেসম্যান। অন্যদিকে বাংলাদেশের ক্ষমতাচ্যুত প্রধানমন্ত্রী শেখ হাসিনাকে প্রত্যপর্ণের বিষয়টি আইনিভাবে সুরাহা ",
-   "published": 1794346433,
-   "score": 14.0
+   "score": 19.23
   },
   {
    "id": "340d9020b5fb",
@@ -184,41 +184,272 @@
    "sourceIcon": "https://www.google.com/s2/favicons?domain=www.bbc.co.uk&sz=64",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6da7/live/82dbd090-dc34-11f1-b441-2b33b063138f.jpg",
    "summary": "বাংলাদেশের পোশাক শ্রমিকদের ন্যূনতম মজুরি ৩২ হাজার টাকা করার প্রস্তাব দিয়েছে শ্রমিক প্রতিনিধিরা। অন্যদিকে ভারতে অবস্থানরত বাংলাদেশের ক্ষমতাচ্যুত প্রধানমন্ত্রী শেখ হাসিনা নতুন পাসপোর্ট ও এনআইডির যে আবেদন করেছেন, ইমেইলে সে",
-   "published": 1794346433,
+   "published": 1794360948,
    "score": 14.0
   },
   {
-   "id": "e64fbd3a537f",
-   "title": "আজকের নামাজের সময়সূচি: ১১ নভেম্বর ২০২৬",
-   "link": "https://www.ajkerpatrika.com/islam/ajp6k99r7okdc",
+   "id": "ca3d22143f90",
+   "title": "এসএসসি পাসেই আড়ংয়ে চাকরি, বেতন ছাড়াও আছে অন্যান্য সুবিধা",
+   "link": "https://www.dhakapost.com/jobs-career/496951",
+   "source": "ঢাকা পোস্ট",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakapost.com&sz=64",
+   "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/aarong-job-20261111073400.jpg?cid=496951",
+   "summary": "",
+   "published": 1794360840,
+   "score": 13.98
+  },
+  {
+   "id": "baac4648c043",
+   "title": "কোরআন ও হাদিসে জ্ঞানীদের সুউচ্চ অবস্থান",
+   "link": "https://www.ajkerpatrika.com/islam/ajpu6oahksxsa",
    "source": "আজকের পত্রিকা",
    "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ajkerpatrika.com&sz=64",
-   "image": "https://images.ajkerpatrika.com/original_images/namaz_R7pvGcK.jpg",
-   "summary": "নামাজ আমাদের জীবনের এক অবিচ্ছেদ্য অংশ। একজন মুমিনের জন্য নামাজ হলো আধ্যাত্মিক প্রশান্তি ও জীবনের বরকত লাভের সর্বোত্তম মাধ্যম। প্রতিদিন সময়মতো নামাজ আদায় করা প্রতিটি মুসলমানের ওপর ফরজ। নিচে ঢাকা ও তার পার্শ্ববর্তী এলাকার ",
-   "published": 1794345185,
+   "image": "https://images.ajkerpatrika.com/original_images/islam-72694d.gif",
+   "summary": "পবিত্র কোরআনে আল্লাহ তাআলা জ্ঞানীদের সুউচ্চ মর্যাদা সম্পর্কে সুনির্দিষ্ট দিকনির্দেশনা দিয়েছেন। সুরা জুমারের ৯ নম্বর আয়াতে আল্লাহ তাআলা প্রশ্নের ছলে ইরশাদ করেন, ‘বলুন, যারা জানে আর যারা জানে না, তারা কি সমান হতে পারে?’ এই",
+   "published": 1794360794,
+   "score": 13.98
+  },
+  {
+   "id": "981ab763a443",
+   "title": "ফার্স্ট লেডি এমিনে এরদোয়ানের সঙ্গে ডা. জুবাইদা রহমানের বৈঠক",
+   "link": "https://www.banglatribune.com/national/980158/%E0%A6%AB%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8%E0%A7%8D%E0%A6%9F-%E0%A6%B2%E0%A7%87%E0%A6%A1%E0%A6%BF-%E0%A6%8F%E0%A6%AE%E0%A6%BF%E0%A6%A8%E0%A7%87-%E0%A6%8F%E0%A6%B0%E0%A6%A6%E0%A7%8B%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%A1%E0%A6%BE.-%E0%A6%9C%E0%A7%81%E0%A6%AC%E0%A6%BE%E0%A6%87%E0%A6%A6%E0%A6%BE",
+   "source": "বাংলা ট্রিবিউন",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
+   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/11/89bb19c6eb334d63afb2abce82e1aa5d-6af3c2c5ba469.jpg?jadewits_media_id=1054336",
+   "summary": "জাতিসংঘ জলবায়ু সম্মেলন কপ-৩১ উপলক্ষে তুরস্কের আন্তালিয়ায় বাংলাদেশের প্রধানমন্ত্রীর সহধর্মিণী ডা. জুবাইদা রহমানের সঙ্গে বৈঠক করেছেন তুরস্কের প্রেসিডেন্ট রিসেপ তাইয়েপ এরদোয়ানের সহধর্মিণী এমিনে এরদোয়ান। আনতালিয়ায় জলবা",
+   "published": 1794360136,
+   "score": 13.89
+  },
+  {
+   "id": "8d9b72613117",
+   "title": "বাংলাদেশ সফরে আসছেন জাতিসংঘের মিয়ানমার বিষয়ক বিশেষ দূত কেলি কারি",
+   "link": "https://www.banglatribune.com/others/980156/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%B8%E0%A6%AB%E0%A6%B0%E0%A7%87-%E0%A6%86%E0%A6%B8%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%B8%E0%A6%82%E0%A6%98%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B7%E0%A7%9F%E0%A6%95-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B7",
+   "source": "বাংলা ট্রিবিউন",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
+   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/11/932ec1092035a9718eceb80854e93db5-6af3c150ddece.jpg?jadewits_media_id=1054335",
+   "summary": "মিয়ানমারের মানবাধিকার পরিস্থিতি বিষয়ক জাতিসংঘের বিশেষ র‍্যাপোর্টিয়ার কেলি ই. কারি আজ বুধবার ঢাকায় আসছেন। তিনি ১১ থেকে ১৮ নভেম্বর পর্যন্ত বাংলাদেশ সফর করবেন। আজ জেনেভা থেকে জাতিসংঘের মানবাধিকার দপ্তরের এক বিবৃতিতে এ তথ",
+   "published": 1794359730,
    "score": 13.83
   },
   {
-   "id": "66489e95f8ae",
-   "title": "রোহিঙ্গা প্রত্যাবাসনে তুরস্কের সমর্থন অব্যাহত রাখার আহ্বান প্রধানমন্ত্রীর",
-   "link": "https://www.prothomalo.com/bangladesh/vq4xnlmkx1",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-10/eix2hokt/uimage-8.jpg",
-   "summary": "",
-   "published": 1794344584,
-   "score": 13.74
+   "id": "2423107d1999",
+   "title": "কুমিল্লার লালমাই-ময়নামতি: উন্নয়নের চাপে প্রত্নতাত্ত্বিক নিদর্শন",
+   "link": "https://www.ajkerpatrika.com/bangladesh/cumilla/ajpggbi9xxv0a",
+   "source": "আজকের পত্রিকা",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ajkerpatrika.com&sz=64",
+   "image": "https://images.ajkerpatrika.com/original_images/03-dc2a17.jpg",
+   "summary": "প্রাচীন বাংলার ছয় রাজবংশের অন্তত ৩৪ জন রাজার শাসনামলের স্মৃতিচিহ্ন ছড়িয়ে আছে কুমিল্লার লালমাই-ময়নামতি পাহাড়জুড়ে। প্রত্নতাত্ত্বিকেরা বলছেন, এসব রাজার শাসনামলের সবকিছু এখনো আবিস্কৃত হয়নি। বিস্তারিত",
+   "published": 1794358944,
+   "score": 13.72
   },
   {
-   "id": "8c9a695df337",
-   "title": "সাবেক দুই সেনা কর্মকর্তা আবারও রিমান্ডে",
-   "link": "https://www.prothomalo.com/bangladesh/crime/ao71nuwudy",
+   "id": "8b4166316b7c",
+   "title": "নাশকতাকারীদের ধরতে কঠোর নির্দেশনা আইজিপির",
+   "link": "https://www.banglatribune.com/law-and-crime/980135/%E0%A6%A8%E0%A6%BE%E0%A6%B6%E0%A6%95%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A7%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A6%A0%E0%A7%8B%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%A8%E0%A6%BE-%E0%A6%86%E0%A6%87%E0%A6%9C%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%B0",
+   "source": "বাংলা ট্রিবিউন",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
+   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/10/15/0e1f05092f10b5bd4f1768610b67e476-6ad0f18284af2.jpg?jadewits_media_id=1049581",
+   "summary": "দেশে চলমান নাশকতাকারীদের গ্রেফতারে কঠোর নির্দেশনা দিয়েছেন আইজিপি আলী হোসেন ফকির। তবে অপরাধী ধরার নামে কোনো নিরীহ মানুষকে হয়রানি বা শুধু সন্দেহের ভিত্তিতে আটক না করারও নির্দেশ দেন তিনি। গত তিন দিনের নাশকতার প্রেক্ষাপটে মঙ",
+   "published": 1794358933,
+   "score": 13.72
+  },
+  {
+   "id": "91481c63f434",
+   "title": "ভোরে রাজধানীতে বজ্রবৃষ্টি",
+   "link": "https://www.banglatribune.com/weather/980155/%E0%A6%AD%E0%A7%8B%E0%A6%B0%E0%A7%87-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%AC%E0%A6%9C%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A7%83%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%BF",
+   "source": "বাংলা ট্রিবিউন",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
+   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/11/65cb8b610bc1afcef58e10499bf2f60a-6af3bdecdc2b9.jpg?jadewits_media_id=1054334",
+   "summary": "আজ বুধবার ভোরে রাজধানীর বিভিন্ন এলাকায় বজ্রসহ বৃষ্টি হয়েছে। ভোর সাড়ে ৫টার দিক থেকে বৃষ্টি শুরু হয়। এ রিপোর্ট লেখা পর্যন্ত গুঁড়ি গুঁড়ি বৃষ্টি হচ্ছে। পুরো আকাশ মেঘে ঢেকে আছে। এর আগে মঙ্গলবার সন্ধ্যা ৬টা থেকে পরবর্তী ২৪ ঘণ্",
+   "published": 1794358855,
+   "score": 13.71
+  },
+  {
+   "id": "807c3eb74bcb",
+   "title": "এইডস কীভাবে শুরু হয়েছিল",
+   "link": "https://www.bigganchinta.com/cause/jdk3t9liyp",
+   "source": "প্রথম আলো",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.bigganchinta.com&sz=64",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-01-26/txr3xvt3/hivaids.avif",
+   "summary": "",
+   "published": 1794358800,
+   "score": 13.7
+  },
+  {
+   "id": "9fbf3ca3ae9f",
+   "title": "ছয় দশক পর ইয়র্কশায়ারের উপকূলে ধরা পড়ল বিশালাকার ব্লুফিন টুনা",
+   "link": "https://www.kishoralo.com/feature/befu57jtky",
+   "source": "প্রথম আলো",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.kishoralo.com&sz=64",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-10/vouvproo/1536.png",
+   "summary": "গত আগস্টের মাঝামাঝি সময়ে ইংল্যান্ডের হুইটবি উপকূলে এক দিনের ব্যবধানে মাছ দুটি ধরা পড়ে। ষাটের দশকের পর এই প্রথম উত্তর সাগর থেকে বাজারে বিক্রির জন্য ব্লুফিন টুনা ধরা হলো।",
+   "published": 1794358800,
+   "score": 13.7
+  },
+  {
+   "id": "9202b27bef91",
+   "title": "একটা বাসা খুঁজছি!",
+   "link": "https://www.prothomalo.com/fun/k8nisz2x5a",
    "source": "প্রথম আলো",
    "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-16/o0it13lr/Ex-Army-Officers.jpeg",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-10/1dw9sld9/basa-web.jpg.jpeg",
    "summary": "",
-   "published": 1794344333,
-   "score": 13.71
+   "published": 1794358800,
+   "score": 13.7
+  },
+  {
+   "id": "9d4e961eface",
+   "title": "‘গজব রাত’–এ ‘মহানগর’–এর ছায়া",
+   "link": "https://www.prothomalo.com/entertainment/ott/rp8u4i1c4e",
+   "source": "প্রথম আলো",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-10/jkspyd3j/bef54896-b04e-487a-af71-37670b8e8f67-1.jpg",
+   "summary": "নেটফ্লিক্সে মুক্তির পরেই সাড়া ফেলেছে রিতেশ শাহর সিনেমা ‘গজব রাত’। বাংলাদেশ থেকে প্ল্যাটফর্মটির টপ চার্টের শীর্ষে রয়েছে সিনেমাটি।",
+   "published": 1794358800,
+   "score": 13.7
+  },
+  {
+   "id": "356a8c462032",
+   "title": "নাশকতা ঠেকাতে সরকার কঠোর, মাসজুড়ে মাঠে থাকবে বিএনপিও",
+   "link": "https://www.prothomalo.com/politics/d17o39nwyu",
+   "source": "প্রথম আলো",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-10/rv8ax7q3/00-5.jpg",
+   "summary": "",
+   "published": 1794358800,
+   "score": 13.7
+  },
+  {
+   "id": "523b3e6338dc",
+   "title": "কেন্দ্রীয় ব্যাংকের প্রতিবেদন: দেশের ৩৫ শতাংশ মানুষ আর্থিক সেবার বাইরে",
+   "link": "https://www.ajkerpatrika.com/bangladesh/dhaka/ajpphj1g3hrbj",
+   "source": "আজকের পত্রিকা",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ajkerpatrika.com&sz=64",
+   "image": "https://images.ajkerpatrika.com/original_images/bangladesh-bank_YSWketI.jpg",
+   "summary": "আর্থিক সেবায় নারীদের অংশগ্রহণ পুরুষের তুলনায় কম। ২০২৫ সালে প্রাপ্তবয়স্ক পুরুষদের ৬৯.৫ শতাংশ আনুষ্ঠানিক আর্থিক সেবার আওতায় থাকলেও নারীদের ক্ষেত্রে এই হার ৬০.৯ শতাংশ। ব্যবধান ৮.৬ শতাংশীয় পয়েন্ট। সামগ্রিকভাবে প্রাপ্তবয়স্ক জ",
+   "published": 1794358612,
+   "score": 13.68
+  },
+  {
+   "id": "8ac2a62b2221",
+   "title": "ব্যয় সংকোচনের নতুন উদ্যোগ: আপ্যায়ন-অনুষ্ঠানের ব্যয়ে লাগাম",
+   "link": "https://www.ajkerpatrika.com/bangladesh/dhaka/ajpx98qxaz3ei",
+   "source": "আজকের পত্রিকা",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ajkerpatrika.com&sz=64",
+   "image": "https://images.ajkerpatrika.com/original_images/Bangladesh-Economy-Decline-Illustration-6ff756.jpg",
+   "summary": "রাজস্ব আদায়ে ঘাটতি, বাজেটের ক্রমবর্ধমান চাপ এবং ঋণনির্ভরতা—সব মিলিয়ে সরকারি অর্থ ব্যবস্থাপনায় আরও সতর্ক হতে হচ্ছে সরকারকে। একদিকে রাজস্ব আয়ের লক্ষ্যমাত্রা পূরণ হচ্ছে না, অন্যদিকে বাড়ছে সরকারের পরিচালন ব্যয়। বিস্তারিত",
+   "published": 1794358371,
+   "score": 13.64
+  },
+  {
+   "id": "2a704c030847",
+   "title": "রোহিঙ্গা সংকটের স্থায়ী সমাধানে তুরস্কের সমর্থন অব্যাহত রাখার আহ্বান প্রধানমন্ত্রীর",
+   "link": "https://www.banglatribune.com/national/980154/%E0%A6%B0%E0%A7%8B%E0%A6%B9%E0%A6%BF%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BE-%E0%A6%B8%E0%A6%82%E0%A6%95%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A7%9F%E0%A7%80-%E0%A6%B8%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%A4%E0%A7%81%E0%A6%B0%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%A8",
+   "source": "বাংলা ট্রিবিউন",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
+   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/11/0d114134e8f6ced1a4ce675987a222cf-6af3bb0d4ed8e.jpg?jadewits_media_id=1054333",
+   "summary": "প্রধানমন্ত্রী তারেক রহমান আন্তর্জাতিক পরিসরে রোহিঙ্গা সংকটের স্থায়ী সমাধান এবং তাদের প্রত্যাবাসনের পক্ষে তুরস্কের সমর্থন অব্যাহত রাখার আহ্বান জানিয়েছেন। তিনি বলেন, রোহিঙ্গাদের নিরাপদ, মর্যাদাপূর্ণ ও টেকসই প্রত্যাবাসন নিশ",
+   "published": 1794358294,
+   "score": 13.63
+  },
+  {
+   "id": "8b12dd536870",
+   "title": "পিরিয়ডের সময় আজানের উত্তর দেওয়া যাবে?",
+   "link": "https://www.dhakapost.com/religion/496950",
+   "source": "ঢাকা পোস্ট",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakapost.com&sz=64",
+   "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/muslim-woman-praying-while--20261111063945.jpg?cid=496950",
+   "summary": "",
+   "published": 1794357585,
+   "score": 13.53
+  },
+  {
+   "id": "de05d62d6e84",
+   "title": "হেগসেথকে অভিশংসনের উদ্যোগ আটকে দিলেন রিপাবলিকানরা",
+   "link": "https://www.prothomalo.com/world/usa/ec5w4dvgs0",
+   "source": "প্রথম আলো",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-11/et9k1okp/Hegseth-1.jpg",
+   "summary": "",
+   "published": 1794357576,
+   "score": 13.53
+  },
+  {
+   "id": "b97d4205b290",
+   "title": "হাম আর ডেঙ্গুর জোড়া আক্রমণের মুখে শিশুরা",
+   "link": "https://www.ajkerpatrika.com/bangladesh/dhaka/ajppr92wdxf5w",
+   "source": "আজকের পত্রিকা",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ajkerpatrika.com&sz=64",
+   "image": "https://images.ajkerpatrika.com/original_images/Dengu_DNCC-Hospital-2.gif",
+   "summary": "ডেঙ্গু ও হাম—এই দুটি সংক্রামক রোগের উপর্যুপরি আক্রমণে বিপদে দেশের শিশুরা। কারও প্রথমে ডেঙ্গু, পরে হাম শনাক্ত হচ্ছে; আবার কারও ক্ষেত্রে একই সময়ে দুটি রোগ ধরা পড়ছে। এতে মস্তিষ্কে প্রদাহ, শ্বাসকষ্ট ও নিউমোনিয়ার মতো জটিলত",
+   "published": 1794357420,
+   "score": 13.51
+  },
+  {
+   "id": "1f6386611033",
+   "title": "আইনশৃঙ্খলা পরিস্থিতি: আগুন ককটেল আতঙ্ক ছড়াচ্ছে",
+   "link": "https://www.ajkerpatrika.com/bangladesh/dhaka/ajpic5kn0wrik",
+   "source": "আজকের পত্রিকা",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ajkerpatrika.com&sz=64",
+   "image": "https://images.ajkerpatrika.com/original_images/Tungipara-8a62ac.jpg",
+   "summary": "নিষিদ্ধঘোষিত সংগঠন ছাত্রলীগের ডাকা অবরোধ কর্মসূচির মধ্যে গতকাল মঙ্গলবার সারা দেশে অন্তত ২২টি যানবাহনে আগুন দিয়েছে দুর্বৃত্তরা। তিন জেলায় বিএনপির দলীয় কার্যালয়ে আগুন দেওয়া হয়েছে। আগুনে ফরিদপুরে এক বাসচালক নিহত হয়েছেন। আগু",
+   "published": 1794357163,
+   "score": 13.47
+  },
+  {
+   "id": "4a62457ef7f9",
+   "title": "যুবলীগ নেতাকে ছাড়াতে তদবির, ছাত্রদল নেতা বহিষ্কার",
+   "link": "https://www.banglatribune.com/country/chitagong/980153/%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AB%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%AF%E0%A7%81%E0%A6%AC%E0%A6%B2%E0%A7%80%E0%A6%97-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%A4%E0%A6%A6%E0%A6%AC%E0%A6%BF%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%97%E0%A6%BF%E0%A7%9F%E0%A7%87",
+   "source": "বাংলা ট্রিবিউন",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
+   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/11/42f4a38f44a2435322339a52ebe741fe-6af38aa3f321c.jpg?jadewits_media_id=1054331",
+   "summary": "কুমিল্লার ব্রাহ্মণপাড়া উপজেলা ছাত্রদলের সদস্যসচিব ফয়সাল কবির আখন্দকে স্থায়ীভাবে বহিষ্কার করা হয়েছে। মঙ্গলবার (১১ নভেম্বর) কেন্দ্রীয় ছাত্রদল তাকে বহিষ্কার করে। গ্রেফতার এক যুবলীগ নেতাকে ছাড়িয়ে নিতে থানার ভারপ্রাপ্ত কর্মকর",
+   "published": 1794356500,
+   "score": 13.38
+  },
+  {
+   "id": "ec4a72fc012a",
+   "title": "ময়মনসিংহে বাসে কিশোরীকে ধর্ষণচেষ্টার অভিযোগ, চালকসহ গ্রেপ্তার ৩",
+   "link": "https://www.dhakapost.com/country/496948",
+   "source": "ঢাকা পোস্ট",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakapost.com&sz=64",
+   "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/dhaka-post-20261111061605.jpg?cid=496948",
+   "summary": "",
+   "published": 1794356166,
+   "score": 13.34
+  },
+  {
+   "id": "58baacd76f89",
+   "title": "প্রতিরক্ষা, বাণিজ্য ও জ্বালানি সহযোগিতা বাড়াতে একমত বাংলাদেশ-তুরস্ক",
+   "link": "https://www.dhakapost.com/national/496947",
+   "source": "ঢাকা পোস্ট",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakapost.com&sz=64",
+   "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/bd-turkeye-20261111043209.jpg?cid=496947",
+   "summary": "",
+   "published": 1794349759,
+   "score": 12.45
+  },
+  {
+   "id": "51b82b964696",
+   "title": "ভোলায় চার্জ দিতে গিয়ে বিদ্যুৎস্পৃষ্টে অটোরিকশা চালকের মৃত্যু",
+   "link": "https://www.dhakapost.com/country/496946",
+   "source": "ঢাকা পোস্ট",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakapost.com&sz=64",
+   "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/dhaka-post-20261111042407.jpg?cid=496946",
+   "summary": "",
+   "published": 1794349447,
+   "score": 12.4
+  },
+  {
+   "id": "e6a5c81fbd21",
+   "title": "প্রধানমন্ত্রীর বাসভবনের কাছে ‘জয় বাংলা’ স্লোগান, ৩ যুবককে পুলিশে দিলেন ছাত্রদল নেতা",
+   "link": "https://www.prothomalo.com/bangladesh/capital/ledsx0p7b5",
+   "source": "প্রথম আলো",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-10/9fiselcm/Slogan-chhatradal.jpeg",
+   "summary": "",
+   "published": 1794349070,
+   "score": 12.35
   },
   {
    "id": "62b79975cd9e",
@@ -229,18 +460,7 @@
    "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/11/d705944489bc7bf5a73430e47d477b1c-6af3848066cb9.jpg?jadewits_media_id=1054330",
    "summary": "সাজেক কার্বারী অ্যাসোসিয়েশনের সভাপতি পদ থেকে পদত্যাগ করে সংগঠনটির কমিটি বিলুপ্ত ঘোষণা করেছেন সংগঠনটির সভাপতি নতুন জয় চাকমা। মঙ্গলবার রাতে এক ভিডিও বার্তায় তিনি এ ঘোষণা দেন। তবে, ৭ নভেম্বর গঠিত সাজেক পর্যটন সড়ক অবরোধ বাস্",
    "published": 1794344259,
-   "score": 13.7
-  },
-  {
-   "id": "ef39448b9fdd",
-   "title": "একসঙ্গে পাঁচ সরকারি চাকরি, প্রতারণার দায়ে ব্রিটিশ–বাংলাদেশি দোষী সাব্যস্ত",
-   "link": "https://www.prothomalo.com/bangladesh/ytsbvdlgyx",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-10/3u426gba/uk-bangladeshi.jpeg",
-   "summary": "",
-   "published": 1794344114,
-   "score": 13.68
+   "score": 11.68
   },
   {
    "id": "af8c858da391",
@@ -251,29 +471,7 @@
    "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/dhaka-post-02-20261111025316.jpg?cid=496945",
    "summary": "",
    "published": 1794343883,
-   "score": 13.65
-  },
-  {
-   "id": "9ec0eb373d27",
-   "title": "কর্মচারী সাময়িক বরখাস্ত, ক্যাম্পাসে নিরাপত্তা জোরদারের সিদ্ধান্ত",
-   "link": "https://www.prothomalo.com/bangladesh/capital/9ef69nngys",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-10/tcpx2qw9/DU-Meeting.jpg",
-   "summary": "",
-   "published": 1794343676,
-   "score": 13.62
-  },
-  {
-   "id": "51b9f89c9033",
-   "title": "আইজেনকট প্রধানমন্ত্রী হতে পারেন—এ নিয়ে ‘আতঙ্কে আছেন’ নেতানিয়াহু",
-   "link": "https://www.prothomalo.com/world/middle-east/2xfzonyuz4",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-30/5tx4p5m4/Untitled-9.jpg",
-   "summary": "",
-   "published": 1794343404,
-   "score": 13.58
+   "score": 11.63
   },
   {
    "id": "b46b24d825cc",
@@ -284,7 +482,7 @@
    "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/dhaka-post-20261111022210.jpg?cid=496943",
    "summary": "",
    "published": 1794342130,
-   "score": 13.4
+   "score": 11.39
   },
   {
    "id": "4fcf8984a4a8",
@@ -295,7 +493,18 @@
    "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/11/7cccde71d9487c26e9a49a26e7476b98-6af37c2a5e8a2.jpg?jadewits_media_id=1054328",
    "summary": "কক্সবাজারের টেকনাফে কার্যক্রম নিষিদ্ধ যুবলীগের প্রতিষ্ঠাবার্ষিকী ঘিরে রাতের আঁধারে ঝটিকা মিছিলকে কেন্দ্র করে উত্তেজনা ছড়িয়ে পড়েছে। মিছিল ছত্রভঙ্গ করতে গেলে পুলিশ ও বিজিবির সদস্যদের লক্ষ্য করে ইটপাটকেল নিক্ষেপের ঘটনা ঘটে।",
    "published": 1794342032,
-   "score": 13.39
+   "score": 11.37
+  },
+  {
+   "id": "1bd1eece7e95",
+   "title": "ট্রাকের ধাক্কায় প্রাণ গেল চুয়াডাঙ্গা পৌর ছাত্রদলের যুগ্ম আহ্বায়কের",
+   "link": "https://www.jagonews24.com/country/news/1178060",
+   "source": "জাগো নিউজ",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
+   "image": "",
+   "summary": "ঝিনাইদহে সড়ক দুর্ঘটনায় চুয়াডাঙ্গা পৌর ছাত্রদলের যুগ্ম আহ্বায়ক আমিনুর রহমান সৌরভ (৩০) নিহত হয়েছেন। এ ঘটনায় তার সঙ্গে মোটরসাইকেলে থাকা রিয়া খাতুন নামে এক নারী আহত হয়েছেন...",
+   "published": 1794356177,
+   "score": 11.34
   },
   {
    "id": "16ba96c803af",
@@ -306,7 +515,7 @@
    "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/dhaka-post-20261111020801.jpg?cid=496942",
    "summary": "",
    "published": 1794341281,
-   "score": 13.28
+   "score": 11.27
   },
   {
    "id": "bcb0bafb40b3",
@@ -317,227 +526,18 @@
    "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/11/aa633594033a73b1eecfbc3fa448798b-6af378093c329.jpg?jadewits_media_id=1054327",
    "summary": "শিক্ষা সফরের কথা বলে রিসোর্ট ভাড়া নিয়ে সিলেটের গোয়াইনঘাট উপজেলার রাতারগুলে মতবিনিময় সভা করেছেন কার্যক্রম নিষিদ্ধ আওয়ামী লীগের সিলেট জেলা কমিটির সাংগঠনিক সম্পাদক ও সুনামগঞ্জ-১ আসনের সাবেক সংসদ সদস্য রনজিত সরকার। গত রবিবার",
    "published": 1794341192,
-   "score": 13.27
+   "score": 11.26
   },
   {
-   "id": "dbed73c8c6d0",
-   "title": "খিলগাঁওয়ে ছাত্রলীগের সাবেক সাংগঠনিক সম্পাদক গ্রেপ্তার",
-   "link": "https://www.dhakapost.com/national/496941",
-   "source": "ঢাকা পোস্ট",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakapost.com&sz=64",
-   "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/dhaka-post-20261111015720.jpg?cid=496941",
-   "summary": "",
-   "published": 1794340640,
-   "score": 13.2
-  },
-  {
-   "id": "ebd71a7d8e7c",
-   "title": "ক্যাম্পাস অস্থিতিশীলের চেষ্টা, মাঠে সক্রিয় ছাত্রদল",
-   "link": "https://www.dhakapost.com/campus/496940",
-   "source": "ঢাকা পোস্ট",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakapost.com&sz=64",
-   "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/dhaka-post-20261111015359.jpg?cid=496940",
-   "summary": "",
-   "published": 1794340439,
-   "score": 13.17
-  },
-  {
-   "id": "863cb872b39e",
-   "title": "শপথ অনুষ্ঠানে আরব দলগুলোর উদ্দেশে কট্টর বেন গভিরের কটূক্তি, উত্তেজনা",
-   "link": "https://www.prothomalo.com/world/middle-east/o6ih02u8mm",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-10/c0a560is/netaniyahu-1.JPG",
-   "summary": "বামপন্থী দ্য ডেমোক্র্যাটস পার্টির নেতা ইয়ার গোলান বলেন, ইসরায়েলের জনগণ তাঁকে ক্ষমতা থেকে সরিয়ে দিয়েছে, এটা মেনে নিতে নেতানিয়াহুর কষ্ট হচ্ছে।",
-   "published": 1794340330,
-   "score": 13.15
-  },
-  {
-   "id": "9db3a83a4295",
-   "title": "Tarique, Erdoğan hold bilateral meeting in Antalya",
-   "link": "https://www.dhakatribune.com/bangladesh/foreign-affairs/424282/tarique-erdo%C4%9Fan-hold-bilateral-meeting-in-antalya",
-   "source": "Dhaka Tribune",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakatribune.com&sz=64",
-   "image": "https://ecdn.dhakatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/11/2b5d4f0f2e851e6dcba188dc72ccffb8-6af3738ed6f1f.jpeg?jadewits_media_id=77149",
-   "summary": "PM arrives in Türkiye for COP31 summit; discusses climate, bilateral ties with Turkish president Details",
-   "published": 1794339831,
-   "score": 13.08
-  },
-  {
-   "id": "d940555b4bd6",
-   "title": "আ. লীগ নেতাকে থানা থেকে ছাড়িয়ে নেওয়ার অভিযোগে বিএনপি নেতাকে শোকজ",
-   "link": "https://www.dhakapost.com/country/496939",
-   "source": "ঢাকা পোস্ট",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakapost.com&sz=64",
-   "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/dhaka-post-20261111014339.jpg?cid=496939",
-   "summary": "",
-   "published": 1794339819,
-   "score": 13.08
-  },
-  {
-   "id": "6f845e4cf29d",
-   "title": "হিপা গ্র্যান্ড পুরস্কার জিতলেন বাংলাদেশের পিনু রহমান",
-   "link": "https://www.prothomalo.com/bangladesh/sb7zif4hxn",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-10/ds8g6upe/Hipa-Award-01.jpeg",
-   "summary": "",
-   "published": 1794339477,
-   "score": 13.03
-  },
-  {
-   "id": "de727298e303",
-   "title": "Why are the malls empty?",
-   "link": "https://www.dhakatribune.com/opinion/op-ed/424281/why-are-the-malls-empty",
-   "source": "Dhaka Tribune",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakatribune.com&sz=64",
-   "image": "https://ecdn.dhakatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/11/2e6110a556741dd94c066653ee031527-6af37205580fb.jpeg?jadewits_media_id=77148",
-   "summary": "The most revealing feature of Dhaka’s struggling shopping malls is not the number of closed shutters, but the hesitation behind them. A market may have merchandise on its shelves, staff waiting behind counters and discou",
-   "published": 1794339347,
-   "score": 13.02
-  },
-  {
-   "id": "0b403b545e47",
-   "title": "ঠিকাদার খুশি হয়ে ইঞ্জিনিয়ারকে উপহার হিসেবে দিলে তা ঘুষ হবে না: স্থানীয় সরকার প্রতিমন্ত্রী",
-   "link": "https://www.banglatribune.com/national/980148/%E0%A6%A0%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%A6%E0%A6%BE%E0%A6%B0-%E0%A6%96%E0%A7%81%E0%A6%B6%E0%A6%BF-%E0%A6%B9%E0%A7%9F%E0%A7%87-%E0%A6%87%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A6%BF%E0%A6%A8%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B0%E0%A6%95%E0%A7%87-%E0%A6%89%E0%A6%AA%E0%A6%B9%E0%A6%BE%E0%A6%B0-%E0%A6%B9%E0%A6%BF%E0%A6%B8%E0%A7%87%E0%A6%AC%E0%A7%87-%E0%A6%A6%E0%A6%BF%E0%A6%B2%E0%A7%87-%E0%A6%A4%E0%A6%BE",
-   "source": "বাংলা ট্রিবিউন",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
-   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/11/c53bf79eab22376e276ba25aa2574f15-6af3703c16c9c.jpg?jadewits_media_id=1054326",
-   "summary": "স্থানীয় সরকার প্রতিমন্ত্রী মীর শাহে আলম বলেছেন, ঠিকাদার তার লভ্যাংশ থেকে যদি খুুশি হয়ে একটা উপহার ইঞ্জিনিয়ারকে দেয়, এটা তো ঘুষের মধ্যে পড়বে না। এটা আপনি নিতেই পারেন। মঙ্গলবার (১১ নভেম্বর) রাজধানীর এলজিইডি মিলনায়তনে এলজিই",
-   "published": 1794339248,
-   "score": 13.0
-  },
-  {
-   "id": "80dfb725a38a",
-   "title": "Bomb blasts, arson spread across country, bus driver killed",
-   "link": "https://www.dhakatribune.com/bangladesh/424280/bomb-blasts-arson-spread-across-country-bus",
-   "source": "Dhaka Tribune",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakatribune.com&sz=64",
-   "image": "https://ecdn.dhakatribune.net/contents/cache/images/300x300x1/uploads/media/2026/10/24/ea575b71aa48d0588b1c0298e60a0633-6adba1c24920a.jpg?jadewits_media_id=75932",
-   "summary": "Over 100 crude bombs detonated near Padma Bridge toll plaza; vehicles torched across multiple districts Details",
-   "published": 1794339030,
-   "score": 12.97
-  },
-  {
-   "id": "53b905f9b7f4",
-   "title": "১০ লিটার জ্বালানিতে সর্বোচ্চ ৫৩০ মিলিলিটার কম, পাম্পকে জরিমানা ৫ লাখ টাকা",
-   "link": "https://www.prothomalo.com/bangladesh/capital/rirzefgbfg",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-10/6suxa6ry/BSTI-news.jpeg",
-   "summary": "",
-   "published": 1794339000,
-   "score": 12.97
-  },
-  {
-   "id": "34086929c743",
-   "title": "সৌরবিদ্যুৎ স্থাপনে ই-জিপি বাধ্যতামূলক নয়, সংসদে বিল",
-   "link": "https://www.prothomalo.com/bangladesh/okorafgqgj",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-02-14/h3iuaes9/Songsob.jpg",
-   "summary": "",
-   "published": 1794338603,
-   "score": 12.91
-  },
-  {
-   "id": "a64435d3fc37",
-   "title": "Three DB men injured during anti-drug drive at Kushtia Govt College",
-   "link": "https://www.dhakatribune.com/bangladesh/nation/424279/three-db-men-injured-during-anti-drug-drive-at",
-   "source": "Dhaka Tribune",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakatribune.com&sz=64",
-   "image": "https://ecdn.dhakatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/11/af70d91fbeceae8678b5efd811d2b87f-6af36bd2b9190.jpg?jadewits_media_id=77147",
-   "summary": "The injured were identified as DB Sub-Inspectors Johnny and Jihad, and Constable Imran Details",
-   "published": 1794338218,
-   "score": 12.86
-  },
-  {
-   "id": "32aaf587d58c",
-   "title": "ককটেল বিস্ফোরণে জড়িত বহিষ্কৃত ঢাবি কর্মচারীর পরিচয় মিলল",
-   "link": "https://www.dhakapost.com/campus/496938",
-   "source": "ঢাকা পোস্ট",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakapost.com&sz=64",
-   "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/dhaka-post-20261111011414.jpg?cid=496938",
-   "summary": "",
-   "published": 1794338054,
-   "score": 12.84
-  },
-  {
-   "id": "b5c616c82162",
-   "title": "কুষ্টিয়ায় মাদকবিরোধী অভিযানে ডিবি পুলিশের উপর হামলা, আহত ৩",
-   "link": "https://www.dhakapost.com/country/496937",
-   "source": "ঢাকা পোস্ট",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakapost.com&sz=64",
-   "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/dhaka-post-20261111010813.jpg?cid=496937",
-   "summary": "",
-   "published": 1794337693,
-   "score": 12.79
-  },
-  {
-   "id": "3ab96782d669",
-   "title": "ঢাবিতে নাশকতার ঘটনায় এক কর্মচারীকে শোকজ, বহিরাগত নিয়ন্ত্রণে কঠোর অবস্থান",
-   "link": "https://www.dhakapost.com/campus/496936",
-   "source": "ঢাকা পোস্ট",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakapost.com&sz=64",
-   "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/dhaka-post-20261111005729.jpg?cid=496936",
-   "summary": "",
-   "published": 1794337049,
-   "score": 12.7
-  },
-  {
-   "id": "566b19407ed2",
-   "title": "‘বোন মারা গেছে, লাশ নিয়ে যান’ বলে পালালেন স্বামী, খাটে মিলল মরদেহ",
-   "link": "https://www.prothomalo.com/bangladesh/crime/q6yf8p3w6f",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-10/f4uyoibf/00-3.jpg",
-   "summary": "",
-   "published": 1794336945,
-   "score": 12.68
-  },
-  {
-   "id": "67874f0f86f7",
-   "title": "গুলশান সেন্ট্রাল পার্কের দায়িত্ব ইয়ুথ ক্লাবকে দেওয়ায় বাপার ক্ষোভ",
-   "link": "https://www.prothomalo.com/bangladesh/capital/k4k76z8tvs",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2024-07-31/sf9qlz4q/Untitled-13.jpg",
-   "summary": "",
-   "published": 1794336058,
-   "score": 12.56
-  },
-  {
-   "id": "9de88da03ee7",
-   "title": "ঠাকুরগাঁও সদর উপজেলা ভেঙ্গে হচ্ছে নতুন দুই উপজেলা",
-   "link": "https://www.dhakapost.com/national/496935",
-   "source": "ঢাকা পোস্ট",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakapost.com&sz=64",
-   "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/dhaka-post-20261111004028.jpg?cid=496935",
-   "summary": "",
-   "published": 1794336028,
-   "score": 12.55
-  },
-  {
-   "id": "e210a1c477c2",
-   "title": "শ্রীমঙ্গলে হাসিবুল ইসলামের ওপর হামলাকারী শনাক্ত, দাবি পুলিশের",
-   "link": "https://www.ajkerpatrika.com/bangladesh/moulvibazar/ajpos1isfwvlb",
-   "source": "আজকের পত্রিকা",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ajkerpatrika.com&sz=64",
-   "image": "https://images.ajkerpatrika.com/original_images/ifndhsV-a59d53.jpg",
-   "summary": "মৌলভীবাজারের শ্রীমঙ্গলে বৈষম্যবিরোধী ছাত্র আন্দোলনের সাবেক কেন্দ্রীয় সমন্বয়ক ও জাতীয় ছাত্রশক্তির ঢাকা বিশ্ববিদ্যালয় (ঢাবি) শাখার সভাপতি হাসিবুল ইসলামের ওপর হামলার ঘটনায় অভিযুক্ত ব্যক্তির প্রাথমিক পরিচয় শনাক্ত করেছে পুলিশ",
-   "published": 1794336024,
-   "score": 12.55
-  },
-  {
-   "id": "756192e69517",
-   "title": "রাতের অন্ধকারে একটা-দুইটা গাড়িতে আগুন দিলে পরিস্থিতি অস্থিতিশীল হয়ে যায় না: স্বরাষ্ট্রমন্ত্রী",
-   "link": "https://www.prothomalo.com/video/bangladesh/je7jgja7cn",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-10/3s1huzur/WEB.jpg",
-   "summary": "",
-   "published": 1794335879,
-   "score": 12.53
+   "id": "e93f8c87b5e9",
+   "title": "সিরাজগঞ্জে মাদক মামলায় তিনজনের যাবজ্জীবন",
+   "link": "https://www.jagonews24.com/country/news/1178058",
+   "source": "জাগো নিউজ",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
+   "image": "",
+   "summary": "সিরাজগঞ্জে দুটি মাদক মামলায় তিনজনকে যাবজ্জীবন কারাদণ্ড দিয়েছেন আদালত। একই সঙ্গে তাদের প্রত্যেককে ২০ হাজার টাকা করে জরিমানা, অনাদায়ে আরও দুই মাসের বিনাশ্রম কারাদণ্ড দেওয়া হয়েছে....",
+   "published": 1794355442,
+   "score": 11.23
   }
  ],
  "latest": [
@@ -549,8 +549,8 @@
    "sourceIcon": "https://www.google.com/s2/favicons?domain=www.bbc.co.uk&sz=64",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1daa/live/06872e50-dd0a-11f1-b441-2b33b063138f.jpg",
    "summary": "মার্কিন প্রতিরক্ষামন্ত্রী পিট হেগসেথকে ইমপিচ বা অভিশংসন করার জন্য একটি প্রস্তাব উত্থাপন করেছেন রিপাবলিকান একজন কংগ্রেসম্যান। অন্যদিকে বাংলাদেশের ক্ষমতাচ্যুত প্রধানমন্ত্রী শেখ হাসিনাকে প্রত্যপর্ণের বিষয়টি আইনিভাবে সুরাহা ",
-   "published": 1794346433,
-   "score": 14.0
+   "published": 1794360948,
+   "score": 24.0
   },
   {
    "id": "340d9020b5fb",
@@ -560,8 +560,261 @@
    "sourceIcon": "https://www.google.com/s2/favicons?domain=www.bbc.co.uk&sz=64",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6da7/live/82dbd090-dc34-11f1-b441-2b33b063138f.jpg",
    "summary": "বাংলাদেশের পোশাক শ্রমিকদের ন্যূনতম মজুরি ৩২ হাজার টাকা করার প্রস্তাব দিয়েছে শ্রমিক প্রতিনিধিরা। অন্যদিকে ভারতে অবস্থানরত বাংলাদেশের ক্ষমতাচ্যুত প্রধানমন্ত্রী শেখ হাসিনা নতুন পাসপোর্ট ও এনআইডির যে আবেদন করেছেন, ইমেইলে সে",
-   "published": 1794346433,
+   "published": 1794360948,
    "score": 14.0
+  },
+  {
+   "id": "ca3d22143f90",
+   "title": "এসএসসি পাসেই আড়ংয়ে চাকরি, বেতন ছাড়াও আছে অন্যান্য সুবিধা",
+   "link": "https://www.dhakapost.com/jobs-career/496951",
+   "source": "ঢাকা পোস্ট",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakapost.com&sz=64",
+   "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/aarong-job-20261111073400.jpg?cid=496951",
+   "summary": "",
+   "published": 1794360840,
+   "score": 13.98
+  },
+  {
+   "id": "baac4648c043",
+   "title": "কোরআন ও হাদিসে জ্ঞানীদের সুউচ্চ অবস্থান",
+   "link": "https://www.ajkerpatrika.com/islam/ajpu6oahksxsa",
+   "source": "আজকের পত্রিকা",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ajkerpatrika.com&sz=64",
+   "image": "https://images.ajkerpatrika.com/original_images/islam-72694d.gif",
+   "summary": "পবিত্র কোরআনে আল্লাহ তাআলা জ্ঞানীদের সুউচ্চ মর্যাদা সম্পর্কে সুনির্দিষ্ট দিকনির্দেশনা দিয়েছেন। সুরা জুমারের ৯ নম্বর আয়াতে আল্লাহ তাআলা প্রশ্নের ছলে ইরশাদ করেন, ‘বলুন, যারা জানে আর যারা জানে না, তারা কি সমান হতে পারে?’ এই",
+   "published": 1794360794,
+   "score": 13.98
+  },
+  {
+   "id": "981ab763a443",
+   "title": "ফার্স্ট লেডি এমিনে এরদোয়ানের সঙ্গে ডা. জুবাইদা রহমানের বৈঠক",
+   "link": "https://www.banglatribune.com/national/980158/%E0%A6%AB%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8%E0%A7%8D%E0%A6%9F-%E0%A6%B2%E0%A7%87%E0%A6%A1%E0%A6%BF-%E0%A6%8F%E0%A6%AE%E0%A6%BF%E0%A6%A8%E0%A7%87-%E0%A6%8F%E0%A6%B0%E0%A6%A6%E0%A7%8B%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%A1%E0%A6%BE.-%E0%A6%9C%E0%A7%81%E0%A6%AC%E0%A6%BE%E0%A6%87%E0%A6%A6%E0%A6%BE",
+   "source": "বাংলা ট্রিবিউন",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
+   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/11/89bb19c6eb334d63afb2abce82e1aa5d-6af3c2c5ba469.jpg?jadewits_media_id=1054336",
+   "summary": "জাতিসংঘ জলবায়ু সম্মেলন কপ-৩১ উপলক্ষে তুরস্কের আন্তালিয়ায় বাংলাদেশের প্রধানমন্ত্রীর সহধর্মিণী ডা. জুবাইদা রহমানের সঙ্গে বৈঠক করেছেন তুরস্কের প্রেসিডেন্ট রিসেপ তাইয়েপ এরদোয়ানের সহধর্মিণী এমিনে এরদোয়ান। আনতালিয়ায় জলবা",
+   "published": 1794360136,
+   "score": 13.89
+  },
+  {
+   "id": "6f2a15cef0c7",
+   "title": "ফার্স্ট লেডি এমিনে এরদোয়ানের সঙ্গে ডা. জুবাইদা রহমানের বৈঠক",
+   "link": "https://www.banglatribune.com/national/980157/%E0%A6%AB%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8%E0%A7%8D%E0%A6%9F-%E0%A6%B2%E0%A7%87%E0%A6%A1%E0%A6%BF-%E0%A6%8F%E0%A6%AE%E0%A6%BF%E0%A6%A8%E0%A7%87-%E0%A6%8F%E0%A6%B0%E0%A6%A6%E0%A7%8B%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%A1%E0%A6%BE.-%E0%A6%9C%E0%A7%81%E0%A6%AC%E0%A6%BE%E0%A6%87%E0%A6%A6%E0%A6%BE",
+   "source": "বাংলা ট্রিবিউন",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
+   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/11/89bb19c6eb334d63afb2abce82e1aa5d-6af3c2c5ba469.jpg?jadewits_media_id=1054336",
+   "summary": "জাতিসংঘ জলবায়ু সম্মেলন কপ-৩১ উপলক্ষে তুরস্কের আন্তালিয়ায় বাংলাদেশের প্রধানমন্ত্রীর সহধর্মিণী ডা. জুবাইদা রহমানের সঙ্গে বৈঠক করেছেন তুরস্কের প্রেসিডেন্ট রিসেপ তাইয়েপ এরদোয়ানের সহধর্মিণী এমিনে এরদোয়ান। আনতালিয়ায় জলবা",
+   "published": 1794360134,
+   "score": 13.89
+  },
+  {
+   "id": "8d9b72613117",
+   "title": "বাংলাদেশ সফরে আসছেন জাতিসংঘের মিয়ানমার বিষয়ক বিশেষ দূত কেলি কারি",
+   "link": "https://www.banglatribune.com/others/980156/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%B8%E0%A6%AB%E0%A6%B0%E0%A7%87-%E0%A6%86%E0%A6%B8%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%B8%E0%A6%82%E0%A6%98%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B7%E0%A7%9F%E0%A6%95-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B7",
+   "source": "বাংলা ট্রিবিউন",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
+   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/11/932ec1092035a9718eceb80854e93db5-6af3c150ddece.jpg?jadewits_media_id=1054335",
+   "summary": "মিয়ানমারের মানবাধিকার পরিস্থিতি বিষয়ক জাতিসংঘের বিশেষ র‍্যাপোর্টিয়ার কেলি ই. কারি আজ বুধবার ঢাকায় আসছেন। তিনি ১১ থেকে ১৮ নভেম্বর পর্যন্ত বাংলাদেশ সফর করবেন। আজ জেনেভা থেকে জাতিসংঘের মানবাধিকার দপ্তরের এক বিবৃতিতে এ তথ",
+   "published": 1794359730,
+   "score": 13.83
+  },
+  {
+   "id": "2423107d1999",
+   "title": "কুমিল্লার লালমাই-ময়নামতি: উন্নয়নের চাপে প্রত্নতাত্ত্বিক নিদর্শন",
+   "link": "https://www.ajkerpatrika.com/bangladesh/cumilla/ajpggbi9xxv0a",
+   "source": "আজকের পত্রিকা",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ajkerpatrika.com&sz=64",
+   "image": "https://images.ajkerpatrika.com/original_images/03-dc2a17.jpg",
+   "summary": "প্রাচীন বাংলার ছয় রাজবংশের অন্তত ৩৪ জন রাজার শাসনামলের স্মৃতিচিহ্ন ছড়িয়ে আছে কুমিল্লার লালমাই-ময়নামতি পাহাড়জুড়ে। প্রত্নতাত্ত্বিকেরা বলছেন, এসব রাজার শাসনামলের সবকিছু এখনো আবিস্কৃত হয়নি। বিস্তারিত",
+   "published": 1794358944,
+   "score": 13.72
+  },
+  {
+   "id": "8b4166316b7c",
+   "title": "নাশকতাকারীদের ধরতে কঠোর নির্দেশনা আইজিপির",
+   "link": "https://www.banglatribune.com/law-and-crime/980135/%E0%A6%A8%E0%A6%BE%E0%A6%B6%E0%A6%95%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A7%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A6%A0%E0%A7%8B%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%A8%E0%A6%BE-%E0%A6%86%E0%A6%87%E0%A6%9C%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%B0",
+   "source": "বাংলা ট্রিবিউন",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
+   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/10/15/0e1f05092f10b5bd4f1768610b67e476-6ad0f18284af2.jpg?jadewits_media_id=1049581",
+   "summary": "দেশে চলমান নাশকতাকারীদের গ্রেফতারে কঠোর নির্দেশনা দিয়েছেন আইজিপি আলী হোসেন ফকির। তবে অপরাধী ধরার নামে কোনো নিরীহ মানুষকে হয়রানি বা শুধু সন্দেহের ভিত্তিতে আটক না করারও নির্দেশ দেন তিনি। গত তিন দিনের নাশকতার প্রেক্ষাপটে মঙ",
+   "published": 1794358933,
+   "score": 13.72
+  },
+  {
+   "id": "91481c63f434",
+   "title": "ভোরে রাজধানীতে বজ্রবৃষ্টি",
+   "link": "https://www.banglatribune.com/weather/980155/%E0%A6%AD%E0%A7%8B%E0%A6%B0%E0%A7%87-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%AC%E0%A6%9C%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A7%83%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%BF",
+   "source": "বাংলা ট্রিবিউন",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
+   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/11/65cb8b610bc1afcef58e10499bf2f60a-6af3bdecdc2b9.jpg?jadewits_media_id=1054334",
+   "summary": "আজ বুধবার ভোরে রাজধানীর বিভিন্ন এলাকায় বজ্রসহ বৃষ্টি হয়েছে। ভোর সাড়ে ৫টার দিক থেকে বৃষ্টি শুরু হয়। এ রিপোর্ট লেখা পর্যন্ত গুঁড়ি গুঁড়ি বৃষ্টি হচ্ছে। পুরো আকাশ মেঘে ঢেকে আছে। এর আগে মঙ্গলবার সন্ধ্যা ৬টা থেকে পরবর্তী ২৪ ঘণ্",
+   "published": 1794358855,
+   "score": 13.71
+  },
+  {
+   "id": "807c3eb74bcb",
+   "title": "এইডস কীভাবে শুরু হয়েছিল",
+   "link": "https://www.bigganchinta.com/cause/jdk3t9liyp",
+   "source": "প্রথম আলো",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.bigganchinta.com&sz=64",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-01-26/txr3xvt3/hivaids.avif",
+   "summary": "",
+   "published": 1794358800,
+   "score": 13.7
+  },
+  {
+   "id": "9fbf3ca3ae9f",
+   "title": "ছয় দশক পর ইয়র্কশায়ারের উপকূলে ধরা পড়ল বিশালাকার ব্লুফিন টুনা",
+   "link": "https://www.kishoralo.com/feature/befu57jtky",
+   "source": "প্রথম আলো",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.kishoralo.com&sz=64",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-10/vouvproo/1536.png",
+   "summary": "গত আগস্টের মাঝামাঝি সময়ে ইংল্যান্ডের হুইটবি উপকূলে এক দিনের ব্যবধানে মাছ দুটি ধরা পড়ে। ষাটের দশকের পর এই প্রথম উত্তর সাগর থেকে বাজারে বিক্রির জন্য ব্লুফিন টুনা ধরা হলো।",
+   "published": 1794358800,
+   "score": 13.7
+  },
+  {
+   "id": "9202b27bef91",
+   "title": "একটা বাসা খুঁজছি!",
+   "link": "https://www.prothomalo.com/fun/k8nisz2x5a",
+   "source": "প্রথম আলো",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-10/1dw9sld9/basa-web.jpg.jpeg",
+   "summary": "",
+   "published": 1794358800,
+   "score": 13.7
+  },
+  {
+   "id": "11f6c523ae11",
+   "title": "আজ টিভিতে যা দেখবেন (১১ নভেম্বর ২০২৬)",
+   "link": "https://www.prothomalo.com/sports/kctyn0i4zc",
+   "source": "প্রথম আলো",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-10/c7qwrlr6/WhatsApp-Image-2025-09-07-at-18.49.36c164e40f.jpg",
+   "summary": "রাওয়ালপিন্ডি টেস্টের তৃতীয় দিন আজ। সাফ ফুটবলে আজ গ্রুপ পর্বের শেষ ম্যাচে শ্রীলঙ্কার মুখোমুখি বাংলাদেশ। দিনের প্রথম ম্যাচে ভারত খেলবে মালদ্বীপের বিপক্ষে।",
+   "published": 1794358800,
+   "score": 43.7
+  },
+  {
+   "id": "9d4e961eface",
+   "title": "‘গজব রাত’–এ ‘মহানগর’–এর ছায়া",
+   "link": "https://www.prothomalo.com/entertainment/ott/rp8u4i1c4e",
+   "source": "প্রথম আলো",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-10/jkspyd3j/bef54896-b04e-487a-af71-37670b8e8f67-1.jpg",
+   "summary": "নেটফ্লিক্সে মুক্তির পরেই সাড়া ফেলেছে রিতেশ শাহর সিনেমা ‘গজব রাত’। বাংলাদেশ থেকে প্ল্যাটফর্মটির টপ চার্টের শীর্ষে রয়েছে সিনেমাটি।",
+   "published": 1794358800,
+   "score": 13.7
+  },
+  {
+   "id": "356a8c462032",
+   "title": "নাশকতা ঠেকাতে সরকার কঠোর, মাসজুড়ে মাঠে থাকবে বিএনপিও",
+   "link": "https://www.prothomalo.com/politics/d17o39nwyu",
+   "source": "প্রথম আলো",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-10/rv8ax7q3/00-5.jpg",
+   "summary": "",
+   "published": 1794358800,
+   "score": 13.7
+  },
+  {
+   "id": "cb7cfddd7902",
+   "title": "‘গজব রাত’–এ ‘মহানগর’–এর ছায়া",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rT1ZqQUFpRGtMSWVkTlVHUEpIMzlYc09QbDB0Qng5bm9pSHRRcXNLM1YxYnRTSVJ3Vm05VGQyYnpRbTJ6UFdpUlNJVkl1TkFSaElIcVZqTWN1Q2hid1Y2SXAtS2R5QdIBc0FVX3lxTFBFR3ZBU3V2RWhRcXZMUm9ISTV4QXZoVEpRSmREeExRVVRVc2dpYzRMbTJSUkJRWFlCU2xwZlJUUEc4LWxnV25YTU5iSWU5QmhLQTR6V1ViRGRWZ2NjeEtaN1RHdjJxT19Ed1BwcGlNUUc0Y2M?oc=5",
+   "source": "প্রথম আলো",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
+   "image": "",
+   "summary": "‘গজব রাত’–এ ‘মহানগর’–এর ছায়া প্রথম আলো",
+   "published": 1794358800,
+   "score": 11.7
+  },
+  {
+   "id": "523b3e6338dc",
+   "title": "কেন্দ্রীয় ব্যাংকের প্রতিবেদন: দেশের ৩৫ শতাংশ মানুষ আর্থিক সেবার বাইরে",
+   "link": "https://www.ajkerpatrika.com/bangladesh/dhaka/ajpphj1g3hrbj",
+   "source": "আজকের পত্রিকা",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ajkerpatrika.com&sz=64",
+   "image": "https://images.ajkerpatrika.com/original_images/bangladesh-bank_YSWketI.jpg",
+   "summary": "আর্থিক সেবায় নারীদের অংশগ্রহণ পুরুষের তুলনায় কম। ২০২৫ সালে প্রাপ্তবয়স্ক পুরুষদের ৬৯.৫ শতাংশ আনুষ্ঠানিক আর্থিক সেবার আওতায় থাকলেও নারীদের ক্ষেত্রে এই হার ৬০.৯ শতাংশ। ব্যবধান ৮.৬ শতাংশীয় পয়েন্ট। সামগ্রিকভাবে প্রাপ্তবয়স্ক জ",
+   "published": 1794358612,
+   "score": 13.68
+  },
+  {
+   "id": "8ac2a62b2221",
+   "title": "ব্যয় সংকোচনের নতুন উদ্যোগ: আপ্যায়ন-অনুষ্ঠানের ব্যয়ে লাগাম",
+   "link": "https://www.ajkerpatrika.com/bangladesh/dhaka/ajpx98qxaz3ei",
+   "source": "আজকের পত্রিকা",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ajkerpatrika.com&sz=64",
+   "image": "https://images.ajkerpatrika.com/original_images/Bangladesh-Economy-Decline-Illustration-6ff756.jpg",
+   "summary": "রাজস্ব আদায়ে ঘাটতি, বাজেটের ক্রমবর্ধমান চাপ এবং ঋণনির্ভরতা—সব মিলিয়ে সরকারি অর্থ ব্যবস্থাপনায় আরও সতর্ক হতে হচ্ছে সরকারকে। একদিকে রাজস্ব আয়ের লক্ষ্যমাত্রা পূরণ হচ্ছে না, অন্যদিকে বাড়ছে সরকারের পরিচালন ব্যয়। বিস্তারিত",
+   "published": 1794358371,
+   "score": 13.64
+  },
+  {
+   "id": "2a704c030847",
+   "title": "রোহিঙ্গা সংকটের স্থায়ী সমাধানে তুরস্কের সমর্থন অব্যাহত রাখার আহ্বান প্রধানমন্ত্রীর",
+   "link": "https://www.banglatribune.com/national/980154/%E0%A6%B0%E0%A7%8B%E0%A6%B9%E0%A6%BF%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BE-%E0%A6%B8%E0%A6%82%E0%A6%95%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A7%9F%E0%A7%80-%E0%A6%B8%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%A4%E0%A7%81%E0%A6%B0%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%A8",
+   "source": "বাংলা ট্রিবিউন",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
+   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/11/0d114134e8f6ced1a4ce675987a222cf-6af3bb0d4ed8e.jpg?jadewits_media_id=1054333",
+   "summary": "প্রধানমন্ত্রী তারেক রহমান আন্তর্জাতিক পরিসরে রোহিঙ্গা সংকটের স্থায়ী সমাধান এবং তাদের প্রত্যাবাসনের পক্ষে তুরস্কের সমর্থন অব্যাহত রাখার আহ্বান জানিয়েছেন। তিনি বলেন, রোহিঙ্গাদের নিরাপদ, মর্যাদাপূর্ণ ও টেকসই প্রত্যাবাসন নিশ",
+   "published": 1794358294,
+   "score": 13.63
+  },
+  {
+   "id": "8b12dd536870",
+   "title": "পিরিয়ডের সময় আজানের উত্তর দেওয়া যাবে?",
+   "link": "https://www.dhakapost.com/religion/496950",
+   "source": "ঢাকা পোস্ট",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakapost.com&sz=64",
+   "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/muslim-woman-praying-while--20261111063945.jpg?cid=496950",
+   "summary": "",
+   "published": 1794357585,
+   "score": 13.53
+  },
+  {
+   "id": "de05d62d6e84",
+   "title": "হেগসেথকে অভিশংসনের উদ্যোগ আটকে দিলেন রিপাবলিকানরা",
+   "link": "https://www.prothomalo.com/world/usa/ec5w4dvgs0",
+   "source": "প্রথম আলো",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-11/et9k1okp/Hegseth-1.jpg",
+   "summary": "",
+   "published": 1794357576,
+   "score": 13.53
+  },
+  {
+   "id": "b97d4205b290",
+   "title": "হাম আর ডেঙ্গুর জোড়া আক্রমণের মুখে শিশুরা",
+   "link": "https://www.ajkerpatrika.com/bangladesh/dhaka/ajppr92wdxf5w",
+   "source": "আজকের পত্রিকা",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ajkerpatrika.com&sz=64",
+   "image": "https://images.ajkerpatrika.com/original_images/Dengu_DNCC-Hospital-2.gif",
+   "summary": "ডেঙ্গু ও হাম—এই দুটি সংক্রামক রোগের উপর্যুপরি আক্রমণে বিপদে দেশের শিশুরা। কারও প্রথমে ডেঙ্গু, পরে হাম শনাক্ত হচ্ছে; আবার কারও ক্ষেত্রে একই সময়ে দুটি রোগ ধরা পড়ছে। এতে মস্তিষ্কে প্রদাহ, শ্বাসকষ্ট ও নিউমোনিয়ার মতো জটিলত",
+   "published": 1794357420,
+   "score": 13.51
+  },
+  {
+   "id": "1f6386611033",
+   "title": "আইনশৃঙ্খলা পরিস্থিতি: আগুন ককটেল আতঙ্ক ছড়াচ্ছে",
+   "link": "https://www.ajkerpatrika.com/bangladesh/dhaka/ajpic5kn0wrik",
+   "source": "আজকের পত্রিকা",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ajkerpatrika.com&sz=64",
+   "image": "https://images.ajkerpatrika.com/original_images/Tungipara-8a62ac.jpg",
+   "summary": "নিষিদ্ধঘোষিত সংগঠন ছাত্রলীগের ডাকা অবরোধ কর্মসূচির মধ্যে গতকাল মঙ্গলবার সারা দেশে অন্তত ২২টি যানবাহনে আগুন দিয়েছে দুর্বৃত্তরা। তিন জেলায় বিএনপির দলীয় কার্যালয়ে আগুন দেওয়া হয়েছে। আগুনে ফরিদপুরে এক বাসচালক নিহত হয়েছেন। আগু",
+   "published": 1794357163,
+   "score": 13.47
+  },
+  {
+   "id": "1bb794bbb33d",
+   "title": "নামাজের সময়সূচি - ১১ নভেম্বর ২০২৬",
+   "link": "https://www.dhakapost.com/religion/496949",
+   "source": "ঢাকা পোস্ট",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakapost.com&sz=64",
+   "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/11-nov-web-image-of-salat-time-2-20261111062928.jpg?cid=496949",
+   "summary": "",
+   "published": 1794356968,
+   "score": 43.45
   },
   {
    "id": "4a62457ef7f9",
@@ -571,8 +824,129 @@
    "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
    "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/11/42f4a38f44a2435322339a52ebe741fe-6af38aa3f321c.jpg?jadewits_media_id=1054331",
    "summary": "কুমিল্লার ব্রাহ্মণপাড়া উপজেলা ছাত্রদলের সদস্যসচিব ফয়সাল কবির আখন্দকে স্থায়ীভাবে বহিষ্কার করা হয়েছে। মঙ্গলবার (১১ নভেম্বর) কেন্দ্রীয় ছাত্রদল তাকে বহিষ্কার করে। গ্রেফতার এক যুবলীগ নেতাকে ছাড়িয়ে নিতে থানার ভারপ্রাপ্ত কর্মকর",
-   "published": 1794345956,
-   "score": 23.93
+   "published": 1794356500,
+   "score": 13.38
+  },
+  {
+   "id": "1bd1eece7e95",
+   "title": "ট্রাকের ধাক্কায় প্রাণ গেল চুয়াডাঙ্গা পৌর ছাত্রদলের যুগ্ম আহ্বায়কের",
+   "link": "https://www.jagonews24.com/country/news/1178060",
+   "source": "জাগো নিউজ",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
+   "image": "",
+   "summary": "ঝিনাইদহে সড়ক দুর্ঘটনায় চুয়াডাঙ্গা পৌর ছাত্রদলের যুগ্ম আহ্বায়ক আমিনুর রহমান সৌরভ (৩০) নিহত হয়েছেন। এ ঘটনায় তার সঙ্গে মোটরসাইকেলে থাকা রিয়া খাতুন নামে এক নারী আহত হয়েছেন...",
+   "published": 1794356177,
+   "score": 11.34
+  },
+  {
+   "id": "ec4a72fc012a",
+   "title": "ময়মনসিংহে বাসে কিশোরীকে ধর্ষণচেষ্টার অভিযোগ, চালকসহ গ্রেপ্তার ৩",
+   "link": "https://www.dhakapost.com/country/496948",
+   "source": "ঢাকা পোস্ট",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakapost.com&sz=64",
+   "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/dhaka-post-20261111061605.jpg?cid=496948",
+   "summary": "",
+   "published": 1794356166,
+   "score": 13.34
+  },
+  {
+   "id": "d92d5b67e257",
+   "title": "সেই সাব-রেজিস্ট্রার রায়হান হাবিবকে সাময়িক বরখাস্ত",
+   "link": "https://www.jagonews24.com/law-courts/news/1178059",
+   "source": "জাগো নিউজ",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
+   "image": "",
+   "summary": "বদলির আগে হত্যা মামলার এক আসামির নামে বিপুল পরিমাণ জমির দলিল রেজিস্ট্রি করে দেওয়া চট্টগ্রামের সীতাকুণ্ডের সাবেক সাব-রেজিস্ট্রার মো. রায়হান হাবিবকে সাময়িক বরখাস্ত করেছে সরকার। তিনি টাঙ্গাইলের ভূঞাপুরে সাব-রেজিস্ট্রার হিসে",
+   "published": 1794355822,
+   "score": 21.29
+  },
+  {
+   "id": "e93f8c87b5e9",
+   "title": "সিরাজগঞ্জে মাদক মামলায় তিনজনের যাবজ্জীবন",
+   "link": "https://www.jagonews24.com/country/news/1178058",
+   "source": "জাগো নিউজ",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
+   "image": "",
+   "summary": "সিরাজগঞ্জে দুটি মাদক মামলায় তিনজনকে যাবজ্জীবন কারাদণ্ড দিয়েছেন আদালত। একই সঙ্গে তাদের প্রত্যেককে ২০ হাজার টাকা করে জরিমানা, অনাদায়ে আরও দুই মাসের বিনাশ্রম কারাদণ্ড দেওয়া হয়েছে....",
+   "published": 1794355442,
+   "score": 11.23
+  },
+  {
+   "id": "ffff88804cc9",
+   "title": "টিভিতে আজকের খেলা (১১ নভেম্বর, ২০২৬)",
+   "link": "https://www.banglatribune.com/sport/other-sports/980099/%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%9C%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%96%E0%A7%87%E0%A6%B2%E0%A6%BE-%E0%A7%A7%E0%A7%A7-%E0%A6%A8%E0%A6%AD%E0%A7%87%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0-%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AC",
+   "source": "বাংলা ট্রিবিউন",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
+   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/05/9e6d2e18d5efe6da7a4203eca889db70-6aeca94a1603a.jpg?jadewits_media_id=1053374",
+   "summary": "প্রতিদিনের মতো আজও টেলিভিশনের পর্দায় থাকছে বিভিন্ন খেলা। দেশের ও আন্তর্জাতিক অঙ্গনের এসব ম্যাচের মধ্যে কোনগুলো কখন, কোন চ্যানেলে সরাসরি দেখা যাবে—চলুন জেনে নেওয়া যাক আজকের টিভিতে খেলার সূচি। ক্রিকেটশ্রীলঙ্কা-পাকিস্তানপ্র",
+   "published": 1794355200,
+   "score": 43.2
+  },
+  {
+   "id": "58baacd76f89",
+   "title": "প্রতিরক্ষা, বাণিজ্য ও জ্বালানি সহযোগিতা বাড়াতে একমত বাংলাদেশ-তুরস্ক",
+   "link": "https://www.dhakapost.com/national/496947",
+   "source": "ঢাকা পোস্ট",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakapost.com&sz=64",
+   "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/bd-turkeye-20261111043209.jpg?cid=496947",
+   "summary": "",
+   "published": 1794349759,
+   "score": 12.45
+  },
+  {
+   "id": "51b82b964696",
+   "title": "ভোলায় চার্জ দিতে গিয়ে বিদ্যুৎস্পৃষ্টে অটোরিকশা চালকের মৃত্যু",
+   "link": "https://www.dhakapost.com/country/496946",
+   "source": "ঢাকা পোস্ট",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakapost.com&sz=64",
+   "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/dhaka-post-20261111042407.jpg?cid=496946",
+   "summary": "",
+   "published": 1794349447,
+   "score": 12.4
+  },
+  {
+   "id": "e6a5c81fbd21",
+   "title": "প্রধানমন্ত্রীর বাসভবনের কাছে ‘জয় বাংলা’ স্লোগান, ৩ যুবককে পুলিশে দিলেন ছাত্রদল নেতা",
+   "link": "https://www.prothomalo.com/bangladesh/capital/ledsx0p7b5",
+   "source": "প্রথম আলো",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-10/9fiselcm/Slogan-chhatradal.jpeg",
+   "summary": "",
+   "published": 1794349070,
+   "score": 12.35
+  },
+  {
+   "id": "d5a8711a6ce8",
+   "title": "নিষিদ্ধ ছাত্রলীগের ককটেল বিস্ফোরণে পথচারী আহত",
+   "link": "https://www.jagonews24.com/country/news/1178057",
+   "source": "জাগো নিউজ",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
+   "image": "",
+   "summary": "চাঁপাইনবাবগঞ্জের শিবগঞ্জে নিষিদ্ধ ঘোষিত ছাত্রলীগের কর্মসূচি চলাকালে ককটেল বিস্ফোরণে বুদ্ধু আলী (৩৫) নামে এক পথচারী আহত হয়েছেন....",
+   "published": 1794347857,
+   "score": 10.18
+  },
+  {
+   "id": "0a49203e19ca",
+   "title": "চলন্ত অবস্থায় খুলে পড়ল ট্রেনের বগির দরজা, আহত ২",
+   "link": "https://www.jagonews24.com/country/news/1178056",
+   "source": "জাগো নিউজ",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
+   "image": "",
+   "summary": "ব্রাহ্মণবাড়িয়ার কসবায় চলন্ত মহানগর এক্সপ্রেস ট্রেনের একটি বগির দরজা খুলে পড়েছে। এতে দুই যাত্রী সামান্য আহত হয়েছেন....",
+   "published": 1794347600,
+   "score": 10.15
+  },
+  {
+   "id": "7baa3c78447a",
+   "title": "তুরস্কের সঙ্গে প্রতিরক্ষা সহযোগিতা বাড়াতে চান তারেক রহমান",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GckIxMVlyWU8ybEVhcUpmSzVGeEZJc1l3YXlMSXVRN0twa3MtdnRmUkRYUmVWWjdBaDdEZTI2UlV4M3NYUHg0QUVzY2QyWjBGVFl6Sm1WYUFLY0hIaHc?oc=5",
+   "source": "bdnews24.com",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=bangla.bdnews24.com&sz=64",
+   "image": "",
+   "summary": "তুরস্কের সঙ্গে প্রতিরক্ষা সহযোগিতা বাড়াতে চান তারেক রহমান bdnews24.com তারেক-এরদোগান বৈঠকে দ্বিপক্ষীয় আলোচনা bd-pratidin.com আনতালিয়া: পর্যটনের রাজধানীতে জলবায়ুর হিসাব-নিকাশ bdnews24.com কপ৩১ সম্মেলন দ্য ডেইলি স্টার ",
+   "published": 1794347280,
+   "score": 10.1
   },
   {
    "id": "762e387a4da0",
@@ -583,7 +957,7 @@
    "image": "",
    "summary": "কুষ্টিয়া সরকারি কলেজ ক্যাম্পাসে মাদকবিরোধী অভিযান চালাতে গিয়ে হামলার শিকার হয়েছেন জেলা গোয়েন্দা পুলিশের (ডিবি) তিন সদস্য। আহতদের মধ্যে দুজন উপপরিদর্শক (এসআই) ও একজন কনস্টেবল রয়েছেন....",
    "published": 1794345895,
-   "score": 11.93
+   "score": 9.91
   },
   {
    "id": "e64fbd3a537f",
@@ -594,18 +968,7 @@
    "image": "https://images.ajkerpatrika.com/original_images/namaz_R7pvGcK.jpg",
    "summary": "নামাজ আমাদের জীবনের এক অবিচ্ছেদ্য অংশ। একজন মুমিনের জন্য নামাজ হলো আধ্যাত্মিক প্রশান্তি ও জীবনের বরকত লাভের সর্বোত্তম মাধ্যম। প্রতিদিন সময়মতো নামাজ আদায় করা প্রতিটি মুসলমানের ওপর ফরজ। নিচে ঢাকা ও তার পার্শ্ববর্তী এলাকার ",
    "published": 1794345185,
-   "score": 13.83
-  },
-  {
-   "id": "66489e95f8ae",
-   "title": "রোহিঙ্গা প্রত্যাবাসনে তুরস্কের সমর্থন অব্যাহত রাখার আহ্বান প্রধানমন্ত্রীর",
-   "link": "https://www.prothomalo.com/bangladesh/vq4xnlmkx1",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-10/eix2hokt/uimage-8.jpg",
-   "summary": "",
-   "published": 1794344584,
-   "score": 13.74
+   "score": 41.81
   },
   {
    "id": "0cede6905fa9",
@@ -616,18 +979,7 @@
    "image": "",
    "summary": "কিশোরগঞ্জের ভৈরব থানার প্রধান ফটকের সামনে বিস্ফোরণের ঘটনা ঘটেছে। চলন্ত মোটরসাইকেল থেকে কিছু নিক্ষেপের পর ‘জয় বাংলা, জয় বঙ্গবন্ধু’ স্লোগান দেন আরোহীরা....",
    "published": 1794344336,
-   "score": 11.71
-  },
-  {
-   "id": "8c9a695df337",
-   "title": "সাবেক দুই সেনা কর্মকর্তা আবারও রিমান্ডে",
-   "link": "https://www.prothomalo.com/bangladesh/crime/ao71nuwudy",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-16/o0it13lr/Ex-Army-Officers.jpeg",
-   "summary": "",
-   "published": 1794344333,
-   "score": 13.71
+   "score": 9.69
   },
   {
    "id": "62b79975cd9e",
@@ -638,18 +990,7 @@
    "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/11/d705944489bc7bf5a73430e47d477b1c-6af3848066cb9.jpg?jadewits_media_id=1054330",
    "summary": "সাজেক কার্বারী অ্যাসোসিয়েশনের সভাপতি পদ থেকে পদত্যাগ করে সংগঠনটির কমিটি বিলুপ্ত ঘোষণা করেছেন সংগঠনটির সভাপতি নতুন জয় চাকমা। মঙ্গলবার রাতে এক ভিডিও বার্তায় তিনি এ ঘোষণা দেন। তবে, ৭ নভেম্বর গঠিত সাজেক পর্যটন সড়ক অবরোধ বাস্",
    "published": 1794344259,
-   "score": 13.7
-  },
-  {
-   "id": "ef39448b9fdd",
-   "title": "একসঙ্গে পাঁচ সরকারি চাকরি, প্রতারণার দায়ে ব্রিটিশ–বাংলাদেশি দোষী সাব্যস্ত",
-   "link": "https://www.prothomalo.com/bangladesh/ytsbvdlgyx",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-10/3u426gba/uk-bangladeshi.jpeg",
-   "summary": "",
-   "published": 1794344114,
-   "score": 13.68
+   "score": 11.68
   },
   {
    "id": "af8c858da391",
@@ -660,29 +1001,7 @@
    "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/dhaka-post-02-20261111025316.jpg?cid=496945",
    "summary": "",
    "published": 1794343883,
-   "score": 13.65
-  },
-  {
-   "id": "9ec0eb373d27",
-   "title": "কর্মচারী সাময়িক বরখাস্ত, ক্যাম্পাসে নিরাপত্তা জোরদারের সিদ্ধান্ত",
-   "link": "https://www.prothomalo.com/bangladesh/capital/9ef69nngys",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-10/tcpx2qw9/DU-Meeting.jpg",
-   "summary": "",
-   "published": 1794343676,
-   "score": 13.62
-  },
-  {
-   "id": "51b9f89c9033",
-   "title": "আইজেনকট প্রধানমন্ত্রী হতে পারেন—এ নিয়ে ‘আতঙ্কে আছেন’ নেতানিয়াহু",
-   "link": "https://www.prothomalo.com/world/middle-east/2xfzonyuz4",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-30/5tx4p5m4/Untitled-9.jpg",
-   "summary": "",
-   "published": 1794343404,
-   "score": 13.58
+   "score": 11.63
   },
   {
    "id": "616c6c3515ee",
@@ -693,7 +1012,7 @@
    "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/dhaka-post-20261111024227.jpg?cid=496944",
    "summary": "",
    "published": 1794343347,
-   "score": 23.57
+   "score": 21.56
   },
   {
    "id": "b3aca98d4508",
@@ -704,7 +1023,7 @@
    "image": "",
    "summary": "অ্যাপলের এআই ব্যবহারে বাড়তি খরচ Gramer Kagoj News অ্যাপল কৃত্রিম বুদ্ধিমত্তা ব্যবহারে ৫০ ডলার নেবে Talash BD কৃত্রিম বুদ্ধিমত্তার বর্ধিত সেবায় ৫০ ডলারের প্যাকেজ আনল অ্যাপল Dinajpur TV অ্যাপলের জন টার্নাস ক্রেগ ফেডারিগি",
    "published": 1794343200,
-   "score": 11.55
+   "score": 9.53
   },
   {
    "id": "98e660f4199d",
@@ -715,7 +1034,7 @@
    "image": "",
    "summary": "রাজধানী উন্নয়ন কর্তৃপক্ষের (রাজউক) পূর্বাচল আবাসিক প্রকল্পে প্লট বরাদ্দে দুর্নীতির মামলায় দণ্ডিত ব্যবসায়ী শওকত আজিজ রাসেলের আপিল শুনানির জন্য গ্রহণ করেছেন হাইকোর্ট। একই সঙ্গে তাকে ছয় মাসের জামিন দিয়েছেন আদালত....",
    "published": 1794342917,
-   "score": 11.51
+   "score": 9.5
   },
   {
    "id": "b46b24d825cc",
@@ -726,7 +1045,7 @@
    "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/dhaka-post-20261111022210.jpg?cid=496943",
    "summary": "",
    "published": 1794342130,
-   "score": 13.4
+   "score": 11.39
   },
   {
    "id": "4fcf8984a4a8",
@@ -737,7 +1056,7 @@
    "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/11/7cccde71d9487c26e9a49a26e7476b98-6af37c2a5e8a2.jpg?jadewits_media_id=1054328",
    "summary": "কক্সবাজারের টেকনাফে কার্যক্রম নিষিদ্ধ যুবলীগের প্রতিষ্ঠাবার্ষিকী ঘিরে রাতের আঁধারে ঝটিকা মিছিলকে কেন্দ্র করে উত্তেজনা ছড়িয়ে পড়েছে। মিছিল ছত্রভঙ্গ করতে গেলে পুলিশ ও বিজিবির সদস্যদের লক্ষ্য করে ইটপাটকেল নিক্ষেপের ঘটনা ঘটে।",
    "published": 1794342032,
-   "score": 13.39
+   "score": 11.37
   },
   {
    "id": "16ba96c803af",
@@ -748,7 +1067,7 @@
    "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/dhaka-post-20261111020801.jpg?cid=496942",
    "summary": "",
    "published": 1794341281,
-   "score": 13.28
+   "score": 11.27
   },
   {
    "id": "bcb0bafb40b3",
@@ -759,7 +1078,7 @@
    "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/11/aa633594033a73b1eecfbc3fa448798b-6af378093c329.jpg?jadewits_media_id=1054327",
    "summary": "শিক্ষা সফরের কথা বলে রিসোর্ট ভাড়া নিয়ে সিলেটের গোয়াইনঘাট উপজেলার রাতারগুলে মতবিনিময় সভা করেছেন কার্যক্রম নিষিদ্ধ আওয়ামী লীগের সিলেট জেলা কমিটির সাংগঠনিক সম্পাদক ও সুনামগঞ্জ-১ আসনের সাবেক সংসদ সদস্য রনজিত সরকার। গত রবিবার",
    "published": 1794341192,
-   "score": 13.27
+   "score": 11.26
   },
   {
    "id": "d36f5442fc87",
@@ -770,7 +1089,7 @@
    "image": "",
    "summary": "তুরস্কের প্রেসিডেন্ট রিসেপ তাইয়েপ এরদোয়ানের সঙ্গে দ্বিপক্ষীয় বৈঠক করেছেন বাংলাদেশের প্রধানমন্ত্রী তারেক রহমান। বৈঠকে প্রতিরক্ষা, বাণিজ্য, বিনিয়োগ, জ্বালানি, জলবায়ু পরিবর্তন মোকাবিলা ও রোহিঙ্গা প্রত্যাবাসনসহ পারস্পরিক স্ব",
    "published": 1794340972,
-   "score": 21.24
+   "score": 19.23
   },
   {
    "id": "dbed73c8c6d0",
@@ -781,7 +1100,7 @@
    "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/dhaka-post-20261111015720.jpg?cid=496941",
    "summary": "",
    "published": 1794340640,
-   "score": 13.2
+   "score": 11.18
   },
   {
    "id": "ebd71a7d8e7c",
@@ -792,29 +1111,18 @@
    "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/dhaka-post-20261111015359.jpg?cid=496940",
    "summary": "",
    "published": 1794340439,
-   "score": 13.17
+   "score": 11.15
   },
   {
-   "id": "863cb872b39e",
+   "id": "b9cf6562f45d",
    "title": "শপথ অনুষ্ঠানে আরব দলগুলোর উদ্দেশে কট্টর বেন গভিরের কটূক্তি, উত্তেজনা",
-   "link": "https://www.prothomalo.com/world/middle-east/o6ih02u8mm",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5lMDQxVHp4MzFTci10MlB2UWJOaktFSnZOYjFNSTQ3UEV6UkZGLTFzSlpXN2h5LTcteVY3b0lhZDhmMWRYZ0FIYzRkaURhaHBHX0MyaGJybnFKeXlMdlpMUFVOZHMxUdIBc0FVX3lxTFA3UDZIRDM3bE1YNkZxQTVOZU5qdG40U2x4QjNaaE4zOWRjVUFsRVlNMkNlYjdrTFFVZm8zVEVtRDBaNHo0clNZb0EzZHVEVUg4OXprTzMyVjllNWJsWnlXQklyYlpMSlhJYjlhellVQTVObHc?oc=5",
    "source": "প্রথম আলো",
    "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-10/c0a560is/netaniyahu-1.JPG",
-   "summary": "বামপন্থী দ্য ডেমোক্র্যাটস পার্টির নেতা ইয়ার গোলান বলেন, ইসরায়েলের জনগণ তাঁকে ক্ষমতা থেকে সরিয়ে দিয়েছে, এটা মেনে নিতে নেতানিয়াহুর কষ্ট হচ্ছে।",
-   "published": 1794340330,
-   "score": 13.15
-  },
-  {
-   "id": "a4e6d42a11bd",
-   "title": "পাসপোর্ট ‘পাবেন না’ হাসিনা, দেশে ফেরার উপায় কী?",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lc0NQNGM5OHFXd2FjeldFX2hSX1R2ODlUc3RULTBlX2tyUmpFMU40bDJneUFoNnEyTmtFdVQxclZSWHZqMmJBNVAxRWJwQmN4bzRsa2NBcWxXR3M?oc=5",
-   "source": "bdnews24.com",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=bangla.bdnews24.com&sz=64",
    "image": "",
-   "summary": "পাসপোর্ট ‘পাবেন না’ হাসিনা, দেশে ফেরার উপায় কী? bdnews24.com দেশে ফিরতে দিল্লিতে পাসপোর্ট ও এনআইডির জন্য শেখ হাসিনার আবেদন BBC হাসিনার প্রত্যর্পণ আইন অনুযায়ী হবে: ভারতের পররাষ্ট্র মন্ত্রণালয় দ্য ডেইলি স্টার বাংলা শেখ ",
-   "published": 1794340200,
-   "score": 11.13
+   "summary": "শপথ অনুষ্ঠানে আরব দলগুলোর উদ্দেশে কট্টর বেন গভিরের কটূক্তি, উত্তেজনা প্রথম আলো ইরানে নয়, ‘রেজিম চেঞ্জ’ এখন ইসরায়েল ও যুক্তরাষ্ট্রে? দ্য ডেইলি স্টার বাংলা অন্তর্বর্তী প্রধানমন্ত্রীর দায়িত্বে থাকছেন নেতানিয়াহু SAMAKAL ",
+   "published": 1794340330,
+   "score": 9.14
   },
   {
    "id": "9db3a83a4295",
@@ -825,7 +1133,7 @@
    "image": "https://ecdn.dhakatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/11/2b5d4f0f2e851e6dcba188dc72ccffb8-6af3738ed6f1f.jpeg?jadewits_media_id=77149",
    "summary": "PM arrives in Türkiye for COP31 summit; discusses climate, bilateral ties with Turkish president Details",
    "published": 1794339831,
-   "score": 13.08
+   "score": 11.07
   },
   {
    "id": "d940555b4bd6",
@@ -836,7 +1144,7 @@
    "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/dhaka-post-20261111014339.jpg?cid=496939",
    "summary": "",
    "published": 1794339819,
-   "score": 13.08
+   "score": 11.07
   },
   {
    "id": "f676da325309",
@@ -847,18 +1155,7 @@
    "image": "",
    "summary": "রাজশাহী বিশ্ববিদ্যালয়ের (রাবি) বিভিন্ন কাঠামোগত সংস্কার এবং শিক্ষার্থীদের যৌক্তিক দাবিদাওয়া আদায়ের লক্ষ্যে ১৯ সদস্যের আহ্বায়ক কমিটি গঠন করেছে ‘রাবি সংস্কার আন্দোলন’। এতে রাকসুর সাবেক সাধারণ সম্পাদক (জিএস) সালাহউদ্দিন আম্",
    "published": 1794339547,
-   "score": 11.04
-  },
-  {
-   "id": "6f845e4cf29d",
-   "title": "হিপা গ্র্যান্ড পুরস্কার জিতলেন বাংলাদেশের পিনু রহমান",
-   "link": "https://www.prothomalo.com/bangladesh/sb7zif4hxn",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-10/ds8g6upe/Hipa-Award-01.jpeg",
-   "summary": "",
-   "published": 1794339477,
-   "score": 13.03
+   "score": 9.03
   },
   {
    "id": "de727298e303",
@@ -869,18 +1166,7 @@
    "image": "https://ecdn.dhakatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/11/2e6110a556741dd94c066653ee031527-6af37205580fb.jpeg?jadewits_media_id=77148",
    "summary": "The most revealing feature of Dhaka’s struggling shopping malls is not the number of closed shutters, but the hesitation behind them. A market may have merchandise on its shelves, staff waiting behind counters and discou",
    "published": 1794339347,
-   "score": 13.02
-  },
-  {
-   "id": "f5a0ea5abb23",
-   "title": "আন্তালিয়ায় প্রধানমন্ত্রী তারেক রহমানের সঙ্গে এরদোয়ানের বৈঠক অনুষ্ঠিত",
-   "link": "https://www.prothomalo.com/bangladesh/fzr8cy5o66",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-10/eix2hokt/uimage-8.jpg",
-   "summary": "",
-   "published": 1794339305,
-   "score": 53.01
+   "score": 11.0
   },
   {
    "id": "0b403b545e47",
@@ -891,7 +1177,7 @@
    "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/11/c53bf79eab22376e276ba25aa2574f15-6af3703c16c9c.jpg?jadewits_media_id=1054326",
    "summary": "স্থানীয় সরকার প্রতিমন্ত্রী মীর শাহে আলম বলেছেন, ঠিকাদার তার লভ্যাংশ থেকে যদি খুুশি হয়ে একটা উপহার ইঞ্জিনিয়ারকে দেয়, এটা তো ঘুষের মধ্যে পড়বে না। এটা আপনি নিতেই পারেন। মঙ্গলবার (১১ নভেম্বর) রাজধানীর এলজিইডি মিলনায়তনে এলজিই",
    "published": 1794339248,
-   "score": 13.0
+   "score": 10.99
   },
   {
    "id": "80dfb725a38a",
@@ -902,51 +1188,7 @@
    "image": "https://ecdn.dhakatribune.net/contents/cache/images/300x300x1/uploads/media/2026/10/24/ea575b71aa48d0588b1c0298e60a0633-6adba1c24920a.jpg?jadewits_media_id=75932",
    "summary": "Over 100 crude bombs detonated near Padma Bridge toll plaza; vehicles torched across multiple districts Details",
    "published": 1794339030,
-   "score": 12.97
-  },
-  {
-   "id": "53b905f9b7f4",
-   "title": "১০ লিটার জ্বালানিতে সর্বোচ্চ ৫৩০ মিলিলিটার কম, পাম্পকে জরিমানা ৫ লাখ টাকা",
-   "link": "https://www.prothomalo.com/bangladesh/capital/rirzefgbfg",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-10/6suxa6ry/BSTI-news.jpeg",
-   "summary": "",
-   "published": 1794339000,
-   "score": 12.97
-  },
-  {
-   "id": "91a7fb22a71b",
-   "title": "সাফে আমরাই ফেভারিট: হামজা চৌধুরী",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1WTTBLaHhhSzBFNEZYcVdYZ0ZJTjdaLWFsT1hhdV9UWFNwVkFKUmtMSkxoZk5tYWxkWlJpTURXa1pFSzgxUlhzbGx3QW8zWXRzWm5r?oc=5",
-   "source": "Daily Comillar Kagoj",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.comillarkagoj.com&sz=64",
-   "image": "",
-   "summary": "সাফে আমরাই ফেভারিট: হামজা চৌধুরী Daily Comillar Kagoj কোচ চাইলে অধিনায়ক হতে আপত্তি নেই হামজার bdnews24.com ইনশাআল্লাহ সাফ চ্যাম্পিয়ন হবে বাংলাদেশ— বললেন হামজা Tsports আমরাই ফেভারিট, অন্য দলকে নিয়ে ভাবছি না: হামজা চৌধু",
-   "published": 1794338880,
-   "score": 10.95
-  },
-  {
-   "id": "e00f68d46773",
-   "title": "আত্মপরিচয়ের শ্রেষ্ঠত্ব দাবি করলেই সমাজে সংঘাত তৈরি হয়",
-   "link": "https://www.prothomalo.com/bangladesh/1ayou7tmr9",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "",
-   "summary": "",
-   "published": 1794338815,
-   "score": 10.94
-  },
-  {
-   "id": "34086929c743",
-   "title": "সৌরবিদ্যুৎ স্থাপনে ই-জিপি বাধ্যতামূলক নয়, সংসদে বিল",
-   "link": "https://www.prothomalo.com/bangladesh/okorafgqgj",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-02-14/h3iuaes9/Songsob.jpg",
-   "summary": "",
-   "published": 1794338603,
-   "score": 12.91
+   "score": 10.96
   },
   {
    "id": "a64435d3fc37",
@@ -957,7 +1199,7 @@
    "image": "https://ecdn.dhakatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/11/af70d91fbeceae8678b5efd811d2b87f-6af36bd2b9190.jpg?jadewits_media_id=77147",
    "summary": "The injured were identified as DB Sub-Inspectors Johnny and Jihad, and Constable Imran Details",
    "published": 1794338218,
-   "score": 12.86
+   "score": 10.84
   },
   {
    "id": "32aaf587d58c",
@@ -968,7 +1210,7 @@
    "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/dhaka-post-20261111011414.jpg?cid=496938",
    "summary": "",
    "published": 1794338054,
-   "score": 12.84
+   "score": 10.82
   },
   {
    "id": "ccfbe83e30b2",
@@ -979,7 +1221,7 @@
    "image": "",
    "summary": "ঢাকা বিশ্ববিদ্যালয়ের (ঢাবি) আবাসিক এলাকার একটি ভবনে শিক্ষকের বাসায় চুরির ঘটনা ঘটেছে। এ সময় একটি আইফোন, দুটি স্মার্টফোন, একটি ল্যাপটপ ও শিশুর খেলনাসহ বেশ কিছু মূল্যবান সামগ্রী চুরি হয়েছে....",
    "published": 1794338021,
-   "score": 10.83
+   "score": 8.82
   },
   {
    "id": "7387715f1ea1",
@@ -990,7 +1232,7 @@
    "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/11/25d445e04fab414884aeaa319a18f262-6af36b102681b.jpg?jadewits_media_id=1054325",
    "summary": "সারা দেশে আওয়ামী লীগের নাশকতা, অগ্নিসংযোগ ও ককটেল বিস্ফোরণের প্রতিবাদ এবং ঢাকা বিশ্ববিদ্যালয় (ঢাবি) শাখা জাতীয় ছাত্রশক্তির সভাপতি হাসিবুল ইসলামের ওপর হামলার ঘটনায় বিক্ষোভ মিছিল ও সমাবেশ করেছেন সংগঠনটির নেতাকর্মীরা। সমাবে",
    "published": 1794337734,
-   "score": 22.79
+   "score": 20.78
   },
   {
    "id": "b5c616c82162",
@@ -1001,7 +1243,7 @@
    "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/dhaka-post-20261111010813.jpg?cid=496937",
    "summary": "",
    "published": 1794337693,
-   "score": 12.79
+   "score": 10.77
   },
   {
    "id": "3ab96782d669",
@@ -1012,29 +1254,7 @@
    "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/dhaka-post-20261111005729.jpg?cid=496936",
    "summary": "",
    "published": 1794337049,
-   "score": 12.7
-  },
-  {
-   "id": "566b19407ed2",
-   "title": "‘বোন মারা গেছে, লাশ নিয়ে যান’ বলে পালালেন স্বামী, খাটে মিলল মরদেহ",
-   "link": "https://www.prothomalo.com/bangladesh/crime/q6yf8p3w6f",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-10/f4uyoibf/00-3.jpg",
-   "summary": "",
-   "published": 1794336945,
-   "score": 12.68
-  },
-  {
-   "id": "67874f0f86f7",
-   "title": "গুলশান সেন্ট্রাল পার্কের দায়িত্ব ইয়ুথ ক্লাবকে দেওয়ায় বাপার ক্ষোভ",
-   "link": "https://www.prothomalo.com/bangladesh/capital/k4k76z8tvs",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2024-07-31/sf9qlz4q/Untitled-13.jpg",
-   "summary": "",
-   "published": 1794336058,
-   "score": 12.56
+   "score": 10.68
   },
   {
    "id": "9de88da03ee7",
@@ -1045,7 +1265,7 @@
    "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/dhaka-post-20261111004028.jpg?cid=496935",
    "summary": "",
    "published": 1794336028,
-   "score": 12.55
+   "score": 10.54
   },
   {
    "id": "e210a1c477c2",
@@ -1056,29 +1276,7 @@
    "image": "https://images.ajkerpatrika.com/original_images/ifndhsV-a59d53.jpg",
    "summary": "মৌলভীবাজারের শ্রীমঙ্গলে বৈষম্যবিরোধী ছাত্র আন্দোলনের সাবেক কেন্দ্রীয় সমন্বয়ক ও জাতীয় ছাত্রশক্তির ঢাকা বিশ্ববিদ্যালয় (ঢাবি) শাখার সভাপতি হাসিবুল ইসলামের ওপর হামলার ঘটনায় অভিযুক্ত ব্যক্তির প্রাথমিক পরিচয় শনাক্ত করেছে পুলিশ",
    "published": 1794336024,
-   "score": 12.55
-  },
-  {
-   "id": "756192e69517",
-   "title": "রাতের অন্ধকারে একটা-দুইটা গাড়িতে আগুন দিলে পরিস্থিতি অস্থিতিশীল হয়ে যায় না: স্বরাষ্ট্রমন্ত্রী",
-   "link": "https://www.prothomalo.com/video/bangladesh/je7jgja7cn",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-10/3s1huzur/WEB.jpg",
-   "summary": "",
-   "published": 1794335879,
-   "score": 12.53
-  },
-  {
-   "id": "5ed3291830b1",
-   "title": "তুরস্কে তারেক রহমান–এরদোয়ান দ্বিপক্ষীয় বৈঠক",
-   "link": "https://www.prothomalo.com/video/bangladesh/1umhllki51",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-10/6r4s8xyr/web.jpg",
-   "summary": "",
-   "published": 1794335859,
-   "score": 12.53
+   "score": 10.54
   },
   {
    "id": "292c58ee3edf",
@@ -1089,18 +1287,7 @@
    "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/dhaka-post-20261111003052.jpg?cid=496934",
    "summary": "",
    "published": 1794335452,
-   "score": 12.47
-  },
-  {
-   "id": "5de69db079fa",
-   "title": "নায়িকা ভারতে, নায়ক যুক্তরাষ্ট্রে—দেশে মুক্তি পাচ্ছে সিনেমা",
-   "link": "https://www.prothomalo.com/entertainment/dhallywood/bekpk9uek5",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-10/uhl8bbgd/885277009288212828875143841838331770112827n.jpg",
-   "summary": "নায়িকা মাহিয়া মাহি যুক্তরাষ্ট্রের নিউইয়র্কে, আর নায়ক সাইমন সাদিকও দেশে নেই। অথচ দেশের প্রেক্ষাগৃহে মুক্তি পেতে যাচ্ছে তাঁদের অভিনীত নতুন সিনেমা ‘আনন্দ অশ্রু’",
-   "published": 1794335400,
-   "score": 12.47
+   "score": 10.46
   },
   {
    "id": "5aef5f25d5aa",
@@ -1111,7 +1298,7 @@
    "image": "https://images.ajkerpatrika.com/original_images/chattralegue-a6c28c.jpg",
    "summary": "পটুয়াখালীর দশমিনায় একটি নিম্নমাধ্যমিক বিদ্যালয়ের তিনটি কক্ষে তালা দেওয়ার ঘটনায় নিষিদ্ধ সংগঠন ছাত্রলীগের এক কর্মীকে আটক করেছে পুলিশ। গতকাল সোমবার রাতে উপজেলার বহরমপুর ইউনিয়নের কালু মোল্লার হাট নিম্নমাধ্যমিক বিদ্যালয়ে এ ঘট",
    "published": 1794335340,
-   "score": 12.46
+   "score": 10.44
   },
   {
    "id": "d8664d81ce44",
@@ -1122,7 +1309,7 @@
    "image": "https://images.ajkerpatrika.com/original_images/cmc_1_1-e3aeeb.jpg",
    "summary": "চট্টগ্রামের বেসরকারি রোগ নির্ণয় কেন্দ্র এপিক হেলথ কেয়ারে সিঙ্গারা না পেয়ে ক্যান্টিনের মহিলা কর্মীদের সামনে পুরুষ কর্মচারীর অণ্ডকোষ চেপে ধরার অভিযোগ উঠেছে এক চিকিৎসকের বিরুদ্ধে। আজ মঙ্গলবার দুপুরে এ ঘটনা ঘটে। বিস্তারিত",
    "published": 1794335043,
-   "score": 12.42
+   "score": 10.4
   },
   {
    "id": "2365eeba97f6",
@@ -1133,7 +1320,7 @@
    "image": "",
    "summary": "মৌলভীবাজারের শ্রীমঙ্গলে বৈষম্যবিরোধী ছাত্র আন্দোলনের সাবেক কেন্দ্রীয় সমন্বয়ক ও জাতীয় ছাত্রশক্তির ঢাকা বিশ্ববিদ্যালয় (ঢাবি) শাখার সভাপতি হাসিবুল ইসলামের ওপর হামলাকারীর প্রাথমিক পরিচয় শনাক্ত করেছে পুলিশ....",
    "published": 1794334840,
-   "score": 10.39
+   "score": 8.37
   },
   {
    "id": "e9b11931c1ce",
@@ -1144,7 +1331,7 @@
    "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/hasnat-abdullah-20261111001332.jpg?cid=496933",
    "summary": "",
    "published": 1794334412,
-   "score": 12.33
+   "score": 10.31
   },
   {
    "id": "a7cc3363a0a7",
@@ -1155,40 +1342,7 @@
    "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/10/147109206c9d48cce355468a73487e9b-6af33dda53689.jpg?jadewits_media_id=1054307",
    "summary": "রাজধানী থেকে শুরু করে দেশের বিভিন্ন জেলায় একের পর এক ককটেল বিস্ফোরণ, বাসে অগ্নিসংযোগ ও নাশকতার ঘটনায় জনজীবনে দেখা দিয়েছে নিরাপত্তাহীনতা। এরই মধ্যে ফরিদপুরে বাসে আগুনে প্রাণ গেছে ঘুমন্ত চালকের। কোথাও চলন্ত গাড়ি লক্ষ্য করে",
    "published": 1794334292,
-   "score": 12.31
-  },
-  {
-   "id": "b7262f78980c",
-   "title": "প্রতিদিন আল্লাহর কাছে ক্ষমাপ্রার্থনা: কেন করবেন, কীভাবে করবেন",
-   "link": "https://www.prothomalo.com/religion/islam/b09ckrsdbg",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-10/kngqjo81/moment-prayer-night-sky.jpg",
-   "summary": "পাপের বিপুলতায় ইবাদতে আগ্রহ কমে আসে, জীবনের স্বাভাবিক প্রশান্তিও হারিয়ে যায়। অথচ বান্দা যতবারই পাপ করুক, তার জন্য ফিরে আসার দরজা খোলা রয়েছে।",
-   "published": 1794334200,
-   "score": 12.3
-  },
-  {
-   "id": "fdad5f971e90",
-   "title": "ইনানীতে ১৫ দিন ধরেই জ্বলছে গ্যাসের আগুন, কী বলছে বাপেক্স",
-   "link": "https://www.prothomalo.com/bangladesh/district/n404eqh64v",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-10/uv49cew5/WhatsApp-Image-2026-11-10-at-11.28.38-PM.jpeg",
-   "summary": "",
-   "published": 1794334023,
-   "score": 12.28
-  },
-  {
-   "id": "ec0113b025cf",
-   "title": "Applion থেকে আইফোন কিনে হতাশ ক্রেতা",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcjZDRkhUQ0FYVkk4bEFpLXFkdnI0VkVVZUZTbXMzSlJVV2UwX1djLThZcWZVM3h1OUxweTFieFppRUh1QXdKUnd4aFpWVUhXQklseXozWjRKMWhpSndpc2FLc3FEQVNsejV0TGpkbnFLQXlKQkh6d1NNOVN3NGVKNG1tQjN3NVVqZVlUb21jRmR0dw?oc=5",
-   "source": "Techzoom.TV",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=techzoom.tv&sz=64",
-   "image": "",
-   "summary": "Applion থেকে আইফোন কিনে হতাশ ক্রেতা Techzoom.TV",
-   "published": 1794333968,
-   "score": 10.27
+   "score": 10.3
   },
   {
    "id": "b454a8b2219a",
@@ -1199,7 +1353,7 @@
    "image": "",
    "summary": "ঢাকা বিশ্ববিদ্যালয় (ঢাবি) ক্যাম্পাসে ককটেল বিস্ফোরণ ও অস্থিতিশীলতা সৃষ্টির ঘটনায় জড়িত থাকার প্রাথমিক সত্যতা পাওয়ায় বিশ্ববিদ্যালয়ের এক কর্মচারীকে সাময়িক বরখাস্ত করা হয়েছে। একই ঘটনায় তাকে কারণ দর্শানোর নোটিশও দেওয়া হয়েছে..",
    "published": 1794333758,
-   "score": 10.24
+   "score": 8.22
   },
   {
    "id": "1a7944b97d0b",
@@ -1210,7 +1364,7 @@
    "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/dhaka-post-20261111000025.jpg?cid=496932",
    "summary": "",
    "published": 1794333625,
-   "score": 12.22
+   "score": 10.2
   },
   {
    "id": "ddd5a603f26a",
@@ -1219,31 +1373,9 @@
    "source": "bd-pratidin.com",
    "sourceIcon": "https://www.google.com/s2/favicons?domain=www.bd-pratidin.com&sz=64",
    "image": "",
-   "summary": "মমতার বিরুদ্ধে মামলার প্রস্তুতি bd-pratidin.com Suvendu on Mamata: ‘তথ্য গোপন করেছেন মমতা,’ এবার বিস্ফোরক দাবি করলেন শুভেন্দু অধিকারী! নির্বাচনী হলফনামা ঘিরে অভিযোগ News18 'দেশবিরোধীদের সাফ করতে ব্লিচিং পাউডার, ফিনাইল যা",
+   "summary": "মমতার বিরুদ্ধে মামলার প্রস্তুতি bd-pratidin.com Suvendu on Mamata: ‘তথ্য গোপন করেছেন মমতা,’ এবার বিস্ফোরক দাবি করলেন শুভেন্দু অধিকারী! নির্বাচনী হলফনামা ঘিরে অভিযোগ News18 Bengali 'দেশবিরোধীদের সাফ করতে ব্লিচিং পাউডার, ফ",
    "published": 1794333600,
-   "score": 10.22
-  },
-  {
-   "id": "f113aeb79691",
-   "title": "সাইবার নিরাপত্তায় নতুন চ্যালেঞ্জ",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtQ05WMDBXeFc3dDRkd2R1SnA2aFkzOUVsSDR2dFFJVVh0dG53Q3FpS09WdFdBcklyMXNrNU9UMlNpOE9BNnVBUk5XUXFiZkswOHdGYWk1aXJna0NsWUZ5T2hIX2gza0E?oc=5",
-   "source": "Amader Shomoy",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dainikamadershomoy.com&sz=64",
-   "image": "",
-   "summary": "সাইবার নিরাপত্তায় নতুন চ্যালেঞ্জ Amader Shomoy আইজেনকট প্রধানমন্ত্রী হতে পারেন—এ নিয়ে ‘আতঙ্কে আছেন’ নেতানিয়াহু প্রথম আলো ইরানে নয়, ‘রেজিম চেঞ্জ’ এখন ইসরায়েল ও যুক্তরাষ্ট্রে? দ্য ডেইলি স্টার বাংলা নেতানিয়াহুকে ক্ষমতা থ",
-   "published": 1794333600,
-   "score": 10.22
-  },
-  {
-   "id": "24b595160efe",
-   "title": "ক্ষুদ্র উদ্যোগ ও মাঠপর্যায়ের তথ্যকে একত্র করে জাতীয় নীতিমালায় রূপান্তর করতে হবে: রেহমান সোবহান",
-   "link": "https://www.prothomalo.com/bangladesh/capital/fql5bqkqcl",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-10/3sc4rqo8/IIDAward-1.jpeg",
-   "summary": "",
-   "published": 1794333527,
-   "score": 12.21
+   "score": 8.2
   },
   {
    "id": "96f001b5c1b3",
@@ -1254,7 +1386,7 @@
    "image": "https://images.ajkerpatrika.com/original_images/arest-atok-atk-7f0fa6.jpg",
    "summary": "নাশকতা, নৈরাজ্য সৃষ্টি ও সন্ত্রাসবিরোধী আইনের পৃথক মামলায় নেত্রকোনার বিভিন্ন উপজেলা থেকে আওয়ামী লীগ ও এর সহযোগী সংগঠনের ১১ নেতাকর্মীকে গ্রেপ্তার করেছে পুলিশ।গতকাল সোমবার গভীর রাত থেকে মঙ্গলবার সন্ধ্যা ৭টা পর্যন্ত জেলার ব",
    "published": 1794333488,
-   "score": 12.2
+   "score": 10.19
   },
   {
    "id": "bb1874b35a3f",
@@ -1265,18 +1397,7 @@
    "image": "https://images.ajkerpatrika.com/original_images/It-Vata-b9e8cc.jpg",
    "summary": "মুন্সিগঞ্জের সিরাজদিখানে পরিবেশগত ছাড়পত্র ও প্রয়োজনীয় লাইসেন্স ছাড়া অবৈধভাবে ইট প্রস্তুত করার দায়ে তিনটি ইটভাটার বিদ্যুৎ সংযোগ বিচ্ছিন্ন করেছে ভ্রাম্যমাণ আদালত। একই সঙ্গে ভাটাগুলোর সার্বিক কার্যক্রম বন্ধ ঘোষণা করা হ",
    "published": 1794333343,
-   "score": 12.18
-  },
-  {
-   "id": "af7f85f2059e",
-   "title": "চিকিৎসা শেষে ছাড়া পেলেন ৫৩ জন, এখনো ভর্তি ৩৫ জন",
-   "link": "https://www.prothomalo.com/bangladesh/25icc841uz",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-10/6n9g30qr/5ca9f7f4_7d2a_47f0_a8cb_0dbd68e96968.jfif",
-   "summary": "",
-   "published": 1794333199,
-   "score": 12.16
+   "score": 10.17
   },
   {
    "id": "b503a63a8e9f",
@@ -1287,7 +1408,7 @@
    "image": "https://images.ajkerpatrika.com/original_images/ch0na-canada,-Ajker-patrika-84b1a8.jpg",
    "summary": "চীন ও কানাডার মধ্যে দ্বিতীয় দফার অর্থনৈতিক ও আর্থিক কৌশলগত সংলাপে যোগ দিতে গতকাল সোমবার ভ্যাঙ্কুভারে গেছেন চীনের উপপ্রধানমন্ত্রী হে লিফেং। দুই দেশের বাণিজ্য ও ব্যবসায়িক সম্পর্ক জোরদারে নানা উদ্যোগের আওতায় এ সফর হলো। একই ",
    "published": 1794333193,
-   "score": 12.16
+   "score": 10.14
   },
   {
    "id": "fcc41a3bc6b3",
@@ -1298,29 +1419,18 @@
    "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/10/2a77366cc4bdb662aeb0c68aaf6edb60-6af359726d82d.jpg?jadewits_media_id=1054322",
    "summary": "কর্মকর্তা ও কর্মচারী নিয়োগের বিজ্ঞপ্তি প্রকাশ করেছে রংপুরের বেগম রোকেয়া বিশ্ববিদ্যালয় (বেরোবি)। বিশ্ববিদ্যালয়ের বিভিন্ন দপ্তর ও শাখায় রাজস্ব খাতের ২৫টি ক্যাটাগরিতে মোট ৩৫ জনকে নিয়োগ দেওয়া হবে। আগ্রহী প্রার্থীদের আ",
    "published": 1794333164,
-   "score": 12.16
+   "score": 10.14
   },
   {
-   "id": "aa50fcba7deb",
-   "title": "শেখ হাসিনার প্রত্যর্পণ আইনিভাবে সুরাহা হবে: রণধীর জয়সোয়াল",
-   "link": "https://www.prothomalo.com/video/bangladesh/q55bqjk43o",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-10/txh71p9l/web.jpg",
-   "summary": "",
-   "published": 1794333021,
-   "score": 12.14
-  },
-  {
-   "id": "ac7a5f5d3b52",
-   "title": "শেখ হাসিনার প্রত্যর্পণ আইনিভাবে সুরাহা হবে: রণধীর জয়সোয়াল",
-   "link": "https://www.prothomalo.com/video/bangladesh/rbozp42mco",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-10/txh71p9l/web.jpg",
-   "summary": "শেখ হাসিনার প্রত্যর্পণ আইনিভাবে সুরাহা হবে: রণধীর জয়সোয়াল",
-   "published": 1794332999,
-   "score": 12.13
+   "id": "c4547ed60714",
+   "title": "৩৩ বছরে পা দিলেন বিদ্যা সিনহা মিম",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuVmpPcVRhMi1Vb3U0NGFrSUdWbDc3QmhoT2x1RmlRRzNLeDZiVDBaZVR6R19PeXVkZ3c1YlBwN1EzclpEbXhqUWZXRl9uTUhTZkJ3Mzk3d0x3TUxObEpVSU9MdERZR3BJZ2c?oc=5",
+   "source": "agrajatrapratidin.com",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.agrajatrapratidin.com&sz=64",
+   "image": "",
+   "summary": "৩৩ বছরে পা দিলেন বিদ্যা সিনহা মিম agrajatrapratidin.com ক্যারিয়ার নিয়ে যা জানালেন ‘পরাণ’ সিনেমার নায়িকা patradoot থাইল্যান্ডে ঘুরে বেড়াচ্ছেন অভিনেত্রী বিদ্যা সিনহা মিম, দেখুন ৮টি ছবি প্রথম আলো স্বামীর সঙ্গে সুন্দর মুহ",
+   "published": 1794333120,
+   "score": 8.13
   },
   {
    "id": "3bb50731ee6b",
@@ -1331,18 +1441,7 @@
    "image": "https://images.ajkerpatrika.com/original_images/manik-gang-f2833e.jpg",
    "summary": "মানিকগঞ্জে পার্কিং করা মিনিবাসে আগুন, ককটেল বিস্ফোরণ ও সড়কে টায়ার জ্বালানোর ঘটনায় আওয়ামী লীগ ও ছাত্রলীগের ১১ নেতা-কর্মীকে গ্রেপ্তার করেছে পুলিশ। জিজ্ঞাসাবাদের জন্য আটক ১৯ জনের মধ্যে আটজনকে ছেড়ে দেওয়া হয়েছে। বিস্তারিত",
    "published": 1794332998,
-   "score": 32.13
-  },
-  {
-   "id": "e7b5b42af3f8",
-   "title": "বরখাস্ত হলেন টাঙ্গাইলের সাব-রেজিস্ট্রার রায়হান হাবিব",
-   "link": "https://www.dhakapost.com/national/496931",
-   "source": "ঢাকা পোস্ট",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakapost.com&sz=64",
-   "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/dhaka-post-20261110234709.jpg?cid=496931",
-   "summary": "",
-   "published": 1794332829,
-   "score": 12.11
+   "score": 20.12
   },
   {
    "id": "ad7e6821531f",
@@ -1353,7 +1452,7 @@
    "image": "https://images.ajkerpatrika.com/original_images/Untitled-3-d12c7a.jpg",
    "summary": "তুরস্কের আন্তালিয়ায় প্রধানমন্ত্রী তারেক রহমানের সঙ্গে তুরস্কের প্রেসিডেন্ট রিসেপ তাইয়েপ এরদোয়ানের দ্বিপক্ষীয় বৈঠক অনুষ্ঠিত হয়েছে। বিস্তারিত",
    "published": 1794332700,
-   "score": 52.09
+   "score": 30.08
   },
   {
    "id": "dfab7212b69c",
@@ -1364,7 +1463,7 @@
    "image": "https://images.ajkerpatrika.com/original_images/mirza-fakrul-059e2a.jpg",
    "summary": "নিজের অর্জিত শিক্ষা ও দক্ষতাকে দেশ ও মানুষের কল্যাণে কাজে লাগাতে হবে। দেশের সাধারণ মানুষের স্বার্থকে সর্বোচ্চ গুরুত্ব দিতে হবে। যাদের শ্রম ও অবদানে দেশের অর্থনীতি সচল থাকে, জীবনের চাকা ঘোরে তাদের গুরুত্ব দিতে হবে। আপনাদে",
    "published": 1794332688,
-   "score": 12.09
+   "score": 10.07
   },
   {
    "id": "8839e23a65df",
@@ -1375,7 +1474,7 @@
    "image": "",
    "summary": "ঠিকাদারের কাজের গুণগত মান ঠিক রেখে দ্রুত বিল পরিশোধের পর তার লভ্যাংশ থেকে খুশি হয়ে কোনো প্রকৌশলীকে উপহার দিলে তা ঘুষের মধ্যে পড়ে না বলে মন্তব্য করেছেন স্থানীয় সরকার, পল্লী উন্নয়ন ও সমবায় প্রতিমন্ত্রী মীর শাহে আলম....",
    "published": 1794332642,
-   "score": 10.08
+   "score": 8.07
   },
   {
    "id": "bbca99bd3fa8",
@@ -1386,7 +1485,7 @@
    "image": "https://images.ajkerpatrika.com/original_images/Untitled-4-2ae494.jpg",
    "summary": "সারা দেশে কার্যক্রম নিষিদ্ধ আওয়ামী লীগের নাশকতা, অগ্নিসংযোগ ও ককটেল বিস্ফোরণের প্রতিবাদ এবং ঢাকা বিশ্ববিদ্যালয় (ঢাবি) শাখা জাতীয় ছাত্রশক্তির সভাপতি হাসিবুল ইসলামের ওপর হামলার ঘটনায় বিক্ষোভ মিছিল ও সমাবেশ করেছে সংগঠনটির ন",
    "published": 1794332420,
-   "score": 22.05
+   "score": 20.04
   },
   {
    "id": "54e765f3b94d",
@@ -1397,7 +1496,7 @@
    "image": "https://ecdn.dhakatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/10/e295a33ac23e3a789261016c82ac5979-6af3548e1e274.jpeg?jadewits_media_id=77146",
    "summary": "162 tonnes produced for 2026-27 season; 127 tonnes to be distributed among 704 public, private dealers Details",
    "published": 1794332283,
-   "score": 12.03
+   "score": 10.02
   },
   {
    "id": "70fba4d08625",
@@ -1408,18 +1507,7 @@
    "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/10/1ff8846b71c1107842551a2ad6f80bbc-6af356088bf9f.jpg?jadewits_media_id=1054321",
    "summary": "বরিশালের বাকেরগঞ্জ উপজেলা স্বাস্থ্য কমপ্লেক্সে চিকিৎসককে মারধরের ঘটনায় করা মামলার প্রধান আসামি পৌর যুবদলের জ্যেষ্ঠ যুগ্ম আহ্বায়ক ইমরান খানকে গ্রেফতার করেছে পুলিশ। মঙ্গলবার (১০ নভেম্বর) বিকালে উপজেলার ভরপাশা ইউনিয়নে নিষিদ",
    "published": 1794332271,
-   "score": 12.03
-  },
-  {
-   "id": "3221eae579ce",
-   "title": "গঙ্গার পানিবণ্টনে নতুন চুক্তি করতে ভারতের সঙ্গে আলোচনার উদ্যোগ নিয়েছে সরকার",
-   "link": "https://www.prothomalo.com/bangladesh/puy5cy8h6o",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-04-30/b7o2qfev/Parlament.png",
-   "summary": "",
-   "published": 1794332013,
-   "score": 12.0
+   "score": 10.02
   },
   {
    "id": "177a9981441e",
@@ -1430,40 +1518,7 @@
    "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/10/29/3a09aef156ba7dd76de667fc5ab53c1d-6ae3316320467.jpg?jadewits_media_id=1052023",
    "summary": "চলতি ২০২৬-২৭ অর্থবছরে সরকারি ব্যয়ে আবারও কড়াকড়ি আরোপ করেছে সরকার। ব্যয় সংকোচনের অংশ হিসেবে নতুন গাড়ি কেনা, সরকারি অর্থায়নে বিদেশে প্রশিক্ষণ ও সেমিনারে অংশগ্রহণ এবং নতুন ভবন নির্মাণ বন্ধ রাখার নির্দেশ দেওয়া হয়েছে। একই সঙ্",
    "published": 1794331938,
-   "score": 11.99
-  },
-  {
-   "id": "f471307276c5",
-   "title": "রেলে সরঞ্জাম ক্রয় থেকে সড়ক সংস্কার, সরেজমিন ৪ অভিযান দুদকের",
-   "link": "https://www.dhakapost.com/national/496930",
-   "source": "ঢাকা পোস্ট",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakapost.com&sz=64",
-   "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/dhaka-post-20261110233134.jpg?cid=496930",
-   "summary": "",
-   "published": 1794331894,
-   "score": 11.98
-  },
-  {
-   "id": "2340875116f3",
-   "title": "‘সংঘর্ষ’-এর সেই ভয়ংকর খলনায়ক এখন কোথায়",
-   "link": "https://www.prothomalo.com/entertainment/bollywood/ln1w7xu72t",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-10/7q4794bp/Ashutosh_Rana_Sangharsh.webp",
-   "summary": "",
-   "published": 1794331862,
-   "score": 11.98
-  },
-  {
-   "id": "91aa8133f77c",
-   "title": "শেয়ারবাজারে সচল হচ্ছে ছায়েদুর, হিরুর জব্দ ৯৩ বিও হিসাব",
-   "link": "https://www.prothomalo.com/business/market/z5kiweg8r2",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2022-05/7a54c5a0-9031-40d7-ab6e-ab85f9aa4445/bsec_bhaban.jpg",
-   "summary": "",
-   "published": 1794331800,
-   "score": 11.97
+   "score": 9.97
   },
   {
    "id": "2266da8eac8c",
@@ -1474,7 +1529,18 @@
    "image": "",
    "summary": "স্বামী-স্ত্রী দুজনের চাকরি করা ব্যক্তিগতভাবে পছন্দ করেন না বলে মন্তব্য করেছেন স্থানীয় সরকার, পল্লী উন্নয়ন ও সমবায় প্রতিমন্ত্রী মীর শাহে আলম। বাবা-মা দুজনই চাকরিজীবী হলে সন্তানদের ওপর এর প্রভাব পড়ে বলে মনে করেন তিনি...",
    "published": 1794331686,
-   "score": 9.95
+   "score": 7.94
+  },
+  {
+   "id": "97f374110809",
+   "title": "অস্ট্রেলিয়ার সেই ‘বল টেম্পারিং’ কা- নিয়ে মুখ খুললেন ওয়ার্নার",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZUFNVUzdlbE5HR2xwNWltRHVNNmdibkdDMUdmYUxVSlZ3LUZSQ0VIcmxrMElJNEJVd0pjSVl4MGMzYzhVVVFuWGJpcGVzUklWM2ZTVg?oc=5",
+   "source": "দৈনিক প্রবাহ",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=dailyprobaha.com.bd&sz=64",
+   "image": "",
+   "summary": "অস্ট্রেলিয়ার সেই ‘বল টেম্পারিং’ কা- নিয়ে মুখ খুললেন ওয়ার্নার দৈনিক প্রবাহ রিভার্স সুইং পেতে যেভাবে বল টেম্পারিং করেছিল অস্ট্রেলিয়া প্রথম আলো ‘সত্যটা বেরিয়ে আসুক’, বল টেম্পারিংয়ের ঘটনার পুনরায় তদন্ত চান ক্লার্ক bdne",
+   "published": 1794331489,
+   "score": 7.91
   },
   {
    "id": "029c1c5d9165",
@@ -1485,7 +1551,7 @@
    "image": "https://ecdn.dhakatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/10/9a85cabb72a62f4fcdf3341f3af657d7-6af352f837d94.jpg?jadewits_media_id=77145",
    "summary": "Dhamail festival marks occasion; cultural activists demand complex to preserve legacy Details",
    "published": 1794331462,
-   "score": 11.92
+   "score": 9.9
   },
   {
    "id": "76c276993fbc",
@@ -1496,7 +1562,7 @@
    "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/10/94fbc5f6ea592b4f5d751591d6f1dff2-6af352d32aeb0.jpg?jadewits_media_id=1054319",
    "summary": "চট্টগ্রামের জঙ্গল সলিমপুরে র‌্যাবের (বর্তমানে এসআরবি) এক কর্মকর্তা হত্যা মামলার আসামি ও আলীনগরে ইয়াসিন বাহিনীর প্রধান শীর্ষ সন্ত্রাসী মো. ইয়াসিনের নামে বিভিন্ন পরিমাণের ৭৪টি জমির বিক্রয় দলিল রেজিস্ট্রি করে দেওয়া সীতাকুণ্",
    "published": 1794331383,
-   "score": 11.91
+   "score": 19.89
   },
   {
    "id": "c13153135c6d",
@@ -1507,7 +1573,7 @@
    "image": "https://ecdn.dhakatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/10/ad1571c6c84c3aa25893c4a753e81f52-6af352098b8d1.jpg?jadewits_media_id=77144",
    "summary": "15-member team assesses 15-day fire in Ukhia to determine extinction plan, commercial viability Details",
    "published": 1794331191,
-   "score": 11.88
+   "score": 9.87
   },
   {
    "id": "8691e36ceb89",
@@ -1518,7 +1584,7 @@
    "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/10/9b2fe66cb88d78fc5fb81d12f287c23e-6af351b7316a1.jpg?jadewits_media_id=1054317",
    "summary": "ডেটিং অ্যাপ ব্যবহারে একঘেয়েমি বা ক্লান্তি দূর করতে অভিনব এক ব্যবসা মডেল নিয়ে এসেছে চীনের একটি ম্যাচমেকিং স্টার্টআপ। লিয়াংপেই এআই নামের অ্যাপটি গ্রাহকদের কাছ থেকে বার্ষিক ২৮,১৫৫ রুপি (২ হাজার ইউয়ান) ফি নিচ্ছে এবং তিন বছ",
    "published": 1794331166,
-   "score": 11.88
+   "score": 9.86
   },
   {
    "id": "fb79c5ac1e30",
@@ -1529,7 +1595,7 @@
    "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/10/1f4980534785d3a731ad4b034fe65e4b-6af351d61383b.jpg?jadewits_media_id=1054318",
    "summary": "এশিয়ায় নবায়নযোগ্য জ্বালানি খাতে বিনিয়োগ ও প্রযুক্তিগত সহযোগিতার ক্ষেত্রে স্থানীয় জনগোষ্ঠীর অধিকার, সাশ্রয়ী বিদ্যুৎপ্রাপ্তি এবং পরিবেশ সুরক্ষাকে অগ্রাধিকার দেওয়ার আহ্বান জানিয়েছেন ওয়াটারকিপার্স বাংলাদেশ ও ‘নবায়নযোগ্য জ্বা",
    "published": 1794331154,
-   "score": 11.88
+   "score": 9.86
   },
   {
    "id": "ffb1d683f3d0",
@@ -1540,7 +1606,7 @@
    "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/10/a52ab6f0283bcbbbaf5d86a5c73fdbd6-6af348ff1c1fc.jpg?jadewits_media_id=1054313",
    "summary": "আন্তোলিয়ায় তুরস্কের প্রেসিডেন্ট রিসেপ তাইয়েপ এরদোয়ানের সঙ্গে দ্বিপক্ষীয় বৈঠক করেছেন বাংলাদেশের প্রধানমন্ত্রী তারেক রহমান। মঙ্গলবার (১০ নভেম্বর) তুরস্কের স্থানীয় সময় সন্ধ্যা সোয়া ৭টায় আন্তালিয়ার ম্যাক্স রয়েল হোটেলে এ বৈ",
    "published": 1794330974,
-   "score": 51.85
+   "score": 29.84
   },
   {
    "id": "6a7f5405684e",
@@ -1551,7 +1617,7 @@
    "image": "https://images.ajkerpatrika.com/original_images/Untitled-3-d12c7a.jpg",
    "summary": "প্রধানমন্ত্রী তারেক রহমানের সঙ্গে তুরস্কের প্রেসিডেন্ট রিসেপ তাইয়েপ এরদোয়ানের দ্বিপক্ষীয় বৈঠক শুরু হয়েছে। আজ মঙ্গলবার তুরস্কের স্থানীয় সময় সন্ধ্যা সোয়া ৭টায় আন্তালিয়ার ম্যাক্স রয়েল হোটেলে এ বৈঠক শুরু হয় বলে জানান প্রধানম",
    "published": 1794330963,
-   "score": 51.85
+   "score": 29.84
   },
   {
    "id": "e18017cf2b40",
@@ -1560,9 +1626,9 @@
    "source": "জাগো নিউজ",
    "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
    "image": "",
-   "summary": "জুলাই গণঅভ্যুত্থানে আহত হয়েও যারা এখনো জুলাই যোদ্ধা হিসেবে গেজেটভুক্ত হননি, তাদের আবেদন করার সুযোগ দিয়েছে সরকার। জাতীয় পরিচয়পত্র বা জন্মসনদ, স্থায়ী ও বর্তমান ঠিকানা এবং আহত হওয়ার উপযুক্ত প্রমাণক দিয়ে আবেদন করতে পারবেন তা",
+   "summary": "জুলাই যোদ্ধার স্বীকৃতি পেতে আবেদন করতে পারবেন আহতরা",
    "published": 1794330959,
-   "score": 9.85
+   "score": 7.83
   },
   {
    "id": "58db1dec7737",
@@ -1573,7 +1639,7 @@
    "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2023/01/21/-954e91b491d9d0c8d3cf8863f44d28e5.jpg?jadewits_media_id=836221",
    "summary": "দক্ষিণ আফ্রিকা সফরে বাংলাদেশ জাতীয় ক্রিকেট দলের ফিল্ডিং কোচ হিসেবে দায়িত্ব পালন করবেন মালিবংওয়ে মাকেতা; বিভিন্ন সংবাদমাধ্যমে প্রকাশিত এমন খবরকে সত্য নয় বলে জানিয়েছে বাংলাদেশ ক্রিকেট বোর্ড (বিসিবি)। মঙ্গলবার এক বিজ্ঞপ্তিত",
    "published": 1794330716,
-   "score": 11.82
+   "score": 9.8
   },
   {
    "id": "b077f1b3ac64",
@@ -1584,7 +1650,7 @@
    "image": "https://ecdn.dhakatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/10/0d3c41b448e29061be8c2e5690a8aa3e-6af34f54e3e39.jpeg?jadewits_media_id=77143",
    "summary": "Farmers and traders face mounting losses as prices fall below production costs, with storage owners setting November 30 deadline to clear stocks. Details",
    "published": 1794330613,
-   "score": 11.8
+   "score": 9.79
   },
   {
    "id": "49747b95ad98",
@@ -1595,7 +1661,7 @@
    "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/10/5c657cacfbe2187f0475e910e1c24026-6af34f47369fc.jpg?jadewits_media_id=1054316",
    "summary": "বাংলাদেশ-শ্রীলঙ্কার ক্রিকেটীয় প্রতিদ্বন্দ্বিতা বেশ পুরোনো। দুই দলের লড়াই মানেই মাঠের উত্তেজনার পাশাপাশি নানারকম কথার লড়াই। তবে ফুটবলে সেই প্রতিদ্বন্দ্বিতাকে অন্যভাবে দেখতে চান শ্রীলঙ্কার কোচ আবদুল্লাহ আল মুতাইরি। তার মতে",
    "published": 1794330550,
-   "score": 11.79
+   "score": 9.78
   },
   {
    "id": "1dcac1b0ef2f",
@@ -1606,7 +1672,7 @@
    "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/10/43b7207ff45960b553741da958b0b1b9-6af34c1a2b862.jpg?jadewits_media_id=1054314",
    "summary": "সিলেটের রাতারগুল এলাকার একটি ইকো রিসোর্টে কার্যক্রম নিষিদ্ধ আওয়ামী লীগের সাবেক সংসদ সদস্য রনজিত সরকার সভা করেছিলেন বলে জানিয়েছে পুলিশ। ওই সভায় উপস্থিত ছিলেন রনজিতের ঘনিষ্ঠ ও আওয়ামী লীগের তাহিরপুর উপজেলা সাংগঠনিক সম্পাদক ",
    "published": 1794330182,
-   "score": 11.74
+   "score": 9.73
   },
   {
    "id": "ecf5c1ecf95d",
@@ -1617,7 +1683,7 @@
    "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/10/30/c3c4c50db0ada770d1e5cd5a2f2857af-6ae457e44e902.jpg?jadewits_media_id=1052163",
    "summary": "যুক্তরাষ্ট্রের মধ্যবর্তী নির্বাচনে রিপাবলিকান পার্টির বিশাল পরাজয়ের ঠিক একদিন পর হোয়াইট হাউসের চিফ অব স্টাফ সুজি ওয়াইলসের আকস্মিক পদত্যাগ আলোড়ন সৃষ্টি করেছে। এর মাধ্যমে প্রেসিডেন্ট ডোনাল্ড ট্রাম্পের প্রশাসনের শীর্ষ পদে থ",
    "published": 1794330176,
-   "score": 11.74
+   "score": 9.73
   },
   {
    "id": "79d406fcfbb5",
@@ -1628,18 +1694,18 @@
    "image": "https://images.ajkerpatrika.com/original_images/শ্রমিকদল-চুরি-bdd775.jpg",
    "summary": "পিরোজপুরের মঠবাড়িয়ায় চুরির চেষ্টার অভিযোগে ঝালকাঠি জেলা অটো শ্রমিকদলের সভাপতি মো. আলম ফকিরসহ দুজনকে আটক করে পুলিশে দিয়েছেন স্থানীয় বিএনপির নেতা-কর্মীরা। পরে তাঁদের আদালতের মাধ্যমে কারাগারে পাঠানো হয়েছে। আটকের খবর ছড়িয়ে প",
    "published": 1794330173,
-   "score": 11.74
+   "score": 9.73
   },
   {
-   "id": "8b4166316b7c",
-   "title": "নাশকতাকারীদের ধরতে কঠোর নির্দেশনা আইজিপির",
-   "link": "https://www.banglatribune.com/law-and-crime/980135/%E0%A6%A8%E0%A6%BE%E0%A6%B6%E0%A6%95%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A7%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A6%A0%E0%A7%8B%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%A8%E0%A6%BE-%E0%A6%86%E0%A6%87%E0%A6%9C%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%B0",
-   "source": "বাংলা ট্রিবিউন",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
-   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/10/15/0e1f05092f10b5bd4f1768610b67e476-6ad0f18284af2.jpg?jadewits_media_id=1049581",
-   "summary": "দেশে চলমান নাশকতাকারীদের গ্রেফতারে কঠোর নির্দেশনা দিয়েছেন আইজিপি আলী হোসেন ফকির। তবে অপরাধী ধরার নামে কোনো নিরীহ মানুষকে হয়রানি বা শুধু সন্দেহের ভিত্তিতে আটক না করারও নির্দেশ দেন তিনি। গত তিন দিনের নাশকতার প্রেক্ষাপটে মঙ",
-   "published": 1794330131,
-   "score": 11.74
+   "id": "1cba56e03dc5",
+   "title": "৭ হাজারের বেশি ভুয়া অ্যাকাউন্ট, বিকাশের কাছে ব্যাখ্যা চাইল বাংলাদেশ ব্যাংক",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5MVm1VNEtwWVFtT0FLRGQ5eGpiRXNNcjkxZkFXSEIzZllBaERKVDJsUi1rQzZ1WUZXNnJZdU5YcE9NeDQyTkc1X00yNTJheElDWFM4dWU4V1RTQndTT25xZ25FWQ?oc=5",
+   "source": "দ্য ডেইলি স্টার বাংলা",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=bangla.thedailystar.net&sz=64",
+   "image": "",
+   "summary": "৭ হাজারের বেশি ভুয়া অ্যাকাউন্ট, বিকাশের কাছে ব্যাখ্যা চাইল বাংলাদেশ ব্যাংক দ্য ডেইলি স্টার বাংলা",
+   "published": 1794330004,
+   "score": 7.7
   },
   {
    "id": "a0d12cde17e5",
@@ -1650,73 +1716,7 @@
    "image": "https://images.ajkerpatrika.com/original_images/Spain's-lively-public-squares-are-at-the-heart-of-the-country's-outdoor-social-life-624def.jpg",
    "summary": "স্পেনে চুম্বন যেন সর্বত্র। কারও সঙ্গে দেখা হলে দুই গালে চুমু দিয়ে অভিবাদন জানানো সেখানকার পরিচিত রীতি। তবে বিষয়টি শুধু সৌজন্য বিনিময়ে সীমাবদ্ধ নয়। ব্যস্ত সড়কের মাঝখানে দাঁড়িয়েও মধ্যবয়সী কোনো যুগলকে চুম্বনে মগ্ন থাকতে দেখ",
    "published": 1794330003,
-   "score": 11.72
-  },
-  {
-   "id": "90bcf4e95dfb",
-   "title": "বাংলাদেশ ম্যাচের আগে স্ত্রীর বার্তা শোনালেন লঙ্কান কোচ",
-   "link": "https://www.dhakapost.com/sports/496929",
-   "source": "ঢাকা পোস্ট",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakapost.com&sz=64",
-   "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/al-mutairi-srilanka-coach-20261110225956.jpg?cid=496929",
-   "summary": "",
-   "published": 1794329996,
-   "score": 11.72
-  },
-  {
-   "id": "9185cafdee6e",
-   "title": "প্রধানমন্ত্রী তারেক রহমানের সঙ্গে এরদোয়ানের বৈঠক শুরু",
-   "link": "https://www.dhakapost.com/national/496928",
-   "source": "ঢাকা পোস্ট",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakapost.com&sz=64",
-   "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/capture-20261110230014.JPG?cid=496928",
-   "summary": "",
-   "published": 1794329706,
-   "score": 51.68
-  },
-  {
-   "id": "d67bbe93dd8e",
-   "title": "‘বোমা সন্দেহে’ দুধের কৌটা পাহারায় পুলিশ",
-   "link": "https://www.ajkerpatrika.com/bangladesh/lakshmipur/ajp09n2ik1ukq",
-   "source": "আজকের পত্রিকা",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ajkerpatrika.com&sz=64",
-   "image": "https://images.ajkerpatrika.com/original_images/রায়পুর-cf491f.jpg",
-   "summary": "লক্ষ্মীপুরের রায়পুরে বোমাসদৃশ বস্তু সন্দেহে দুটি দুধের কৌটা উদ্ধার করেছে পুলিশ। আজ মঙ্গলবার বিকেলে উপজেলার উত্তর চরবংশী ইউনিয়নের চরবংশী গ্রামের একটি পরিত্যক্ত বাড়ি থেকে কৌটা দুটি উদ্ধার করা হয়। এগুলোতে বিস্ফোরক থাকতে পার",
-   "published": 1794329659,
-   "score": 11.67
-  },
-  {
-   "id": "67583f72ea4a",
-   "title": "শ্যামলীতে চলন্ত বাসে আগুন",
-   "link": "https://www.dhakapost.com/national/496927",
-   "source": "ঢাকা পোস্ট",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakapost.com&sz=64",
-   "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/dhaka-post-2026-11-10t225114745-20261110225351.jpg?cid=496927",
-   "summary": "",
-   "published": 1794329631,
-   "score": 41.67
-  },
-  {
-   "id": "f1d6fd4700f6",
-   "title": "চাঁপাইনবাবগঞ্জে ককটেল বিস্ফোরণে পথচারী আহত",
-   "link": "https://www.dhakapost.com/country/496926",
-   "source": "ঢাকা পোস্ট",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakapost.com&sz=64",
-   "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/injured-chapainababganj-20261110225022.jpg?cid=496926",
-   "summary": "",
-   "published": 1794329422,
-   "score": 11.64
-  },
-  {
-   "id": "f700b143a644",
-   "title": "‘বিশ্বের কোনো দলই সব সময় ভালো করতে পারে না’",
-   "link": "https://www.ajkerpatrika.com/sports/cricket/ajpzxz0tbl2fx",
-   "source": "আজকের পত্রিকা",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ajkerpatrika.com&sz=64",
-   "image": "https://images.ajkerpatrika.com/original_images/hridoy-239b9d.gif",
-   "summary": "সিলেট টেস্টের রেশ কাটতে না কাটতেই দক্ষিণ আফ্রিকার বিমান ধরতে হয়েছে বাংলাদেশ দলকে। দেশ ছাড়ার আগে বিসিবির এক ভিডিও বার্তায় টেস্টে নিজের অভিজ্ঞতা ও পারফরম্যান্স নিয়ে কথা বলেছেন তাওহীদ হৃদয়। বিস্তারিত",
-   "published": 1794329402,
-   "score": 11.63
+   "score": 9.7
   },
   {
    "id": "2033319a2450",
@@ -1725,20 +1725,9 @@
    "source": "জাগো নিউজ",
    "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
    "image": "",
-   "summary": "তুরস্কের প্রেসিডেন্ট রিসেপ তাইয়েপ এরদোয়ানের সঙ্গে প্রধানমন্ত্রী তারেক রহমানের দ্বিপক্ষীয় বৈঠক শুরু হয়েছে....",
+   "summary": "এরদোয়ানের সঙ্গে প্রধানমন্ত্রী তারেক রহমানের বৈঠক শুরু",
    "published": 1794329397,
-   "score": 49.63
-  },
-  {
-   "id": "cfea1f83585e",
-   "title": "কপ৩১ সম্মেলনে যোগ দিতে আন্তালিয়ায় পৌঁছেছেন প্রধানমন্ত্রী",
-   "link": "https://www.ajkerpatrika.com/national/ajp4t5g4ydztm",
-   "source": "আজকের পত্রিকা",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ajkerpatrika.com&sz=64",
-   "image": "https://images.ajkerpatrika.com/original_images/pm-2db0e5.jpg",
-   "summary": "প্রধানমন্ত্রী তারেক রহমান কপ৩১ সম্মেলনে যোগ দিতে তিন দিনের সরকারি সফরে আজ (স্থানীয় সময়) বিকেলে ৪টা ৩ মিনিটে তুরস্কের আন্তালিয়ায় পৌঁছেছেন। বিস্তারিত",
-   "published": 1794329173,
-   "score": 11.6
+   "score": 27.62
   },
   {
    "id": "f39938fa37bf",
@@ -1749,18 +1738,7 @@
    "image": "https://ecdn.dhakatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/10/0144df88f2f2311c5016377689f75ea7-6af348f12c8ed.jpg?jadewits_media_id=77142",
    "summary": "'They left the economy in ruins, with the banking sector alone needing around $40 billion for recovery. In short, they left the economy in the ICU and fled,' he says Details",
    "published": 1794328925,
-   "score": 11.57
-  },
-  {
-   "id": "d317e82869cd",
-   "title": "যুবলীগ নেতাকে ছাড়াতে তদবির, পদ হারালেন ছাত্রদল নেতা",
-   "link": "https://www.ajkerpatrika.com/bangladesh/cumilla/ajpssmvzj1ccj",
-   "source": "আজকের পত্রিকা",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ajkerpatrika.com&sz=64",
-   "image": "https://images.ajkerpatrika.com/original_images/ব্রাহ্মণপাড়া-ছাত্রদল-b20adc.jpg",
-   "summary": "কুমিল্লার ব্রাহ্মণপাড়ায় গ্রেপ্তার এক যুবলীগ নেতাকে থানা থেকে ছাড়িয়ে নিতে তদবিরের অভিযোগে উপজেলা ছাত্রদলের সদস্যসচিব ফয়সাল কবির আখন্দকে স্থায়ীভাবে বহিষ্কার করা হয়েছে। গতকাল ওয়ার্ড যুবলীগের সাংগঠনিক সম্পাদক মো. নূর আলমকে গ",
-   "published": 1794328876,
-   "score": 21.56
+   "score": 9.55
   },
   {
    "id": "5eac2df4448f",
@@ -1769,31 +1747,9 @@
    "source": "জাগো নিউজ",
    "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
    "image": "",
-   "summary": "মানবতাবিরোধী অপরাধে মৃত্যুদণ্ডপ্রাপ্ত ও ক্ষমতাচ্যুত সাবেক প্রধানমন্ত্রী শেখ হাসিনাকে নতুন করে পাসপোর্ট বা ট্রাভেল পাস দেওয়ার আইনগত সুযোগ নেই বলে জানিয়েছেন আন্তর্জাতিক অপরাধ ট্রাইব্যুনালের চিফ প্রসিকিউটর মো. আমিনুল ইসলাম.",
+   "summary": "হাসিনাকে পাসপোর্ট দেওয়ার সুযোগ নেই, ভারতকে প্রত্যর্পণের আবেদন করতে হবে",
    "published": 1794328846,
-   "score": 9.56
-  },
-  {
-   "id": "342766cb288e",
-   "title": "মোহাম্মদপুরে দিনেদুপুরে সবার সামনে যুবককে কুপিয়ে সব লুট",
-   "link": "https://www.banglatribune.com/law-and-crime/980131/%E0%A6%AE%E0%A7%8B%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AE%E0%A6%A6%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%87-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%A6%E0%A7%81%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%87-%E0%A6%B8%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%AE%E0%A6%A8%E0%A7%87-%E0%A6%AF%E0%A7%81%E0%A6%AC%E0%A6%95%E0%A6%95%E0%A7%87-%E0%A6%95%E0%A7%81%E0%A6%AA%E0%A6%BF%E0%A7%9F%E0%A7%87",
-   "source": "বাংলা ট্রিবিউন",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
-   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/10/fafbf604227209a262c712def5751d6b-6af3484005a74.jpg?jadewits_media_id=1054312",
-   "summary": "রাজধানীর মোহাম্মদপুরে দিনদুপুরে চাপাতিসহ ধারালো অস্ত্র নিয়ে এক যুবককে কুপিয়ে আইফোন ও টাকাসহ ওয়ালেট ছিনিয়ে নিয়েছে দুর্বৃত্তরা। মঙ্গলবার (১০ নভেম্বর) বেলা দেড়টার দিকে মোহাম্মদপুর বাসস্ট্যান্ড এলাকায় আল্লাহ করিম মসজিদের পাশ",
-   "published": 1794328769,
-   "score": 11.55
-  },
-  {
-   "id": "e24c888e3caf",
-   "title": "ছাত্রীকে সহকারী শিক্ষক ও সহকর্মীকে প্রধান শিক্ষক যৌন হয়রানি করে বরখাস্ত",
-   "link": "https://www.ajkerpatrika.com/bangladesh/pirojpur/ajp08sjr2uer3",
-   "source": "আজকের পত্রিকা",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ajkerpatrika.com&sz=64",
-   "image": "https://images.ajkerpatrika.com/original_images/Untitled-6-959ac8.jpg",
-   "summary": "পিরোজপুরের কাউখালীতে পঞ্চম শ্রেণির এক ছাত্রী ও এক সহকারী শিক্ষিকাকে যৌন হয়রানির পৃথক অভিযোগে দুই শিক্ষককে সাময়িক বরখাস্ত করা হয়েছে। প্রাথমিক তদন্তে অভিযোগের সত্যতা পাওয়ার পর তাঁদের বিরুদ্ধে এ ব্যবস্থা নেওয়া হয়। বিস্তারিত",
-   "published": 1794328760,
-   "score": 11.55
+   "score": 7.54
   },
   {
    "id": "a030f817ff25",
@@ -1802,20 +1758,20 @@
    "source": "প্রথম আলো",
    "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
    "image": "",
-   "summary": "ঢাকায় ভিডিও করা চীনা ভ্লগারদের বিরুদ্ধে ব্যবস্থা চায় ভারত প্রথম আলো ঢাকার বস্তিকে দিল্লি বলে প্রচার, চীনা ভ্লগারদের কাণ্ডে উদ্বিগ্ন ভারত Dhakatimes24 ঢাকাকে নয়াদিল্লি বলে লাইভ করছেন চীনারা, কেন? Bangla Tribune “ওরা গরুর ",
+   "summary": "ঢাকায় ভিডিও করা চীনা ভ্লগারদের বিরুদ্ধে ব্যবস্থা চায় ভারত প্রথম আলো ঢাকার বস্তিকে দিল্লি বলে প্রচার, চীনা ভ্লগারদের কাণ্ডে উদ্বিগ্ন ভারত Dhakatimes24 চিনের ভ্লগারদের ভারত-বিরোধী প্রচারের তীব্র নিন্দা করে বাংলাদেশকে পদক্ষ",
    "published": 1794328554,
-   "score": 9.52
+   "score": 7.5
   },
   {
-   "id": "81b1af1c0697",
-   "title": "২০২৭ সালের হজের সৌদি পর্বের খরচ আইবিএএন পদ্ধতিতে পাঠানোর নির্দেশ",
-   "link": "https://www.ajkerpatrika.com/national/ajpuqm21wupyr",
-   "source": "আজকের পত্রিকা",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ajkerpatrika.com&sz=64",
-   "image": "https://images.ajkerpatrika.com/original_images/Hajj-Jatra-hj-ytr.jpg",
-   "summary": "২০২৭ সালের হজ মৌসুমে সরকারি ও বেসরকারি ব্যবস্থাপনার হজযাত্রীদের সৌদি পর্বের খরচ আন্তর্জাতিক ব্যাংক হিসাব নম্বর বা আইবিএএন (ইন্টারন্যাশনাল ব্যাংক অ্যাকাউন্ট নম্বর) পদ্ধতিতে পাঠানোর নির্দেশ দিয়েছে বাংলাদেশ ব্যাংক। বিস্তারি",
-   "published": 1794328528,
-   "score": 11.51
+   "id": "d0e272e418f2",
+   "title": "শ্যামলীতে যাত্রীবাহী বাসে আগুন",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9aaU14MHRiaUZvYjk4bGdmTUVJRGpzUDFTVTFoeFUwZ3ZNQmREVVExOUlaTTJ3c29SNXdvNUZ3Y3B4cENGcEhDNmt3YkFLUUc0R0c4T2dOYlFlVEh6dWc?oc=5",
+   "source": "bdnews24.com",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=bangla.bdnews24.com&sz=64",
+   "image": "",
+   "summary": "শ্যামলীতে যাত্রীবাহী বাসে আগুন bdnews24.com ঢাকায় কয়েকটি স্থানে বাসে আগুন ও ককটেল বিস্ফোরণ প্রথম আলো শ্যামলীতে বাসে আগুন দ্য ডেইলি স্টার বাংলা এবার মিরপুরে দাঁড়িয়ে থাকা বাসে আগুন bdnews24.com ফার্মগেট মেট্রো স্টেশনের ন",
+   "published": 1794328500,
+   "score": 37.49
   },
   {
    "id": "46245c917e98",
@@ -1824,9 +1780,9 @@
    "source": "জাগো নিউজ",
    "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
    "image": "",
-   "summary": "২০২৫ সালের ১৬ নভেম্বর টিকে গ্রুপের সুপার পেট্রোকেমিক্যাল পিএলসির (এসপিএল) নতুন রিফাইনারি করার আবেদন নাকচ করে দেয় জ্বালানি ও খনিজ সম্পদ বিভাগ। নাকচের পরেও ‘অদৃশ্যশক্তিতে’ প্ল্যান্ট নির্মাণের....",
+   "summary": "মন্ত্রণালয় রিফাইনারির আবেদন নাকচ করার এক বছর পর ফের কমিটি বিপিসির",
    "published": 1794328231,
-   "score": 9.47
+   "score": 7.46
   },
   {
    "id": "262ee5219af4",
@@ -1837,18 +1793,7 @@
    "image": "https://ecdn.dhakatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/10/b9ee2757cefd9d6a6402996ffe3ee30e-6af31bc248370.png?jadewits_media_id=77131",
    "summary": "Three people, including a Chhatra League activist, allegedly threw three petrol bombs at the Patgati branch; no casualties reported Details",
    "published": 1794328049,
-   "score": 11.45
-  },
-  {
-   "id": "d094d7772219",
-   "title": "আ.লীগের সাবেক সেই এমপি বললেন ‘আমি এখনও দেশেই আছি, দেখি পুলিশ খুঁজে বের করুক’",
-   "link": "https://www.banglatribune.com/country/sylhet/980130/%E0%A6%86.%E0%A6%B2%E0%A7%80%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%BE%E0%A6%AC%E0%A7%87%E0%A6%95-%E0%A6%B8%E0%A7%87%E0%A6%87-%E0%A6%8F%E0%A6%AE%E0%A6%AA%E0%A6%BF-%E0%A6%AC%E0%A6%B2%E0%A6%B2%E0%A7%87%E0%A6%A8-%E2%80%98%E0%A6%86%E0%A6%AE%E0%A6%BF-%E0%A6%8F%E0%A6%96%E0%A6%A8%E0%A6%93-%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%87-%E0%A6%86%E0%A6%9B%E0%A6%BF",
-   "source": "বাংলা ট্রিবিউন",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
-   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/10/17fc9d985097e9d97858322c8965990a-6af3442ea72e9.jpg?jadewits_media_id=1054311",
-   "summary": "কার্যক্রম নিষিদ্ধ আওয়ামী লীগের সিলেট জেলার সাংগঠনিক সম্পাদক ও সুনামগঞ্জ-১ আসনের সাবেক সংসদ সদস্য অ্যাডভোকেট রনজিত সরকারের একটি ভিডিও ঘিরে আলোচনা-সমালোচনা শুরু হয়েছে। ভিডিওটি কোথায় ধারণ করা হয়েছে—ভারতে নাকি বাংলাদেশের ভেত",
-   "published": 1794327646,
-   "score": 11.39
+   "score": 9.43
   },
   {
    "id": "f331e76d9e83",
@@ -1857,9 +1802,64 @@
    "source": "জাগো নিউজ",
    "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
    "image": "",
-   "summary": "দীর্ঘ নয় বছরের পথচলার ইতি টেনে শেষ হয়েছে জনপ্রিয় ধারাবাহিক ‘ব্যাচেলর পয়েন্ট’র পঞ্চম সিজনের শুটিং। সময়ের সঙ্গে দর্শকের কাছে কেবল একটি নাটক...",
+   "summary": "‘ব্যাচেলর পয়েন্ট’ শেষ, স্মৃতিচারণে আবেগঘন পোস্ট কাবিলার",
    "published": 1794327637,
-   "score": 9.39
+   "score": 7.37
+  },
+  {
+   "id": "b35255eecf34",
+   "title": "‘আমরা জানতাম না’, স্যান্ডপেপার বিতর্কে উল্টো সুর স্টার্ক",
+   "link": "https://www.jagonews24.com/sports/cricket/1178040",
+   "source": "জাগো নিউজ",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
+   "image": "",
+   "summary": "‘আমরা জানতাম না’, স্যান্ডপেপার বিতর্কে উল্টো সুর স্টার্ক",
+   "published": 1794327509,
+   "score": 7.36
+  },
+  {
+   "id": "91147d992364",
+   "title": "এইচএসসিতে শূন্য পাস ১৫ প্রতিষ্ঠান বন্ধের পরামর্শ",
+   "link": "https://www.jagonews24.com/country/news/1178039",
+   "source": "জাগো নিউজ",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
+   "image": "",
+   "summary": "এইচএসসিতে শূন্য পাস ১৫ প্রতিষ্ঠান বন্ধের পরামর্শ",
+   "published": 1794327292,
+   "score": 7.33
+  },
+  {
+   "id": "ad9e2aa38e90",
+   "title": "শ্যামলীতে ঠিকানা পরিবহনের বাসে আগুন",
+   "link": "https://www.jagonews24.com/national/news/1178038",
+   "source": "জাগো নিউজ",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
+   "image": "",
+   "summary": "শ্যামলীতে ঠিকানা পরিবহনের বাসে আগুন",
+   "published": 1794327230,
+   "score": 17.32
+  },
+  {
+   "id": "c1072bf9a7fd",
+   "title": "Bangladesh joins global drive to bring solar power to 300 million homes by 2030",
+   "link": "https://www.dhakatribune.com/bangladesh/foreign-affairs/424273/bangladesh-joins-global-drive-to-bring-solar-power",
+   "source": "Dhaka Tribune",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakatribune.com&sz=64",
+   "image": "https://ecdn.dhakatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/10/572213452e9077a78da63b4643ca1ead-6af340f96da30.jpg?jadewits_media_id=77141",
+   "summary": "Dhaka seeks international support to achieve 5,500MW rooftop solar target Details",
+   "published": 1794326915,
+   "score": 9.27
+  },
+  {
+   "id": "132fe81794b2",
+   "title": "সুখবর দিয়েছে লুবাবা",
+   "link": "https://www.jagonews24.com/entertainment/news/1178037",
+   "source": "জাগো নিউজ",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
+   "image": "",
+   "summary": "সুখবর দিয়েছে লুবাবা",
+   "published": 1794326834,
+   "score": 7.26
   }
  ],
  "breaking": [
@@ -1871,8 +1871,8 @@
    "sourceIcon": "https://www.google.com/s2/favicons?domain=www.bbc.co.uk&sz=64",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1daa/live/06872e50-dd0a-11f1-b441-2b33b063138f.jpg",
    "summary": "মার্কিন প্রতিরক্ষামন্ত্রী পিট হেগসেথকে ইমপিচ বা অভিশংসন করার জন্য একটি প্রস্তাব উত্থাপন করেছেন রিপাবলিকান একজন কংগ্রেসম্যান। অন্যদিকে বাংলাদেশের ক্ষমতাচ্যুত প্রধানমন্ত্রী শেখ হাসিনাকে প্রত্যপর্ণের বিষয়টি আইনিভাবে সুরাহা ",
-   "published": 1794346433,
-   "score": 14.0
+   "published": 1794360948,
+   "score": 24.0
   },
   {
    "id": "340d9020b5fb",
@@ -1882,206 +1882,206 @@
    "sourceIcon": "https://www.google.com/s2/favicons?domain=www.bbc.co.uk&sz=64",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6da7/live/82dbd090-dc34-11f1-b441-2b33b063138f.jpg",
    "summary": "বাংলাদেশের পোশাক শ্রমিকদের ন্যূনতম মজুরি ৩২ হাজার টাকা করার প্রস্তাব দিয়েছে শ্রমিক প্রতিনিধিরা। অন্যদিকে ভারতে অবস্থানরত বাংলাদেশের ক্ষমতাচ্যুত প্রধানমন্ত্রী শেখ হাসিনা নতুন পাসপোর্ট ও এনআইডির যে আবেদন করেছেন, ইমেইলে সে",
-   "published": 1794346433,
+   "published": 1794360948,
    "score": 14.0
   },
   {
-   "id": "4a62457ef7f9",
-   "title": "যুবলীগ নেতাকে ছাড়াতে তদবির, ছাত্রদল নেতা বহিষ্কার",
-   "link": "https://www.banglatribune.com/country/chitagong/980153/%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AB%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%AF%E0%A7%81%E0%A6%AC%E0%A6%B2%E0%A7%80%E0%A6%97-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%A4%E0%A6%A6%E0%A6%AC%E0%A6%BF%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%97%E0%A6%BF%E0%A7%9F%E0%A7%87",
-   "source": "বাংলা ট্রিবিউন",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
-   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/11/42f4a38f44a2435322339a52ebe741fe-6af38aa3f321c.jpg?jadewits_media_id=1054331",
-   "summary": "কুমিল্লার ব্রাহ্মণপাড়া উপজেলা ছাত্রদলের সদস্যসচিব ফয়সাল কবির আখন্দকে স্থায়ীভাবে বহিষ্কার করা হয়েছে। মঙ্গলবার (১১ নভেম্বর) কেন্দ্রীয় ছাত্রদল তাকে বহিষ্কার করে। গ্রেফতার এক যুবলীগ নেতাকে ছাড়িয়ে নিতে থানার ভারপ্রাপ্ত কর্মকর",
-   "published": 1794345956,
-   "score": 23.93
+   "id": "ca3d22143f90",
+   "title": "এসএসসি পাসেই আড়ংয়ে চাকরি, বেতন ছাড়াও আছে অন্যান্য সুবিধা",
+   "link": "https://www.dhakapost.com/jobs-career/496951",
+   "source": "ঢাকা পোস্ট",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakapost.com&sz=64",
+   "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/aarong-job-20261111073400.jpg?cid=496951",
+   "summary": "",
+   "published": 1794360840,
+   "score": 13.98
   },
   {
-   "id": "762e387a4da0",
-   "title": "কুষ্টিয়া সরকারি কলেজে মাদকবিরোধী অভিযানে গিয়ে ডিবির ৩ সদস্য আহত",
-   "link": "https://www.jagonews24.com/country/news/1178055",
-   "source": "জাগো নিউজ",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
-   "image": "",
-   "summary": "কুষ্টিয়া সরকারি কলেজ ক্যাম্পাসে মাদকবিরোধী অভিযান চালাতে গিয়ে হামলার শিকার হয়েছেন জেলা গোয়েন্দা পুলিশের (ডিবি) তিন সদস্য। আহতদের মধ্যে দুজন উপপরিদর্শক (এসআই) ও একজন কনস্টেবল রয়েছেন....",
-   "published": 1794345895,
-   "score": 11.93
-  },
-  {
-   "id": "e64fbd3a537f",
-   "title": "আজকের নামাজের সময়সূচি: ১১ নভেম্বর ২০২৬",
-   "link": "https://www.ajkerpatrika.com/islam/ajp6k99r7okdc",
+   "id": "baac4648c043",
+   "title": "কোরআন ও হাদিসে জ্ঞানীদের সুউচ্চ অবস্থান",
+   "link": "https://www.ajkerpatrika.com/islam/ajpu6oahksxsa",
    "source": "আজকের পত্রিকা",
    "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ajkerpatrika.com&sz=64",
-   "image": "https://images.ajkerpatrika.com/original_images/namaz_R7pvGcK.jpg",
-   "summary": "নামাজ আমাদের জীবনের এক অবিচ্ছেদ্য অংশ। একজন মুমিনের জন্য নামাজ হলো আধ্যাত্মিক প্রশান্তি ও জীবনের বরকত লাভের সর্বোত্তম মাধ্যম। প্রতিদিন সময়মতো নামাজ আদায় করা প্রতিটি মুসলমানের ওপর ফরজ। নিচে ঢাকা ও তার পার্শ্ববর্তী এলাকার ",
-   "published": 1794345185,
+   "image": "https://images.ajkerpatrika.com/original_images/islam-72694d.gif",
+   "summary": "পবিত্র কোরআনে আল্লাহ তাআলা জ্ঞানীদের সুউচ্চ মর্যাদা সম্পর্কে সুনির্দিষ্ট দিকনির্দেশনা দিয়েছেন। সুরা জুমারের ৯ নম্বর আয়াতে আল্লাহ তাআলা প্রশ্নের ছলে ইরশাদ করেন, ‘বলুন, যারা জানে আর যারা জানে না, তারা কি সমান হতে পারে?’ এই",
+   "published": 1794360794,
+   "score": 13.98
+  },
+  {
+   "id": "981ab763a443",
+   "title": "ফার্স্ট লেডি এমিনে এরদোয়ানের সঙ্গে ডা. জুবাইদা রহমানের বৈঠক",
+   "link": "https://www.banglatribune.com/national/980158/%E0%A6%AB%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8%E0%A7%8D%E0%A6%9F-%E0%A6%B2%E0%A7%87%E0%A6%A1%E0%A6%BF-%E0%A6%8F%E0%A6%AE%E0%A6%BF%E0%A6%A8%E0%A7%87-%E0%A6%8F%E0%A6%B0%E0%A6%A6%E0%A7%8B%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%A1%E0%A6%BE.-%E0%A6%9C%E0%A7%81%E0%A6%AC%E0%A6%BE%E0%A6%87%E0%A6%A6%E0%A6%BE",
+   "source": "বাংলা ট্রিবিউন",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
+   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/11/89bb19c6eb334d63afb2abce82e1aa5d-6af3c2c5ba469.jpg?jadewits_media_id=1054336",
+   "summary": "জাতিসংঘ জলবায়ু সম্মেলন কপ-৩১ উপলক্ষে তুরস্কের আন্তালিয়ায় বাংলাদেশের প্রধানমন্ত্রীর সহধর্মিণী ডা. জুবাইদা রহমানের সঙ্গে বৈঠক করেছেন তুরস্কের প্রেসিডেন্ট রিসেপ তাইয়েপ এরদোয়ানের সহধর্মিণী এমিনে এরদোয়ান। আনতালিয়ায় জলবা",
+   "published": 1794360136,
+   "score": 13.89
+  },
+  {
+   "id": "6f2a15cef0c7",
+   "title": "ফার্স্ট লেডি এমিনে এরদোয়ানের সঙ্গে ডা. জুবাইদা রহমানের বৈঠক",
+   "link": "https://www.banglatribune.com/national/980157/%E0%A6%AB%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8%E0%A7%8D%E0%A6%9F-%E0%A6%B2%E0%A7%87%E0%A6%A1%E0%A6%BF-%E0%A6%8F%E0%A6%AE%E0%A6%BF%E0%A6%A8%E0%A7%87-%E0%A6%8F%E0%A6%B0%E0%A6%A6%E0%A7%8B%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%87-%E0%A6%A1%E0%A6%BE.-%E0%A6%9C%E0%A7%81%E0%A6%AC%E0%A6%BE%E0%A6%87%E0%A6%A6%E0%A6%BE",
+   "source": "বাংলা ট্রিবিউন",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
+   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/11/89bb19c6eb334d63afb2abce82e1aa5d-6af3c2c5ba469.jpg?jadewits_media_id=1054336",
+   "summary": "জাতিসংঘ জলবায়ু সম্মেলন কপ-৩১ উপলক্ষে তুরস্কের আন্তালিয়ায় বাংলাদেশের প্রধানমন্ত্রীর সহধর্মিণী ডা. জুবাইদা রহমানের সঙ্গে বৈঠক করেছেন তুরস্কের প্রেসিডেন্ট রিসেপ তাইয়েপ এরদোয়ানের সহধর্মিণী এমিনে এরদোয়ান। আনতালিয়ায় জলবা",
+   "published": 1794360134,
+   "score": 13.89
+  },
+  {
+   "id": "8d9b72613117",
+   "title": "বাংলাদেশ সফরে আসছেন জাতিসংঘের মিয়ানমার বিষয়ক বিশেষ দূত কেলি কারি",
+   "link": "https://www.banglatribune.com/others/980156/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-%E0%A6%B8%E0%A6%AB%E0%A6%B0%E0%A7%87-%E0%A6%86%E0%A6%B8%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF%E0%A6%B8%E0%A6%82%E0%A6%98%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%A8%E0%A6%AE%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%B7%E0%A7%9F%E0%A6%95-%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B7",
+   "source": "বাংলা ট্রিবিউন",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
+   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/11/932ec1092035a9718eceb80854e93db5-6af3c150ddece.jpg?jadewits_media_id=1054335",
+   "summary": "মিয়ানমারের মানবাধিকার পরিস্থিতি বিষয়ক জাতিসংঘের বিশেষ র‍্যাপোর্টিয়ার কেলি ই. কারি আজ বুধবার ঢাকায় আসছেন। তিনি ১১ থেকে ১৮ নভেম্বর পর্যন্ত বাংলাদেশ সফর করবেন। আজ জেনেভা থেকে জাতিসংঘের মানবাধিকার দপ্তরের এক বিবৃতিতে এ তথ",
+   "published": 1794359730,
    "score": 13.83
   },
   {
-   "id": "66489e95f8ae",
-   "title": "রোহিঙ্গা প্রত্যাবাসনে তুরস্কের সমর্থন অব্যাহত রাখার আহ্বান প্রধানমন্ত্রীর",
-   "link": "https://www.prothomalo.com/bangladesh/vq4xnlmkx1",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-10/eix2hokt/uimage-8.jpg",
-   "summary": "",
-   "published": 1794344584,
-   "score": 13.74
+   "id": "2423107d1999",
+   "title": "কুমিল্লার লালমাই-ময়নামতি: উন্নয়নের চাপে প্রত্নতাত্ত্বিক নিদর্শন",
+   "link": "https://www.ajkerpatrika.com/bangladesh/cumilla/ajpggbi9xxv0a",
+   "source": "আজকের পত্রিকা",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ajkerpatrika.com&sz=64",
+   "image": "https://images.ajkerpatrika.com/original_images/03-dc2a17.jpg",
+   "summary": "প্রাচীন বাংলার ছয় রাজবংশের অন্তত ৩৪ জন রাজার শাসনামলের স্মৃতিচিহ্ন ছড়িয়ে আছে কুমিল্লার লালমাই-ময়নামতি পাহাড়জুড়ে। প্রত্নতাত্ত্বিকেরা বলছেন, এসব রাজার শাসনামলের সবকিছু এখনো আবিস্কৃত হয়নি। বিস্তারিত",
+   "published": 1794358944,
+   "score": 13.72
   },
   {
-   "id": "0cede6905fa9",
-   "title": "‘জয় বাংলা’ স্লোগান দিয়ে থানার সামনে বিস্ফোরণ, ওসির দাবি চাকা ফেটেছে",
-   "link": "https://www.jagonews24.com/country/news/1178054",
-   "source": "জাগো নিউজ",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
-   "image": "",
-   "summary": "কিশোরগঞ্জের ভৈরব থানার প্রধান ফটকের সামনে বিস্ফোরণের ঘটনা ঘটেছে। চলন্ত মোটরসাইকেল থেকে কিছু নিক্ষেপের পর ‘জয় বাংলা, জয় বঙ্গবন্ধু’ স্লোগান দেন আরোহীরা....",
-   "published": 1794344336,
-   "score": 11.71
+   "id": "8b4166316b7c",
+   "title": "নাশকতাকারীদের ধরতে কঠোর নির্দেশনা আইজিপির",
+   "link": "https://www.banglatribune.com/law-and-crime/980135/%E0%A6%A8%E0%A6%BE%E0%A6%B6%E0%A6%95%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%A7%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%95%E0%A6%A0%E0%A7%8B%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A6%A8%E0%A6%BE-%E0%A6%86%E0%A6%87%E0%A6%9C%E0%A6%BF%E0%A6%AA%E0%A6%BF%E0%A6%B0",
+   "source": "বাংলা ট্রিবিউন",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
+   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/10/15/0e1f05092f10b5bd4f1768610b67e476-6ad0f18284af2.jpg?jadewits_media_id=1049581",
+   "summary": "দেশে চলমান নাশকতাকারীদের গ্রেফতারে কঠোর নির্দেশনা দিয়েছেন আইজিপি আলী হোসেন ফকির। তবে অপরাধী ধরার নামে কোনো নিরীহ মানুষকে হয়রানি বা শুধু সন্দেহের ভিত্তিতে আটক না করারও নির্দেশ দেন তিনি। গত তিন দিনের নাশকতার প্রেক্ষাপটে মঙ",
+   "published": 1794358933,
+   "score": 13.72
   },
   {
-   "id": "8c9a695df337",
-   "title": "সাবেক দুই সেনা কর্মকর্তা আবারও রিমান্ডে",
-   "link": "https://www.prothomalo.com/bangladesh/crime/ao71nuwudy",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-16/o0it13lr/Ex-Army-Officers.jpeg",
-   "summary": "",
-   "published": 1794344333,
+   "id": "91481c63f434",
+   "title": "ভোরে রাজধানীতে বজ্রবৃষ্টি",
+   "link": "https://www.banglatribune.com/weather/980155/%E0%A6%AD%E0%A7%8B%E0%A6%B0%E0%A7%87-%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%AC%E0%A6%9C%E0%A7%8D%E0%A6%B0%E0%A6%AC%E0%A7%83%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%BF",
+   "source": "বাংলা ট্রিবিউন",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
+   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/11/65cb8b610bc1afcef58e10499bf2f60a-6af3bdecdc2b9.jpg?jadewits_media_id=1054334",
+   "summary": "আজ বুধবার ভোরে রাজধানীর বিভিন্ন এলাকায় বজ্রসহ বৃষ্টি হয়েছে। ভোর সাড়ে ৫টার দিক থেকে বৃষ্টি শুরু হয়। এ রিপোর্ট লেখা পর্যন্ত গুঁড়ি গুঁড়ি বৃষ্টি হচ্ছে। পুরো আকাশ মেঘে ঢেকে আছে। এর আগে মঙ্গলবার সন্ধ্যা ৬টা থেকে পরবর্তী ২৪ ঘণ্",
+   "published": 1794358855,
    "score": 13.71
   },
   {
-   "id": "62b79975cd9e",
-   "title": "কার্বারী অ্যাসোসিয়েন বিলুপ্ত, সাজেকের অবরোধ প্রত্যাহার ঘোষণা",
-   "link": "https://www.banglatribune.com/country/chitagong/980152/%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A7%80-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%8B%E0%A6%B8%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%A8-%E0%A6%AC%E0%A6%BF%E0%A6%B2%E0%A7%81%E0%A6%AA%E0%A7%8D%E0%A6%A4-%E0%A6%B8%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%85%E0%A6%AC%E0%A6%B0%E0%A7%8B%E0%A6%A7",
-   "source": "বাংলা ট্রিবিউন",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
-   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/11/d705944489bc7bf5a73430e47d477b1c-6af3848066cb9.jpg?jadewits_media_id=1054330",
-   "summary": "সাজেক কার্বারী অ্যাসোসিয়েশনের সভাপতি পদ থেকে পদত্যাগ করে সংগঠনটির কমিটি বিলুপ্ত ঘোষণা করেছেন সংগঠনটির সভাপতি নতুন জয় চাকমা। মঙ্গলবার রাতে এক ভিডিও বার্তায় তিনি এ ঘোষণা দেন। তবে, ৭ নভেম্বর গঠিত সাজেক পর্যটন সড়ক অবরোধ বাস্",
-   "published": 1794344259,
+   "id": "807c3eb74bcb",
+   "title": "এইডস কীভাবে শুরু হয়েছিল",
+   "link": "https://www.bigganchinta.com/cause/jdk3t9liyp",
+   "source": "প্রথম আলো",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.bigganchinta.com&sz=64",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-01-26/txr3xvt3/hivaids.avif",
+   "summary": "",
+   "published": 1794358800,
    "score": 13.7
   },
   {
-   "id": "ef39448b9fdd",
-   "title": "একসঙ্গে পাঁচ সরকারি চাকরি, প্রতারণার দায়ে ব্রিটিশ–বাংলাদেশি দোষী সাব্যস্ত",
-   "link": "https://www.prothomalo.com/bangladesh/ytsbvdlgyx",
+   "id": "9fbf3ca3ae9f",
+   "title": "ছয় দশক পর ইয়র্কশায়ারের উপকূলে ধরা পড়ল বিশালাকার ব্লুফিন টুনা",
+   "link": "https://www.kishoralo.com/feature/befu57jtky",
+   "source": "প্রথম আলো",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.kishoralo.com&sz=64",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-10/vouvproo/1536.png",
+   "summary": "গত আগস্টের মাঝামাঝি সময়ে ইংল্যান্ডের হুইটবি উপকূলে এক দিনের ব্যবধানে মাছ দুটি ধরা পড়ে। ষাটের দশকের পর এই প্রথম উত্তর সাগর থেকে বাজারে বিক্রির জন্য ব্লুফিন টুনা ধরা হলো।",
+   "published": 1794358800,
+   "score": 13.7
+  },
+  {
+   "id": "9202b27bef91",
+   "title": "একটা বাসা খুঁজছি!",
+   "link": "https://www.prothomalo.com/fun/k8nisz2x5a",
    "source": "প্রথম আলো",
    "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-10/3u426gba/uk-bangladeshi.jpeg",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-10/1dw9sld9/basa-web.jpg.jpeg",
    "summary": "",
-   "published": 1794344114,
+   "published": 1794358800,
+   "score": 13.7
+  },
+  {
+   "id": "11f6c523ae11",
+   "title": "আজ টিভিতে যা দেখবেন (১১ নভেম্বর ২০২৬)",
+   "link": "https://www.prothomalo.com/sports/kctyn0i4zc",
+   "source": "প্রথম আলো",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-10/c7qwrlr6/WhatsApp-Image-2025-09-07-at-18.49.36c164e40f.jpg",
+   "summary": "রাওয়ালপিন্ডি টেস্টের তৃতীয় দিন আজ। সাফ ফুটবলে আজ গ্রুপ পর্বের শেষ ম্যাচে শ্রীলঙ্কার মুখোমুখি বাংলাদেশ। দিনের প্রথম ম্যাচে ভারত খেলবে মালদ্বীপের বিপক্ষে।",
+   "published": 1794358800,
+   "score": 43.7
+  },
+  {
+   "id": "9d4e961eface",
+   "title": "‘গজব রাত’–এ ‘মহানগর’–এর ছায়া",
+   "link": "https://www.prothomalo.com/entertainment/ott/rp8u4i1c4e",
+   "source": "প্রথম আলো",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-10/jkspyd3j/bef54896-b04e-487a-af71-37670b8e8f67-1.jpg",
+   "summary": "নেটফ্লিক্সে মুক্তির পরেই সাড়া ফেলেছে রিতেশ শাহর সিনেমা ‘গজব রাত’। বাংলাদেশ থেকে প্ল্যাটফর্মটির টপ চার্টের শীর্ষে রয়েছে সিনেমাটি।",
+   "published": 1794358800,
+   "score": 13.7
+  },
+  {
+   "id": "356a8c462032",
+   "title": "নাশকতা ঠেকাতে সরকার কঠোর, মাসজুড়ে মাঠে থাকবে বিএনপিও",
+   "link": "https://www.prothomalo.com/politics/d17o39nwyu",
+   "source": "প্রথম আলো",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
+   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-10/rv8ax7q3/00-5.jpg",
+   "summary": "",
+   "published": 1794358800,
+   "score": 13.7
+  },
+  {
+   "id": "cb7cfddd7902",
+   "title": "‘গজব রাত’–এ ‘মহানগর’–এর ছায়া",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rT1ZqQUFpRGtMSWVkTlVHUEpIMzlYc09QbDB0Qng5bm9pSHRRcXNLM1YxYnRTSVJ3Vm05VGQyYnpRbTJ6UFdpUlNJVkl1TkFSaElIcVZqTWN1Q2hid1Y2SXAtS2R5QdIBc0FVX3lxTFBFR3ZBU3V2RWhRcXZMUm9ISTV4QXZoVEpRSmREeExRVVRVc2dpYzRMbTJSUkJRWFlCU2xwZlJUUEc4LWxnV25YTU5iSWU5QmhLQTR6V1ViRGRWZ2NjeEtaN1RHdjJxT19Ed1BwcGlNUUc0Y2M?oc=5",
+   "source": "প্রথম আলো",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
+   "image": "",
+   "summary": "‘গজব রাত’–এ ‘মহানগর’–এর ছায়া প্রথম আলো",
+   "published": 1794358800,
+   "score": 11.7
+  },
+  {
+   "id": "523b3e6338dc",
+   "title": "কেন্দ্রীয় ব্যাংকের প্রতিবেদন: দেশের ৩৫ শতাংশ মানুষ আর্থিক সেবার বাইরে",
+   "link": "https://www.ajkerpatrika.com/bangladesh/dhaka/ajpphj1g3hrbj",
+   "source": "আজকের পত্রিকা",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ajkerpatrika.com&sz=64",
+   "image": "https://images.ajkerpatrika.com/original_images/bangladesh-bank_YSWketI.jpg",
+   "summary": "আর্থিক সেবায় নারীদের অংশগ্রহণ পুরুষের তুলনায় কম। ২০২৫ সালে প্রাপ্তবয়স্ক পুরুষদের ৬৯.৫ শতাংশ আনুষ্ঠানিক আর্থিক সেবার আওতায় থাকলেও নারীদের ক্ষেত্রে এই হার ৬০.৯ শতাংশ। ব্যবধান ৮.৬ শতাংশীয় পয়েন্ট। সামগ্রিকভাবে প্রাপ্তবয়স্ক জ",
+   "published": 1794358612,
    "score": 13.68
   },
   {
-   "id": "af8c858da391",
-   "title": "ঢাবি ক্যাম্পাসে ছাত্রদল-শিবিরের বাইক শোডাউন",
-   "link": "https://www.dhakapost.com/campus/496945",
-   "source": "ঢাকা পোস্ট",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakapost.com&sz=64",
-   "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/dhaka-post-02-20261111025316.jpg?cid=496945",
-   "summary": "",
-   "published": 1794343883,
-   "score": 13.65
+   "id": "8ac2a62b2221",
+   "title": "ব্যয় সংকোচনের নতুন উদ্যোগ: আপ্যায়ন-অনুষ্ঠানের ব্যয়ে লাগাম",
+   "link": "https://www.ajkerpatrika.com/bangladesh/dhaka/ajpx98qxaz3ei",
+   "source": "আজকের পত্রিকা",
+   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.ajkerpatrika.com&sz=64",
+   "image": "https://images.ajkerpatrika.com/original_images/Bangladesh-Economy-Decline-Illustration-6ff756.jpg",
+   "summary": "রাজস্ব আদায়ে ঘাটতি, বাজেটের ক্রমবর্ধমান চাপ এবং ঋণনির্ভরতা—সব মিলিয়ে সরকারি অর্থ ব্যবস্থাপনায় আরও সতর্ক হতে হচ্ছে সরকারকে। একদিকে রাজস্ব আয়ের লক্ষ্যমাত্রা পূরণ হচ্ছে না, অন্যদিকে বাড়ছে সরকারের পরিচালন ব্যয়। বিস্তারিত",
+   "published": 1794358371,
+   "score": 13.64
   },
   {
-   "id": "9ec0eb373d27",
-   "title": "কর্মচারী সাময়িক বরখাস্ত, ক্যাম্পাসে নিরাপত্তা জোরদারের সিদ্ধান্ত",
-   "link": "https://www.prothomalo.com/bangladesh/capital/9ef69nngys",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-10/tcpx2qw9/DU-Meeting.jpg",
-   "summary": "",
-   "published": 1794343676,
-   "score": 13.62
-  },
-  {
-   "id": "51b9f89c9033",
-   "title": "আইজেনকট প্রধানমন্ত্রী হতে পারেন—এ নিয়ে ‘আতঙ্কে আছেন’ নেতানিয়াহু",
-   "link": "https://www.prothomalo.com/world/middle-east/2xfzonyuz4",
-   "source": "প্রথম আলো",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.prothomalo.com&sz=64",
-   "image": "https://media.prothomalo.com/prothomalo-bangla/2026-10-30/5tx4p5m4/Untitled-9.jpg",
-   "summary": "",
-   "published": 1794343404,
-   "score": 13.58
-  },
-  {
-   "id": "616c6c3515ee",
-   "title": "মিরপুর চিড়িয়াখানার সামনে পার্কিং করা বাসে আগুন",
-   "link": "https://www.dhakapost.com/national/496944",
-   "source": "ঢাকা পোস্ট",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakapost.com&sz=64",
-   "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/dhaka-post-20261111024227.jpg?cid=496944",
-   "summary": "",
-   "published": 1794343347,
-   "score": 23.57
-  },
-  {
-   "id": "b3aca98d4508",
-   "title": "অ্যাপলের এআই ব্যবহারে বাড়তি খরচ",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XeWMtNHNzYTRWMU5CTWNxby0zWmZvOVhPS2hwaTE2X2ZVTFpBN0xCNmxUd2h0em0taVUtcHFkTk43MUEzcXRqWDQzY25UWWFTbHBWeHFxMzlHQS1ianpCUWsteG5DYjdM?oc=5",
-   "source": "Gramer Kagoj News",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.gramerkagoj.com&sz=64",
-   "image": "",
-   "summary": "অ্যাপলের এআই ব্যবহারে বাড়তি খরচ Gramer Kagoj News অ্যাপল কৃত্রিম বুদ্ধিমত্তা ব্যবহারে ৫০ ডলার নেবে Talash BD কৃত্রিম বুদ্ধিমত্তার বর্ধিত সেবায় ৫০ ডলারের প্যাকেজ আনল অ্যাপল Dinajpur TV অ্যাপলের জন টার্নাস ক্রেগ ফেডারিগি",
-   "published": 1794343200,
-   "score": 11.55
-  },
-  {
-   "id": "98e660f4199d",
-   "title": "পূর্বাচলে প্লট দুর্নীতি মামলায় হাইকোর্টে জামিন পেলেন শওকত আজিজ",
-   "link": "https://www.jagonews24.com/law-courts/news/1178053",
-   "source": "জাগো নিউজ",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.jagonews24.com&sz=64",
-   "image": "",
-   "summary": "রাজধানী উন্নয়ন কর্তৃপক্ষের (রাজউক) পূর্বাচল আবাসিক প্রকল্পে প্লট বরাদ্দে দুর্নীতির মামলায় দণ্ডিত ব্যবসায়ী শওকত আজিজ রাসেলের আপিল শুনানির জন্য গ্রহণ করেছেন হাইকোর্ট। একই সঙ্গে তাকে ছয় মাসের জামিন দিয়েছেন আদালত....",
-   "published": 1794342917,
-   "score": 11.51
-  },
-  {
-   "id": "b46b24d825cc",
-   "title": "ঢাবির জহুরুল হক হলের পেছন থেকে ককটেল উদ্ধার, পরে নিষ্ক্রিয়",
-   "link": "https://www.dhakapost.com/national/496943",
-   "source": "ঢাকা পোস্ট",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakapost.com&sz=64",
-   "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/dhaka-post-20261111022210.jpg?cid=496943",
-   "summary": "",
-   "published": 1794342130,
-   "score": 13.4
-  },
-  {
-   "id": "4fcf8984a4a8",
-   "title": "যুবলীগের ঝটিকা মিছিল থেকে পুলিশের ওপর হামলা, দায়ের কোপে এসআই আহত",
-   "link": "https://www.banglatribune.com/country/chitagong/980150/%E0%A6%AF%E0%A7%81%E0%A6%AC%E0%A6%B2%E0%A7%80%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%9D%E0%A6%9F%E0%A6%BF%E0%A6%95%E0%A6%BE-%E0%A6%AE%E0%A6%BF%E0%A6%9B%E0%A6%BF%E0%A6%B2-%E0%A6%A5%E0%A7%87%E0%A6%95%E0%A7%87-%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%93%E0%A6%AA%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A6%BE-%E0%A6%A6%E0%A6%BE%E0%A7%9F%E0%A7%87%E0%A6%B0",
+   "id": "2a704c030847",
+   "title": "রোহিঙ্গা সংকটের স্থায়ী সমাধানে তুরস্কের সমর্থন অব্যাহত রাখার আহ্বান প্রধানমন্ত্রীর",
+   "link": "https://www.banglatribune.com/national/980154/%E0%A6%B0%E0%A7%8B%E0%A6%B9%E0%A6%BF%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BE-%E0%A6%B8%E0%A6%82%E0%A6%95%E0%A6%9F%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A7%9F%E0%A7%80-%E0%A6%B8%E0%A6%AE%E0%A6%BE%E0%A6%A7%E0%A6%BE%E0%A6%A8%E0%A7%87-%E0%A6%A4%E0%A7%81%E0%A6%B0%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A6%B0%E0%A7%8D%E0%A6%A5%E0%A6%A8",
    "source": "বাংলা ট্রিবিউন",
    "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
-   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/11/7cccde71d9487c26e9a49a26e7476b98-6af37c2a5e8a2.jpg?jadewits_media_id=1054328",
-   "summary": "কক্সবাজারের টেকনাফে কার্যক্রম নিষিদ্ধ যুবলীগের প্রতিষ্ঠাবার্ষিকী ঘিরে রাতের আঁধারে ঝটিকা মিছিলকে কেন্দ্র করে উত্তেজনা ছড়িয়ে পড়েছে। মিছিল ছত্রভঙ্গ করতে গেলে পুলিশ ও বিজিবির সদস্যদের লক্ষ্য করে ইটপাটকেল নিক্ষেপের ঘটনা ঘটে।",
-   "published": 1794342032,
-   "score": 13.39
-  },
-  {
-   "id": "16ba96c803af",
-   "title": "ফতুল্লায় অগ্নিকাণ্ডে ক্ষতিগ্রস্ত মাদরাসা পরিদর্শনে ওলামা অ্যালায়েন্স",
-   "link": "https://www.dhakapost.com/politics/496942",
-   "source": "ঢাকা পোস্ট",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.dhakapost.com&sz=64",
-   "image": "https://assets.dhakapost.com/og-image/media/imgAll/BG/2026November/dhaka-post-20261111020801.jpg?cid=496942",
-   "summary": "",
-   "published": 1794341281,
-   "score": 13.28
-  },
-  {
-   "id": "bcb0bafb40b3",
-   "title": "নিষিদ্ধ আওয়ামী লীগ নেতা গ্রেফতার, সেই রিসোর্টের মালিক আত্মগোপনে",
-   "link": "https://www.banglatribune.com/country/sylhet/980149/%E0%A6%A8%E0%A6%BF%E0%A6%B7%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%A7-%E0%A6%86%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%AE%E0%A7%80-%E0%A6%B2%E0%A7%80%E0%A6%97-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AB%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A7%87%E0%A6%87-%E0%A6%B0%E0%A6%BF%E0%A6%B8%E0%A7%8B%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A7%87%E0%A6%B0",
-   "source": "বাংলা ট্রিবিউন",
-   "sourceIcon": "https://www.google.com/s2/favicons?domain=www.banglatribune.com&sz=64",
-   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/11/aa633594033a73b1eecfbc3fa448798b-6af378093c329.jpg?jadewits_media_id=1054327",
-   "summary": "শিক্ষা সফরের কথা বলে রিসোর্ট ভাড়া নিয়ে সিলেটের গোয়াইনঘাট উপজেলার রাতারগুলে মতবিনিময় সভা করেছেন কার্যক্রম নিষিদ্ধ আওয়ামী লীগের সিলেট জেলা কমিটির সাংগঠনিক সম্পাদক ও সুনামগঞ্জ-১ আসনের সাবেক সংসদ সদস্য রনজিত সরকার। গত রবিবার",
-   "published": 1794341192,
-   "score": 13.27
+   "image": "https://cdn.banglatribune.net/contents/cache/images/300x300x1/uploads/media/2026/11/11/0d114134e8f6ced1a4ce675987a222cf-6af3bb0d4ed8e.jpg?jadewits_media_id=1054333",
+   "summary": "প্রধানমন্ত্রী তারেক রহমান আন্তর্জাতিক পরিসরে রোহিঙ্গা সংকটের স্থায়ী সমাধান এবং তাদের প্রত্যাবাসনের পক্ষে তুরস্কের সমর্থন অব্যাহত রাখার আহ্বান জানিয়েছেন। তিনি বলেন, রোহিঙ্গাদের নিরাপদ, মর্যাদাপূর্ণ ও টেকসই প্রত্যাবাসন নিশ",
+   "published": 1794358294,
+   "score": 13.63
   }
  ]
 }
