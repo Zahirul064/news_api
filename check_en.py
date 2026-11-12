@@ -25,7 +25,7 @@ def meta(t, base):
 def chk(u):
     r = {'url': u}
     try:
-        s = requests.get(u, headers=H, timeout=25, allow_redirects=True)
+        s = requests.get(u, headers=H, timeout=40, allow_redirects=True)
         s.encoding = s.apparent_encoding if not s.encoding or s.encoding.lower() == 'iso-8859-1' else s.encoding
         t = s.text
         text = re.sub(r'<script.*?</script>|<style.*?</style>|<[^>]+>', ' ', t, flags=re.S | re.I)
