@@ -13,7 +13,7 @@
         "cat_subtitle": "Subtitle 2",
         "serverUrl": "https://zahirul064.github.io/news_api/eng_national_news.json",
         "cat_title_bn": "ইংরেজি পত্রিকা",
-        "count": 51
+        "count": 37
     },
     {
         "imageUrl": "https://i.ibb.co/qgHKfjj/e-book-design.png",
@@ -29,7 +29,7 @@
         "cat_subtitle": "Subtitle 4",
         "serverUrl": "https://zahirul064.github.io/news_api/international_news.json",
         "cat_title_bn": "আন্তর্জাতিক খবর",
-        "count": 5
+        "count": 48
     },
     {
         "imageUrl": "https://i.ibb.co/x7qsww4/media-ic.png",

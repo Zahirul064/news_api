@@ -1,27 +1,242 @@
 [
   {
-    "title": "The Guardian",
-    "imgUrl": "https://www.allbanglanewspaper.xyz/assets/theguardian.com.jpg",
-    "pdfUrl": "https://www.theguardian.com/international"
+    "title": "BBC News",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=www.bbc.com&sz=128",
+    "pdfUrl": "https://www.bbc.com/news"
   },
   {
-    "title": "ABC News",
-    "imgUrl": "https://s.abcnews.com/assets/dtci/icomoon/svg/logo.svg",
-    "pdfUrl": "https://abcnews.go.com/"
+    "title": "CNN",
+    "imgUrl": "https://edition.cnn.com/media/sites/cnn/apple-touch-icon.png",
+    "pdfUrl": "https://edition.cnn.com/"
   },
   {
     "title": "The New York Times",
-    "imgUrl": "https://static01.nyt.com/vi-assets/images/share/1200x675_nameplate.png",
+    "imgUrl": "https://static01.nyt.com/vi-assets/static-assets/assets/apple-touch-icon-BTg5GMmB.png",
     "pdfUrl": "https://www.nytimes.com/"
   },
   {
+    "title": "Yahoo News",
+    "imgUrl": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+    "pdfUrl": "https://www.yahoo.com/news/"
+  },
+  {
+    "title": "Daily Mail",
+    "imgUrl": "https://www.dailymail.com/static/icons/180.png",
+    "pdfUrl": "https://www.dailymail.co.uk/"
+  },
+  {
+    "title": "Fox News",
+    "imgUrl": "https://static.foxnews.com/static/orion/styles/img/fox-news/favicons/apple-touch-icon-57x57.png",
+    "pdfUrl": "https://www.foxnews.com/"
+  },
+  {
+    "title": "The Guardian",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=www.theguardian.com&sz=128",
+    "pdfUrl": "https://www.theguardian.com/international"
+  },
+  {
+    "title": "Reuters",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=www.reuters.com&sz=128",
+    "pdfUrl": "https://www.reuters.com/"
+  },
+  {
+    "title": "AP News",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=apnews.com&sz=128",
+    "pdfUrl": "https://apnews.com/"
+  },
+  {
+    "title": "The Washington Post",
+    "imgUrl": "https://www.washingtonpost.com/touch-icon-iphone.png",
+    "pdfUrl": "https://www.washingtonpost.com/"
+  },
+  {
+    "title": "NBC News",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=www.nbcnews.com&sz=128",
+    "pdfUrl": "https://www.nbcnews.com/"
+  },
+  {
+    "title": "The Times of India",
+    "imgUrl": "https://m.timesofindia.com/touch-icon-iphone-precomposed.png",
+    "pdfUrl": "https://timesofindia.indiatimes.com/"
+  },
+  {
     "title": "Hindustan Times",
-    "imgUrl": "https://www.hindustantimes.com/res/images/htlogo-v1.png",
+    "imgUrl": "https://www.hindustantimes.com/res/images/icons/icon-57x57.png",
     "pdfUrl": "https://www.hindustantimes.com/"
   },
   {
-    "title": "New Age",
-    "imgUrl": "https://outspoken.newagebd.com/files/uploads/1_2.png",
-    "pdfUrl": "https://newagebd.net/"
+    "title": "Al Jazeera",
+    "imgUrl": "https://www.aljazeera.com/images/logo_aje_social.png",
+    "pdfUrl": "https://www.aljazeera.com/"
+  },
+  {
+    "title": "The Independent (UK)",
+    "imgUrl": "https://www.independent.co.uk/img/shortcut-icons/icon-192x192.png",
+    "pdfUrl": "https://www.independent.co.uk/"
+  },
+  {
+    "title": "CNBC",
+    "imgUrl": "https://image.cnbcfm.com/api/v1/image/108285632-1774986309800-cnbc_versant_share.png?v=1774986411&amp;w=1920&amp;h=1080",
+    "pdfUrl": "https://www.cnbc.com/"
+  },
+  {
+    "title": "USA Today",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=www.usatoday.com&sz=128",
+    "pdfUrl": "https://www.usatoday.com/"
+  },
+  {
+    "title": "ABC News",
+    "imgUrl": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+    "pdfUrl": "https://abcnews.go.com/"
+  },
+  {
+    "title": "CBS News",
+    "imgUrl": "https://www.cbsnews.com/fly/bundles/cbsnewscore/icons/icon-192x192.png",
+    "pdfUrl": "https://www.cbsnews.com/"
+  },
+  {
+    "title": "NPR",
+    "imgUrl": "https://media.npr.org/chrome/favicon/favicon-180x180.png",
+    "pdfUrl": "https://www.npr.org/"
+  },
+  {
+    "title": "Newsweek",
+    "imgUrl": "https://www.newsweek.com/apple-touch-icon.png",
+    "pdfUrl": "https://www.newsweek.com/"
+  },
+  {
+    "title": "Business Insider",
+    "imgUrl": "https://www.businessinsider.com/public/assets/BI/US/favicons/apple-touch-icon-180x180.png?v=2025-05",
+    "pdfUrl": "https://www.businessinsider.com/"
+  },
+  {
+    "title": "The Telegraph",
+    "imgUrl": "https://www.telegraph.co.uk/etc.clientlibs/settings/wcm/designs/telegraph/core/clientlibs/core/resources/icons/apple-touch-icon-180x180.png",
+    "pdfUrl": "https://www.telegraph.co.uk/"
+  },
+  {
+    "title": "Sky News",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=news.sky.com&sz=128",
+    "pdfUrl": "https://news.sky.com/"
+  },
+  {
+    "title": "NDTV",
+    "imgUrl": "https://cdn.ndtv.com/common/images/57x57.png",
+    "pdfUrl": "https://www.ndtv.com/"
+  },
+  {
+    "title": "The Hindu",
+    "imgUrl": "https://www.thehindu.com/apple-touch-icon.png",
+    "pdfUrl": "https://www.thehindu.com/"
+  },
+  {
+    "title": "The Indian Express",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=indianexpress.com&sz=128",
+    "pdfUrl": "https://indianexpress.com/"
+  },
+  {
+    "title": "TIME",
+    "imgUrl": "https://time.com/favicon/apple-touch-icon.png",
+    "pdfUrl": "https://time.com/"
+  },
+  {
+    "title": "Los Angeles Times",
+    "imgUrl": "https://www.latimes.com/apple-touch-icon.png",
+    "pdfUrl": "https://www.latimes.com/"
+  },
+  {
+    "title": "Politico",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=www.politico.com&sz=128",
+    "pdfUrl": "https://www.politico.com/"
+  },
+  {
+    "title": "Dawn",
+    "imgUrl": "https://www.dawn.com/_img/social-default.jpg",
+    "pdfUrl": "https://www.dawn.com/"
+  },
+  {
+    "title": "South China Morning Post",
+    "imgUrl": "https://assets-v2.i-scmp.com/production/icons/scmp-icon-192x192.png",
+    "pdfUrl": "https://www.scmp.com/"
+  },
+  {
+    "title": "CNA",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=www.channelnewsasia.com&sz=128",
+    "pdfUrl": "https://www.channelnewsasia.com/"
+  },
+  {
+    "title": "The Straits Times",
+    "imgUrl": "https://www.straitstimes.com/og/st-bg-1200x630.jpg",
+    "pdfUrl": "https://www.straitstimes.com/"
+  },
+  {
+    "title": "DW News",
+    "imgUrl": "https://www.dw.com/images/icons/favicon-120x120.png",
+    "pdfUrl": "https://www.dw.com/en/"
+  },
+  {
+    "title": "France 24",
+    "imgUrl": "https://www.france24.com/apple-touch-icon.png",
+    "pdfUrl": "https://www.france24.com/en/"
+  },
+  {
+    "title": "Euronews",
+    "imgUrl": "https://www.euronews.com/apple-touch-icon.png",
+    "pdfUrl": "https://www.euronews.com/"
+  },
+  {
+    "title": "ABC News (Australia)",
+    "imgUrl": "https://www.abc.net.au/news-assets/touchicon-abc.png",
+    "pdfUrl": "https://www.abc.net.au/news"
+  },
+  {
+    "title": "The Sydney Morning Herald",
+    "imgUrl": "https://www.smh.com.au/apple-touch-icons/smh.png",
+    "pdfUrl": "https://www.smh.com.au/"
+  },
+  {
+    "title": "CBC News",
+    "imgUrl": "https://www.cbc.ca/a/apple-touch-icon.png",
+    "pdfUrl": "https://www.cbc.ca/news"
+  },
+  {
+    "title": "The Japan Times",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=www.japantimes.co.jp&sz=128",
+    "pdfUrl": "https://www.japantimes.co.jp/"
+  },
+  {
+    "title": "Nikkei Asia",
+    "imgUrl": "https://asia.nikkei.com/images/frontend/favicons/144x144.png",
+    "pdfUrl": "https://asia.nikkei.com/"
+  },
+  {
+    "title": "Gulf News",
+    "imgUrl": "https://assets.gulfnews.com/gn_favicon_180x180.png",
+    "pdfUrl": "https://gulfnews.com/"
+  },
+  {
+    "title": "Khaleej Times",
+    "imgUrl": "https://fea.assettype.com/khaleejtimes/images/KT-logo-2026-new.jpg",
+    "pdfUrl": "https://www.khaleejtimes.com/"
+  },
+  {
+    "title": "Arab News",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=www.arabnews.com&sz=128",
+    "pdfUrl": "https://www.arabnews.com/"
+  },
+  {
+    "title": "The Diplomat",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=thediplomat.com&sz=128",
+    "pdfUrl": "https://thediplomat.com/"
+  },
+  {
+    "title": "Anadolu Agency",
+    "imgUrl": "https://www.aa.com.tr/images/meta-photo.png",
+    "pdfUrl": "https://www.aa.com.tr/en"
+  },
+  {
+    "title": "TRT World",
+    "imgUrl": "https://www.trtworld.com/favicon/favicon-world-48.png",
+    "pdfUrl": "https://www.trtworld.com/"
   }
 ]
