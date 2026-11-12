@@ -7,7 +7,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: pip install requests
-      - run: python check.py
+      - run: python check_en.py
       - run: |
           git config user.name bot; git config user.email bot@example.com
-          git add report.json; git commit -m "report"; git push
+          git add report_en.json; git commit -m "report"; git push
