@@ -70,3 +70,21 @@
 | 10 | bd_local_news.json | Dainik Ajker Barta | দৈনিক আজকের বার্তা (বরিশাল) | https://ajkerbarta.com/ | Hack — Indonesian gambling site |
 | 11 | bd_local_news.json | Cumillar Kagoj | কুমিল্লার কাগজ (কুমিল্লা) | https://cumillarkagoj.com/ | Faka GoDaddy builder page, khobor nei |
 | 12 | bd_local_news.json | Dainik Kushtia | দৈনিক কুষ্টিয়া | https://dainikkushtia.com/ | Hack — casino site-e redirect |
+
+# English news — candidates checked but NOT added (2026-11-12)
+
+| Name | URL | Karon |
+|---|---|---|
+| The Business Post | https://thebusinesspost.net/ | Hijacked — redirect kore jua (gambling) site-e |
+| The Business Post (new domain) | https://businesspostbd.com/ | Hosting company-r page-e redirect hoy |
+| Weekly Holiday | https://www.weeklyholiday.net/ | 2026-er kono khobor nei, casino/betting lekha |
+| News From Bangladesh | https://www.newsfrombangladesh.net/ | 2026-er kono khobor nei, betting lekha |
+| Business Insider Bangladesh | https://www.businessinsiderbd.com/ | Server down (HTTP 522) |
+| News Today | https://www.newstoday.com.bd/ | Domain nei |
+| Bangladesh Live News | https://bangladeshlivenews.com/ | Domain nei |
+| Daily Times of Bangladesh | https://www.dailytimesofbangladesh.com/ | Domain nei |
+| Daily Industry | https://dailyindustry.news/ | 2026-er khobor nei |
+| South Asian Monitor | https://southasianmonitor.net/ | Site load hoy na |
+| Bangladesh Monitor | https://www.bangladeshmonitor.com.bd/ | Aviation/tourism trade site, beshirbhag Bangla |
+| Kaler Kantho / Samakal / Jago News English | kalerkantho.com/english, en.samakal.com, jagonews24.com/en | English edition-er proman paowa jayni |
+| Jugantor, Amar Desh, Naya Diganta, Ajker Patrika, Kalbela, Barta24, Janakantha, Bhorer Kagoj, Somoy, Jamuna, News24, Mzamin, Daily Bangladesh, Dhaka Times, Sylhet Today, The Report, Ekushey TV, Daily Campus English | (various /english, en.* addresses) | English version nei (404 / domain nei / shudhu Bangla) |

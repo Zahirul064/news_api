@@ -5,27 +5,27 @@
     "pdfUrl": "https://www.thedailystar.net"
   },
   {
-    "title": "Daily Observer || Daily Newspaper in Bangladesh",
-    "imgUrl": "https://observerbd.com/files/logo.png",
-    "pdfUrl": "https://observerbd.com/"
-  },
-  {
-    "title": "English News in BD | Prothom Alo",
+    "title": "Prothom Alo English",
     "imgUrl": "https://seeklogo.com/images/P/prothom-alo-logo-D4FA48A860-seeklogo.com.png",
     "pdfUrl": "https://en.prothomalo.com/"
   },
   {
-    "title": "Daily Sun | Twenty-Four Hour News",
-    "imgUrl": "https://www.allbanglanewspaper.xyz/assets/daily-sun.com.jpg",
-    "pdfUrl": "https://www.daily-sun.com/"
+    "title": "The Business Standard",
+    "imgUrl": "https://tbsnews.net/sites/all/themes/sloth/banner.png",
+    "pdfUrl": "https://www.tbsnews.net/"
   },
   {
-    "title": "The Bangladesh Today",
-    "imgUrl": "https://thebangladeshtoday.com/wp-content/uploads/2024/06/TBT-Logo.png",
-    "pdfUrl": "https://thebangladeshtoday.com/"
+    "title": "Dhaka Tribune",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=www.dhakatribune.com&sz=128",
+    "pdfUrl": "https://www.dhakatribune.com/"
   },
   {
-    "title": "The Financial Express | First Financial Daily of Bangladesh",
+    "title": "New Age",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=www.newagebd.net&sz=128",
+    "pdfUrl": "https://www.newagebd.net/"
+  },
+  {
+    "title": "The Financial Express",
     "imgUrl": "https://thefinancialexpress.com.bd/_nuxt/img/logo-d-d.c6d2e73.png",
     "pdfUrl": "https://thefinancialexpress.com.bd/"
   },
@@ -33,5 +33,225 @@
     "title": "bdnews24.com",
     "imgUrl": "https://bdnews24.com/frontend/assets/images/common/logo.png",
     "pdfUrl": "https://bdnews24.com/"
+  },
+  {
+    "title": "Daily Sun",
+    "imgUrl": "https://www.allbanglanewspaper.xyz/assets/daily-sun.com.jpg",
+    "pdfUrl": "https://www.daily-sun.com/"
+  },
+  {
+    "title": "The Daily Observer",
+    "imgUrl": "https://observerbd.com/files/logo.png",
+    "pdfUrl": "https://observerbd.com/"
+  },
+  {
+    "title": "The Independent",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=theindependentbd.com&sz=128",
+    "pdfUrl": "https://theindependentbd.com/"
+  },
+  {
+    "title": "BSS — Bangladesh Sangbad Sangstha",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=www.bssnews.net&sz=128",
+    "pdfUrl": "https://www.bssnews.net/"
+  },
+  {
+    "title": "UNB — United News of Bangladesh",
+    "imgUrl": "https://unb.com.bd/v2/images/logo/unb-social-media.jpg",
+    "pdfUrl": "https://unb.com.bd/"
+  },
+  {
+    "title": "The Daily Ittefaq English",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=en.ittefaq.com.bd&sz=128",
+    "pdfUrl": "https://en.ittefaq.com.bd/"
+  },
+  {
+    "title": "Bangladesh Post",
+    "imgUrl": "https://bangladeshpost.net/favicon.ico",
+    "pdfUrl": "https://bangladeshpost.net/"
+  },
+  {
+    "title": "The Daily Messenger",
+    "imgUrl": "https://www.dailymessenger.net/media/common/logo-fb.png",
+    "pdfUrl": "https://dailymessenger.net/"
+  },
+  {
+    "title": "The Asian Age",
+    "imgUrl": "https://dailyasianage.com/img/favicon.png",
+    "pdfUrl": "https://dailyasianage.com/"
+  },
+  {
+    "title": "The New Nation",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=dailynewnation.com&sz=128",
+    "pdfUrl": "https://dailynewnation.com/"
+  },
+  {
+    "title": "The Bangladesh Today",
+    "imgUrl": "https://thebangladeshtoday.com/wp-content/uploads/2024/06/TBT-Logo.png",
+    "pdfUrl": "https://thebangladeshtoday.com/"
+  },
+  {
+    "title": "Dhaka Post English",
+    "imgUrl": "https://cdn.dhakapost.com/config/icons/apple-touch-icon-precomposed.png",
+    "pdfUrl": "https://en.dhakapost.com/"
+  },
+  {
+    "title": "Banglanews24 English",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=www.banglanews24.com&sz=128",
+    "pdfUrl": "https://www.banglanews24.com/english"
+  },
+  {
+    "title": "Risingbd English",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=www.risingbd.com&sz=128",
+    "pdfUrl": "https://www.risingbd.com/english"
+  },
+  {
+    "title": "Bangladesh Pratidin English",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=en.bd-pratidin.com&sz=128",
+    "pdfUrl": "https://en.bd-pratidin.com/"
+  },
+  {
+    "title": "Daily Inqilab English",
+    "imgUrl": "https://en.dailyinqilab.com/wp-content/uploads/2026/08/cropped-icon-180x180.png",
+    "pdfUrl": "https://en.dailyinqilab.com/"
+  },
+  {
+    "title": "Bonik Barta English",
+    "imgUrl": "https://static.bonikbarta.com/original_images/BONIK-BARTA-LOGO-En_kHnXzHm.png",
+    "pdfUrl": "https://en.bonikbarta.com/"
+  },
+  {
+    "title": "Channel i Online English",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=www.en.channelionline.com&sz=128",
+    "pdfUrl": "https://www.en.channelionline.com/"
+  },
+  {
+    "title": "NTV English",
+    "imgUrl": "https://en.ntvbd.com/sites/all/themes/sloth/favicon.ico",
+    "pdfUrl": "https://en.ntvbd.com/"
+  },
+  {
+    "title": "RTV English",
+    "imgUrl": "https://rtvonline.com/english/assets/social-img/rtv-homepage.jpg",
+    "pdfUrl": "https://www.rtvonline.com/english"
+  },
+  {
+    "title": "Netra News",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=netra.news&sz=128",
+    "pdfUrl": "https://netra.news/"
+  },
+  {
+    "title": "Dhaka Courier",
+    "imgUrl": "https://www.dhakacourier.com.bd/public/assets/images/favicon/dc-fav.png",
+    "pdfUrl": "https://www.dhakacourier.com.bd/"
+  },
+  {
+    "title": "The Bangladesh Chronicle",
+    "imgUrl": "https://bangladeshchronicle.net/wp-content/uploads/2019/09/cropped-logo-1-180x180.jpg",
+    "pdfUrl": "https://www.bangladeshchronicle.net/"
+  },
+  {
+    "title": "Bangla Outlook English",
+    "imgUrl": "https://en.banglaoutlook.org/uploads/settings/default-thumbdefault-img-1-1719757003default-img-1-1726378607.jpg",
+    "pdfUrl": "https://en.banglaoutlook.org/"
+  },
+  {
+    "title": "Blitz",
+    "imgUrl": "https://weeklyblitz.net/wp-content/uploads/2024/02/cropped-febocon-180x180.png",
+    "pdfUrl": "https://www.weeklyblitz.net/"
+  },
+  {
+    "title": "Dhaka Mirror",
+    "imgUrl": "https://dhakamirror.com/wp-content/uploads/2022/08/cropped-dm-favicon-180x180.png",
+    "pdfUrl": "https://www.dhakamirror.com/"
+  },
+  {
+    "title": "NewsNext",
+    "imgUrl": "https://www.newsnextbd.com/uploads/2026/11/newsnext-02-b1c2fd6f.png",
+    "pdfUrl": "https://www.newsnextbd.com/"
+  },
+  {
+    "title": "Sylhet Mirror",
+    "imgUrl": "https://sylhetmirror.com/files/uploads/2023/10/HNN_email_signature_46c95ee6-8444-42e5-a296-8fb12ce520fa.jpg",
+    "pdfUrl": "https://sylhetmirror.com/"
+  },
+  {
+    "title": "Energy & Power",
+    "imgUrl": "https://ep-bd.com/images/favicon.ico",
+    "pdfUrl": "https://ep-bd.com/"
+  },
+  {
+    "title": "Textile Today",
+    "imgUrl": "https://www.textiletoday.com.bd/assets/images/ico/apple-touch-icon.png",
+    "pdfUrl": "https://www.textiletoday.com.bd/"
+  },
+  {
+    "title": "BBC News — Asia",
+    "imgUrl": "https://static.files.bbci.co.uk/bbcdotcom/web/20261110-133831-0053d0afea-web-3.28.0-4/apple-touch-icon.png",
+    "pdfUrl": "https://www.bbc.com/news/world/asia"
+  },
+  {
+    "title": "Al Jazeera — Bangladesh",
+    "imgUrl": "https://www.aljazeera.com/images/logo_aje_social.png",
+    "pdfUrl": "https://www.aljazeera.com/where/bangladesh/"
+  },
+  {
+    "title": "AP News — Bangladesh",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=apnews.com&sz=128",
+    "pdfUrl": "https://apnews.com/hub/bangladesh"
+  },
+  {
+    "title": "Reuters — Asia Pacific",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=www.reuters.com&sz=128",
+    "pdfUrl": "https://www.reuters.com/world/asia-pacific/"
+  },
+  {
+    "title": "The Guardian — Bangladesh",
+    "imgUrl": "https://static.guim.co.uk/images/favicon-32x32.ico",
+    "pdfUrl": "https://www.theguardian.com/world/bangladesh"
+  },
+  {
+    "title": "France 24 — Bangladesh",
+    "imgUrl": "https://www.france24.com/apple-touch-icon.png",
+    "pdfUrl": "https://www.france24.com/en/tag/bangladesh/"
+  },
+  {
+    "title": "The Diplomat — Bangladesh",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=thediplomat.com&sz=128",
+    "pdfUrl": "https://thediplomat.com/tag/bangladesh/"
+  },
+  {
+    "title": "Nikkei Asia — Bangladesh",
+    "imgUrl": "https://asia.nikkei.com/images/frontend/favicons/144x144.png",
+    "pdfUrl": "https://asia.nikkei.com/Location/South-Asia/Bangladesh"
+  },
+  {
+    "title": "CNA — Bangladesh",
+    "imgUrl": "https://www.channelnewsasia.com/sites/default/themes/mc_cna_theme/favicon.ico",
+    "pdfUrl": "https://www.channelnewsasia.com/topic/bangladesh"
+  },
+  {
+    "title": "South China Morning Post — Bangladesh",
+    "imgUrl": "https://assets-v2.i-scmp.com/production/icons/scmp-icon-192x192.png",
+    "pdfUrl": "https://www.scmp.com/topics/bangladesh"
+  },
+  {
+    "title": "Anadolu Agency — Asia Pacific",
+    "imgUrl": "https://www.aa.com.tr/images/meta-photo.png",
+    "pdfUrl": "https://www.aa.com.tr/en/asia-pacific"
+  },
+  {
+    "title": "The Hindu — Bangladesh",
+    "imgUrl": "https://www.thehindu.com/apple-touch-icon.png",
+    "pdfUrl": "https://www.thehindu.com/topic/Bangladesh/"
+  },
+  {
+    "title": "NDTV — Bangladesh",
+    "imgUrl": "https://www.ndtv.com/static/images/logo_ndtv_touch_icon.png",
+    "pdfUrl": "https://www.ndtv.com/topic/bangladesh"
+  },
+  {
+    "title": "The Times of India — Bangladesh",
+    "imgUrl": "https://m.timesofindia.com/touch-icon-iphone-precomposed.png",
+    "pdfUrl": "https://timesofindia.indiatimes.com/topic/bangladesh"
   }
 ]
