@@ -1,0 +1,12 @@
+[
+  { "name": "Prothom Alo",   "name_bn": "প্রথম আলো",     "url": "https://www.prothomalo.com",       "initials": "PA", "logo": "" },
+  { "name": "Amar Desh",     "name_bn": "আমার দেশ",      "url": "https://www.dailyamardesh.com",    "initials": "AD", "logo": "" },
+  { "name": "Naya Diganta",  "name_bn": "নয়া দিগন্ত",     "url": "https://www.dailynayadiganta.com", "initials": "ND", "logo": "" },
+  { "name": "Daily Sangram", "name_bn": "দৈনিক সংগ্রাম",   "url": "https://dailysangram.com",         "initials": "DS", "logo": "" },
+  { "name": "Jugantor",      "name_bn": "যুগান্তর",        "url": "https://www.jugantor.com",         "initials": "JG", "logo": "" },
+  { "name": "Kaler Kantho",  "name_bn": "কালের কণ্ঠ",      "url": "https://www.kalerkantho.com",      "initials": "KK", "logo": "" },
+  { "name": "Daily Star",    "name_bn": "ডেইলি স্টার",     "url": "https://www.thedailystar.net",     "initials": "TS", "logo": "" },
+  { "name": "BBC Bangla",    "name_bn": "বিবিসি বাংলা",    "url": "https://www.bbc.com/bengali",      "initials": "BB", "logo": "" },
+  { "name": "Al Jazeera",    "name_bn": "আল জাজিরা",      "url": "https://www.aljazeera.com",        "initials": "AJ", "logo": "" },
+  { "name": "Reuters",       "name_bn": "রয়টার্স",         "url": "https://www.reuters.com",          "initials": "RT", "logo": "" }
+]
