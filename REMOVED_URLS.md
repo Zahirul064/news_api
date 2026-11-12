@@ -88,3 +88,22 @@
 | Bangladesh Monitor | https://www.bangladeshmonitor.com.bd/ | Aviation/tourism trade site, beshirbhag Bangla |
 | Kaler Kantho / Samakal / Jago News English | kalerkantho.com/english, en.samakal.com, jagonews24.com/en | English edition-er proman paowa jayni |
 | Jugantor, Amar Desh, Naya Diganta, Ajker Patrika, Kalbela, Barta24, Janakantha, Bhorer Kagoj, Somoy, Jamuna, News24, Mzamin, Daily Bangladesh, Dhaka Times, Sylhet Today, The Report, Ekushey TV, Daily Campus English | (various /english, en.* addresses) | English version nei (404 / domain nei / shudhu Bangla) |
+
+# Online & Media — candidates checked but NOT added (2026-11-12)
+
+| Name | URL | Karon |
+|---|---|---|
+| Poriborton | https://www.poriborton.com/ | Hijacked — gambling site-e redirect |
+| Campus Live 24 | https://www.campuslive24.com/ | Hijacked — gambling site |
+| ABC Radio 89.2 | https://www.abcradio.fm/ | Hijacked — rummy app site-e redirect |
+| People's Radio | https://www.peoplesradio.fm/ | Hijacked — gambling site-e redirect |
+| Radio Bhumi | https://www.radiobhumi.fm/ | Hijacked — betting app site-e redirect |
+| GTV (Gazi TV) | https://www.gtvbd.com/, https://www.gazitv.com/ | Domain bikri hocche / domain nei |
+| Mohona TV (old) | https://www.mohonatv.com/ | Domain bikri (HugeDomains) — notun thikana mohona.tv |
+| My TV, Nagorik TV, Channel 9, Bijoy TV | mytvbd.tv, nagorik.tv, channel9bd.tv, bijoytv.com.bd | Domain nei |
+| Radio Today | radiotoday.fm, radiotodaybd.fm | Domain nei |
+| Dhaka FM, Radio Foorti, Radio Shadhin, Jago FM | (various .fm) | Shudhu gaan/khali page — 2026-er khobor nei |
+| VOA Bangla | https://www.voabangla.com/ | Seba bondho |
+| Deepto TV | https://www.deeptotv.com/ | Khali page |
+| abnews24, MTnews24, NewsNow24, BD Morning, Deshkal News | (various) | 2026-er khobor nei / server down |
+| Bangladesh Journal | https://www.bd-journal.com/ | Page-e jua-r (togel) spam lekha paowa geche |

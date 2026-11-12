@@ -21,7 +21,7 @@
         "cat_subtitle": "Subtitle 4",
         "serverUrl": "https://zahirul064.github.io/news_api/online_news.json",
         "cat_title_bn": "অনলাইন নিউজ",
-        "count": 5
+        "count": 23
     },
     {
         "imageUrl": "https://i.ibb.co/GJqbv34/en-design.png",
@@ -37,7 +37,7 @@
         "cat_subtitle": "Subtitle 4",
         "serverUrl": "https://zahirul064.github.io/news_api/bd_media_news.json",
         "cat_title_bn": "টিভি ও মিডিয়া",
-        "count": 6
+        "count": 31
     },
     {
         "imageUrl": "https://i.ibb.co/f8W025g/bn-design.png",

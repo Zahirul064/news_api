@@ -1,27 +1,117 @@
 [
   {
-    "title": "Jagonews24 | বস্তুনিষ্ঠ সংবাদের অনলাইন ঠিকানা",
-    "imgUrl": "https://cdn.jagonews24.com/media/common/logo.png",
-    "pdfUrl": "https://www.jagonews24.com/"
-  },
-  {
-    "title": "Banglanews24",
-    "imgUrl": "https://www.banglanews24.com/public/desktop/img/bn24_logo_3.jpg",
-    "pdfUrl": "https://www.banglanews24.com/"
-  },
-  {
-    "title": "bdnews24.com",
-    "imgUrl": "https://bangla.bdnews24.com/frontend/assets/images/common/logo.png",
+    "title": "bdnews24.com | বিডিনিউজ২৪",
+    "imgUrl": "https://fea.assettype.com/bdnews24/assets/bdnews-wHsKwRkd.png",
     "pdfUrl": "https://bangla.bdnews24.com/"
   },
   {
-    "title": "Amadershomoy",
-    "imgUrl": "https://admin.dainikamadershomoy.com/images/medium/default.png",
-    "pdfUrl": "https://dainikamadershomoy.com/"
+    "title": "Jagonews24 | জাগোনিউজ২৪",
+    "imgUrl": "https://www.jagonews24.com/assets/images/logo.png",
+    "pdfUrl": "https://www.jagonews24.com/"
   },
   {
-    "title": "BD24Live.com | Bangla Online News Portal",
-    "imgUrl": "https://www.bd24live.com/bangla/public/logo-bd24live.png",
+    "title": "Banglanews24 | বাংলানিউজ২৪",
+    "imgUrl": "https://www.banglanews24.com/assets/images/logo.png",
+    "pdfUrl": "https://www.banglanews24.com/"
+  },
+  {
+    "title": "Dhaka Post | ঢাকা পোস্ট",
+    "imgUrl": "https://cdn.dhakapost.com/config/favicon/apple-icon-57x57.png",
+    "pdfUrl": "https://www.dhakapost.com/"
+  },
+  {
+    "title": "Bangla Tribune | বাংলা ট্রিবিউন",
+    "imgUrl": "https://www.banglatribune.com/assets/images/logo.png",
+    "pdfUrl": "https://www.banglatribune.com/"
+  },
+  {
+    "title": "Risingbd | রাইজিংবিডি",
+    "imgUrl": "https://www.risingbd.com/assets/images/logo.png",
+    "pdfUrl": "https://www.risingbd.com/"
+  },
+  {
+    "title": "The Daily Star Bangla | ডেইলি স্টার বাংলা",
+    "imgUrl": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
+    "pdfUrl": "https://bangla.thedailystar.net/"
+  },
+  {
+    "title": "Dhaka Tribune Bangla | ঢাকা ট্রিবিউন বাংলা",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=bangla.dhakatribune.com&sz=128",
+    "pdfUrl": "https://bangla.dhakatribune.com/"
+  },
+  {
+    "title": "TBS News Bangla | টিবিএস বাংলা",
+    "imgUrl": "https://tbsnews.net/sites/all/themes/sloth/banner.png",
+    "pdfUrl": "https://www.tbsnews.net/bangla"
+  },
+  {
+    "title": "Sarabangla | সারাবাংলা",
+    "imgUrl": "https://sarabangla.net/wp-content/uploads/2026/09/cropped-sarabangla_logo_en_one_signal-180x180.png",
+    "pdfUrl": "https://sarabangla.net/"
+  },
+  {
+    "title": "Dhaka Times | ঢাকা টাইমস",
+    "imgUrl": "https://www.dhakatimes24.com/templates/mob-v2/images/mainlogofb.jpg",
+    "pdfUrl": "https://www.dhakatimes24.com/"
+  },
+  {
+    "title": "NewsBangla24 | নিউজবাংলা২৪",
+    "imgUrl": "https://www.newsbangla24.com/assets/importent_images/NewsBngla-Cover-Photo.jpg?v=2",
+    "pdfUrl": "https://www.newsbangla24.com/"
+  },
+  {
+    "title": "Daily Bangladesh | ডেইলি বাংলাদেশ",
+    "imgUrl": "https://www.daily-bangladesh.com/media/common/NewLogo.png",
+    "pdfUrl": "https://www.daily-bangladesh.com/"
+  },
+  {
+    "title": "AmaderShomoy.com | আমাদের সময় ডটকম",
+    "imgUrl": "https://www.amadershomoy.com/public/images/20201018123322_og_image_49.png",
+    "pdfUrl": "https://www.amadershomoy.com/"
+  },
+  {
+    "title": "Dhaka Mail | ঢাকা মেইল",
+    "imgUrl": "https://dhakamail.com/apple-touch-icon.png",
+    "pdfUrl": "https://www.dhakamail.com/"
+  },
+  {
+    "title": "BD24Live | বিডি২৪লাইভ",
+    "imgUrl": "https://www.bd24live.com/bangla/public/images/20230613010256_og_image_9.jpg",
     "pdfUrl": "https://www.bd24live.com/bangla/"
+  },
+  {
+    "title": "Zoom Bangla | জুম বাংলা",
+    "imgUrl": "https://zoombangla.com/wp-content/uploads/2026/10/zoombangla-site-icon-512-300x300.png.webp",
+    "pdfUrl": "https://zoombangla.com/"
+  },
+  {
+    "title": "Dhaka Prokash | ঢাকা প্রকাশ",
+    "imgUrl": "https://www.dhakaprokash24.com/public/images/20250619160744_og_image_28.png",
+    "pdfUrl": "https://www.dhakaprokash24.com/"
+  },
+  {
+    "title": "The Daily Campus | দ্য ডেইলি ক্যাম্পাস",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=thedailycampus.com&sz=128",
+    "pdfUrl": "https://thedailycampus.com/"
+  },
+  {
+    "title": "Deshe Bideshe | দেশে বিদেশে",
+    "imgUrl": "https://www.deshebideshe.com/wp-content/uploads/2023/06/cropped-favicon-180x180.png",
+    "pdfUrl": "https://www.deshebideshe.com/"
+  },
+  {
+    "title": "Dainik Odhikar | দৈনিক অধিকার",
+    "imgUrl": "https://odhikar.news/wp-content/uploads/2026/10/cropped-logo-png-180x180.png",
+    "pdfUrl": "https://www.odhikar.news/"
+  },
+  {
+    "title": "Dhaka News 24 | ঢাকা নিউজ ২৪",
+    "imgUrl": "https://www.dhakanews24.com/wp-content/uploads/2026/06/logoIcon.png",
+    "pdfUrl": "https://www.dhakanews24.com/"
+  },
+  {
+    "title": "Sylhet Today 24 | সিলেট টুডে ২৪",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=www.sylhettoday24.news&sz=128",
+    "pdfUrl": "https://www.sylhettoday24.news/"
   }
 ]

@@ -1,32 +1,157 @@
 [
   {
-    "title": "BBC News বাংলা",
-    "imgUrl": "https://news.files.bbci.co.uk/ws/img/logos/og/bengali.png",
-    "pdfUrl": "https://www.bbc.com/bengali"
+    "title": "Somoy TV | সময় টিভি",
+    "imgUrl": "https://www.somoynews.tv/assets/images/logo.png",
+    "pdfUrl": "https://www.somoynews.tv/"
   },
   {
-    "title": "Jagonews24",
-    "imgUrl": "https://cdn.jagonews24.com/media/common/logo.png",
-    "pdfUrl": "https://www.jagonews24.com/"
-  },
-  {
-    "title": "Jamuna Television",
+    "title": "Jamuna TV | যমুনা টিভি",
     "imgUrl": "https://jamuna.tv/wp-content/themes/jtv-news/img/logo.png",
     "pdfUrl": "https://jamuna.tv/"
   },
   {
-    "title": "চ্যানেল আই অনলাইন  | Channel i Online",
-    "imgUrl": "https://150593535.v2.pressablecdn.com/wp-content/uploads/2024/04/channel-i-logo-1.png",
-    "pdfUrl": "https://www.channelionline.com/"
+    "title": "Channel 24 | চ্যানেল ২৪",
+    "imgUrl": "https://backoffice.channel24bd.tv/media/common/favicon.png",
+    "pdfUrl": "https://www.channel24bd.tv/"
   },
   {
-    "title": "Television Channel Ltd. (NTV)",
-    "imgUrl": "https://www.ntvbd.com/sites/all/themes/sloth/logo.png",
+    "title": "Ekattor TV | একাত্তর টিভি",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=ekattor.tv&sz=128",
+    "pdfUrl": "https://ekattor.tv/"
+  },
+  {
+    "title": "Independent TV | ইনডিপেনডেন্ট টিভি",
+    "imgUrl": "https://cdn.itvbd.net/contents/themes/public/style/images/logo-512x512.png",
+    "pdfUrl": "https://www.itvbd.com/"
+  },
+  {
+    "title": "NTV | এনটিভি",
+    "imgUrl": "https://www.ntvbd.com/assets/images/logo.png",
     "pdfUrl": "https://www.ntvbd.com/"
   },
   {
-    "title": "BVNEWS24 || বিভিনিউজ২৪",
-    "imgUrl": "https://www.bvnews24.com/media/common/newbvlogo.png",
+    "title": "Channel i | চ্যানেল আই",
+    "imgUrl": "https://media.channelionline.com/2026/09/channel-i-online-og-brand-dark-slogan-url.png?w=1200&amp;quality=80",
+    "pdfUrl": "https://www.channelionline.com/"
+  },
+  {
+    "title": "RTV | আরটিভি",
+    "imgUrl": "https://rtvonline.com/assets/social-img/rtv-homepage.jpg",
+    "pdfUrl": "https://www.rtvonline.com/"
+  },
+  {
+    "title": "DBC News | ডিবিসি নিউজ",
+    "imgUrl": "https://dbcnews.tv/images/coverphoto.jpg",
+    "pdfUrl": "https://dbcnews.tv/"
+  },
+  {
+    "title": "Ekhon TV | এখন টিভি",
+    "imgUrl": "https://payload-bucket.fringecore.sh/ekhon-tv-768x292.webp",
+    "pdfUrl": "https://www.ekhon.tv/"
+  },
+  {
+    "title": "News24 | নিউজ২৪",
+    "imgUrl": "https://asset.news24bd.tv/files/shares/default-img.jpg",
+    "pdfUrl": "https://www.news24bd.tv/"
+  },
+  {
+    "title": "ATN News | এটিএন নিউজ",
+    "imgUrl": "https://www.atnnewstv.com/assets/img/banner.jpg",
+    "pdfUrl": "https://www.atnnewstv.com/"
+  },
+  {
+    "title": "ATN Bangla | এটিএন বাংলা",
+    "imgUrl": "https://atnbangla.tv/og-image.png",
+    "pdfUrl": "https://www.atnbangla.tv/"
+  },
+  {
+    "title": "Ekushey TV | একুশে টেলিভিশন",
+    "imgUrl": "https://www.ekushey-tv.com/media/common/logo_fb.jpg",
+    "pdfUrl": "https://www.ekushey-tv.com/"
+  },
+  {
+    "title": "BanglaVision | বাংলাভিশন",
+    "imgUrl": "https://www.bvnews24.com/media/common/logo-fb.png",
     "pdfUrl": "https://www.bvnews24.com/"
+  },
+  {
+    "title": "Maasranga TV | মাছরাঙা টেলিভিশন",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=www.maasranga.tv&sz=128",
+    "pdfUrl": "https://www.maasranga.tv/"
+  },
+  {
+    "title": "Desh TV | দেশ টিভি",
+    "imgUrl": "https://www.desh.tv/templates/desh-mob/images/desh-logo.png",
+    "pdfUrl": "https://www.desh.tv/"
+  },
+  {
+    "title": "Boishakhi TV | বৈশাখী টিভি",
+    "imgUrl": "https://www.boishakhionline.com/assets/social-img/Boishakhi-homepage.jpg",
+    "pdfUrl": "https://www.boishakhionline.com/"
+  },
+  {
+    "title": "SA TV | এসএ টিভি",
+    "imgUrl": "https://www.satv.tv/wp-content/uploads/2022/01/cropped-icon-logo-2-180x180.png",
+    "pdfUrl": "https://www.satv.tv/"
+  },
+  {
+    "title": "Asian TV | এশিয়ান টিভি",
+    "imgUrl": "https://www.asiantvonline.com/asian/img/logo_asian_online.png",
+    "pdfUrl": "https://www.asiantvonline.com/"
+  },
+  {
+    "title": "Mohona TV | মোহনা টিভি",
+    "imgUrl": "https://mohona.tv/wp-content/uploads/2026/02/Mohona_tv_Logo.svg_-scaled-e1771249453614.png",
+    "pdfUrl": "https://mohona.tv/"
+  },
+  {
+    "title": "Ananda TV | আনন্দ টিভি",
+    "imgUrl": "https://anandatv.tv/wp-content/uploads/2022/09/cropped-tv-180x180.png",
+    "pdfUrl": "https://www.anandatv.tv/"
+  },
+  {
+    "title": "Global TV | গ্লোবাল টিভি",
+    "imgUrl": "https://globaltvbd.com/storage/settings/01KVWJD17BQ4174M768ZJY7QA0.png",
+    "pdfUrl": "https://www.globaltvbd.com/"
+  },
+  {
+    "title": "Bangla TV | বাংলা টিভি",
+    "imgUrl": "https://i0.wp.com/banglatv.tv/wp-content/uploads/2018/10/cropped-Bangla-tv-logo-1_2-1.gif?fit=180%2C180&#038;ssl=1",
+    "pdfUrl": "https://www.banglatv.tv/"
+  },
+  {
+    "title": "T Sports | টি স্পোর্টস",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=www.tsports.com&sz=128",
+    "pdfUrl": "https://www.tsports.com/"
+  },
+  {
+    "title": "BTV | বাংলাদেশ টেলিভিশন",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=www.btv.gov.bd&sz=128",
+    "pdfUrl": "https://www.btv.gov.bd/"
+  },
+  {
+    "title": "Bangladesh Betar | বাংলাদেশ বেতার",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=www.betar.gov.bd&sz=128",
+    "pdfUrl": "https://www.betar.gov.bd/"
+  },
+  {
+    "title": "BSS | বাসস (রাষ্ট্রীয় সংবাদ সংস্থা)",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=www.bssnews.net&sz=128",
+    "pdfUrl": "https://www.bssnews.net/bangla"
+  },
+  {
+    "title": "BBC News Bangla | বিবিসি বাংলা",
+    "imgUrl": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/bengali/images/icons/icon-192x192.png",
+    "pdfUrl": "https://www.bbc.com/bengali"
+  },
+  {
+    "title": "DW Bangla | ডয়চে ভেলে বাংলা",
+    "imgUrl": "https://www.dw.com/images/icons/favicon-120x120.png",
+    "pdfUrl": "https://www.dw.com/bn/"
+  },
+  {
+    "title": "CRI Bangla | চীন আন্তর্জাতিক বেতার",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=bengali.cri.cn&sz=128",
+    "pdfUrl": "https://bengali.cri.cn/"
   }
 ]
