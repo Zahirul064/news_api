@@ -1,0 +1,823 @@
+[
+ {
+  "url": "https://www.dhakatribune.com/",
+  "status": 403,
+  "final": "https://www.dhakatribune.com/",
+  "title": "Just a moment...",
+  "en_words": 7,
+  "bangla": 0,
+  "y2026": 0,
+  "bad": [],
+  "size": 5706,
+  "og_image": "",
+  "touch": "",
+  "icon": "",
+  "site_name": ""
+ },
+ {
+  "url": "https://www.tbsnews.net/",
+  "status": 200,
+  "final": "https://www.tbsnews.net/",
+  "title": "The Business Standard | Bangladesh Newspapers | English Daily",
+  "en_words": 1009,
+  "bangla": 516,
+  "y2026": 206,
+  "bad": [],
+  "size": 165414,
+  "og_image": "https://tbsnews.net/sites/all/themes/sloth/banner.png",
+  "touch": "",
+  "icon": "https://www.tbsnews.net/sites/all/themes/sloth/favicon26.ico",
+  "site_name": "The Business Standard"
+ },
+ {
+  "url": "https://www.newagebd.net/",
+  "status": 403,
+  "final": "https://www.newagebd.net/",
+  "title": "Just a moment...",
+  "en_words": 7,
+  "bangla": 0,
+  "y2026": 0,
+  "bad": [],
+  "size": 5631,
+  "og_image": "",
+  "touch": "",
+  "icon": "",
+  "site_name": ""
+ },
+ {
+  "url": "https://theindependentbd.com/",
+  "error": "HTTPSConnectionPool(host='theindependentbd.com', port=443): Read timed out. (read timeout=25)"
+ },
+ {
+  "url": "https://bangladeshpost.net/",
+  "status": 200,
+  "final": "https://bangladeshpost.net/",
+  "title": "Bangladesh Post | A Daily with a Difference | Latest Online English Daily among Bangladesh Newspapers",
+  "en_words": 3439,
+  "bangla": 38,
+  "y2026": 93,
+  "bad": [
+   "judi"
+  ],
+  "size": 149742,
+  "og_image": "",
+  "touch": "",
+  "icon": "https://bangladeshpost.net/favicon.ico",
+  "site_name": ""
+ },
+ {
+  "url": "https://dailymessenger.net/",
+  "status": 200,
+  "final": "https://dailymessenger.net/",
+  "title": "The Daily Messenger",
+  "en_words": 2311,
+  "bangla": 700,
+  "y2026": 7,
+  "bad": [],
+  "size": 116601,
+  "og_image": "https://www.dailymessenger.net/media/common/logo-fb.png",
+  "touch": "",
+  "icon": "https://www.dailymessenger.net/media/common/favicon.ico",
+  "site_name": "The Daily Messenger"
+ },
+ {
+  "url": "https://dailyasianage.com/",
+  "status": 200,
+  "final": "https://dailyasianage.com/",
+  "title": "The Asian Age: Bangladesh English Newspaper",
+  "en_words": 1663,
+  "bangla": 5,
+  "y2026": 20,
+  "bad": [],
+  "size": 160170,
+  "og_image": "",
+  "touch": "",
+  "icon": "https://dailyasianage.com/img/favicon.png",
+  "site_name": "The Asian Age"
+ },
+ {
+  "url": "https://thedailynewnation.com/",
+  "status": 200,
+  "final": "https://dailynewnation.com/",
+  "title": "The New Nation",
+  "en_words": 1539,
+  "bangla": 883,
+  "y2026": 95,
+  "bad": [],
+  "size": 305295,
+  "og_image": "https://dailynewnation.com/wp-content/uploads/2026/02/New-Nation-Thumb.jpg",
+  "touch": "",
+  "icon": "",
+  "site_name": "The New Nation"
+ },
+ {
+  "url": "https://unb.com.bd/",
+  "status": 200,
+  "final": "https://unb.com.bd/",
+  "title": "United News of Bangladesh | Latest online news Bangladesh",
+  "en_words": 739,
+  "bangla": 205,
+  "y2026": 1,
+  "bad": [
+   "for sale"
+  ],
+  "size": 148156,
+  "og_image": "https://unb.com.bd/v2/images/logo/unb-social-media.jpg",
+  "touch": "",
+  "icon": "https://unb.com.bd/v2/images/logo/favicon.png",
+  "site_name": ""
+ },
+ {
+  "url": "https://www.bssnews.net/",
+  "status": 403,
+  "final": "https://www.bssnews.net/",
+  "title": "Just a moment...",
+  "en_words": 7,
+  "bangla": 0,
+  "y2026": 0,
+  "bad": [],
+  "size": 5630,
+  "og_image": "",
+  "touch": "",
+  "icon": "",
+  "site_name": ""
+ },
+ {
+  "url": "https://www.jagonews24.com/en",
+  "status": 403,
+  "final": "https://www.jagonews24.com/en",
+  "title": "Just a moment...",
+  "en_words": 7,
+  "bangla": 0,
+  "y2026": 0,
+  "bad": [],
+  "size": 5639,
+  "og_image": "",
+  "touch": "",
+  "icon": "",
+  "site_name": ""
+ },
+ {
+  "url": "https://www.banglanews24.com/english",
+  "status": 403,
+  "final": "https://www.banglanews24.com/english",
+  "title": "Just a moment...",
+  "en_words": 7,
+  "bangla": 0,
+  "y2026": 0,
+  "bad": [],
+  "size": 5677,
+  "og_image": "",
+  "touch": "",
+  "icon": "",
+  "site_name": ""
+ },
+ {
+  "url": "https://en.banglanews24.com/",
+  "status": 403,
+  "final": "https://en.banglanews24.com/",
+  "title": "Just a moment...",
+  "en_words": 7,
+  "bangla": 0,
+  "y2026": 0,
+  "bad": [],
+  "size": 5676,
+  "og_image": "",
+  "touch": "",
+  "icon": "",
+  "site_name": ""
+ },
+ {
+  "url": "https://www.risingbd.com/english",
+  "status": 403,
+  "final": "https://www.risingbd.com/english",
+  "title": "Just a moment...",
+  "en_words": 7,
+  "bangla": 0,
+  "y2026": 0,
+  "bad": [],
+  "size": 5673,
+  "og_image": "",
+  "touch": "",
+  "icon": "",
+  "site_name": ""
+ },
+ {
+  "url": "https://en.risingbd.com/",
+  "error": "HTTPSConnectionPool(host='en.risingbd.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='en.risin"
+ },
+ {
+  "url": "https://en.ittefaq.com.bd/",
+  "status": 403,
+  "final": "https://en.ittefaq.com.bd/",
+  "title": "Just a moment...",
+  "en_words": 7,
+  "bangla": 0,
+  "y2026": 0,
+  "bad": [],
+  "size": 5661,
+  "og_image": "",
+  "touch": "",
+  "icon": "",
+  "site_name": ""
+ },
+ {
+  "url": "https://en.bd-pratidin.com/",
+  "status": 403,
+  "final": "https://en.bd-pratidin.com/",
+  "title": "Just a moment...",
+  "en_words": 7,
+  "bangla": 0,
+  "y2026": 0,
+  "bad": [],
+  "size": 5633,
+  "og_image": "",
+  "touch": "",
+  "icon": "",
+  "site_name": ""
+ },
+ {
+  "url": "https://en.dailybangladesh.com/",
+  "error": "HTTPSConnectionPool(host='en.dailybangladesh.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='e"
+ },
+ {
+  "url": "https://en.daily-bangladesh.com/",
+  "error": "HTTPSConnectionPool(host='en.daily-bangladesh.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='"
+ },
+ {
+  "url": "https://en.banglatribune.com/",
+  "error": "HTTPSConnectionPool(host='en.banglatribune.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='en."
+ },
+ {
+  "url": "https://en.bonikbarta.com/",
+  "status": 200,
+  "final": "https://en.bonikbarta.com/",
+  "title": "Home | Daily Bonik Barta ( বণিক বার্তা ) | Leading Bangla Business Daily Newspaper",
+  "en_words": 49,
+  "bangla": 15,
+  "y2026": 6,
+  "bad": [],
+  "size": 44015,
+  "og_image": "https://static.bonikbarta.com/original_images/BONIK-BARTA-LOGO-En_kHnXzHm.png",
+  "touch": "",
+  "icon": "https://en.bonikbarta.com/favicon.webp",
+  "site_name": ""
+ },
+ {
+  "url": "https://en.somoynews.tv/",
+  "error": "HTTPSConnectionPool(host='en.somoynews.tv', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='en.somoy"
+ },
+ {
+  "url": "https://en.dhakapost.com/",
+  "status": 200,
+  "final": "https://en.dhakapost.com/",
+  "title": "Latest Online Bangla News | Dhaka Post",
+  "en_words": 460,
+  "bangla": 0,
+  "y2026": 41,
+  "bad": [],
+  "size": 70837,
+  "og_image": "https://cdn.dhakapost.com/media/common/dhakapost-og-image.jpg",
+  "touch": "https://cdn.dhakapost.com/config/icons/apple-touch-icon-precomposed.png",
+  "icon": "https://cdn.dhakapost.com/media/common/icon.png",
+  "site_name": ""
+ },
+ {
+  "url": "https://www.dhakapost.com/english",
+  "status": 404,
+  "final": "https://www.dhakapost.com/english",
+  "title": "Dhaka Post - Bangla News Portal, Breaking News, Bd News and Videos",
+  "en_words": 10,
+  "bangla": 0,
+  "y2026": 0,
+  "bad": [],
+  "size": 25781,
+  "og_image": "https://cdn.dhakapost.com/media/common/dhakapost-og-23.jpg",
+  "touch": "https://cdn.dhakapost.com/config/favicon/apple-icon-57x57.png",
+  "icon": "https://cdn.dhakapost.com/config/favicon/favicon-128x128.png",
+  "site_name": "dhakapost.com"
+ },
+ {
+  "url": "https://www.bangladeshmonitor.com.bd/",
+  "status": 200,
+  "final": "https://www.bangladeshmonitor.com.bd/",
+  "title": "The Bangladesh Monitor - Aviation &amp; Tourism Publication",
+  "en_words": 1196,
+  "bangla": 4350,
+  "y2026": 582,
+  "bad": [
+   "parked"
+  ],
+  "size": 1399501,
+  "og_image": "https://www.bangladeshmonitor.com.bd/logo.jpg",
+  "touch": "https://www.bangladeshmonitor.com.bd/icon-192x192.png",
+  "icon": "https://www.bangladeshmonitor.com.bd/favicon.png",
+  "site_name": "The Bangladesh Monitor"
+ },
+ {
+  "url": "https://www.dhakacourier.com.bd/",
+  "status": 200,
+  "final": "https://www.dhakacourier.com.bd/mobile",
+  "title": "Dhaka Courier",
+  "en_words": 613,
+  "bangla": 0,
+  "y2026": 35,
+  "bad": [],
+  "size": 80591,
+  "og_image": "",
+  "touch": "",
+  "icon": "https://www.dhakacourier.com.bd/public/assets/images/favicon/dc-fav.png",
+  "site_name": ""
+ },
+ {
+  "url": "https://www.weeklyholiday.net/",
+  "status": 200,
+  "final": "https://www.weeklyholiday.net/",
+  "title": "Home - Weekly Holiday - News at your finger tips",
+  "en_words": 896,
+  "bangla": 0,
+  "y2026": 0,
+  "bad": [
+   "casino",
+   "betting"
+  ],
+  "size": 76934,
+  "og_image": "",
+  "touch": "https://www.weeklyholiday.net/files/wp-content/uploads/2019/02/logo-icon.jpg",
+  "icon": "https://www.weeklyholiday.net/files/wp-content/uploads/2019/02/logo-icon.jpg",
+  "site_name": "Holiday - General news across the globe"
+ },
+ {
+  "url": "https://www.newstoday.com.bd/",
+  "error": "HTTPSConnectionPool(host='www.newstoday.com.bd', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www"
+ },
+ {
+  "url": "https://dailyindustry.news/",
+  "status": 200,
+  "final": "https://dailyindustry.news/",
+  "title": "dailyindustry.news",
+  "en_words": 16,
+  "bangla": 0,
+  "y2026": 0,
+  "bad": [],
+  "size": 1841,
+  "og_image": "",
+  "touch": "",
+  "icon": "",
+  "site_name": ""
+ },
+ {
+  "url": "https://netra.news/",
+  "status": 403,
+  "final": "https://netra.news/",
+  "title": "Just a moment...",
+  "en_words": 7,
+  "bangla": 0,
+  "y2026": 0,
+  "bad": [],
+  "size": 5625,
+  "og_image": "",
+  "touch": "",
+  "icon": "",
+  "site_name": ""
+ },
+ {
+  "url": "https://en.banglaoutlook.org/",
+  "status": 200,
+  "final": "https://en.banglaoutlook.org/",
+  "title": "Bangla Outlook English",
+  "en_words": 1028,
+  "bangla": 90,
+  "y2026": 93,
+  "bad": [],
+  "size": 130803,
+  "og_image": "https://en.banglaoutlook.org/uploads/settings/default-thumbdefault-img-1-1719757003default-img-1-1726378607.jpg",
+  "touch": "",
+  "icon": "https://en.banglaoutlook.org/uploads/settings/favicon.ico",
+  "site_name": "Bangla Outlook English"
+ },
+ {
+  "url": "https://bangladeshlivenews.com/",
+  "error": "HTTPSConnectionPool(host='bangladeshlivenews.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='b"
+ },
+ {
+  "url": "https://en.kalerkantho.com/",
+  "error": "HTTPSConnectionPool(host='en.kalerkantho.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='en.ka"
+ },
+ {
+  "url": "https://www.kalerkantho.com/english",
+  "status": 403,
+  "final": "https://www.kalerkantho.com/english",
+  "title": "Just a moment...",
+  "en_words": 7,
+  "bangla": 0,
+  "y2026": 0,
+  "bad": [],
+  "size": 5655,
+  "og_image": "",
+  "touch": "",
+  "icon": "",
+  "site_name": ""
+ },
+ {
+  "url": "https://en.samakal.com/",
+  "status": 403,
+  "final": "https://en.samakal.com/",
+  "title": "Just a moment...",
+  "en_words": 7,
+  "bangla": 0,
+  "y2026": 0,
+  "bad": [],
+  "size": 5629,
+  "og_image": "",
+  "touch": "",
+  "icon": "",
+  "site_name": ""
+ },
+ {
+  "url": "https://en.jugantor.com/",
+  "error": "HTTPSConnectionPool(host='en.jugantor.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='en.jugan"
+ },
+ {
+  "url": "https://en.dailynayadiganta.com/",
+  "error": "HTTPSConnectionPool(host='en.dailynayadiganta.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='"
+ },
+ {
+  "url": "https://www.dailynayadiganta.com/english",
+  "error": "HTTPSConnectionPool(host='www.dailynayadiganta.com', port=443): Max retries exceeded with url: /english (Caused by SSLError(SSLCertVerificationError(1"
+ },
+ {
+  "url": "https://en.dailyamardesh.com/",
+  "error": "HTTPSConnectionPool(host='en.dailyamardesh.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='en."
+ },
+ {
+  "url": "https://www.dailyamardesh.com/english",
+  "status": 404,
+  "final": "https://www.dailyamardesh.com/english",
+  "title": "",
+  "en_words": 0,
+  "bangla": 0,
+  "y2026": 1,
+  "bad": [],
+  "size": 54968,
+  "og_image": "",
+  "touch": "https://images.dailyamardesh.com/mimages/d515c3fe-e4e0-40f3-b3ed-25ec3e51feaf_favicon(180x180).png",
+  "icon": "https://images.dailyamardesh.com/mimages/28d526a0-c0c2-4cda-a6c7-90e57334368a_favicon.ico",
+  "site_name": ""
+ },
+ {
+  "url": "https://en.barta24.com/",
+  "status": 404,
+  "final": "https://en.barta24.com/",
+  "title": "404 Not Found",
+  "en_words": 36,
+  "bangla": 0,
+  "y2026": 0,
+  "bad": [],
+  "size": 2363,
+  "og_image": "",
+  "touch": "",
+  "icon": "",
+  "site_name": ""
+ },
+ {
+  "url": "https://barta24.com/en",
+  "status": 200,
+  "final": "https://barta24.com/en",
+  "title": "404 - Nothing Found",
+  "en_words": 2,
+  "bangla": 0,
+  "y2026": 0,
+  "bad": [],
+  "size": 7732,
+  "og_image": "https://backoffice.barta24.com/media/common/thumb.png",
+  "touch": "https://barta24.com/media/common/fav.png",
+  "icon": "https://barta24.com/media/common/fav.png",
+  "site_name": " Barta 24"
+ },
+ {
+  "url": "https://en.channel24bd.tv/",
+  "error": "HTTPSConnectionPool(host='en.channel24bd.tv', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='en.cha"
+ },
+ {
+  "url": "https://en.ekattor.tv/",
+  "error": "HTTPSConnectionPool(host='en.ekattor.tv', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='en.ekattor"
+ },
+ {
+  "url": "https://en.dailyinqilab.com/",
+  "status": 200,
+  "final": "https://en.dailyinqilab.com/",
+  "title": "The Daily Inqilab - English - Politics, Economy, Sports News Update",
+  "en_words": 1106,
+  "bangla": 349,
+  "y2026": 557,
+  "bad": [],
+  "size": 235430,
+  "og_image": "https://en.dailyinqilab.com/wp-content/uploads/2026/10/INQ-Eng-Thumbonail.jpg",
+  "touch": "https://en.dailyinqilab.com/wp-content/uploads/2026/08/cropped-icon-180x180.png",
+  "icon": "https://en.dailyinqilab.com/wp-content/uploads/2026/08/cropped-icon-32x32.png",
+  "site_name": "The Daily Inqilab"
+ },
+ {
+  "url": "https://ep-bd.com/",
+  "status": 200,
+  "final": "https://ep-bd.com/",
+  "title": "Energy & Power Magazine | Home",
+  "en_words": 530,
+  "bangla": 0,
+  "y2026": 9,
+  "bad": [],
+  "size": 88988,
+  "og_image": "",
+  "touch": "",
+  "icon": "https://ep-bd.com/images/favicon.ico",
+  "site_name": ""
+ },
+ {
+  "url": "https://thebusinesspost.net/",
+  "status": 200,
+  "final": "https://www.surga88-real.com",
+  "title": "Surga88 : Arena Hiburan Digital Penuh Apresiasi",
+  "en_words": 1545,
+  "bangla": 0,
+  "y2026": 31,
+  "bad": [
+   "slot gacor",
+   "casino"
+  ],
+  "size": 444264,
+  "og_image": "https://veldrive.com/i9m8FUWv/Customer%20SERVICE%20-%202026-09-01T190630.930.webp",
+  "touch": "https://veldrive.com/i9m8FUWv/ChatGPT%20Image%2025%20Agu%202026%2C%2013.56.51-Photoroom.webp",
+  "icon": "https://veldrive.com/i9m8FUWv/ChatGPT%20Image%2025%20Agu%202026%2C%2013.56.51-Photoroom.webp",
+  "site_name": "Surga88"
+ },
+ {
+  "url": "https://en.dailyjanakantha.com/",
+  "error": "HTTPSConnectionPool(host='en.dailyjanakantha.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='e"
+ },
+ {
+  "url": "https://en.mzamin.com/",
+  "error": "HTTPSConnectionPool(host='en.mzamin.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='en.mzamin."
+ },
+ {
+  "url": "https://en.bhorerkagoj.com/",
+  "error": "HTTPSConnectionPool(host='en.bhorerkagoj.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='en.bh"
+ },
+ {
+  "url": "https://en.news24bd.tv/",
+  "error": "HTTPSConnectionPool(host='en.news24bd.tv', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='en.news24"
+ },
+ {
+  "url": "https://en.jamuna.tv/",
+  "error": "HTTPSConnectionPool(host='en.jamuna.tv', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='en.jamuna.t"
+ },
+ {
+  "url": "https://en.dhakatimes24.com/",
+  "error": "HTTPSConnectionPool(host='en.dhakatimes24.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='en.d"
+ },
+ {
+  "url": "https://en.sylhettoday24.news/",
+  "error": "HTTPSConnectionPool(host='en.sylhettoday24.news', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='en"
+ },
+ {
+  "url": "https://www.bangladeshchronicle.net/",
+  "status": 200,
+  "final": "https://bangladeshchronicle.net/",
+  "title": "The Bangladesh Chronicle",
+  "en_words": 862,
+  "bangla": 0,
+  "y2026": 267,
+  "bad": [],
+  "size": 212381,
+  "og_image": "",
+  "touch": "https://bangladeshchronicle.net/wp-content/uploads/2019/09/cropped-logo-1-180x180.jpg",
+  "icon": "https://bangladeshchronicle.net/wp-content/uploads/2019/09/cropped-logo-1-32x32.jpg",
+  "site_name": ""
+ },
+ {
+  "url": "https://en.ntvbd.com/",
+  "status": 200,
+  "final": "https://en.ntvbd.com/",
+  "title": "NTV: Latest Bangla News, Infotainment, Online & Live Tv",
+  "en_words": 746,
+  "bangla": 10,
+  "y2026": 3,
+  "bad": [],
+  "size": 141799,
+  "og_image": "",
+  "touch": "",
+  "icon": "https://en.ntvbd.com/sites/all/themes/sloth/favicon.ico",
+  "site_name": "NTv Online"
+ },
+ {
+  "url": "https://en.rtvonline.com/",
+  "error": "HTTPSConnectionPool(host='en.rtvonline.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='en.rtvo"
+ },
+ {
+  "url": "https://en.alokitobangladesh.com/",
+  "error": "HTTPSConnectionPool(host='en.alokitobangladesh.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host="
+ },
+ {
+  "url": "https://en.dainikamadershomoy.com/",
+  "error": "HTTPSConnectionPool(host='en.dainikamadershomoy.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host"
+ },
+ {
+  "url": "https://en.deshrupantor.com/",
+  "error": "HTTPSConnectionPool(host='en.deshrupantor.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='en.d"
+ },
+ {
+  "url": "https://en.kalbela.com/",
+  "error": "HTTPSConnectionPool(host='en.kalbela.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='en.kalbel"
+ },
+ {
+  "url": "https://en.ajkerpatrika.com/",
+  "error": "HTTPSConnectionPool(host='en.ajkerpatrika.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='en.a"
+ },
+ {
+  "url": "https://en.protidinerbangladesh.com/",
+  "error": "HTTPSConnectionPool(host='en.protidinerbangladesh.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(ho"
+ },
+ {
+  "url": "https://www.ekushey-tv.com/english",
+  "status": 404,
+  "final": "https://www.ekushey-tv.com/english",
+  "title": "404 Not Found",
+  "en_words": 26,
+  "bangla": 0,
+  "y2026": 0,
+  "bad": [],
+  "size": 324,
+  "og_image": "",
+  "touch": "",
+  "icon": "",
+  "site_name": ""
+ },
+ {
+  "url": "https://en.dbcnews.tv/",
+  "error": "HTTPSConnectionPool(host='en.dbcnews.tv', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='en.dbcnews"
+ },
+ {
+  "url": "https://www.textiletoday.com.bd/",
+  "status": 200,
+  "final": "https://www.textiletoday.com.bd/",
+  "title": "Textile News, Apparel News, RMG News, Fashion Trends | Textile Today",
+  "en_words": 10,
+  "bangla": 0,
+  "y2026": 89,
+  "bad": [],
+  "size": 35480,
+  "og_image": "https://www.textiletoday.com.bd/assets/images/textile_today_home.jpg",
+  "touch": "https://www.textiletoday.com.bd/assets/images/ico/apple-touch-icon.png",
+  "icon": "https://www.textiletoday.com.bd/assets/images/ico/favicon.ico",
+  "site_name": "Textile News, Apparel News, RMG News, Fashion Trends"
+ },
+ {
+  "url": "https://www.dailytimesofbangladesh.com/",
+  "error": "HTTPSConnectionPool(host='www.dailytimesofbangladesh.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection"
+ },
+ {
+  "url": "https://en.thereport24.com/",
+  "error": "HTTPSConnectionPool(host='en.thereport24.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='en.th"
+ },
+ {
+  "url": "https://www.thedailycampus.com/english",
+  "status": 404,
+  "final": "https://www.thedailycampus.com/english",
+  "title": "পৃষ্ঠা খুঁজে পাওয়া যায়নি - 404",
+  "en_words": 13,
+  "bangla": 518,
+  "y2026": 3,
+  "bad": [],
+  "size": 69454,
+  "og_image": "https://thedailycampus.com/assets/img/default.png",
+  "touch": "",
+  "icon": "https://files.thedailycampus.com/assets/img/1_3.png",
+  "site_name": "দ্য ডেইলি ক্যাম্পাস"
+ },
+ {
+  "url": "https://en.channelionline.com/",
+  "status": 200,
+  "final": "https://www.en.channelionline.com/",
+  "title": "Channel i Online English Home | Channel i News English",
+  "en_words": 785,
+  "bangla": 10,
+  "y2026": 215,
+  "bad": [],
+  "size": 302954,
+  "og_image": "https://www.en.channelionline.com/wp-content/uploads/2024/04/Channel-i-Online-Logo.png",
+  "touch": "https://www.en.channelionline.com/wp-content/uploads/2024/04/cropped-channel-i_01-300x300.png",
+  "icon": "https://www.en.channelionline.com/wp-content/uploads/2024/04/cropped-channel-i_01-150x150.png",
+  "site_name": "Channel i News English"
+ },
+ {
+  "url": "https://www.observerbd.com/",
+  "status": 403,
+  "final": "https://www.observerbd.com/",
+  "title": "Just a moment...",
+  "en_words": 7,
+  "bangla": 0,
+  "y2026": 0,
+  "bad": [],
+  "size": 5633,
+  "og_image": "",
+  "touch": "",
+  "icon": "",
+  "site_name": ""
+ },
+ {
+  "url": "https://www.thedailystar.net/",
+  "status": 200,
+  "final": "https://www.thedailystar.net/",
+  "title": "The Daily Star - Bangladesh&#039;s National and International Breaking News",
+  "en_words": 1367,
+  "bangla": 10,
+  "y2026": 424,
+  "bad": [],
+  "size": 279654,
+  "og_image": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
+  "touch": "",
+  "icon": "https://www.thedailystar.net/themes/custom/swallow/favicon.ico",
+  "site_name": "The Daily Star"
+ },
+ {
+  "url": "https://en.prothomalo.com/",
+  "status": 200,
+  "final": "https://en.prothomalo.com/",
+  "title": "English Newspaper | Most Popular English News in BD | Prothom Alo",
+  "en_words": 1171,
+  "bangla": 11,
+  "y2026": 571,
+  "bad": [
+   "for sale",
+   "parked"
+  ],
+  "size": 1813972,
+  "og_image": "https://media.prothomalo.com/prothomalo-english/2021-01/c3dbed49-9972-49c7-83ed-ef4927b04b9f/english_site_og_image.png",
+  "touch": "https://en.prothomalo.com/en-favicons/favicon-57x57.png",
+  "icon": "https://en.prothomalo.com/en-favicons/favicon-16x16.png",
+  "site_name": "Prothomalo"
+ },
+ {
+  "url": "https://www.daily-sun.com/",
+  "status": 403,
+  "final": "https://www.daily-sun.com/",
+  "title": "Just a moment...",
+  "en_words": 7,
+  "bangla": 0,
+  "y2026": 0,
+  "bad": [],
+  "size": 5653,
+  "og_image": "",
+  "touch": "",
+  "icon": "",
+  "site_name": ""
+ },
+ {
+  "url": "https://thebangladeshtoday.com/",
+  "status": 200,
+  "final": "https://thebangladeshtoday.com/",
+  "title": "Home - The Bangladesh Today",
+  "en_words": 833,
+  "bangla": 19,
+  "y2026": 300,
+  "bad": [],
+  "size": 124059,
+  "og_image": "",
+  "touch": "https://thebangladeshtoday.com/wp-content/uploads/2024/06/cropped-TBT-Logo-180x180.png",
+  "icon": "https://thebangladeshtoday.com/wp-content/uploads/2024/06/cropped-TBT-Logo-32x32.png",
+  "site_name": "The Bangladesh Today"
+ },
+ {
+  "url": "https://thefinancialexpress.com.bd/",
+  "status": 200,
+  "final": "https://thefinancialexpress.com.bd/",
+  "title": "The Financial Express | First Financial Daily of Bangladesh",
+  "en_words": 3313,
+  "bangla": 1537,
+  "y2026": 256,
+  "bad": [
+   "casino",
+   "parked"
+  ],
+  "size": 915618,
+  "og_image": "https://thefinancialexpress.com.bd/opengraph-image.jpg?opengraph-image.2l2jugq5ywgvj.jpg",
+  "touch": "https://thefinancialexpress.com.bd/assets/icons/icon-192x192.png",
+  "icon": "https://thefinancialexpress.com.bd/favicon.ico?favicon.2im-xpw38-0lp.ico",
+  "site_name": "The Financial Express"
+ },
+ {
+  "url": "https://bdnews24.com/",
+  "status": 200,
+  "final": "https://bdnews24.com/",
+  "title": "bdnews24.com - Latest News | বাংলা খবর ও সর্বশেষ সংবাদ",
+  "en_words": 1693,
+  "bangla": 26,
+  "y2026": 141,
+  "bad": [],
+  "size": 328357,
+  "og_image": "https://fea.assettype.com/bdnews24/assets/bdnews-wHsKwRkd.png",
+  "touch": "",
+  "icon": "https://fea.assettype.com/bdnews24/assets/favicon-DGWicxG8.png",
+  "site_name": "bdnews24.com"
+ }
+]
