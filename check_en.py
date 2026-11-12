@@ -1,5 +1,5 @@
-import json, re, requests, urllib3
-urllib3.disable_warnings(), concurrent.futures as cf
+import json, re, requests, urllib3, concurrent.futures as cf
+urllib3.disable_warnings()
 from urllib.parse import urljoin, urlparse
 C = json.load(open('cand_en.json'))
 H = {'User-Agent': 'Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Mobile Safari/537.36',
