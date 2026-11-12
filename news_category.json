@@ -48,5 +48,57 @@
         "districtUrl": "https://zahirul064.github.io/news_api/district_news.json",
         "cat_title_bn": "জেলার খবর (৬৪ জেলা)",
         "count": 145
+    },
+    {
+        "imageUrl": "",
+        "cat_title": "Islamic Magazine",
+        "cat_subtitle": "ইসলামী ম্যাগাজিন",
+        "serverUrl": "https://zahirul064.github.io/news_api/islamic_magazine.json",
+        "cat_title_bn": "ইসলামী ম্যাগাজিন",
+        "icon": "mosque",
+        "colors": [
+            "#00573F",
+            "#2E9E6E"
+        ],
+        "count": 14
+    },
+    {
+        "imageUrl": "",
+        "cat_title": "Tech / IT Magazine",
+        "cat_subtitle": "টেক / আইটি ম্যাগাজিন",
+        "serverUrl": "https://zahirul064.github.io/news_api/tech_magazine.json",
+        "cat_title_bn": "টেক / আইটি ম্যাগাজিন",
+        "icon": "tech",
+        "colors": [
+            "#1A237E",
+            "#00ACC1"
+        ],
+        "count": 12
+    },
+    {
+        "imageUrl": "",
+        "cat_title": "Kids & Science Magazine",
+        "cat_subtitle": "শিশু-কিশোর ও বিজ্ঞান",
+        "serverUrl": "https://zahirul064.github.io/news_api/kids_science_magazine.json",
+        "cat_title_bn": "শিশু-কিশোর ও বিজ্ঞান",
+        "icon": "science",
+        "colors": [
+            "#E65100",
+            "#FFB300"
+        ],
+        "count": 8
+    },
+    {
+        "imageUrl": "",
+        "cat_title": "Literature & Culture",
+        "cat_subtitle": "সাহিত্য ও সংস্কৃতি",
+        "serverUrl": "https://zahirul064.github.io/news_api/literature_culture_magazine.json",
+        "cat_title_bn": "সাহিত্য ও সংস্কৃতি",
+        "icon": "book",
+        "colors": [
+            "#6A1B4D",
+            "#C2185B"
+        ],
+        "count": 10
     }
 ]

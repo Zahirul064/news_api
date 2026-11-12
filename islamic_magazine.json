@@ -1,0 +1,72 @@
+[
+  {
+    "title": "মাসিক আল-কাউসার | Monthly Al-Kawsar",
+    "imgUrl": "https://www.alkawsar.com/static/images/apple-touch-icon.png",
+    "pdfUrl": "https://www.alkawsar.com/"
+  },
+  {
+    "title": "মাসিক আত-তাহরীক | Monthly At-Tahreek",
+    "imgUrl": "https://at-tahreek.com/logo.png",
+    "pdfUrl": "https://www.at-tahreek.com/"
+  },
+  {
+    "title": "আওয়ার ইসলাম | OurIslam24",
+    "imgUrl": "https://www.ourislam24.com/public/images/20201018123322_og_image_49.png",
+    "pdfUrl": "https://www.ourislam24.com/"
+  },
+  {
+    "title": "ইসলামিক ফাউন্ডেশন | Islamic Foundation",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=islamicfoundation.gov.bd&sz=128",
+    "pdfUrl": "https://www.islamicfoundation.gov.bd/"
+  },
+  {
+    "title": "আল হাদিস | iHadis",
+    "imgUrl": "https://ihadis.com/assets/global/og.jpg",
+    "pdfUrl": "https://ihadis.com/"
+  },
+  {
+    "title": "হাদিস বিডি | HadithBD",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=www.hadithbd.com&sz=128",
+    "pdfUrl": "https://www.hadithbd.com/"
+  },
+  {
+    "title": "কুরআন (বাংলা) | Quran.com",
+    "imgUrl": "https://quran.com/images/branding/qdc/qdc-home-screen-icon-180.png",
+    "pdfUrl": "https://quran.com/bn"
+  },
+  {
+    "title": "ইসলাম জিজ্ঞাসা ও জবাব | IslamQA",
+    "imgUrl": "https://islamqa.info/assets/icons/icon-192x192.png",
+    "pdfUrl": "https://islamqa.info/bn"
+  },
+  {
+    "title": "কুরআনের আলো | QuranerAlo",
+    "imgUrl": "https://quraneralo.com/wp-content/uploads/2020/05/cropped-qalogo1-1-420x420.jpg",
+    "pdfUrl": "https://www.quraneralo.com/"
+  },
+  {
+    "title": "মুসলিম মিডিয়া | Muslim Media",
+    "imgUrl": "https://i0.wp.com/www.muslimmedia.info/wp-content/uploads/2015/08/cropped-Muslim-Media-fev-1.png?fit=180%2C180&#038;ssl=1",
+    "pdfUrl": "https://muslimmedia.info/"
+  },
+  {
+    "title": "ইসলামহাউজ বাংলা | IslamHouse",
+    "imgUrl": "https://islamhouse.com/assets/images/apple-touch-icon-114-precomposed.png",
+    "pdfUrl": "https://islamhouse.com/bn/"
+  },
+  {
+    "title": "প্রথম আলো — ধর্ম | Prothom Alo Religion",
+    "imgUrl": "https://www.prothomalo.com/favicons/favicon-192x192.png",
+    "pdfUrl": "https://www.prothomalo.com/religion"
+  },
+  {
+    "title": "ঢাকা পোস্ট — ইসলাম ও ধর্ম | Dhaka Post Religion",
+    "imgUrl": "https://cdn.dhakapost.com/config/favicon/apple-icon-57x57.png",
+    "pdfUrl": "https://www.dhakapost.com/religion"
+  },
+  {
+    "title": "বিডিনিউজ২৪ — ধর্ম | bdnews24 Religion",
+    "imgUrl": "https://fea.assettype.com/bdnews24/assets/bdnews-wHsKwRkd.png",
+    "pdfUrl": "https://bangla.bdnews24.com/religion"
+  }
+]

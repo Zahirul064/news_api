@@ -8,9 +8,18 @@ import pathlib
 import sys
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-LISTS = ["bd_national_news.json", "eng_national_news.json", "online_news.json",
-         "international_news.json", "bd_media_news.json", "bd_local_news.json"]
 errors = []
+ICONS = {"newspaper", "translate", "bolt", "world", "tv", "city", "mosque", "quran", "tech", "computer",
+         "science", "kids", "book", "palette", "sports", "business", "health", "education", "music", "feed"}
+
+# every list that a category in news_category.json points to (new categories
+# are checked automatically)
+try:
+    _cats = json.loads((ROOT / "news_category.json").read_text(encoding="utf-8"))
+    LISTS = [c["serverUrl"].rsplit("/", 1)[-1] for c in _cats
+             if isinstance(c, dict) and str(c.get("serverUrl", "")).endswith(".json")]
+except Exception:
+    LISTS = []
 
 
 def load(name):
@@ -53,6 +62,12 @@ if isinstance(cats, list):
         need_url(f"news_category.json item {i}", c.get("serverUrl"))
         if not c.get("cat_title"):
             errors.append(f"news_category.json item {i}: \"cat_title\" is empty")
+        if c.get("icon") and c["icon"] not in ICONS:
+            errors.append(f"news_category.json item {i}: unknown icon {c['icon']!r} (use one of: {', '.join(sorted(ICONS))})")
+        cols = c.get("colors")
+        if cols is not None and (not isinstance(cols, list) or len(cols) != 2 or
+                                 not all(isinstance(x, str) and len(x.lstrip("#")) == 6 for x in cols)):
+            errors.append(f"news_category.json item {i}: \"colors\" must be two colours like [\"#0B6E44\", \"#22A06B\"]")
 
 tops = load("top_outlets.json")
 if isinstance(tops, list):

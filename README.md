@@ -17,6 +17,10 @@ NewsHubs4BD অ্যাপের সব তালিকা এই repo-তে �
 | `international_news.json` | আন্তর্জাতিক খবর |
 | `bd_media_news.json` | টিভি / মিডিয়া |
 | `bd_local_news.json`, `district_news.json` | ৬৪ জেলার স্থানীয় খবর |
+| `islamic_magazine.json` | ইসলামী ম্যাগাজিন |
+| `tech_magazine.json` | টেক / আইটি ম্যাগাজিন |
+| `kids_science_magazine.json` | শিশু-কিশোর ও বিজ্ঞান |
+| `literature_culture_magazine.json` | সাহিত্য ও সংস্কৃতি |
 | `top_outlets.json` | হোমের "Top Outlets" সারি (১০টি লোগো) |
 | `app_version.json` | নতুন সংস্করণের ব্যানার |
 | `trending.json` | ট্রেন্ডিং খবর — **হাতে বদলাবেন না**, প্রতি ৩০ মিনিটে নিজে তৈরি হয় |
@@ -36,6 +40,29 @@ NewsHubs4BD অ্যাপের সব তালিকা এই repo-তে �
 - `imgUrl` না জানলে `""` রেখে দিন — অ্যাপ ওয়েবসাইটের আইকন নিজে খুঁজে নেবে।
 - উপরে রাখলে তালিকায় আগে দেখাবে।
 - তারপর **Commit changes** চাপুন।
+
+## নতুন ক্যাটাগরি যোগ করা
+
+1. নতুন একটা ফাইল বানান, যেমন `sports_magazine.json`, ভেতরে পত্রিকার তালিকা (উপরের নিয়মে)।
+2. `news_category.json`-এর শেষে একটা ঘর যোগ করুন:
+
+```json
+    {
+        "imageUrl": "",
+        "cat_title": "Sports Magazine",
+        "cat_title_bn": "খেলার ম্যাগাজিন",
+        "cat_subtitle": "খেলার ম্যাগাজিন",
+        "serverUrl": "https://zahirul064.github.io/news_api/sports_magazine.json",
+        "icon": "sports",
+        "colors": ["#0B6E44", "#22A06B"]
+    }
+```
+
+- `icon` যা দেওয়া যায়: `newspaper` `translate` `bolt` `world` `tv` `city` `mosque` `quran`
+  `tech` `computer` `science` `kids` `book` `palette` `sports` `business` `health`
+  `education` `music` `feed`
+- `colors`: কার্ডের দুই রঙ (হেক্স কোড)। না দিলে অ্যাপ নিজে একটা রঙ বেছে নেয়।
+- `count` লিখতে হবে না — পরীক্ষা নিজে বসিয়ে দেয়।
 
 ## Top Outlets বদলানো
 

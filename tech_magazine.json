@@ -1,0 +1,62 @@
+[
+  {
+    "title": "টেকটিউনস | Techtunes",
+    "imgUrl": "https://dnc.techtunes.io/tDrive/tuner/2023/10/techtunes_9153c5aa40c6b4514820f0d12d0804af.jpg",
+    "pdfUrl": "https://www.techtunes.io/"
+  },
+  {
+    "title": "টেকশহর | TechShohor",
+    "imgUrl": "https://www.google.com/s2/favicons?domain=www.techshohor.com&sz=128",
+    "pdfUrl": "https://www.techshohor.com/"
+  },
+  {
+    "title": "টেকজুম | TechZoom",
+    "imgUrl": "https://i0.wp.com/techzoom.tv/wp-content/uploads/2024/04/cropped-Asset-6-8.png?fit=180%2C180&#038;ssl=1",
+    "pdfUrl": "https://techzoom.tv/"
+  },
+  {
+    "title": "টেকজানো | TechJano",
+    "imgUrl": "https://techjano.com/wp-content/uploads/2018/01/Favicon.png",
+    "pdfUrl": "https://www.techjano.com/"
+  },
+  {
+    "title": "ডিজি বাংলা টেক | Digi Bangla Tech",
+    "imgUrl": "https://digibanglatech.news/assets/img/pwa/144x144.png",
+    "pdfUrl": "https://www.digibanglatech.news/"
+  },
+  {
+    "title": "বাংলা টেক ২৪ | BanglaTech24",
+    "imgUrl": "https://i0.wp.com/banglatech24.com/wp-content/uploads/2018/08/bt24fav.png?fit=70%2C70&#038;ssl=1",
+    "pdfUrl": "https://banglatech24.com/"
+  },
+  {
+    "title": "প্রথম আলো — প্রযুক্তি | Prothom Alo Tech",
+    "imgUrl": "https://www.prothomalo.com/favicons/favicon-192x192.png",
+    "pdfUrl": "https://www.prothomalo.com/technology"
+  },
+  {
+    "title": "বিডিনিউজ২৪ — প্রযুক্তি | bdnews24 Tech",
+    "imgUrl": "https://fea.assettype.com/bdnews24/assets/bdnews-wHsKwRkd.png",
+    "pdfUrl": "https://bangla.bdnews24.com/technology"
+  },
+  {
+    "title": "ঢাকা পোস্ট — তথ্যপ্রযুক্তি | Dhaka Post Tech",
+    "imgUrl": "https://cdn.dhakapost.com/config/favicon/apple-icon-57x57.png",
+    "pdfUrl": "https://www.dhakapost.com/technology"
+  },
+  {
+    "title": "The Daily Star — Tech & Startup",
+    "imgUrl": "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
+    "pdfUrl": "https://www.thedailystar.net/tech-startup"
+  },
+  {
+    "title": "The Business Standard — Tech",
+    "imgUrl": "https://tbsnews.net/sites/all/themes/sloth/banner.png",
+    "pdfUrl": "https://www.tbsnews.net/tech"
+  },
+  {
+    "title": "Future Startup",
+    "imgUrl": "https://futurestartup.com/wp-content/uploads/2023/02/cropped-fs-logo-180x180.png",
+    "pdfUrl": "https://futurestartup.com/"
+  }
+]
