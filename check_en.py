@@ -32,7 +32,7 @@ def chk(u):
         m = re.search(r'<title[^>]*>(.*?)</title>', t, re.S | re.I)
         r.update(status=s.status_code, final=s.url, title=(m.group(1).strip()[:120] if m else ''),
                  en_words=len(re.findall(r'\b[A-Za-z]{3,}\b', text)), bangla=len(re.findall(r'[ঀ-৿]', text)),
-                 y2026=t.count('2026'), bad=[k for k in BAD if k in t.lower()], size=len(t))
+                 y2026=t.count('2026'), y2026bn=t.count('২০২৬'), bad=[k for k in BAD if k in t.lower()], size=len(t))
         r.update(meta(t, s.url))
     except Exception as e:
         r['error'] = str(e)[:150]
