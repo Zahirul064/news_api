@@ -107,3 +107,24 @@
 | Deepto TV | https://www.deeptotv.com/ | Khali page |
 | abnews24, MTnews24, NewsNow24, BD Morning, Deshkal News | (various) | 2026-er khobor nei / server down |
 | Bangladesh Journal | https://www.bd-journal.com/ | Page-e jua-r (togel) spam lekha paowa geche |
+
+# District list (user's list) — checked but NOT added (2026-11-13)
+
+| District | URL | Karon |
+|---|---|---|
+| Narsingdi | narsingdipratidin.com | Hijacked — অশ্লীল কনটেন্ট |
+| Lalmonirhat | lalmonirhatbarta.com | Hijacked — casino app |
+| Nilphamari | nilphamaribarta.com | Hijacked — casino site-e redirect |
+| Naogaon | naogaonnews.com | Domain bikri (HugeDomains) |
+| Rajshahi | sonardesh.com | Domain bikri (HugeDomains) |
+| Satkhira | satkhiranews.com | Account suspended |
+| Barguna | bargunanews.com | Parked domain |
+| Kurigram | kurigramnews.com | Parked domain |
+| Sirajganj | sirajganjnews.com | "Coming soon" page |
+| Barishal | ajkerbarisal.com, barisalnews.com | Browser-keo block kore (Cloudflare "you have been blocked") |
+| Dinajpur | dinajpurnews.com | Bot-check page chara kichu khole na — jachai kora jayni |
+| Tangail | tangailtimes.com | Chalu, kintu Tangail-er khobor nei (jatiyo khobor) |
+| Manikganj, Panchagarh | manikganjnews24.com, panchagarhnews.com | 2026-er kono khobor nei |
+| Jashore | dailykalyan.com | Onno TV site, Kalyan potrikar khobor nei |
+| Munshiganj, Rajbari, Noakhali, Gopalganj, Jhenaidah, Kushtia, Chapainawabganj, Sylhet | munshiganjnews.com, rajbarinews24.com, noakhaliweb.com, gopalganjnews.com, jhenaidahnews.com, kushtianews.com, chapainawabganjnews.com, sylhettoday24.news | Server error / khole na |
+| (23 ti) | gazipurtoday.com, madaripurnews.com, shariatpurnews.com, ekushey-patrika.com, dailycoxsbazar.com, comilla24.com, fenireport.com, fenisamay.com, noakhalipratidin.com, natorekantho.com, pabnapratidin.com, dainikjanmabhumi.com, kushtiatimes.com, satkhiraprotidin.net, dailydakhinanchal.com, barisaltimes.com, jhalokathinews.com, habiganjsamachar.com, kulauranews.com, gaibandhapratidin.com, rangpurchitra.com, thakurgaonnews.com, netrokonajournal.com | Domain nei |

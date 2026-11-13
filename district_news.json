@@ -1,6 +1,6 @@
 {
   "country": "Bangladesh",
-  "updated": "2026-11-06",
+  "updated": "2026-11-13",
   "total_divisions": 8,
   "total_districts": 64,
   "divisions": [
@@ -426,6 +426,16 @@
               "title": "Chattogram News | চট্টগ্রাম বিভাগের সর্বশেষ সংবাদ",
               "imgUrl": "https://www.google.com/s2/favicons?domain=chattogramnews.com&sz=128",
               "pdfUrl": "https://chattogramnews.com/"
+            },
+            {
+              "title": "CVoice24 | সিভয়েস২৪",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=www.cvoice24.com&sz=128",
+              "pdfUrl": "https://www.cvoice24.com/"
+            },
+            {
+              "title": "Chattogram Pratidin | চট্টগ্রাম প্রতিদিন",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=ctgpratidin.com&sz=128",
+              "pdfUrl": "https://ctgpratidin.com/"
             }
           ]
         },
@@ -449,6 +459,21 @@
               "title": "Dainik Cox’s Bazar | দৈনিক কক্সবাজার",
               "imgUrl": "https://dainikcoxsbazar.com/images/logo.png",
               "pdfUrl": "https://dainikcoxsbazar.com/"
+            },
+            {
+              "title": "Cox's Bazar News (CBN) | কক্সবাজার নিউজ",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=www.coxsbazarnews.com&sz=128",
+              "pdfUrl": "https://www.coxsbazarnews.com/"
+            },
+            {
+              "title": "Ukhiya News | উখিয়া নিউজ",
+              "imgUrl": "https://www.ukhiyanews.com/wp-content/uploads/cropped-android-chrome-512x512-1-32x32.png",
+              "pdfUrl": "https://www.ukhiyanews.com/"
+            },
+            {
+              "title": "Teknaf Today | টেকনাফ টুডে",
+              "imgUrl": "https://teknaftoday.com/wp-content/uploads/2023/03/Teknaftoday-logo.png",
+              "pdfUrl": "https://teknaftoday.com/"
             }
           ]
         },
@@ -470,6 +495,11 @@
               "title": "Bandarban News | বান্দরবান নিউজ",
               "imgUrl": "https://www.google.com/s2/favicons?domain=www.bandarbannews.com&sz=128",
               "pdfUrl": "https://www.bandarbannews.com/"
+            },
+            {
+              "title": "Pahar Barta | পাহাড় বার্তা",
+              "imgUrl": "https://paharbarta.com/wp-content/uploads/favicon.png",
+              "pdfUrl": "https://paharbarta.com/"
             }
           ]
         },
@@ -568,6 +598,11 @@
               "title": "Cumilla News 24 | কুমিল্লা নিউজ ২৪",
               "imgUrl": "https://www.google.com/s2/favicons?domain=cumillanews24.com&sz=128",
               "pdfUrl": "https://cumillanews24.com/"
+            },
+            {
+              "title": "Daily Comillar Kagoj | দৈনিক কুমিল্লার কাগজ",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=comillarkagoj.com&sz=128",
+              "pdfUrl": "https://comillarkagoj.com/"
             }
           ]
         },
@@ -586,7 +621,13 @@
             "আশুগঞ্জ",
             "বিজয়নগর"
           ],
-          "news": []
+          "news": [
+            {
+              "title": "Brahmanbaria24 | ব্রাহ্মণবাড়িয়া২৪",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=brahmanbaria24.com&sz=128",
+              "pdfUrl": "https://brahmanbaria24.com/"
+            }
+          ]
         },
         {
           "id": 21,
@@ -632,6 +673,11 @@
               "title": "Daily Chandpur Khobor | দৈনিক চাঁদপুর খবর",
               "imgUrl": "https://www.google.com/s2/favicons?domain=chandpurkhobor.com&sz=128",
               "pdfUrl": "https://chandpurkhobor.com/"
+            },
+            {
+              "title": "Chandpur Kantha | চাঁদপুর কণ্ঠ",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=chandpurkantha24.com&sz=128",
+              "pdfUrl": "https://chandpurkantha24.com/"
             }
           ]
         },
@@ -688,6 +734,11 @@
               "title": "Lakshmipur Khobor | লক্ষ্মীপুর খবর",
               "imgUrl": "https://www.google.com/s2/favicons?domain=lakshmipurkhobor.com&sz=128",
               "pdfUrl": "https://lakshmipurkhobor.com/"
+            },
+            {
+              "title": "Lakshmipur24 | লক্ষ্মীপুর২৪",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=lakshmipur24.com&sz=128",
+              "pdfUrl": "https://lakshmipur24.com/"
             }
           ]
         }
@@ -742,6 +793,11 @@
               "title": "Sonar Desh | সোনার দেশ (রাজশাহী)",
               "imgUrl": "https://www.google.com/s2/favicons?domain=dailysonardesh.com&sz=128",
               "pdfUrl": "https://dailysonardesh.com/"
+            },
+            {
+              "title": "Padma Times 24 | পদ্মা টাইমস ২৪",
+              "imgUrl": "https://padmatimes24.com/wp-content/uploads/2025/04/cropped-favicon-32x32.png",
+              "pdfUrl": "https://padmatimes24.com/"
             }
           ]
         },
@@ -793,6 +849,16 @@
               "title": "Bogra News 24 | বগুড়া নিউজ ২৪",
               "imgUrl": "https://www.google.com/s2/favicons?domain=bogranews24.com&sz=128",
               "pdfUrl": "https://bogranews24.com/"
+            },
+            {
+              "title": "Daily Karatoa | দৈনিক করতোয়া",
+              "imgUrl": "https://dailykaratoa.com/public/images/20220224021048_favicon_21.png",
+              "pdfUrl": "https://www.dailykaratoa.com/"
+            },
+            {
+              "title": "Bogura Live | বগুড়া লাইভ",
+              "imgUrl": "https://boguralive.com/wp-content/uploads/2020/02/cropped-BOGURA-LIVE-LOGO-NEW-32x32.png",
+              "pdfUrl": "https://boguralive.com/"
             }
           ]
         },
@@ -821,6 +887,11 @@
               "title": "Daily Pabna | ডেইলি পাবনা",
               "imgUrl": "https://www.google.com/s2/favicons?domain=www.dailypabna.com&sz=128",
               "pdfUrl": "https://www.dailypabna.com/"
+            },
+            {
+              "title": "Onabil Sangbad | অনাবিল সংবাদ",
+              "imgUrl": "https://onabil.net/wp-content/uploads/2026/05/cropped-cropped-Logo-32x32.png",
+              "pdfUrl": "https://onabil.net/"
             }
           ]
         },
@@ -977,6 +1048,11 @@
               "title": "Khulna24 | খুলনা ২৪",
               "imgUrl": "https://www.google.com/s2/favicons?domain=khulna24.com&sz=128",
               "pdfUrl": "https://khulna24.com/"
+            },
+            {
+              "title": "Dainik Probaha | দৈনিক প্রবাহ",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=dailyprobaha.com.bd&sz=128",
+              "pdfUrl": "https://dailyprobaha.com.bd/"
             }
           ]
         },
@@ -1004,6 +1080,11 @@
               "title": "Dainik Jessore | দৈনিক যশোর",
               "imgUrl": "https://www.google.com/s2/favicons?domain=dainikjessore.com&sz=128",
               "pdfUrl": "https://dainikjessore.com/"
+            },
+            {
+              "title": "Dainik Spandan | দৈনিক স্পন্দন",
+              "imgUrl": "https://dailyspandan.com/assets/images/favicon.png",
+              "pdfUrl": "https://dailyspandan.com/"
             }
           ]
         },
@@ -1073,6 +1154,11 @@
               "title": "Dainik Bagerhat | দৈনিক বাগেরহাট",
               "imgUrl": "https://www.google.com/s2/favicons?domain=dainikbagerhat.com&sz=128",
               "pdfUrl": "https://dainikbagerhat.com/"
+            },
+            {
+              "title": "Bagerhat24 | বাগেরহাট২৪",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=bagerhat24.com&sz=128",
+              "pdfUrl": "https://bagerhat24.com/"
             }
           ]
         },
@@ -1158,6 +1244,11 @@
               "title": "Meherpur News 24 | মেহেরপুর নিউজ ২৪",
               "imgUrl": "https://www.google.com/s2/favicons?domain=www.meherpurnews24.com&sz=128",
               "pdfUrl": "http://www.meherpurnews24.com/"
+            },
+            {
+              "title": "Meherpur Pratidin | মেহেরপুর প্রতিদিন",
+              "imgUrl": "https://www.meherpurpratidin.com/wp-content/uploads/2024/09/meherpur-pratidin-icon.png",
+              "pdfUrl": "https://www.meherpurpratidin.com/"
             }
           ]
         },
@@ -1208,6 +1299,11 @@
               "title": "Dainik Narail | দৈনিক নড়াইল",
               "imgUrl": "https://www.google.com/s2/favicons?domain=dainiknarail.com&sz=128",
               "pdfUrl": "https://dainiknarail.com/"
+            },
+            {
+              "title": "Narail Kantho | নড়াইল কণ্ঠ",
+              "imgUrl": "https://narailkantho.com/media/site/favicon.png",
+              "pdfUrl": "https://narailkantho.com/"
             }
           ]
         }
@@ -1422,6 +1518,26 @@
               "title": "Dainik Sylhet | দৈনিক সিলেট",
               "imgUrl": "https://www.google.com/s2/favicons?domain=dainiksylhet.com&sz=128",
               "pdfUrl": "https://dainiksylhet.com/"
+            },
+            {
+              "title": "Daily Jalalabad | দৈনিক জালালাবাদ",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=dailyjalalabad.com&sz=128",
+              "pdfUrl": "https://dailyjalalabad.com/"
+            },
+            {
+              "title": "Sylhet View 24 | সিলেট ভিউ ২৪",
+              "imgUrl": "https://www.sylhetview24.news/images/sylhet24-logo.png",
+              "pdfUrl": "https://sylhetview24.news/"
+            },
+            {
+              "title": "Surma Times | সুরমা টাইমস",
+              "imgUrl": "https://surmatimes.com/news/wp-content/uploads/2023/02/cropped-Surma-Times-Favicon-150x150.png",
+              "pdfUrl": "https://surmatimes.com/"
+            },
+            {
+              "title": "Sylhet Mirror (English) | সিলেট মিরর",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=sylhetmirror.com&sz=128",
+              "pdfUrl": "https://sylhetmirror.com/"
             }
           ]
         },
@@ -1457,6 +1573,11 @@
               "title": "Dainik Sunamganj Sangbad | দৈনিক সুনামগঞ্জ সংবাদ",
               "imgUrl": "https://www.google.com/s2/favicons?domain=sunamganjsangbad.com&sz=128",
               "pdfUrl": "https://sunamganjsangbad.com/"
+            },
+            {
+              "title": "Sunamganjer Khobor | সুনামগঞ্জের খবর",
+              "imgUrl": "https://www.sunamganjerkhobor.com/images/portal/sunamganjerkhobor-fav.png",
+              "pdfUrl": "https://www.sunamganjerkhobor.com/"
             }
           ]
         },
@@ -1544,6 +1665,11 @@
               "title": "Rangpur Times | রংপুর টাইমস",
               "imgUrl": "https://www.google.com/s2/favicons?domain=rangpurtimes.com&sz=128",
               "pdfUrl": "https://rangpurtimes.com/"
+            },
+            {
+              "title": "Dainik Juger Alo | দৈনিক যুগের আলো",
+              "imgUrl": "https://jugeralo.com/wp-content/uploads/2025/12/cropped-Juger-Alo-Logo-32x32.png",
+              "pdfUrl": "https://jugeralo.com/"
             }
           ]
         },
@@ -1764,6 +1890,26 @@
               "title": "Mymensingh Barta | ময়মনসিংহ বার্তা",
               "imgUrl": "https://www.google.com/s2/favicons?domain=mymensinghbarta.com&sz=128",
               "pdfUrl": "https://mymensinghbarta.com/"
+            },
+            {
+              "title": "Dainik Jahan | দৈনিক জাহান",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=www.dainikjahan.com&sz=128",
+              "pdfUrl": "https://www.dainikjahan.com/"
+            },
+            {
+              "title": "Ajker Mymensingh | আজকের ময়মনসিংহ",
+              "imgUrl": "https://ajkermymensingh.com/wp-content/uploads/2024/10/cropped-fav-32x32.png",
+              "pdfUrl": "https://ajkermymensingh.com/"
+            },
+            {
+              "title": "Mymensingh Pratidin | ময়মনসিংহ প্রতিদিন",
+              "imgUrl": "https://mymensinghpratidin.com/wp-content/uploads/2021/10/cropped-m.pratidin-logo-32x32.png",
+              "pdfUrl": "https://mymensinghpratidin.com/"
+            },
+            {
+              "title": "Mymensingh Live | ময়মনসিংহ লাইভ",
+              "imgUrl": "https://www.google.com/s2/favicons?domain=mymensinghlive.com&sz=128",
+              "pdfUrl": "https://mymensinghlive.com/"
             }
           ]
         },
