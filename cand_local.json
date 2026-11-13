@@ -1,0 +1,470 @@
+[
+ {
+  "name": "Gazipur Today",
+  "url": "https://gazipurtoday.com/",
+  "district_en": "Gazipur",
+  "bn": "গাজীপুর"
+ },
+ {
+  "name": "Gopalganj News",
+  "url": "https://gopalganjnews.com/",
+  "district_en": "Gopalganj",
+  "bn": "গোপালগঞ্জ"
+ },
+ {
+  "name": "Madaripur News",
+  "url": "https://madaripurnews.com/",
+  "district_en": "Madaripur",
+  "bn": "মাদারীপুর"
+ },
+ {
+  "name": "Manikganj News24",
+  "url": "https://manikganjnews24.com/",
+  "district_en": "Manikganj",
+  "bn": "মানিকগঞ্জ"
+ },
+ {
+  "name": "Munshiganj News",
+  "url": "https://munshiganjnews.com/",
+  "district_en": "Munshiganj",
+  "bn": "মুন্সীগঞ্জ"
+ },
+ {
+  "name": "Narsingdi Pratidin",
+  "url": "https://narsingdipratidin.com/",
+  "district_en": "Narsingdi",
+  "bn": "নরসিংদী"
+ },
+ {
+  "name": "Rajbari News24",
+  "url": "https://rajbarinews24.com/",
+  "district_en": "Rajbari",
+  "bn": "রাজবাড়ী"
+ },
+ {
+  "name": "Shariatpur News",
+  "url": "https://shariatpurnews.com/",
+  "district_en": "Shariatpur",
+  "bn": "শরীয়তপুর"
+ },
+ {
+  "name": "Tangail Times",
+  "url": "https://tangailtimes.com/",
+  "district_en": "Tangail",
+  "bn": "টাঙ্গাইল"
+ },
+ {
+  "name": "চট্টগ্রাম প্রতিদিন",
+  "url": "https://ctgpratidin.com/",
+  "district_en": "Chattogram",
+  "bn": "চট্টগ্রাম"
+ },
+ {
+  "name": "একুশে পত্রিকা",
+  "url": "https://ekushey-patrika.com/",
+  "district_en": "Chattogram",
+  "bn": "চট্টগ্রাম"
+ },
+ {
+  "name": "CVoice24",
+  "url": "https://cvoice24.com/",
+  "district_en": "Chattogram",
+  "bn": "চট্টগ্রাম"
+ },
+ {
+  "name": "দৈনিক কক্সবাজার",
+  "url": "https://dailycoxsbazar.com/",
+  "district_en": "Cox's Bazar",
+  "bn": "কক্সবাজার"
+ },
+ {
+  "name": "Cox's Bazar News",
+  "url": "https://coxsbazarnews.com/",
+  "district_en": "Cox's Bazar",
+  "bn": "কক্সবাজার"
+ },
+ {
+  "name": "Ukhiya News",
+  "url": "https://ukhiyanews.com/",
+  "district_en": "Cox's Bazar",
+  "bn": "কক্সবাজার"
+ },
+ {
+  "name": "Teknaf Today",
+  "url": "https://teknaftoday.com/",
+  "district_en": "Cox's Bazar",
+  "bn": "কক্সবাজার"
+ },
+ {
+  "name": "কুমিল্লার কাগজ",
+  "url": "https://comillarkagoj.com/",
+  "district_en": "Cumilla",
+  "bn": "কুমিল্লা"
+ },
+ {
+  "name": "Cumilla24",
+  "url": "https://comilla24.com/",
+  "district_en": "Cumilla",
+  "bn": "কুমিল্লা"
+ },
+ {
+  "name": "Chandpur Kantha",
+  "url": "https://chandpurkantha24.com/",
+  "district_en": "Chandpur",
+  "bn": "চাঁদপুর"
+ },
+ {
+  "name": "Brahmanbaria24",
+  "url": "https://brahmanbaria24.com/",
+  "district_en": "Brahmanbaria",
+  "bn": "ব্রাহ্মণবাড়ীয়া"
+ },
+ {
+  "name": "Feni Report",
+  "url": "https://fenireport.com/",
+  "district_en": "Feni",
+  "bn": "ফেনী"
+ },
+ {
+  "name": "Feni Samay",
+  "url": "https://fenisamay.com/",
+  "district_en": "Feni",
+  "bn": "ফেনী"
+ },
+ {
+  "name": "Lakshmipur24",
+  "url": "https://lakshmipur24.com/",
+  "district_en": "Lakshmipur",
+  "bn": "লক্ষ্মীপুর"
+ },
+ {
+  "name": "Noakhali Pratidin",
+  "url": "https://noakhalipratidin.com/",
+  "district_en": "Noakhali",
+  "bn": "নোয়াখালী"
+ },
+ {
+  "name": "Noakhali Web",
+  "url": "https://noakhaliweb.com/",
+  "district_en": "Noakhali",
+  "bn": "নোয়াখালী"
+ },
+ {
+  "name": "পাহাড় বার্তা",
+  "url": "https://paharbarta.com/",
+  "district_en": "Bandarban",
+  "bn": "বান্দরবান"
+ },
+ {
+  "name": "দৈনিক করতোয়া",
+  "url": "https://dailykaratoa.com/",
+  "district_en": "Bogura",
+  "bn": "বগুড়া"
+ },
+ {
+  "name": "Bogura Live",
+  "url": "https://boguralive.com/",
+  "district_en": "Bogura",
+  "bn": "বগুড়া"
+ },
+ {
+  "name": "Naogaon News",
+  "url": "https://naogaonnews.com/",
+  "district_en": "Naogaon",
+  "bn": "নওগাঁ"
+ },
+ {
+  "name": "Natore Kantho",
+  "url": "https://natorekantho.com/",
+  "district_en": "Natore",
+  "bn": "নাটোর"
+ },
+ {
+  "name": "Chapainawabganj News",
+  "url": "https://chapainawabganjnews.com/",
+  "district_en": "Chapainawabganj",
+  "bn": "চাঁপাইনবাবগঞ্জ"
+ },
+ {
+  "name": "Pabna Pratidin",
+  "url": "https://pabnapratidin.com/",
+  "district_en": "Pabna",
+  "bn": "পাবনা"
+ },
+ {
+  "name": "Onabil",
+  "url": "https://onabil.net/",
+  "district_en": "Pabna",
+  "bn": "পাবনা"
+ },
+ {
+  "name": "সোনার দেশ",
+  "url": "https://sonardesh.com/",
+  "district_en": "Rajshahi",
+  "bn": "রাজশাহী"
+ },
+ {
+  "name": "Daily Sunshine",
+  "url": "https://daily-sunshine.com/",
+  "district_en": "Rajshahi",
+  "bn": "রাজশাহী"
+ },
+ {
+  "name": "Padma Times24",
+  "url": "https://padmatimes24.com/",
+  "district_en": "Rajshahi",
+  "bn": "রাজশাহী"
+ },
+ {
+  "name": "Sirajganj News",
+  "url": "https://sirajganjnews.com/",
+  "district_en": "Sirajganj",
+  "bn": "সিরাজগঞ্জ"
+ },
+ {
+  "name": "Bagerhat24",
+  "url": "https://bagerhat24.com/",
+  "district_en": "Bagerhat",
+  "bn": "বাগেরহাট"
+ },
+ {
+  "name": "দৈনিক স্পন্দন",
+  "url": "https://dailyspandan.com/",
+  "district_en": "Jashore",
+  "bn": "যশোর"
+ },
+ {
+  "name": "দৈনিক কল্যাণ",
+  "url": "https://dailykalyan.com/",
+  "district_en": "Jashore",
+  "bn": "যশোর"
+ },
+ {
+  "name": "Jhenaidah News",
+  "url": "https://jhenaidahnews.com/",
+  "district_en": "Jhenaidah",
+  "bn": "ঝিনাইদহ"
+ },
+ {
+  "name": "দৈনিক প্রবাহ",
+  "url": "https://dailyprobaha.com.bd/",
+  "district_en": "Khulna",
+  "bn": "খুলনা"
+ },
+ {
+  "name": "দৈনিক জন্মভূমি",
+  "url": "https://dainikjanmabhumi.com/",
+  "district_en": "Khulna",
+  "bn": "খুলনা"
+ },
+ {
+  "name": "Kushtia Times",
+  "url": "https://kushtiatimes.com/",
+  "district_en": "Kushtia",
+  "bn": "কুষ্টিয়া"
+ },
+ {
+  "name": "Kushtia News",
+  "url": "https://kushtianews.com/",
+  "district_en": "Kushtia",
+  "bn": "কুষ্টিয়া"
+ },
+ {
+  "name": "Meherpur Pratidin",
+  "url": "https://meherpurpratidin.com/",
+  "district_en": "Meherpur",
+  "bn": "মেহেরপুর"
+ },
+ {
+  "name": "Narail Kantho",
+  "url": "https://narailkantho.com/",
+  "district_en": "Narail",
+  "bn": "নড়াইল"
+ },
+ {
+  "name": "Satkhira News",
+  "url": "https://satkhiranews.com/",
+  "district_en": "Satkhira",
+  "bn": "সাতক্ষীরা"
+ },
+ {
+  "name": "সাতক্ষীরা প্রতিদিন",
+  "url": "https://satkhiraprotidin.net/",
+  "district_en": "Satkhira",
+  "bn": "সাতক্ষীরা"
+ },
+ {
+  "name": "Barguna News",
+  "url": "https://bargunanews.com/",
+  "district_en": "Barguna",
+  "bn": "বরগুনা"
+ },
+ {
+  "name": "Daily Dakhinanchal",
+  "url": "https://dailydakhinanchal.com/",
+  "district_en": "Barishal",
+  "bn": "বরিশাল"
+ },
+ {
+  "name": "Ajker Barisal",
+  "url": "https://ajkerbarisal.com/",
+  "district_en": "Barishal",
+  "bn": "বরিশাল"
+ },
+ {
+  "name": "Barisal Times",
+  "url": "https://barisaltimes.com/",
+  "district_en": "Barishal",
+  "bn": "বরিশাল"
+ },
+ {
+  "name": "Barisal News",
+  "url": "https://barisalnews.com/",
+  "district_en": "Barishal",
+  "bn": "বরিশাল"
+ },
+ {
+  "name": "Jhalokathi News",
+  "url": "https://jhalokathinews.com/",
+  "district_en": "Jhalokathi",
+  "bn": "ঝালকাঠি"
+ },
+ {
+  "name": "Habiganj Samachar",
+  "url": "https://habiganjsamachar.com/",
+  "district_en": "Habiganj",
+  "bn": "হবিগঞ্জ"
+ },
+ {
+  "name": "Kulaura News",
+  "url": "https://kulauranews.com/",
+  "district_en": "Moulvibazar",
+  "bn": "মৌলভীবাজার"
+ },
+ {
+  "name": "Sunamganjer Khobor",
+  "url": "https://sunamganjerkhobor.com/",
+  "district_en": "Sunamganj",
+  "bn": "সুনামগঞ্জ"
+ },
+ {
+  "name": "দৈনিক জালালাবাদ",
+  "url": "https://dailyjalalabad.com/",
+  "district_en": "Sylhet",
+  "bn": "সিলেট"
+ },
+ {
+  "name": "Sylhet Mirror",
+  "url": "https://sylhetmirror.com/",
+  "district_en": "Sylhet",
+  "bn": "সিলেট"
+ },
+ {
+  "name": "Sylhet View24",
+  "url": "https://sylhetview24.news/",
+  "district_en": "Sylhet",
+  "bn": "সিলেট"
+ },
+ {
+  "name": "Sylhet Today24",
+  "url": "https://sylhettoday24.news/",
+  "district_en": "Sylhet",
+  "bn": "সিলেট"
+ },
+ {
+  "name": "Surma Times",
+  "url": "https://surmatimes.com/",
+  "district_en": "Sylhet",
+  "bn": "সিলেট"
+ },
+ {
+  "name": "Dinajpur News",
+  "url": "https://dinajpurnews.com/",
+  "district_en": "Dinajpur",
+  "bn": "দিনাজপুর"
+ },
+ {
+  "name": "Gaibandha Protidin",
+  "url": "https://gaibandhapratidin.com/",
+  "district_en": "Gaibandha",
+  "bn": "গাইবান্ধা"
+ },
+ {
+  "name": "Kurigram News",
+  "url": "https://kurigramnews.com/",
+  "district_en": "Kurigram",
+  "bn": "কুড়িগ্রাম"
+ },
+ {
+  "name": "Lalmonirhat Barta",
+  "url": "https://lalmonirhatbarta.com/",
+  "district_en": "Lalmonirhat",
+  "bn": "লালমনিরহাট"
+ },
+ {
+  "name": "Nilphamari Barta",
+  "url": "https://nilphamaribarta.com/",
+  "district_en": "Nilphamari",
+  "bn": "নীলফামারী"
+ },
+ {
+  "name": "Panchagarh News",
+  "url": "https://panchagarhnews.com/",
+  "district_en": "Panchagarh",
+  "bn": "পঞ্চগড়"
+ },
+ {
+  "name": "দৈনিক যুগের আলো",
+  "url": "https://jugeralo.com/",
+  "district_en": "Rangpur",
+  "bn": "রংপুর"
+ },
+ {
+  "name": "Rangpur Chitra",
+  "url": "https://rangpurchitra.com/",
+  "district_en": "Rangpur",
+  "bn": "রংপুর"
+ },
+ {
+  "name": "Thakurgaon News",
+  "url": "https://thakurgaonnews.com/",
+  "district_en": "Thakurgaon",
+  "bn": "ঠাকুরগাঁও"
+ },
+ {
+  "name": "দৈনিক জাহান",
+  "url": "https://dainikjahan.com/",
+  "district_en": "Mymensingh",
+  "bn": "ময়মনসিংহ"
+ },
+ {
+  "name": "Ajker Mymensingh",
+  "url": "https://ajkermymensingh.com/",
+  "district_en": "Mymensingh",
+  "bn": "ময়মনসিংহ"
+ },
+ {
+  "name": "Mymensingh Pratidin",
+  "url": "https://mymensinghpratidin.com/",
+  "district_en": "Mymensingh",
+  "bn": "ময়মনসিংহ"
+ },
+ {
+  "name": "Mymensingh Live",
+  "url": "https://mymensinghlive.com/",
+  "district_en": "Mymensingh",
+  "bn": "ময়মনসিংহ"
+ },
+ {
+  "name": "Netrokona Journal",
+  "url": "https://netrokonajournal.com/",
+  "district_en": "Netrokona",
+  "bn": "নেত্রকোণা"
+ },
+ {
+  "name": "Sherpur Times",
+  "url": "https://sherpurtimes.com/",
+  "district_en": "Sherpur",
+  "bn": "শেরপুর"
+ }
+]
